@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.856352,
+               "lng" : -77.04932090000001
+            },
+            "southwest" : {
+               "lat" : 38.8426002,
+               "lng" : -77.0515008
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1610
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 277
+               },
+               "end_address" : "1967 Crystal Drive, Crystal City Shops, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.856352,
+                  "lng" : -77.0493355
+               },
+               "start_address" : "3901 Potomac Avenue, Alexandria, VA 22301, USA",
+               "start_location" : {
+                  "lat" : 38.8426002,
+                  "lng" : -77.05019919999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "102 ft",
+                        "value" : 31
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.8427534,
+                        "lng" : -77.0500036
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003ePotomac Ave\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gmalFvzguMI@C@C?CCEOAW"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8426002,
+                        "lng" : -77.05019919999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 658
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 111
+                     },
+                     "end_location" : {
+                        "lat" : 38.8483237,
+                        "lng" : -77.0515008
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePotomac Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "enalFnyguMWFmCd@[Pu@Nu@LyATG@SDyATQI}@JWBUBU@O@Y@U@U@U?s@@k@?k@Cw@E[?I@OBKDKFYTOREHM\\Kf@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8427534,
+                        "lng" : -77.0500036
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 921
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 160
+                     },
+                     "end_location" : {
+                        "lat" : 38.856352,
+                        "lng" : -77.0493355
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCrystal Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_qblFzbhuMy@[eBs@{@]_@O_@S_@OQIECQIA?IEUGaDy@oA[}@UeA[iAS{AUg@Io@Gm@E_AGi@CwACcACcACoAEg@Ai@AIBO?U?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8483237,
+                        "lng" : -77.0515008
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gmalFvzguMMBGCGg@eDl@[Pu@NoCb@[FyATQIuANk@DuAFiA@wACsAEYDWLYTORSf@Kf@y@[aDqA_Ac@iAg@cEgAmCq@eA[iAScC_@}AMiBK{CGeFMYBU?"
+         },
+         "summary" : "Potomac Ave and Crystal Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

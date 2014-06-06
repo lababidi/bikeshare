@@ -1,0 +1,145 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9120977,
+               "lng" : -77.0384815
+            },
+            "southwest" : {
+               "lat" : 38.901539,
+               "lng" : -77.04665199999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1799
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 424
+               },
+               "end_address" : "974-986 21st Street Northwest, Washington, DC 20006, USA",
+               "end_location" : {
+                  "lat" : 38.901539,
+                  "lng" : -77.0466469
+               },
+               "start_address" : "1623-1625 17th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9120977,
+                  "lng" : -77.0384815
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 618
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 123
+                     },
+                     "end_location" : {
+                        "lat" : 38.906544,
+                        "lng" : -77.038501
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e17th St NW\u003c/b\u003e toward \u003cb\u003eCorcoran St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "s_olFnqeuMl@@`A?rA?bA@N?|@?bAApA?P?|A?lA?L?J@h@?rA?Z?r@?x@@lA?|@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9120977,
+                        "lng" : -77.0384815
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 253
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 38.9056297,
+                        "lng" : -77.0411838
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRhode Island Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{|mlFrqeuMnAnFLd@Jd@Ld@H\\DPRv@Np@HZ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.906544,
+                        "lng" : -77.038501
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 473
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 147
+                     },
+                     "end_location" : {
+                        "lat" : 38.9056284,
+                        "lng" : -77.04664679999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eM St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ewmlFjbfuMCl@Av@?~I?R@xB?rCAjF?r@?L@J@R@H?D"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056297,
+                        "lng" : -77.0411838
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 455
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 91
+                     },
+                     "end_location" : {
+                        "lat" : 38.901539,
+                        "lng" : -77.0466469
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e21st St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ewmlFpdguMX?pD?pBAx@?lA?H?t@@nAAN?L@P?`B?hA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056284,
+                        "lng" : -77.04664679999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "s_olFnqeuMfGBbFApJ@xF?vB`Jr@xCHZCl@AvK?lOB`B@NjE?bGA`J@"
+         },
+         "summary" : "17th St NW, M St NW and 21st St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

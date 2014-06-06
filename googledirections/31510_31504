@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.93245900000001,
+               "lng" : -76.97899049999999
+            },
+            "southwest" : {
+               "lat" : 38.9270793,
+               "lng" : -76.99288279999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1819
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 515
+               },
+               "end_address" : "900-998 Monroe Street Northeast, Washington, DC 20017, USA",
+               "end_location" : {
+                  "lat" : 38.9324447,
+                  "lng" : -76.99288279999999
+               },
+               "start_address" : "2895 18th Street Northeast, Washington, DC 20018, USA",
+               "start_location" : {
+                  "lat" : 38.9270793,
+                  "lng" : -76.97899049999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 212
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : 38.9289552,
+                        "lng" : -76.9792626
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e18th St NE\u003c/b\u003e toward \u003cb\u003eRhode Island Ave NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g}qlFt}ytMW?Y?G?U@C?C@QHSJc@JE?s@DQ@yAFo@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9270793,
+                        "lng" : -76.97899049999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1144
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 280
+                     },
+                     "end_location" : {
+                        "lat" : 38.928505,
+                        "lng" : -76.992436
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eIrving St NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_irlFj_ztM@T@^?RAZ?R?LALC\\?BCVCLEXIl@AB@TP|G?VBt@DdB@pABr@@^?RBx@BbBD|BBrA@P?PBx@BhBDpBDxB@j@B~ADxBD|ABhABjAL`HB~@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9289552,
+                        "lng" : -76.9792626
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 440
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : 38.93245900000001,
+                        "lng" : -76.992621
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e10th St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cfrlFvq|tMO?gDAM?uDFO?Q@eDJM?mDLW@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.928505,
+                        "lng" : -76.992436
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 ft",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 38.9324447,
+                        "lng" : -76.99288279999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMonroe St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{~rlFzr|tMBr@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.93245900000001,
+                        "lng" : -76.992621
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "g}qlFt}ytMoA@m@Vi@JeAFiCFBt@ApAIfAUxAV`KZzPZrPR`KPlJB~@O?uDAeEFsJZW@Br@"
+         },
+         "summary" : "Irving St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

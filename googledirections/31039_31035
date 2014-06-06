@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8801544,
+               "lng" : -77.1075374
+            },
+            "southwest" : {
+               "lat" : 38.8761817,
+               "lng" : -77.10817109999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 484
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 123
+               },
+               "end_address" : "4006 5th Street North, Arlington, VA 22203, USA",
+               "end_location" : {
+                  "lat" : 38.8762725,
+                  "lng" : -77.10777089999999
+               },
+               "start_address" : "801 North Quincy Street, Arlington, VA 22203, USA",
+               "start_location" : {
+                  "lat" : 38.8801544,
+                  "lng" : -77.107562
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 438
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 95
+                     },
+                     "end_location" : {
+                        "lat" : 38.8762671,
+                        "lng" : -77.10817109999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Quincy St\u003c/b\u003e toward \u003cb\u003eWilson Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}whlFfasuMt@Ab@AF?D?J?H@`@Bn@F`Gf@v@HpAHv@HXBJBF?XHJBFBDBPJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8801544,
+                        "lng" : -77.107562
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "151 ft",
+                        "value" : 46
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 38.8762725,
+                        "lng" : -77.10777089999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u_hlF`esuMJQDS?EAY?GAAM?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8762671,
+                        "lng" : -77.10817109999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}whlFfasuMfBCfBLbMdAfAPj@VPe@A_@AIM?"
+         },
+         "summary" : "N Quincy St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

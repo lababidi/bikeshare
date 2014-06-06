@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8936221,
+               "lng" : -77.07658719999999
+            },
+            "southwest" : {
+               "lat" : 38.8878818,
+               "lng" : -77.09316199999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1639
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 306
+               },
+               "end_address" : "1717 North Pierce Street, Arlington, VA 22209, USA",
+               "end_location" : {
+                  "lat" : 38.8936221,
+                  "lng" : -77.07661639999999
+               },
+               "start_address" : "1316-1338 North Fillmore Street, The Market Common, Clarendon, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8880934,
+                  "lng" : -77.09316199999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "79 ft",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.8878818,
+                        "lng" : -77.09313379999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Fillmore St\u003c/b\u003e toward \u003cb\u003eClarendon Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qijlFfgpuMPAVC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8880934,
+                        "lng" : -77.09316199999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 mi",
+                        "value" : 1595
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 278
+                     },
+                     "end_location" : {
+                        "lat" : 38.8934465,
+                        "lng" : -77.07658719999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eClarendon Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ghjlF`gpuMSs@EQEMAGGUGS?CEQGOCMEQGYI[G]I]YwAEMI[I]Qa@oAiEcAwDGOeAaDQm@EQi@iBc@uAYu@Q[GKKI_@]UUKQEGIKIKIKEKGOI]G[AWSoDOqFImDCUAUCIAIEOEMO_@IQ]a@SWWWMWi@yA]eAUs@Kc@I_@Go@OwAo@_Fa@eD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8878818,
+                        "lng" : -77.09313379999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "66 ft",
+                        "value" : 20
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.8936221,
+                        "lng" : -77.07661639999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Pierce St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "akklFt_muMYBG@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8934465,
+                        "lng" : -77.07658719999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qijlFfgpuMh@EYeAW_Aq@yCs@_D[_AsCaKeBqFmA_Ek@qASUu@s@e@q@OWQm@Is@SoDOqFMcEE_@GYUm@g@s@k@o@w@qBs@yBUcAWgCqAeKa@D"
+         },
+         "summary" : "Clarendon Blvd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

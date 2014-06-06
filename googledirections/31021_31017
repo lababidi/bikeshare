@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8917267,
+               "lng" : -77.0839474
+            },
+            "southwest" : {
+               "lat" : 38.8878818,
+               "lng" : -77.09316199999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 1007
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 223
+               },
+               "end_address" : "2057-2099 Wilson Boulevard, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.891582,
+                  "lng" : -77.08458259999999
+               },
+               "start_address" : "1316-1338 North Fillmore Street, The Market Common, Clarendon, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8880934,
+                  "lng" : -77.09316199999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "79 ft",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.8878818,
+                        "lng" : -77.09313379999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Fillmore St\u003c/b\u003e toward \u003cb\u003eClarendon Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qijlFfgpuMPAVC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8880934,
+                        "lng" : -77.09316199999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 905
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 175
+                     },
+                     "end_location" : {
+                        "lat" : 38.891516,
+                        "lng" : -77.0839474
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eClarendon Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ghjlF`gpuMSs@EQEMAGGUGS?CEQGOCMEQGYI[G]I]YwAEMI[I]Qa@oAiEcAwDGOeAaDQm@EQi@iBc@uAYu@Q[GKKI_@]UUKQEGIKIKIKEKGOI]G[AWSoD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8878818,
+                        "lng" : -77.09313379999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "79 ft",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.8917267,
+                        "lng" : -77.08398989999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Courthouse Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "__klFtmnuMi@F"
+                     },
+                     "start_location" : {
+                        "lat" : 38.891516,
+                        "lng" : -77.0839474
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "177 ft",
+                        "value" : 54
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.891582,
+                        "lng" : -77.08458259999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWilson Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "i`klF|mnuMJ\\DRBPBRBX?B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8917267,
+                        "lng" : -77.08398989999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qijlFfgpuMh@EYeAW_Aq@yCs@_D[_AsCaKeBqFmA_Ek@qASUu@s@e@q@OWQm@Is@SoDi@FPp@Fd@B\\"
+         },
+         "summary" : "Clarendon Blvd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
