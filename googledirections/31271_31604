@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8994226,
+               "lng" : -77.01367999999999
+            },
+            "southwest" : {
+               "lat" : 38.8922743,
+               "lng" : -77.0152239
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 921
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 265
+               },
+               "end_address" : "758 3rd Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.8994226,
+                  "lng" : -77.0152239
+               },
+               "start_address" : "2nd Street Northwest & D Street Northwest & Interstate 395, Washington, DC, USA",
+               "start_location" : {
+                  "lat" : 38.8922743,
+                  "lng" : -77.0137852
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 279
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 38.8947817,
+                        "lng" : -77.01367999999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eExit 9\u003c/b\u003e toward \u003cb\u003eD St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ucklFdw`uM_DAoCGiBGW?cAC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8922743,
+                        "lng" : -77.0137852
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "420 ft",
+                        "value" : 128
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.8947999,
+                        "lng" : -77.01516199999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eD St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ksklFnv`uMAvBAnD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8947817,
+                        "lng" : -77.01367999999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 514
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 195
+                     },
+                     "end_location" : {
+                        "lat" : 38.8994226,
+                        "lng" : -77.0152239
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e3rd St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "osklFv_auMiG@oC?cB@cEFgD?O?a@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8947999,
+                        "lng" : -77.01516199999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ucklFdw`uM_DAoCGaCGcACAvBAnDiG@sF@cEFgD?q@?"
+         },
+         "summary" : "Exit 9 and 3rd St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

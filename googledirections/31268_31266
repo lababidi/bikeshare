@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9167909,
+               "lng" : -77.02703389999999
+            },
+            "southwest" : {
+               "lat" : 38.905637,
+               "lng" : -77.02962289999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1471
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 323
+               },
+               "end_address" : "1100-1112 M Street Northwest, Washington, DC 20005, USA",
+               "end_location" : {
+                  "lat" : 38.905638,
+                  "lng" : -77.0271365
+               },
+               "start_address" : "1931 13th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9167909,
+                  "lng" : -77.0296116
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "443 ft",
+                        "value" : 135
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.9155806,
+                        "lng" : -77.0296209
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e13th St NW\u003c/b\u003e toward \u003cb\u003eWallach Pl NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}|olF`zcuMtA@N@zAAZ?R?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9167909,
+                        "lng" : -77.0296116
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 223
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 38.915577,
+                        "lng" : -77.02704249999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eT St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kuolFbzcuM?Y?]?iB?iB?g@?eB?iB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9155806,
+                        "lng" : -77.0296209
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1105
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 268
+                     },
+                     "end_location" : {
+                        "lat" : 38.905637,
+                        "lng" : -77.027041
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e11th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kuolF~icuMn@AnC@nA?V?d@?r@@^?tAAxAAlA?|A@|B?\\AH?^?F?R?ZAvA@lA?pA@t@?nA?pA?hB?lAAtA@|@?jA?@?L?nA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.915577,
+                        "lng" : -77.02704249999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "26 ft",
+                        "value" : 8
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 38.905638,
+                        "lng" : -77.0271365
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eM St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gwmlF~icuM?R"
+                     },
+                     "start_location" : {
+                        "lat" : 38.905637,
+                        "lng" : -77.027041
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}|olF`zcuM|E@R??Y?gC?aJfH?rQ?dHAtR@jD??R"
+         },
+         "summary" : "11th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

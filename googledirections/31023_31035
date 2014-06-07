@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8857372,
+               "lng" : -77.0977503
+            },
+            "southwest" : {
+               "lat" : 38.8761765,
+               "lng" : -77.10817109999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1705
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 384
+               },
+               "end_address" : "4006 5th Street North, Arlington, VA 22203, USA",
+               "end_location" : {
+                  "lat" : 38.8762725,
+                  "lng" : -77.10777089999999
+               },
+               "start_address" : "North Fairfax Drive, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8857372,
+                  "lng" : -77.0977503
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 954
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 182
+                     },
+                     "end_location" : {
+                        "lat" : 38.88255729999999,
+                        "lng" : -77.1077554
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eN Fairfax Dr\u003c/b\u003e toward \u003cb\u003eN Kirkwood Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{zilF|cquM?@@F@FDNvB`HZx@FPpA|DTt@Pj@^rAhAvD~@fD`AzCDJDLv@bCJ`@Hb@FVJn@BZD^B^BfAAj@CrBCh@Ev@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8857372,
+                        "lng" : -77.0977503
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 705
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 174
+                     },
+                     "end_location" : {
+                        "lat" : 38.8762671,
+                        "lng" : -77.10817109999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Quincy St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_gilFnbsuMTAnAEdDKp@EB?|@El@CRAtACb@AF?D?J?H@`@Bn@F`Gf@v@HpAHv@HXBJBF?XHJBFBDBPJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88255729999999,
+                        "lng" : -77.1077554
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "151 ft",
+                        "value" : 46
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 38.8762725,
+                        "lng" : -77.10777089999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u_hlF`esuMJQDS?EAY?GAAM?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8762671,
+                        "lng" : -77.10817109999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{zilF|cquMH`@rCzIxAnEpClJ`CbIJXbAdDPz@NjAH~@@rBG|CEv@TAtFQ`DOtCG|@DzLbAdBPr@TPJJQDYAa@OA"
+         },
+         "summary" : "N Fairfax Dr and N Quincy St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

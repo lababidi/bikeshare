@@ -1,6 +1,7 @@
 import xmltodict
 import csv
 import requests
+import os.path
 doc = xmltodict.parse(open("bikeStations.xml").read())
 stations = {}
 bikes = []
@@ -25,12 +26,13 @@ with open('2013-3rd-quarter.csv') as csvfile:
 	print bikes
 	print len(bikes)
 	for key,j in journeys.iteritems():
-		start = ','.join(j[0])
-		end = ','.join(j[1])
-		print start,end
-		url = "https://maps.googleapis.com/maps/api/directions/json?origin="+start+"&destination="+end+"&sensor=false&key=AIzaSyAMCocd925ayO9xxf4wwT-XkL94Gf8GuzY&avoid=highways&mode=bicycling"
-		r = requests.get(url)
-		w = open("googledirections/"+key,'w')
-		w.write(r.text.encode('utf-8'))
-		w.close()
+		if not os.path.isfile("googledirections/"+key):
+			start = ','.join(j[0])
+			end = ','.join(j[1])
+			print start,end
+			url = "https://maps.googleapis.com/maps/api/directions/json?origin="+start+"&destination="+end+"&sensor=false&key=AIzaSyAMCocd925ayO9xxf4wwT-XkL94Gf8GuzY&avoid=highways&mode=bicycling"
+			r = requests.get(url)
+			w = open("googledirections/"+key,'w')
+			w.write(r.text.encode('utf-8'))
+			w.close()
 	print len(journeys)

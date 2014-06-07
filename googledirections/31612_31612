@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8947832,
+               "lng" : -76.99711390000002
+            },
+            "southwest" : {
+               "lat" : 38.8947832,
+               "lng" : -76.99711390000002
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "601-609 D Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.8947832,
+                  "lng" : -76.99711390000002
+               },
+               "start_address" : "601-609 D Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.8947832,
+                  "lng" : -76.99711390000002
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8947832,
+                        "lng" : -76.99711390000002
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eD St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ksklF|n}tM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8947832,
+                        "lng" : -76.99711390000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ksklF|n}tM"
+         },
+         "summary" : "D St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

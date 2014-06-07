@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9280883,
+               "lng" : -77.023427
+            },
+            "southwest" : {
+               "lat" : 38.9280883,
+               "lng" : -77.023427
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "701-781 Columbia Road Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9280883,
+                  "lng" : -77.023427
+               },
+               "start_address" : "701-781 Columbia Road Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9280883,
+                  "lng" : -77.023427
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9280883,
+                        "lng" : -77.023427
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eColumbia Rd NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qcrlFlsbuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9280883,
+                        "lng" : -77.023427
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qcrlFlsbuM"
+         },
+         "summary" : "Columbia Rd NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

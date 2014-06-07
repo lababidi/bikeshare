@@ -1,0 +1,120 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.90048600000001,
+               "lng" : -76.9830451
+            },
+            "southwest" : {
+               "lat" : 38.8947771,
+               "lng" : -76.99711390000002
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1386
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 307
+               },
+               "end_address" : "801-807 Bladensburg Road Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.90048600000001,
+                  "lng" : -76.9830451
+               },
+               "start_address" : "601-609 D Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.8947832,
+                  "lng" : -76.99711390000002
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "174 ft",
+                        "value" : 53
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 38.8947771,
+                        "lng" : -76.99650079999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eD St NE\u003c/b\u003e toward \u003cb\u003eMaryland Ave NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ksklF|n}tM?qA?g@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8947832,
+                        "lng" : -76.99711390000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1273
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 266
+                     },
+                     "end_location" : {
+                        "lat" : 38.9000638,
+                        "lng" : -76.9834501
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMaryland Ave NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ksklFbk}tMWaA_BoFaBuFW}@Yu@i@gBy@oCUy@GUiAmDGWM]IYOi@kCyImBcGEOQk@Oe@Mc@Sq@IW[cAAEGSMa@u@gCuAiEIe@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8947771,
+                        "lng" : -76.99650079999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "197 ft",
+                        "value" : 60
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 38.90048600000001,
+                        "lng" : -76.9830451
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eBladensburg Rd NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "ktllFpyztMWe@}@i@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9000638,
+                        "lng" : -76.9834501
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ksklF|n}tM?yBwBqHyBsHcA}CaDmKo@yBqGyS{@sCs@_CkCqIIe@We@}@i@"
+         },
+         "summary" : "Maryland Ave NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

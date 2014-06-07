@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8849504,
+               "lng" : -77.0877534
+            },
+            "southwest" : {
+               "lat" : 38.8824783,
+               "lng" : -77.1079081
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 2004
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 518
+               },
+               "end_address" : "1040 North Quincy Street, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.883964,
+                  "lng" : -77.1079081
+               },
+               "start_address" : "1001-1039 North Barton Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8849441,
+                  "lng" : -77.0878554
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "121 ft",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.8846221,
+                        "lng" : -77.0877534
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Barton St\u003c/b\u003e toward \u003cb\u003e10th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{uilFbfouMr@QJC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8849441,
+                        "lng" : -77.0878554
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1044
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 313
+                     },
+                     "end_location" : {
+                        "lat" : 38.8849504,
+                        "lng" : -77.09966489999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e10th St N\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{silFleouMBfEBvEBrDBnA?vBB`E?d@?b@?p@?p@BfD@d@?j@@dB?f@FfGBjEEp@AVK~@o@pCOh@U^"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8846221,
+                        "lng" : -77.0877534
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 766
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 156
+                     },
+                     "end_location" : {
+                        "lat" : 38.88255729999999,
+                        "lng" : -77.1077554
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}uilFzoquMFPpA|DTt@Pj@^rAhAvD~@fD`AzCDJDLv@bCJ`@Hb@FVJn@BZD^B^BfAAj@CrBCh@Ev@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8849504,
+                        "lng" : -77.09966489999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 157
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : 38.883964,
+                        "lng" : -77.1079081
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Quincy St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_gilFnbsuMs@BM@k@D]?_AFkAH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88255729999999,
+                        "lng" : -77.1077554
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{uilFbfouM~@UF~KFbGBxH?lDF~IFnHBjEEp@MvA_AzDU^FPfBrFzD~MdCxHh@lCHz@FfBE~CI`BkCJkCP"
+         },
+         "summary" : "10th St N and N Fairfax Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8573134,
+               "lng" : -77.0533338
+            },
+            "southwest" : {
+               "lat" : 38.853335,
+               "lng" : -77.055735
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 827
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 179
+               },
+               "end_address" : "500-518 18th Street South, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.8573134,
+                  "lng" : -77.0533338
+               },
+               "start_address" : "2250-2298 South Eads Street, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.85361049999999,
+                  "lng" : -77.05348619999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.8533597,
+                        "lng" : -77.05350729999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eS Eads St\u003c/b\u003e toward \u003cb\u003e23rd St S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "arclFhohuMp@B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.85361049999999,
+                        "lng" : -77.05348619999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 153
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 38.853335,
+                        "lng" : -77.05527069999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e23rd St S\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "opclFlohuMB~I"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8533597,
+                        "lng" : -77.05350729999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 438
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 81
+                     },
+                     "end_location" : {
+                        "lat" : 38.8572537,
+                        "lng" : -77.055735
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Fern St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kpclFlzhuMSA{BLMAyCTwCPuCRgDV"
+                     },
+                     "start_location" : {
+                        "lat" : 38.853335,
+                        "lng" : -77.05527069999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 208
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 38.8573134,
+                        "lng" : -77.0533338
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e18th St S\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yhdlFj}huMBwBCkBGiEA_@AS"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8572537,
+                        "lng" : -77.055735
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "arclFhohuMp@BB~ISA{BLgDRmHd@gDVBwBKuHCs@"
+         },
+         "summary" : "S Fern St and 18th St S",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

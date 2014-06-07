@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8981013,
+               "lng" : -77.0709415
+            },
+            "southwest" : {
+               "lat" : 38.8946054,
+               "lng" : -77.0722712
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 567
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 182
+               },
+               "end_address" : "1912-1968 North Lynn Street, Arlington, VA 22209, USA",
+               "end_location" : {
+                  "lat" : 38.8973158,
+                  "lng" : -77.070998
+               },
+               "start_address" : "1696-1798 North Fort Myer Drive, Arlington, VA 22209, USA",
+               "start_location" : {
+                  "lat" : 38.8946054,
+                  "lng" : -77.07223789999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.89485519999999,
+                        "lng" : -77.0722712
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eN Fort Myer Dr\u003c/b\u003e toward \u003cb\u003eWilson Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "irklFndluMq@D"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8946054,
+                        "lng" : -77.07223789999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "236 ft",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 38.8950045,
+                        "lng" : -77.07146019999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWilson Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{sklFtdluMGe@S{B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89485519999999,
+                        "lng" : -77.0722712
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 345
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 38.8981013,
+                        "lng" : -77.0714387
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Moore St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wtklFr_luMW@w@@e@?eCFU?QAu@Co@C_@?]@m@AqACc@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8950045,
+                        "lng" : -77.07146019999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "400 ft",
+                        "value" : 122
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 38.8973158,
+                        "lng" : -77.070998
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "chllFn_luM@e@?U@K@IDEFGJCJ?~AFF@F@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8981013,
+                        "lng" : -77.0714387
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "irklFndluMq@DGe@S{BW@}A@{CFgAEoACkA?uBE@{@BULMVCnBJ"
+         },
+         "summary" : "N Moore St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

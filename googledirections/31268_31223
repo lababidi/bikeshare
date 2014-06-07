@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9167909,
+               "lng" : -77.0222653
+            },
+            "southwest" : {
+               "lat" : 38.9056395,
+               "lng" : -77.0303622
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.3 mi",
+                  "value" : 2020
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 441
+               },
+               "end_address" : "801-899 M Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9056395,
+                  "lng" : -77.0222653
+               },
+               "start_address" : "1931 13th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9167909,
+                  "lng" : -77.0296116
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 745
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 125
+                     },
+                     "end_location" : {
+                        "lat" : 38.9101665,
+                        "lng" : -77.0298847
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e13th St NW\u003c/b\u003e toward \u003cb\u003eWallach Pl NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}|olF`zcuMtA@N@zAAZ?R?N?^?N?dA?pAA`A@N?N?z@?dAAtC@pA?`A?l@?fB@|BAZF@@B@B@BDBBBDLT"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9167909,
+                        "lng" : -77.0296116
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 508
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 164
+                     },
+                     "end_location" : {
+                        "lat" : 38.909645,
+                        "lng" : -77.025989
+                     },
+                     "html_instructions" : "At the traffic circle, exit onto \u003cb\u003eP St NW\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "qsnlFv{cuMJTDLFHDFFHFDBBBBD@B@LFHBJ@B?D?B?DAZKROX_@@S@GF[@M?I?CCw@IMGMACKMOOGGMIQa@GSA_@?yAAqCA}@@a@?M?eA?gA?Q"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9101665,
+                        "lng" : -77.0298847
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 444
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : 38.9056515,
+                        "lng" : -77.02599280000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e10th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gpnlFlccuM`C?J?r@?P?x@AX?@?vA@zAA^?zA?dB?|A@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.909645,
+                        "lng" : -77.025989
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 323
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 38.9056395,
+                        "lng" : -77.0222653
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eM St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iwmlFlccuM?o@AyC@iE@sH?_@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056515,
+                        "lng" : -77.02599280000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}|olF`zcuM|E@rA?pO?hH@|BAZFDBNPf@bAXZZN^DHAZKROX_@@SHc@@WC{@_@m@WWMIQa@Is@AkF?sD?yAlC?xCAtE?~G@@gV"
+         },
+         "summary" : "13th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

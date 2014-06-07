@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9279619,
+               "lng" : -77.04253299999999
+            },
+            "southwest" : {
+               "lat" : 38.9232654,
+               "lng" : -77.04762409999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 794
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 290
+               },
+               "end_address" : "2000-2108 Calvert Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9232904,
+                  "lng" : -77.04762409999999
+               },
+               "start_address" : "1845 Harvard Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9279619,
+                  "lng" : -77.04327549999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "259 ft",
+                        "value" : 79
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 38.9275494,
+                        "lng" : -77.04253299999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eHarvard St NW\u003c/b\u003e toward \u003cb\u003eAdams Mill Rd NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wbrlFnofuMpAuC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9279619,
+                        "lng" : -77.04327549999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 376
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 162
+                     },
+                     "end_location" : {
+                        "lat" : 38.924735,
+                        "lng" : -77.0447023
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAdams Mill Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e`rlFxjfuM`DfErB~BZTLFPHPHJDNFLBNDLBJ@XBLBp@FB?ZH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9275494,
+                        "lng" : -77.04253299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 315
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 38.9232654,
+                        "lng" : -77.04734429999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eCalvert St NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "snqlFjxfuMNVDHFRHLHHJFDLBTFJNFFJ@NFXB\\BnCBNLPXXT^Nd@TX\\Hd@G"
+                     },
+                     "start_location" : {
+                        "lat" : 38.924735,
+                        "lng" : -77.0447023
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "79 ft",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 38.9232904,
+                        "lng" : -77.04762409999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCalvert St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "meqlFzhguMAd@AN?@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9232654,
+                        "lng" : -77.04734429999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wbrlFnofuMpAuC`DfErB~BZT^P\\Nz@TdBP^HT`@P`@TPHb@FJNFFJ@NJv@BnCBNf@j@T^Nd@TX\\Hd@GAd@AP"
+         },
+         "summary" : "Adams Mill Rd NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

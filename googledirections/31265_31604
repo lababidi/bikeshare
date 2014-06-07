@@ -1,0 +1,121 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9008631,
+               "lng" : -77.01521489999999
+            },
+            "southwest" : {
+               "lat" : 38.8994226,
+               "lng" : -77.018677
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.2 mi",
+                  "value" : 368
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 129
+               },
+               "end_address" : "758 3rd Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.8994226,
+                  "lng" : -77.0152239
+               },
+               "start_address" : "500 I Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9008631,
+                  "lng" : -77.018677
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "138 ft",
+                        "value" : 42
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.9008592,
+                        "lng" : -77.0181948
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eI St NW\u003c/b\u003e toward \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kyllFvuauM?k@?u@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9008631,
+                        "lng" : -77.018677
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 286
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 95
+                     },
+                     "end_location" : {
+                        "lat" : 38.8997817,
+                        "lng" : -77.01521489999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kyllFtrauM@Er@uC^aB^_BJINg@Le@ViA^sA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9008592,
+                        "lng" : -77.0181948
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "131 ft",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 38.8994226,
+                        "lng" : -77.0152239
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e3rd St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "srllF``auMfA@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8997817,
+                        "lng" : -77.01521489999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kyllFvuauM?aBt@{C~@aEJINg@d@oB^sAfA@"
+         },
+         "summary" : "Massachusetts Avenue Northwest",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

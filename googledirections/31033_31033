@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8815125,
+               "lng" : -77.1040127
+            },
+            "southwest" : {
+               "lat" : 38.8815125,
+               "lng" : -77.1040127
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "3705 Wilson Boulevard, Arlington, VA 22203, USA",
+               "end_location" : {
+                  "lat" : 38.8815125,
+                  "lng" : -77.1040127
+               },
+               "start_address" : "3705 Wilson Boulevard, Arlington, VA 22203, USA",
+               "start_location" : {
+                  "lat" : 38.8815125,
+                  "lng" : -77.1040127
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8815125,
+                        "lng" : -77.1040127
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "m`ilF`kruM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8815125,
+                        "lng" : -77.1040127
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "m`ilF`kruM"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

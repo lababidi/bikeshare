@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9002229,
+               "lng" : -77.01521489999999
+            },
+            "southwest" : {
+               "lat" : 38.8994226,
+               "lng" : -77.0318913
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1563
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 447
+               },
+               "end_address" : "758 3rd Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.8994226,
+                  "lng" : -77.0152239
+               },
+               "start_address" : "724-798 14th Street Northwest, Washington, DC 20005, USA",
+               "start_location" : {
+                  "lat" : 38.89964030000001,
+                  "lng" : -77.0318913
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "213 ft",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.9002229,
+                        "lng" : -77.03188569999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e14th St NW\u003c/b\u003e toward \u003cb\u003eH St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wqllFhhduMsB?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89964030000001,
+                        "lng" : -77.0318913
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1458
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 396
+                     },
+                     "end_location" : {
+                        "lat" : 38.8997817,
+                        "lng" : -77.01521489999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eH St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kullFhhduM?cC@cA?A?[@G?E@G@EBE@EBGBEPYPMBIDG@G@GBK?M@aABgG?s@?iE?m@?s@?C?u@?y@?kK?]?]?}A?w@?sA?uBA{C?K?Q?c@?m@?E@cCAgB?{A?eA?eA?k@@}@?iGFQ?QAcE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9002229,
+                        "lng" : -77.03188569999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "131 ft",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 38.8994226,
+                        "lng" : -77.0152239
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e3rd St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "srllF``auMfA@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8997817,
+                        "lng" : -77.01521489999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wqllFhhduMsB??cC@eABq@JYT_@TWLc@@oAB{H?oH?yOAwP?kP@iB?iGFQAuEfA@"
+         },
+         "summary" : "H St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

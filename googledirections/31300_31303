@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9475539,
+               "lng" : -77.06293079999999
+            },
+            "southwest" : {
+               "lat" : 38.9430956,
+               "lng" : -77.07947109999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1927
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 565
+               },
+               "end_address" : "4441 Wisconsin Avenue Northwest, Washington, DC 20016, USA",
+               "end_location" : {
+                  "lat" : 38.9475539,
+                  "lng" : -77.07947109999999
+               },
+               "start_address" : "4210-4250 Connecticut Avenue Northwest, Washington, DC 20008, USA",
+               "start_location" : {
+                  "lat" : 38.9445999,
+                  "lng" : -77.0637577
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 173
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 38.9431857,
+                        "lng" : -77.06293079999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eConnecticut Ave NW\u003c/b\u003e toward \u003cb\u003eVeazey Terrace NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wjulFnojuMbAg@tE}B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9445999,
+                        "lng" : -77.0637577
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1222
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 350
+                     },
+                     "end_location" : {
+                        "lat" : 38.94316269999999,
+                        "lng" : -77.0770282
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVan Ness St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}aulFhjjuMCv@?r@?bC@rB?b@AdE?fC@\\?V?X@TD`@DV@NBT?Z?^?PAZCXCXCVAV?XBj@?n@?\\@v@?vOCX?R?P@d@AvI?P?|@?h@@\\?jDAxA@v@?`@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9431857,
+                        "lng" : -77.06293079999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 532
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 168
+                     },
+                     "end_location" : {
+                        "lat" : 38.9475539,
+                        "lng" : -77.07947109999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWisconsin Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "waulFlbmuMu@Z_@RmAh@yAr@gAh@SJi@VqAn@YJc@TOFWLcBr@OFw@\\i@Vy@^a@P"
+                     },
+                     "start_location" : {
+                        "lat" : 38.94316269999999,
+                        "lng" : -77.0770282
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wjulFnojuMxGeDCjB?`N@vEN~ABp@?p@MfBAp@BzA@tACpP?bL@vC?~I}FlC}HtDqHbD"
+         },
+         "summary" : "Van Ness St NW and Wisconsin Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

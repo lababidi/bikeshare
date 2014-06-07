@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9013257,
+               "lng" : -76.99152239999999
+            },
+            "southwest" : {
+               "lat" : 38.8792649,
+               "lng" : -76.998446
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3482
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 800
+               },
+               "end_address" : "726 I Street Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.8792649,
+                  "lng" : -76.99530059999999
+               },
+               "start_address" : "801-819 6th Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9003837,
+                  "lng" : -76.99844109999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "344 ft",
+                        "value" : 105
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.9013257,
+                        "lng" : -76.998446
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e6th St NE\u003c/b\u003e toward \u003cb\u003eI St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kvllFfw}tM}A?Q?{@?Q@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9003837,
+                        "lng" : -76.99844109999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 599
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 133
+                     },
+                     "end_location" : {
+                        "lat" : 38.90132,
+                        "lng" : -76.99152699999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eI St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "i|llFhw}tM?gM?qF?W?gC@oA?}E?S?wD?S"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9013257,
+                        "lng" : -76.998446
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.5 mi",
+                        "value" : 2451
+                     },
+                     "duration" : {
+                        "text" : "10 mins",
+                        "value" : 572
+                     },
+                     "end_location" : {
+                        "lat" : 38.87927699999999,
+                        "lng" : -76.99152699999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e11th St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "g|llF`l|tMfA?d@?hB?`@?rE?H?H?xB?pD?N?~@AZ?R?`C@jG?tA?~B?F?P?|B@\\?|CAP?~D?pA?F?V?^A`@@r@?hA@R?RAT?|A?lA?dC?dB?`A?nC?dD?T?n@?xA?z@?P?v@?z@?P?rAAr@BpA?rA?J?v@?Z?N?`A?|@AfA?jB?xA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.90132,
+                        "lng" : -76.99152699999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 327
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 38.8792649,
+                        "lng" : -76.99530059999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eI St SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "orhlF`l|tM?Z?hBAvA?h@@P?j@?vB?nC@`B@`A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.87927699999999,
+                        "lng" : -76.99152699999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kvllFfw}tM}D@?yY@yN?SfA?nC?hG?zJAlT@|R?~D@zCAvV?~E?tE@tKArD?xA??ZA`E@z@@tK@`A"
+         },
+         "summary" : "11th St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

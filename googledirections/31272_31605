@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8873793,
+               "lng" : -77.0022987
+            },
+            "southwest" : {
+               "lat" : 38.8850001,
+               "lng" : -77.01383299999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1112
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 360
+               },
+               "end_address" : "259-299 D Street Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.8850662,
+                  "lng" : -77.0022987
+               },
+               "start_address" : "201-247 Washington Avenue Southwest, Washington, DC 20024, USA",
+               "start_location" : {
+                  "lat" : 38.8873793,
+                  "lng" : -77.01383299999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 371
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 129
+                     },
+                     "end_location" : {
+                        "lat" : 38.8850001,
+                        "lng" : -77.0108534
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eWashington Ave SW\u003c/b\u003e toward \u003cb\u003e2nd St SW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cejlFlw`uMr@i@`@a@b@i@JMLO@CNSd@q@t@eARYl@aA\\i@~@uA^m@HKBGJQ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8873793,
+                        "lng" : -77.01383299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 741
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 231
+                     },
+                     "end_location" : {
+                        "lat" : 38.8850662,
+                        "lng" : -77.0022987
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eD St SW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gvilFxd`uMEc@EWAyF?m@?mI?[@uF?[?uB?{@AaC@eD?_@?cB?]AkA?E"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8850001,
+                        "lng" : -77.0108534
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cejlFlw`uMtAkAn@w@dAyAhA_BjAkBlBwCJQEc@EWAyF?{J@qGAoI@gIAqA"
+         },
+         "summary" : "Washington Ave SW and D St SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

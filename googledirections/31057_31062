@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8547394,
+               "lng" : -77.0859225
+            },
+            "southwest" : {
+               "lat" : 38.84442540000001,
+               "lng" : -77.1031479
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.3 mi",
+                  "value" : 2144
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 458
+               },
+               "end_address" : "1301-1319 South George Mason Drive, Arlington, VA 22204, USA",
+               "end_location" : {
+                  "lat" : 38.8547394,
+                  "lng" : -77.100667
+               },
+               "start_address" : "3501 South Four Mile Run Drive, Arlington, VA 22206, USA",
+               "start_location" : {
+                  "lat" : 38.84442540000001,
+                  "lng" : -77.0859225
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 312
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 38.8450992,
+                        "lng" : -77.0894206
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eS Four Mile Run Dr\u003c/b\u003e toward \u003cb\u003eS Kenmore Ct\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uxalF~ynuMKbAu@pHCNYdCa@|CCP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.84442540000001,
+                        "lng" : -77.0859225
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "79 ft",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.84489689999999,
+                        "lng" : -77.08951159999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Oakland St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{|alFzoouMf@P"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8450992,
+                        "lng" : -77.0894206
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1492
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 301
+                     },
+                     "end_location" : {
+                        "lat" : 38.8526673,
+                        "lng" : -77.1031479
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWashington and Old Dominion Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "s{alFlpouM?TO|@GXM`@Op@i@~BWpAu@jC}@|C_@nAI`@Sh@kAxCw@lBK`@{A|DOXo@vAWj@MXSXs@tAa@v@o@nAcAfBa@p@w@nAaC`EwArBY\\y@fA{@jAo@v@w@~@a@h@ONILIHG@G?EAKAE?G@CBQT"
+                     },
+                     "start_location" : {
+                        "lat" : 38.84489689999999,
+                        "lng" : -77.08951159999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 316
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 38.8547394,
+                        "lng" : -77.100667
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS George Mason Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "elclFteruMKQOSyDmFcCaDk@i@WO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8526673,
+                        "lng" : -77.1031479
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uxalF~ynuM_BjOe@nDf@P?TWvA]rAaApEsBhHi@pB_BbEw@lBK`@kBvEgAbCa@r@uAlCsBvDyA`CaC`EwArBsAdBkBbCsBfCQJMAQAKDQTKQiEaGcCaDk@i@WO"
+         },
+         "summary" : "Washington and Old Dominion Trail",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

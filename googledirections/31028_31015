@@ -1,0 +1,145 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.89485519999999,
+               "lng" : -77.07223789999999
+            },
+            "southwest" : {
+               "lat" : 38.8910139,
+               "lng" : -77.0861044
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1555
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 275
+               },
+               "end_address" : "1696-1798 North Fort Myer Drive, Arlington, VA 22209, USA",
+               "end_location" : {
+                  "lat" : 38.8946054,
+                  "lng" : -77.07223789999999
+               },
+               "start_address" : "1663-1699 North Veitch Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8932368,
+                  "lng" : -77.0861044
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 252
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 38.8910139,
+                        "lng" : -77.085691
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Veitch St\u003c/b\u003e toward \u003cb\u003e16th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wiklFb{nuMjAGnCQv@G^C~AMh@]"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8932368,
+                        "lng" : -77.0861044
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1135
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 194
+                     },
+                     "end_location" : {
+                        "lat" : 38.8945134,
+                        "lng" : -77.073804
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eClarendon Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "y{jlFpxnuMKQEGIKIKIKEKGOI]G[AWSoDOqFImDCUAUCIAIEOEMO_@IQ]a@SWWWMWi@yA]eAUs@Kc@I_@Go@OwAo@_Fa@eDg@aEc@qDK_@Sc@KSQUQSAAIGGEIEIGEIIO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8910139,
+                        "lng" : -77.085691
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "459 ft",
+                        "value" : 140
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 38.89485519999999,
+                        "lng" : -77.0722712
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eWilson Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uqklFfnluMMSGOGSEOCMAGAOAYAWEs@Eg@Iu@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8945134,
+                        "lng" : -77.073804
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 38.8946054,
+                        "lng" : -77.07223789999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Fort Myer Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{sklFtdluMp@E"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89485519999999,
+                        "lng" : -77.0722712
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wiklFb{nuMrHe@~AMh@]QYc@o@Qm@Is@SoDOqFMcEMy@Um@g@s@k@o@w@qBs@yBUcAiBmOkAsJ_@cA]i@SUe@[e@}@Sy@KuBO}Ap@E"
+         },
+         "summary" : "Clarendon Blvd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

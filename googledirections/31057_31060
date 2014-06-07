@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.84442540000001,
+               "lng" : -77.08559269999999
+            },
+            "southwest" : {
+               "lat" : 38.84204260000001,
+               "lng" : -77.0895754
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 551
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 142
+               },
+               "end_address" : "4 Mile Run Trail, Arlington, VA 22206, USA",
+               "end_location" : {
+                  "lat" : 38.8422945,
+                  "lng" : -77.0895754
+               },
+               "start_address" : "3501 South Four Mile Run Drive, Arlington, VA 22206, USA",
+               "start_location" : {
+                  "lat" : 38.84442540000001,
+                  "lng" : -77.0859225
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "98 ft",
+                        "value" : 30
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.8443584,
+                        "lng" : -77.08559269999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eS Four Mile Run Dr\u003c/b\u003e toward \u003cb\u003eS Shirlington Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uxalF~ynuMLaA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.84442540000001,
+                        "lng" : -77.0859225
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "492 ft",
+                        "value" : 150
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 38.8430304,
+                        "lng" : -77.0857518
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Shirlington Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gxalF|wnuMNJFBB@D@F@RBR@bABT@|AA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8443584,
+                        "lng" : -77.08559269999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 371
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 38.8422945,
+                        "lng" : -77.0895754
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFour Mile Run Trail\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}oalF|xnuM@H?BBDBDDHDHZf@Zf@PTPXFLFJ@BHRL\\Jb@FZF`@BXB\\BdA@f@?^AHEfAGj@EVSn@GP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8430304,
+                        "lng" : -77.0857518
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uxalF~ynuMLaANJJDt@HxAD|AA@HBHHNnAnBb@v@Vp@R~@Jz@FbB@fAGpAMbA[`A"
+         },
+         "summary" : "Four Mile Run Trail",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

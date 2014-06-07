@@ -1,0 +1,170 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9111376,
+               "lng" : -77.0444397
+            },
+            "southwest" : {
+               "lat" : 38.9084276,
+               "lng" : -77.0635846
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1863
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 452
+               },
+               "end_address" : "1913-1947 Massachusetts Avenue Northwest, Washington, DC 20036, USA",
+               "end_location" : {
+                  "lat" : 38.9100305,
+                  "lng" : -77.0444397
+               },
+               "start_address" : "3149-3199 O Street Northwest, Washington, DC 20007, USA",
+               "start_location" : {
+                  "lat" : 38.9084276,
+                  "lng" : -77.0635846
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 670
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : 38.9085382,
+                        "lng" : -77.0558415
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eO St NW\u003c/b\u003e toward \u003cb\u003e31st St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uhnlFjnjuMEqMEuK?sE?WAgA?uBCcA?u@A_AAm@?Q"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9084276,
+                        "lng" : -77.0635846
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 241
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 38.9105709,
+                        "lng" : -77.0549729
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e27th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kinlF~}huMyAAECa@QQIQGiD}As@[QI"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9085382,
+                        "lng" : -77.0558415
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 641
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 148
+                     },
+                     "end_location" : {
+                        "lat" : 38.9111231,
+                        "lng" : -77.0477355
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eQ St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "avnlFpxhuMEiM?gBAc@A[CYEWAEG[G[IYCKAA?AAAAEA??CAAGKGKGIIMEIAGAICM?MAS?UAyF@]@W@W?eBAkA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9105709,
+                        "lng" : -77.0549729
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 287
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 81
+                     },
+                     "end_location" : {
+                        "lat" : 38.9100699,
+                        "lng" : -77.0447052
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "oynlFjkguMhAyE|@qDj@}BNm@Le@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9111231,
+                        "lng" : -77.0477355
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "79 ft",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 38.9100305,
+                        "lng" : -77.0444397
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "}rnlFlxfuMBg@BM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9100699,
+                        "lng" : -77.0447052
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uhnlFjnjuMKsa@EwHCmB?QyAAg@Uc@Q}EyBQIEiMAkCEu@Oy@UaAIQa@o@GQEWCqHDsDAkAhAyEhBoH\\sAFu@"
+         },
+         "summary" : "O St NW and Q St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

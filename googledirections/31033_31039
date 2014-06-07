@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8822625,
+               "lng" : -77.10371189999999
+            },
+            "southwest" : {
+               "lat" : 38.8801544,
+               "lng" : -77.1076573
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 582
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 141
+               },
+               "end_address" : "801 North Quincy Street, Arlington, VA 22203, USA",
+               "end_location" : {
+                  "lat" : 38.8801544,
+                  "lng" : -77.107562
+               },
+               "start_address" : "3705 Wilson Boulevard, Arlington, VA 22203, USA",
+               "start_location" : {
+                  "lat" : 38.8815125,
+                  "lng" : -77.1040127
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "289 ft",
+                        "value" : 88
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 38.8822625,
+                        "lng" : -77.10371189999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003e9th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "m`ilF`kruMA?YKECE?K@I?ECSIUMIE]K"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8815125,
+                        "lng" : -77.1040127
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 375
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 38.88122329999999,
+                        "lng" : -77.1076573
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e9th St N\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : {
+                        "points" : "ceilFdiruMnApCpB~ENlE@p@@|@?NALAJANAL@\\"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8822625,
+                        "lng" : -77.10371189999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "390 ft",
+                        "value" : 119
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 38.8801544,
+                        "lng" : -77.107562
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Quincy St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "s~hlFzasuMp@EB?|@El@CRA^A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88122329999999,
+                        "lng" : -77.1076573
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "m`ilF`kruM[KKCU@YM_@S]KnApCpB~ENlEBnBEx@?j@t@E~CM"
+         },
+         "summary" : "9th St N",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

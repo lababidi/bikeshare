@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8422945,
+               "lng" : -77.0895754
+            },
+            "southwest" : {
+               "lat" : 38.8422945,
+               "lng" : -77.0895754
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "4 Mile Run Trail, Arlington, VA 22206, USA",
+               "end_location" : {
+                  "lat" : 38.8422945,
+                  "lng" : -77.0895754
+               },
+               "start_address" : "4 Mile Run Trail, Arlington, VA 22206, USA",
+               "start_location" : {
+                  "lat" : 38.8422945,
+                  "lng" : -77.0895754
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8422945,
+                        "lng" : -77.0895754
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eFour Mile Run Trail\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ikalFzpouM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8422945,
+                        "lng" : -77.0895754
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ikalFzpouM"
+         },
+         "summary" : "Four Mile Run Trail",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

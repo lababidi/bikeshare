@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8849441,
+               "lng" : -77.0877534
+            },
+            "southwest" : {
+               "lat" : 38.88452170000001,
+               "lng" : -77.0934243
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 540
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 234
+               },
+               "end_address" : "2900 Washington Boulevard, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.8847894,
+                  "lng" : -77.0934243
+               },
+               "start_address" : "1001-1039 North Barton Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8849441,
+                  "lng" : -77.0878554
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "121 ft",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.8846221,
+                        "lng" : -77.0877534
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Barton St\u003c/b\u003e toward \u003cb\u003e10th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{uilFbfouMr@QJC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8849441,
+                        "lng" : -77.0878554
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 460
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 155
+                     },
+                     "end_location" : {
+                        "lat" : 38.8845231,
+                        "lng" : -77.0930671
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e10th St N\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{silFleouMBfEBvEBrDBnA?vBB`E?d@?b@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8846221,
+                        "lng" : -77.0877534
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "141 ft",
+                        "value" : 43
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 38.8847894,
+                        "lng" : -77.0934243
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWashington Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gsilFtfpuMe@l@OV"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8845231,
+                        "lng" : -77.0930671
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{uilFbfouM~@UF~KFbGBxH?hAu@dA"
+         },
+         "summary" : "10th St N",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

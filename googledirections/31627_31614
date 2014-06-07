@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9056473,
+               "lng" : -76.991525
+            },
+            "southwest" : {
+               "lat" : 38.8999828,
+               "lng" : -77.0030507
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1626
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 331
+               },
+               "end_address" : "731-799 11th Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.8999828,
+                  "lng" : -76.9915285
+               },
+               "start_address" : "201 M Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9056473,
+                  "lng" : -77.0030507
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 214
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : {
+                        "lat" : 38.905643,
+                        "lng" : -77.000573
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eM St NE\u003c/b\u003e toward \u003cb\u003e3rd St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iwmlF`t~tM?o@?C@uCAU?u@?gA@O?w@?s@?U"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056473,
+                        "lng" : -77.0030507
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 348
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 38.9025132,
+                        "lng" : -77.0005731
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e4th St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gwmlFpd~tMN?bI?h@@rCAlA?P?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.905643,
+                        "lng" : -77.000573
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 783
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 158
+                     },
+                     "end_location" : {
+                        "lat" : 38.902512,
+                        "lng" : -76.991525
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eK St NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ucmlFpd~tM?U?}D?sE?iM?i@AsB?}@?S@oF?_F?_F"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9025132,
+                        "lng" : -77.0005731
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 281
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 38.8999828,
+                        "lng" : -76.9915285
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e11th St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ucmlF~k|tMR@xE?fA?d@?hB?`@?P?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.902512,
+                        "lng" : -76.991525
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iwmlF`t~tM@eL?iArI?|G?Aab@@oM?_FR@`H?nC?r@?"
+         },
+         "summary" : "K St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8484522,
+               "lng" : -77.08330819999999
+            },
+            "southwest" : {
+               "lat" : 38.8443584,
+               "lng" : -77.0859225
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 663
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 125
+               },
+               "end_address" : "3501 South Four Mile Run Drive, Arlington, VA 22206, USA",
+               "end_location" : {
+                  "lat" : 38.84442540000001,
+                  "lng" : -77.0859225
+               },
+               "start_address" : "3436 24th Street South, Arlington, VA 22206, USA",
+               "start_location" : {
+                  "lat" : 38.8484369,
+                  "lng" : -77.0849145
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "36 ft",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 38.8484522,
+                        "lng" : -77.0847933
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e24th St S\u003c/b\u003e toward \u003cb\u003eS Kenmore St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wqblFtsnuMAW"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8484369,
+                        "lng" : -77.0849145
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "390 ft",
+                        "value" : 119
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 38.847791,
+                        "lng" : -77.0839469
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Kenmore St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yqblF|rnuMhB}@NIDE@IBIAeA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8484522,
+                        "lng" : -77.0847933
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 503
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 99
+                     },
+                     "end_location" : {
+                        "lat" : 38.8443584,
+                        "lng" : -77.08559269999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Shirlington Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "umblFtmnuMZAb@E\\GZAtAWjA_@bA_@z@Sb@AL@HBLFLLJLLTJXpA|EZhABJDJDHDFDF@BFN"
+                     },
+                     "start_location" : {
+                        "lat" : 38.847791,
+                        "lng" : -77.0839469
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "98 ft",
+                        "value" : 30
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 38.84442540000001,
+                        "lng" : -77.0859225
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Four Mile Run Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gxalF|wnuMM`A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8443584,
+                        "lng" : -77.08559269999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wqblFtsnuMAWhB}@TODSAeAZA`AMZAtAWnC_Az@Sb@AVDZTXb@|AvFj@jBTb@M`A"
+         },
+         "summary" : "S Shirlington Rd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

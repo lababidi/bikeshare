@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.942016,
+               "lng" : -77.0325021
+            },
+            "southwest" : {
+               "lat" : 38.9205887,
+               "lng" : -77.0439444
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 mi",
+                  "value" : 2959
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 639
+               },
+               "end_address" : "1838-1898 Belmont Road Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9205887,
+                  "lng" : -77.04368079999999
+               },
+               "start_address" : "4201-4273 14th Street Northwest, Washington, DC 20011, USA",
+               "start_location" : {
+                  "lat" : 38.942016,
+                  "lng" : -77.03272419999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.0 mi",
+                        "value" : 1612
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 322
+                     },
+                     "end_location" : {
+                        "lat" : 38.9275262,
+                        "lng" : -77.0325021
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e14th St NW\u003c/b\u003e toward \u003cb\u003eUpshur St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sztlFnmduM\\?rE@rEAtE?zC@x@?hBAzB@f@?F?|B?J?n@AdA?hABxA?r@?t@?T?L?n@@N?xBAbB@T?dAAd@?Z?fB?rA@N?d@?l@Ab@AlAGpAI|DSx@G"
+                     },
+                     "start_location" : {
+                        "lat" : 38.942016,
+                        "lng" : -77.03272419999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1324
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 293
+                     },
+                     "end_location" : {
+                        "lat" : 38.9205903,
+                        "lng" : -77.0439444
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eColumbia Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "a`rlFblduMFhCB~@@VDpBBt@@j@@\\BNBJ@HDJBDDJR^Tb@JTfAbCNb@Xl@Zn@NNPXRb@DFx@dBHNn@nAFPVh@T`@b@`Ab@|@Th@HNTd@Xh@Vd@R^`@l@\\j@@@n@fA?@LPt@rADFBDXb@\\l@l@bAd@x@BD@BDFDFDDBDFF^NXJPFl@Px@V|@XB@nAb@PF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9275262,
+                        "lng" : -77.0325021
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 ft",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 38.9205887,
+                        "lng" : -77.04368079999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBelmont Rd NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "utplFrsfuM?s@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9205903,
+                        "lng" : -77.0439444
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sztlFnmduMzS?zL@xD?tBAbDBlC?|G@|CApF@pAC~CQvF[JhELjFDl@DTb@|@`@x@vAfDt@|A`@h@|A`DlEfJzAtCpBbDrDjGp@jAVZx@Z~@XjEvAPF?s@"
+         },
+         "summary" : "14th St NW and Columbia Rd NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

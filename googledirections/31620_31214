@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9126088,
+               "lng" : -77.01890879999999
+            },
+            "southwest" : {
+               "lat" : 38.897337,
+               "lng" : -77.0384815
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3481
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 997
+               },
+               "end_address" : "1623-1625 17th Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9120977,
+                  "lng" : -77.0384815
+               },
+               "start_address" : "501-547 F Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.89734079999999,
+                  "lng" : -77.0193452
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "118 ft",
+                        "value" : 36
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.897337,
+                        "lng" : -77.01892900000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eF St NW\u003c/b\u003e toward \u003cb\u003e5th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kcllF|yauM?sA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89734079999999,
+                        "lng" : -77.0193452
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 mi",
+                        "value" : 1697
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 398
+                     },
+                     "end_location" : {
+                        "lat" : 38.9125975,
+                        "lng" : -77.0189165
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e5th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kcllFhwauMcEAq@?cBAyB@[@WAy@@}B?W?S?I?e@@G?}BAiBBI?E?K?M?O?O?Q?O?I?MAS?I?G?e@A]AYAG?S?U@M@k@AW?uAA{@@Q?A?e@?Y@s@AgA?W?M?K?mBBa@?_C?iC@sAAeBAK?M?U?iBAkD?U?w@?cA?M@eCA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.897337,
+                        "lng" : -77.01892900000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 mi",
+                        "value" : 1692
+                     },
+                     "duration" : {
+                        "text" : "10 mins",
+                        "value" : 586
+                     },
+                     "end_location" : {
+                        "lat" : 38.9126025,
+                        "lng" : -77.0384746
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wbolFfwauM@bEA~B?@@nAAhA?vB?lE?lEAxJ?X?lE?~C?\\?fI?pM@~B?NApB@`G?jK?fK"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9125975,
+                        "lng" : -77.0189165
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "184 ft",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 38.9120977,
+                        "lng" : -77.0384815
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e17th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wbolFlqeuMrA@N?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9126025,
+                        "lng" : -77.0384746
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kcllF|yauM?sAcEAuCAgFBsD?m@@gF@i@?aA?{CG_AByCCoA@{D?_DB_K?yNCqA@eCA@bEA`C?xCAl[?dL@p`AbB@"
+         },
+         "summary" : "5th St NW and R St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

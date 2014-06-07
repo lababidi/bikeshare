@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9057393,
+               "lng" : -76.99410689999999
+            },
+            "southwest" : {
+               "lat" : 38.90514290000001,
+               "lng" : -77.0055998
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 1039
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 259
+               },
+               "end_address" : "800 Florida Avenue Northeast, Gallaudet University, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9051436,
+                  "lng" : -76.99410689999999
+               },
+               "start_address" : "101-131 M Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9056456,
+                  "lng" : -77.0055998
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 736
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 151
+                     },
+                     "end_location" : {
+                        "lat" : 38.905696,
+                        "lng" : -76.99709799999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eM St NE\u003c/b\u003e toward \u003cb\u003eDelaware Ave NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iwmlF~c_uM?Q?kI?I?uC?o@?C@uCAU?u@?gA@O?w@?s@?U?gB?wA?U?sE?uC?q@KcA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056456,
+                        "lng" : -77.0055998
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "203 ft",
+                        "value" : 62
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 38.9054341,
+                        "lng" : -76.9964715
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFlorida Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "swmlFzn}tMX{@@CX}@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.905696,
+                        "lng" : -76.99709799999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "121 ft",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 38.9057262,
+                        "lng" : -76.99626719999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLincoln Cir NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}umlF|j}tM{@g@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9054341,
+                        "lng" : -76.9964715
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 204
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 38.9051436,
+                        "lng" : -76.99410689999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ywmlFti}tM?KAY?OBa@@e@Hi@Ji@Ne@JYHQRY\\_ABo@?A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9057262,
+                        "lng" : -76.99626719999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iwmlF~c_uM@md@?qLKcAX{@ZaA{@g@?KAi@DgATsAZ_A\\k@\\_ABo@?A"
+         },
+         "summary" : "M St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

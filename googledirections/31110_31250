@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9153176,
+               "lng" : -77.04452619999999
+            },
+            "southwest" : {
+               "lat" : 38.9035844,
+               "lng" : -77.04665199999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1543
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 344
+               },
+               "end_address" : "1001-1099 20th Street Northwest, Washington, DC 20036, USA",
+               "end_location" : {
+                  "lat" : 38.9035844,
+                  "lng" : -77.0448942
+               },
+               "start_address" : "1919-1977 Florida Avenue Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9153176,
+                  "lng" : -77.04452619999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 235
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 38.9139925,
+                        "lng" : -77.0466323
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eFlorida Ave NW\u003c/b\u003e toward \u003cb\u003e20th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wsolFhwfuMP^BDRd@|AfDVd@R^NVTZZ`@RR"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9153176,
+                        "lng" : -77.04452619999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1139
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 228
+                     },
+                     "end_location" : {
+                        "lat" : 38.9037456,
+                        "lng" : -77.0466417
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e21st St NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "mkolFldguMtDB~AAN?`C?T?V?~@Ad@?jABrA?hC?T?~D?N?tB?pA?R?ZAlE?tB@X?pD?pBAx@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9139925,
+                        "lng" : -77.0466323
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "495 ft",
+                        "value" : 151
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 38.9037429,
+                        "lng" : -77.04489319999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eL St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mkmlFndguM@gD?cA?qB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9037456,
+                        "lng" : -77.0466417
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "59 ft",
+                        "value" : 18
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 38.9035844,
+                        "lng" : -77.0448942
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e20th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kkmlFpyfuM^?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9037429,
+                        "lng" : -77.04489319999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wsolFhwfuMfCrFj@dAd@r@n@t@tG@~D?dBA~CBnJ?fW?jDA@kF?qB^?"
+         },
+         "summary" : "21st St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

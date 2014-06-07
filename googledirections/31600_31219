@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9030382,
+               "lng" : -77.01891189999999
+            },
+            "southwest" : {
+               "lat" : 38.8930282,
+               "lng" : -77.02599909999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1722
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 418
+               },
+               "end_address" : "300-376 10th Street Northwest, Washington, DC 20530, USA",
+               "end_location" : {
+                  "lat" : 38.8930282,
+                  "lng" : -77.0259676
+               },
+               "start_address" : "1054 5th Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9030382,
+                  "lng" : -77.01894779999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 768
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 149
+                     },
+                     "end_location" : {
+                        "lat" : 38.8961299,
+                        "lng" : -77.0189366
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e5th St NW\u003c/b\u003e toward \u003cb\u003eK St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_gmlFlwauMJ?P?N?N?L?J?D?H?hBC|B@F?d@AH?R?V?|B?x@AV@ZAxBAbB@p@?bE@vA?hA@nA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9030382,
+                        "lng" : -77.01894779999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 611
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 193
+                     },
+                     "end_location" : {
+                        "lat" : 38.8961162,
+                        "lng" : -77.02599909999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eE St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "y{klFjwauM?`B?Z?`A?rB?fD?xB?N?vA?^?j@?Z?lB?|A@~A?pA?hA?X?~A?J?N"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8961299,
+                        "lng" : -77.0189366
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 343
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 38.8930282,
+                        "lng" : -77.0259676
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e10th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "w{klFnccuMlGCdA?tGA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8961162,
+                        "lng" : -77.02599909999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_gmlFlwauMfB?fFAl@ArD?fFCpLBxC@?|B?vM@zN?tG?ZrICtGA"
+         },
+         "summary" : "5th St NW and E St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
