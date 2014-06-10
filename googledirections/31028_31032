@@ -1,5 +1,218 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8932368,
+               "lng" : -77.08584150000002
+            },
+            "southwest" : {
+               "lat" : 38.88075370000001,
+               "lng" : -77.0911273
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1837
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 539
+               },
+               "end_address" : "2741-2799 7th Street North, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.8808554,
+                  "lng" : -77.0911273
+               },
+               "start_address" : "1663-1699 North Veitch Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8932368,
+                  "lng" : -77.0861044
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 225
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.8912204,
+                        "lng" : -77.08584150000002
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Veitch St\u003c/b\u003e toward \u003cb\u003e16th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wiklFb{nuMjAGnCQv@G^C~AM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8932368,
+                        "lng" : -77.0861044
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 458
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 102
+                     },
+                     "end_location" : {
+                        "lat" : 38.889648,
+                        "lng" : -77.09069790000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWilson Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c}jlFnynuMLf@J\\H`@Hd@N`CD`@BL@@H\\dA`EBXjA~DnAnE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8912204,
+                        "lng" : -77.08584150000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "390 ft",
+                        "value" : 119
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 38.8885938,
+                        "lng" : -77.09050879999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Danville St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "isjlFzwouMlDYD@B?BADAPI"
+                     },
+                     "start_location" : {
+                        "lat" : 38.889648,
+                        "lng" : -77.09069790000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 242
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 38.8864497,
+                        "lng" : -77.0903275
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eN Danville St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uljlFtvouM@BBBBB@@@?B@HAzCSdCQTCNAfAE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8885938,
+                        "lng" : -77.09050879999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 667
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 177
+                     },
+                     "end_location" : {
+                        "lat" : 38.8807829,
+                        "lng" : -77.08972100000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e11th St N/N Danville St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow N Danville St\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "i_jlFpuouMA_A?E?C?A@??A@A?A@A@A@A@??ABAB?|@AdCA~CCN?xHM|GGnC?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8864497,
+                        "lng" : -77.0903275
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "230 ft",
+                        "value" : 70
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 38.88075370000001,
+                        "lng" : -77.09050809999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Pershing Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{{hlFvqouMC|AAf@JV"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8807829,
+                        "lng" : -77.08972100000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "184 ft",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 86
+                     },
+                     "end_location" : {
+                        "lat" : 38.8808554,
+                        "lng" : -77.0911273
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e7th St N\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "u{hlFtvouMKPADAB?FAh@?@Cj@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88075370000001,
+                        "lng" : -77.09050809999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wiklFb{nuMrHe@~AMLf@T~@Hd@N`CHn@J^dA`EBXzCnKrDW^MJLjDSzCUvAGAkAJKdAEdHEhIM|GGnC?EdCJVKPCHE~A"
+         },
+         "summary" : "N Danville St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

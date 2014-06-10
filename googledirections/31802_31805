@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8733075,
+               "lng" : -76.97092889999999
+            },
+            "southwest" : {
+               "lat" : 38.8666419,
+               "lng" : -76.9880591
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1735
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 353
+               },
+               "end_address" : "1401-1455 25th Street Southeast, Washington, DC 20020, USA",
+               "end_location" : {
+                  "lat" : 38.8730573,
+                  "lng" : -76.97092889999999
+               },
+               "start_address" : "1217 Good Hope Road Southeast, Washington, DC 20020, USA",
+               "start_location" : {
+                  "lat" : 38.8673016,
+                  "lng" : -76.9880591
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 326
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 38.8666419,
+                        "lng" : -76.98439479999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eGood Hope Rd SE\u003c/b\u003e toward \u003cb\u003e13th St SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sgflFjv{tM`@iEfA_KRsBD_@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8673016,
+                        "lng" : -76.9880591
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1381
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 268
+                     },
+                     "end_location" : {
+                        "lat" : 38.8733075,
+                        "lng" : -76.9709575
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMinnesota Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ocflFl_{tMCACACCACCCAEe@mA_@aAo@eBg@oAi@sAM_@s@eBGOWi@Uo@EMGOIUoDaJ[w@gCoGO_@m@}A_@aAMYIU[s@wAoDEIkD}I}@yBQa@EOG]Oa@Uo@iAqCKU"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8666419,
+                        "lng" : -76.98439479999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 38.8730573,
+                        "lng" : -76.97092889999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e25th St SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "emglFnkxtMBADAFAH?T?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8733075,
+                        "lng" : -76.9709575
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sgflFjv{tMbC}UMK{EcMqHeRaFeMsAeDgIqSWq@G]Oa@_BaEKUBALC^?"
+         },
+         "summary" : "Minnesota Ave SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

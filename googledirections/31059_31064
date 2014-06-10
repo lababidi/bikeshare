@@ -1,5 +1,145 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8351748,
+               "lng" : -77.0871882
+            },
+            "southwest" : {
+               "lat" : 38.8335545,
+               "lng" : -77.09439379999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 731
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 189
+               },
+               "end_address" : "3315 South Stafford Street, Arlington, VA 22206, USA",
+               "end_location" : {
+                  "lat" : 38.833994,
+                  "lng" : -77.0872021
+               },
+               "start_address" : "3147-3199 South Abingdon Street, Arlington, VA 22206, USA",
+               "start_location" : {
+                  "lat" : 38.8351748,
+                  "lng" : -77.09439379999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "131 ft",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.8348556,
+                        "lng" : -77.09417329999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eS Abingdon St\u003c/b\u003e toward \u003cb\u003e36th St S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "y~_lF|npuMLGNIHEHGJK"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8351748,
+                        "lng" : -77.09439379999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 578
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 107
+                     },
+                     "end_location" : {
+                        "lat" : 38.8336723,
+                        "lng" : -77.0877754
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e34th St S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{|_lFpmpuMRWDIDIPa@BIDKBKFW?AHk@BSBSDy@DmABoABi@DwABiA@U@ODw@Do@Di@@MNmAD_@NaAZcBDw@Dc@@g@L]"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8348556,
+                        "lng" : -77.09417329999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 ft",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.8336269,
+                        "lng" : -77.08756939999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003e34th St S\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "mu_lFreouMBS@E?A@M"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8336723,
+                        "lng" : -77.0877754
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "308 ft",
+                        "value" : 94
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 38.833994,
+                        "lng" : -77.0872021
+                     },
+                     "html_instructions" : "At the traffic circle, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eS Stafford St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "eu_lFhdouM@A@A@A@A@A?C@A?A@C?A?C@A?E?C?AAC?A?CAA?AACAAAA?AAAAAAAAAA?CAA?A?AAA?C?A?A@A?A@C?A@A@A@?@A@A@A@A@?BA@?@?BA@?DUc@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8336269,
+                        "lng" : -77.08756939999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "y~_lF|npuMp@_@^c@JS^cATyAHmAH}CNaFRaDf@}DZcBDw@FkARy@BOBCDIBYIUOKQ@OLCHAD?DUc@"
+         },
+         "summary" : "34th St S",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

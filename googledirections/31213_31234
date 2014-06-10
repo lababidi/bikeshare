@@ -1,5 +1,122 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9089051,
+               "lng" : -77.0384883
+            },
+            "southwest" : {
+               "lat" : 38.90276070000001,
+               "lng" : -77.04490530000001
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1239
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 335
+               },
+               "end_address" : "1401-1499 20th Street Northwest, Washington, DC 20036, USA",
+               "end_location" : {
+                  "lat" : 38.9089051,
+                  "lng" : -77.04489909999999
+               },
+               "start_address" : "1000-1030 17th Street Northwest, Washington, DC 20036, USA",
+               "start_location" : {
+                  "lat" : 38.90276070000001,
+                  "lng" : -77.0384983
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 321
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 38.9056485,
+                        "lng" : -77.0384883
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e17th St NW\u003c/b\u003e toward \u003cb\u003eL St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gemlFrqeuMaE@aEAE?E?qDA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.90276070000001,
+                        "lng" : -77.0384983
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 556
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 156
+                     },
+                     "end_location" : {
+                        "lat" : 38.9056511,
+                        "lng" : -77.044901
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eM St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iwmlFpqeuM?fJAnACdAHZCl@Av@?~I?R@xB?rC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056485,
+                        "lng" : -77.0384883
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 362
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 38.9089051,
+                        "lng" : -77.04489909999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e20th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "iwmlFryfuMc@?gB?qD?_C@A?a@?eBAcA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056511,
+                        "lng" : -77.044901
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gemlFrqeuMoK?qDA?fJEtCHZCl@AvK@lC?rCc@?yG?aC@kEA"
+         },
+         "summary" : "M St NW and 20th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

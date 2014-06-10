@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8630471,
+               "lng" : -77.0510374
+            },
+            "southwest" : {
+               "lat" : 38.857296,
+               "lng" : -77.0542773
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 973
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 153
+               },
+               "end_address" : "421-499 12th Street South, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.8629718,
+                  "lng" : -77.05279399999999
+               },
+               "start_address" : "1802-2066 South Bell Street, Crystal City Shops, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.857296,
+                  "lng" : -77.0510374
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "141 ft",
+                        "value" : 43
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.8576746,
+                        "lng" : -77.05109589999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eS Bell St\u003c/b\u003e toward \u003cb\u003e18th St S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cidlF~_huMC?GAM?OBQBMD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.857296,
+                        "lng" : -77.0510374
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 173
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 38.8574818,
+                        "lng" : -77.053077
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e18th St S\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mkdlFj`huMATAd@HdA?B@Z@PB\\?B@H?@?BBZPhC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8576746,
+                        "lng" : -77.05109589999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 628
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 102
+                     },
+                     "end_location" : {
+                        "lat" : 38.8630471,
+                        "lng" : -77.0542773
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Eads St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gjdlFvlhuMoBLE@yANsDh@kAP_@DwARqBXOBiEj@}@N]DoATYB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8574818,
+                        "lng" : -77.053077
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "423 ft",
+                        "value" : 129
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.8629718,
+                        "lng" : -77.05279399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e12th St S\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "amelFfthuMNiH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8630471,
+                        "lng" : -77.0542773
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cidlF~_huMi@@_@HCz@JdBDr@Dj@PhCoBL_BP_Gz@wBXiKxAmBZYBNiH"
+         },
+         "summary" : "S Eads St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

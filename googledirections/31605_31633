@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8875757,
+               "lng" : -77.0022987
+            },
+            "southwest" : {
+               "lat" : 38.8850612,
+               "lng" : -77.02609099999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2199
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 494
+               },
+               "end_address" : "301-321 L'Enfant Plaza, Washington, DC 20560, USA",
+               "end_location" : {
+                  "lat" : 38.8873968,
+                  "lng" : -77.02609099999999
+               },
+               "start_address" : "259-299 D Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8850662,
+                  "lng" : -77.0022987
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 736
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 122
+                     },
+                     "end_location" : {
+                        "lat" : 38.8851178,
+                        "lng" : -77.0107934
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eD St SE\u003c/b\u003e toward \u003cb\u003e2nd St SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uvilFjo~tM?D@jA?\\?bB?^AdD@`C?z@?tB?ZAtF?Z?lI?l@@xFCNADADCR"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8850662,
+                        "lng" : -77.0022987
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 377
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 113
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875732,
+                        "lng" : -77.0137629
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWashington Ave SW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "_wilFld`uMMRa@j@gA~A}@|AABQTY`@yAtBaAhASTED]XSJ]T"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8851178,
+                        "lng" : -77.0107934
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1067
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 234
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875678,
+                        "lng" : -77.0260902
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eIndependence Ave SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ifjlF~v`uM?l@?rA?r@?V?v@A`@?R?`A?\\?@@f@?|A@hA?fC?|@?zB?z@AhE?H?J?tG?zB?nE?vD?D?D?j@?P?`I?Z?R"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875732,
+                        "lng" : -77.0137629
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 ft",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.8873968,
+                        "lng" : -77.02609099999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eL'Enfant Plaza\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ifjlF`dcuM`@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875678,
+                        "lng" : -77.0260902
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uvilFjo~tM@vQAbL?zJ@xFCNCJCRMRiBjC_A`Bk@v@yAtBaAhAYZq@d@]T?l@?fCAdCBvNAx^?~Q?R`@?"
+         },
+         "summary" : "D St SE and Independence Ave SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

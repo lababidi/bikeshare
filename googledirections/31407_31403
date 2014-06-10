@@ -1,5 +1,122 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.95752,
+               "lng" : -77.0198937
+            },
+            "southwest" : {
+               "lat" : 38.9564733,
+               "lng" : -77.03302669999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1285
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 282
+               },
+               "end_address" : "5500-5548 5th Street Northwest, Washington, DC 20011, USA",
+               "end_location" : {
+                  "lat" : 38.9565928,
+                  "lng" : -77.0198937
+               },
+               "start_address" : "5521-5539 Colorado Avenue Northwest, Washington, DC 20011, USA",
+               "start_location" : {
+                  "lat" : 38.9564733,
+                  "lng" : -77.03302669999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "348 ft",
+                        "value" : 106
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.957282,
+                        "lng" : -77.032377
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eColorado Ave NW\u003c/b\u003e toward \u003cb\u003eLongfellow St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}twlFloduMGGEAGAGGu@m@IGUQKIa@["
+                     },
+                     "start_location" : {
+                        "lat" : 38.9564733,
+                        "lng" : -77.03302669999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1076
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 251
+                     },
+                     "end_location" : {
+                        "lat" : 38.95752,
+                        "lng" : -77.019937
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLongfellow St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_zwlFjkduM?kC?}C?oC?_@?}@?{E?sA?c@?[CgBAcAEeEAg@AaCAaACmAAeAAkAAmAE}DAwAEeE?a@CwBAY?S"
+                     },
+                     "start_location" : {
+                        "lat" : 38.957282,
+                        "lng" : -77.032377
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "338 ft",
+                        "value" : 103
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 38.9565928,
+                        "lng" : -77.0198937
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e5th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "o{wlFr}auMNAzAClAC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.95752,
+                        "lng" : -77.019937
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}twlFloduM]SaBqAa@[?kC?mH?mKQ}SWkXEqC?SNAhDG"
+         },
+         "summary" : "Longfellow St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

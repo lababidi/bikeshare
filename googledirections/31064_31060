@@ -1,5 +1,241 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8423429,
+               "lng" : -77.0872021
+            },
+            "southwest" : {
+               "lat" : 38.833739,
+               "lng" : -77.0956935
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.3 mi",
+                  "value" : 2151
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 404
+               },
+               "end_address" : "4 Mile Run Trail, Arlington, VA 22206, USA",
+               "end_location" : {
+                  "lat" : 38.8422945,
+                  "lng" : -77.0895754
+               },
+               "start_address" : "3315 South Stafford Street, Arlington, VA 22206, USA",
+               "start_location" : {
+                  "lat" : 38.833994,
+                  "lng" : -77.0872021
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "66 ft",
+                        "value" : 20
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 38.8338788,
+                        "lng" : -77.0873811
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eS Stafford St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mw_lF~aouMTb@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.833994,
+                        "lng" : -77.0872021
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 614
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : 38.8348556,
+                        "lng" : -77.09417329999999
+                     },
+                     "html_instructions" : "At the traffic circle, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003e34th St S\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "wv_lFbcouM?D?@?B@@?B@@?@@B?@@@@@@@@@LhAAf@Eb@Ev@[bBO`AE^OlAALEh@En@Ev@ANATChAEvACh@CnAElAEx@CRCRIj@?@GVCJEJCHQ`@EHEHSV"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8338788,
+                        "lng" : -77.0873811
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 303
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : 38.8373111,
+                        "lng" : -77.0956935
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eS Abingdon St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{|_lFpmpuMKJIFIDOH[NA@A@e@VYNA@YNA@[PC@o@\\KDo@XeAh@SLuAp@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8348556,
+                        "lng" : -77.09417329999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 736
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 105
+                     },
+                     "end_location" : {
+                        "lat" : 38.8390177,
+                        "lng" : -77.0878573
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e31st St S\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "el`lF`wpuMm@mCe@yBEMAQA[Ai@?sAAiCAgB?Y?G?I@K@I@M@K@I@IBKJi@BK?E@E@O?EA]?IAQCMASCWKk@G]COCKIWGSGUM[Qc@sAeDO]Wi@MWGIEKGGQU"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8373111,
+                        "lng" : -77.0956935
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 359
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 38.8419865,
+                        "lng" : -77.08865489999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Randolph St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{v`lFbfouM_@^k@f@GFKJGHEFEFQXGFGFGFGBCBE@EBE@E?S@E?w@C[A_ACOAmBI{@CQ?UA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8390177,
+                        "lng" : -77.0878573
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "328 ft",
+                        "value" : 100
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.8422737,
+                        "lng" : -77.08973519999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Arlington Mill Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mialF`kouMEfACPAFAJERGTGRIVIT"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8419865,
+                        "lng" : -77.08865489999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "30 ft",
+                        "value" : 9
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 38.8423429,
+                        "lng" : -77.08967520000002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eFour Mile Run Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ekalFzqouMMK"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8422737,
+                        "lng" : -77.08973519999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "33 ft",
+                        "value" : 10
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 38.8422945,
+                        "lng" : -77.0895754
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFour Mile Run Trail\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "skalFnqouMHS"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8423429,
+                        "lng" : -77.08967520000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mw_lF~aouMTh@?DBHDHBBLhAAf@KzAk@dD]dDOlCQzGKfCGf@UpAa@`AY`@URw@`@aAh@yBjAuBbAiB~@sAgGG_@EcHAsCFo@RiAFg@C_AUeBYqAo@iBcBcEe@aAg@s@_BzAe@r@_@ZUJY@}@CyEQmACUAEfAEXG^c@vAMKHS"
+         },
+         "summary" : "34th St S and 31st St S",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

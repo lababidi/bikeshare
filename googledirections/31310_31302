@@ -1,5 +1,242 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9550567,
+               "lng" : -77.069425
+            },
+            "southwest" : {
+               "lat" : 38.9352484,
+               "lng" : -77.07470719999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 mi",
+                  "value" : 2627
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 632
+               },
+               "end_address" : "3720-3808 Newark Street Northwest, Washington, DC 20016, USA",
+               "end_location" : {
+                  "lat" : 38.9352484,
+                  "lng" : -77.0742724
+               },
+               "start_address" : "5000 Connecticut Avenue Northwest, Washington, DC 20008, USA",
+               "start_location" : {
+                  "lat" : 38.9550567,
+                  "lng" : -77.0698404
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "289 ft",
+                        "value" : 88
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.954336,
+                        "lng" : -77.069425
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eConnecticut Ave NW\u003c/b\u003e toward \u003cb\u003eFessenden St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "clwlFnukuMb@Sd@UPIZOVO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9550567,
+                        "lng" : -77.0698404
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1069
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 197
+                     },
+                     "end_location" : {
+                        "lat" : 38.944778,
+                        "lng" : -77.06984799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e36th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sgwlFzrkuMZPB@^JHBPDbBb@NDF?r@?rD?bB?d@@NAvB?t@@Z?T?Z?fA?N?lA?xAAvA@hAAN?R@j@A`B?N?`C@N?N?hA?N?`E?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.954336,
+                        "lng" : -77.069425
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 222
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 38.94477699999999,
+                        "lng" : -77.07241399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWarren St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{kulFpukuM?zA?lA?pE?\\?fA?J?P"
+                     },
+                     "start_location" : {
+                        "lat" : 38.944778,
+                        "lng" : -77.06984799999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 828
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 240
+                     },
+                     "end_location" : {
+                        "lat" : 38.93733,
+                        "lng" : -77.072418
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e37th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{kulFpeluMt@?dA?P?R?H?hA?jA?vA?dB?N?nC@d@?P?zA?nK?xA?N?bD?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.94477699999999,
+                        "lng" : -77.07241399999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 206
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 38.9368846,
+                        "lng" : -77.0746183
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePorter St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "i}slFreluMAxF?D@D?D@D@BX|@Nb@j@~@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.93733,
+                        "lng" : -77.072418
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 ft",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.9366874,
+                        "lng" : -77.07470719999999
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003ePorter St NW\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "ozslFjsluMd@P"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9368846,
+                        "lng" : -77.0746183
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "495 ft",
+                        "value" : 151
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 38.93543,
+                        "lng" : -77.074676
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e38th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "iyslF|sluMr@YRIHEHELGDAFAJAPAJ?J@F@HDDBFBHHPLPN"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9366874,
+                        "lng" : -77.07470719999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "131 ft",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.9352484,
+                        "lng" : -77.0742724
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNewark St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mqslFvsluMFUL[L_@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.93543,
+                        "lng" : -77.074676
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "clwlFnukuMvBcAVOZPb@LnCr@rI?xJ@hLAnP@?xK?rA?Pt@?vA?\\?rI?lX@bD?AxF@J\\lANb@j@~@d@Pr@Y\\OVMj@GV@PFh@^PNFUZ{@"
+         },
+         "summary" : "36th St NW and 37th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

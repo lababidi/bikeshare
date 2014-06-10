@@ -1,5 +1,74 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9047418,
+               "lng" : -77.04169089999999
+            },
+            "southwest" : {
+               "lat" : 38.9047418,
+               "lng" : -77.04169089999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1123 18th Street Northwest, Washington, DC 20036, USA",
+               "end_location" : {
+                  "lat" : 38.9047418,
+                  "lng" : -77.04169089999999
+               },
+               "start_address" : "1123 18th Street Northwest, Washington, DC 20036, USA",
+               "start_location" : {
+                  "lat" : 38.9047418,
+                  "lng" : -77.04169089999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9047418,
+                        "lng" : -77.04169089999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e18th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sqmlFpefuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9047418,
+                        "lng" : -77.04169089999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sqmlFpefuM"
+         },
+         "summary" : "18th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

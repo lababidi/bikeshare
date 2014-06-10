@@ -1,5 +1,122 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9270793,
+               "lng" : -76.97899049999999
+            },
+            "southwest" : {
+               "lat" : 38.9194884,
+               "lng" : -77.00058849999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 mi",
+                  "value" : 2720
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 780
+               },
+               "end_address" : "2895 18th Street Northeast, Washington, DC 20018, USA",
+               "end_location" : {
+                  "lat" : 38.9270793,
+                  "lng" : -76.97899049999999
+               },
+               "start_address" : "2213 4th Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9194884,
+                  "lng" : -77.000575
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 679
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 241
+                     },
+                     "end_location" : {
+                        "lat" : 38.925591,
+                        "lng" : -77.00057249999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e4th St NE\u003c/b\u003e toward \u003cb\u003eRhode Island Ave NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ymplFrd~tMG?_@?W?uAA]?iB?Q?i@?O?}@?yC?S@i@Ac@?S?_BBsECwE?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9194884,
+                        "lng" : -77.000575
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 mi",
+                        "value" : 1874
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 481
+                     },
+                     "end_location" : {
+                        "lat" : 38.925578,
+                        "lng" : -76.978995
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFranklin St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}sqlFpd~tM@iB?KAI?uA@kB?_@?gA?{B?aC?oB?aA?U?yAAcA?i@?g@?A?]?A?A?_C@oA?}A?iD@}G?I?M@[@MBk@Dc@@[@IAQQuJEgCCwAKoFAQC{@C_BAa@Ao@EaCAkABK@KBIDIJ]H]BI@M@I@G?G?ICkF?c@?mB?iI?U"
+                     },
+                     "start_location" : {
+                        "lat" : 38.925591,
+                        "lng" : -77.00057249999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 167
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 38.9270793,
+                        "lng" : -76.97899049999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e18th St NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{sqlFv}ytMuE?uAA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.925578,
+                        "lng" : -76.978995
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ymplFrd~tMyIA}LBkLC@uB?kFAkT?uFBuRBaAHoABe@]gRU}KCqAGmENk@T{@DWBc@CgU?UuE?uAA"
+         },
+         "summary" : "4th St NE and Franklin St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

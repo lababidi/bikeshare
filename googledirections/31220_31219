@@ -1,5 +1,170 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.89491950000001,
+               "lng" : -77.02596129999999
+            },
+            "southwest" : {
+               "lat" : 38.8918847,
+               "lng" : -77.0466799
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2248
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 564
+               },
+               "end_address" : "300-376 10th Street Northwest, Washington, DC 20530, USA",
+               "end_location" : {
+                  "lat" : 38.8930282,
+                  "lng" : -77.0259676
+               },
+               "start_address" : "319-399 21st Street Northwest, Washington, DC 20245, USA",
+               "start_location" : {
+                  "lat" : 38.89491950000001,
+                  "lng" : -77.046671
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 335
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 98
+                     },
+                     "end_location" : {
+                        "lat" : 38.8919042,
+                        "lng" : -77.0466636
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e21st St NW\u003c/b\u003e toward \u003cb\u003eC St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gtklFtdguMl@?tC@tA?`AA~C@v@?f@C"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89491950000001,
+                        "lng" : -77.046671
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1128
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 211
+                     },
+                     "end_location" : {
+                        "lat" : 38.8919332,
+                        "lng" : -77.03364569999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003e15th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kaklFrdguM?q@@cH?C?Q?wA?yC?Y?AAsGAoA?{@@[ByCAmD?AAa@?UEyC@uJ?}@@mM?MBKCMAMA_@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8919042,
+                        "lng" : -77.0466636
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "56 ft",
+                        "value" : 17
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.8920858,
+                        "lng" : -77.03364090000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e15th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qaklFhsduM_@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8919332,
+                        "lng" : -77.03364569999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 665
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 193
+                     },
+                     "end_location" : {
+                        "lat" : 38.89210370000001,
+                        "lng" : -77.02596129999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eConstitution Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qbklFfsduM?a@?iE?cB?{A?_F?eC?sC?{C?]@{ACcI"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8920858,
+                        "lng" : -77.03364090000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "338 ft",
+                        "value" : 103
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 38.8930282,
+                        "lng" : -77.0259676
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e10th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sbklFfccuMyD@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89210370000001,
+                        "lng" : -77.02596129999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gtklFtdguMzI?vE@f@C?q@@gH?iBAiMAkCDuDCgFEyC@uJ@kOBYE[A_@_@A?kF?eP@iLCcIyD@"
+         },
+         "summary" : "Constitution Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,242 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8847894,
+               "lng" : -77.08330819999999
+            },
+            "southwest" : {
+               "lat" : 38.8420376,
+               "lng" : -77.0934243
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5396
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1126
+               },
+               "end_address" : "4 Mile Run Trail, Arlington, VA 22206, USA",
+               "end_location" : {
+                  "lat" : 38.8422945,
+                  "lng" : -77.0895754
+               },
+               "start_address" : "2900 Washington Boulevard, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8847894,
+                  "lng" : -77.0934243
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "413 ft",
+                        "value" : 126
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : {
+                        "lat" : 38.8839196,
+                        "lng" : -77.0924974
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eWashington Blvd\u003c/b\u003e toward \u003cb\u003e10th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}tilFzhpuMNWd@m@NSRSNMRQn@i@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8847894,
+                        "lng" : -77.0934243
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 327
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 38.880999,
+                        "lng" : -77.0925003
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Fillmore St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ooilFbcpuMFHDBFBJ?`@AN?`@AzAEtJG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8839196,
+                        "lng" : -77.0924974
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 290
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 38.8786461,
+                        "lng" : -77.0915282
+                     },
+                     "html_instructions" : "At the traffic circle, continue straight to stay on \u003cb\u003eN Fillmore St\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "g}hlFbcpuMBF@B@@DBDABA@E@GlCCXGXIvEaD^I"
+                     },
+                     "start_location" : {
+                        "lat" : 38.880999,
+                        "lng" : -77.0925003
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1149
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 274
+                     },
+                     "end_location" : {
+                        "lat" : 38.8687014,
+                        "lng" : -77.0882307
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eN Fillmore St\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "qnhlF`}ouMPE\\K\\I~DiAnC{@lC{@d@Qn@Uv@W|CaAp@UpAa@`@MXI`@Kl@OfDeApBo@zC}@nJMZ?ZE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8786461,
+                        "lng" : -77.0915282
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 mi",
+                        "value" : 1610
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 352
+                     },
+                     "end_location" : {
+                        "lat" : 38.8544861,
+                        "lng" : -77.08865890000001
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Walter Reed Dr\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "kpflFlhouMD@B?D?dBQz@IlD]lAMrBQZCf@GxBYTEfAMp@KRCrBYnASlAOv@KHABABC@AxAE^Cz@CR@Z?DFBB@@B?d@BhAR|Cj@h@LJBdB\\zBj@|Bf@pDr@x@Pp@Nj@H`@D^F\\Bh@?d@G\\Hr@AP?P?NB\\J"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8687014,
+                        "lng" : -77.0882307
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 871
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 134
+                     },
+                     "end_location" : {
+                        "lat" : 38.847791,
+                        "lng" : -77.0839469
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Kenmore St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qwclFbkouMPY@ATSp@Yv@Y`Ag@vBoAl@_@HErOaJrCsAtAq@r@[hB}@NIDE@IBIAeA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8544861,
+                        "lng" : -77.08865890000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 652
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 143
+                     },
+                     "end_location" : {
+                        "lat" : 38.8430304,
+                        "lng" : -77.0857518
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Shirlington Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "umblFtmnuMZAb@E\\GZAtAWjA_@bA_@z@Sb@AL@HBLFLLJLLTJXpA|EZhABJDJDHDFDF@BFNNJFBB@D@F@RBR@bABT@|AA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.847791,
+                        "lng" : -77.0839469
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 371
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 38.8422945,
+                        "lng" : -77.0895754
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFour Mile Run Trail\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}oalF|xnuM@H?BBDBDDHDHZf@Zf@PTPXFLFJ@BHRL\\Jb@FZF`@BXB\\BdA@f@?^AHEfAGj@EVSn@GP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8430304,
+                        "lng" : -77.0857518
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}tilFzhpuMt@eAb@g@b@_@n@i@FHLFl@Ap@ApMMLPHCBMlCCXGXIvEaDp@Oz@UnIeCrDmAvHeCnDeAbNcEjKM`@CjD[jKaA~Fu@hG}@rC_@DExBInAAZ?DFDDh@B|GpA`FhAnHzAjB`@lAN|@Jh@?d@G\\Hr@Ab@?l@NR[TSp@Yv@Y`Ag@dDoB|OgJfK_FTODSAeAZA`AMZAtAWnC_Az@Sb@AVDZTXb@|AvF^tAVd@HRVNd@HvADrB?HXbAbBr@hAJVX`AN|@Fv@DlBAh@MrBYfAGP"
+         },
+         "summary" : "N Fillmore St and S Walter Reed Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

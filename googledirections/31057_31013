@@ -1,5 +1,290 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8541794,
+               "lng" : -77.053299
+            },
+            "southwest" : {
+               "lat" : 38.84140379999999,
+               "lng" : -77.0859225
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.8 mi",
+                  "value" : 4527
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1013
+               },
+               "end_address" : "2250-2298 South Eads Street, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.85361049999999,
+                  "lng" : -77.05348619999999
+               },
+               "start_address" : "3501 South Four Mile Run Drive, Arlington, VA 22206, USA",
+               "start_location" : {
+                  "lat" : 38.84442540000001,
+                  "lng" : -77.0859225
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "125 ft",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.8443249,
+                        "lng" : -77.08551079999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eS Four Mile Run Dr\u003c/b\u003e toward \u003cb\u003eS Shirlington Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uxalF~ynuMLaAFO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.84442540000001,
+                        "lng" : -77.0859225
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "82 ft",
+                        "value" : 25
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 38.8441164,
+                        "lng" : -77.0856122
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Shirlington Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_xalFlwnuMLHHBB@B@F@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8443249,
+                        "lng" : -77.08551079999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "240 ft",
+                        "value" : 73
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 38.8434886,
+                        "lng" : -77.0855935
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eShirlington Connector Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wvalF`xnuMFKD?D@H?f@@v@B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8441164,
+                        "lng" : -77.0856122
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 851
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 204
+                     },
+                     "end_location" : {
+                        "lat" : 38.8437654,
+                        "lng" : -77.0761012
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFour Mile Run Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yralF|wnuM?ABC?A?ECUIaAEu@Cw@@u@@YBWN}@D_@HeAFo@BU?C@A@K?A?CBW?CD_@?CBW?A@ABW?G@CDi@@M@W?_@A]Cc@AOKo@UuAKu@Ei@Gw@_@gCk@kDE[AW?[@YBYH_@?EBI@G?CDYBK?G?_@?I@MD[BO@O?M?QAMCEKA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8434886,
+                        "lng" : -77.0855935
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 516
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 111
+                     },
+                     "end_location" : {
+                        "lat" : 38.844551,
+                        "lng" : -77.07024679999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eFour Mile Run Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qtalFr|luMAiAMwDMgCUoEKuACOEOEKAGAIGcAOaBEe@K_AS}AIy@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8437654,
+                        "lng" : -77.0761012
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 792
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 147
+                     },
+                     "end_location" : {
+                        "lat" : 38.8447752,
+                        "lng" : -77.06213919999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eFour Mile Run Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "myalF`xkuMRIFCHCBEBG@KHs@NwANyABa@B_@@m@?u@As@GeAGcAGk@YsAY}BCICK_A}BKWEMCQOcAAMCICEEESEIIEGECMIKQAE?I?EBELSBGBK@M?OCWAK?GBMJWBIBQBSBMBI\\i@JMDGJ[H]"
+                     },
+                     "start_location" : {
+                        "lat" : 38.844551,
+                        "lng" : -77.07024679999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 706
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 127
+                     },
+                     "end_location" : {
+                        "lat" : 38.84140379999999,
+                        "lng" : -77.055318
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eFour Mile Run Trail\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "{zalFjejuMHIt@{@n@cAbAqBtAsCPYFKFI@GDQ@IDKXq@j@uAj@mB`@{AlAuDf@cBd@oA`@wAHYFYB["
+                     },
+                     "start_location" : {
+                        "lat" : 38.8447752,
+                        "lng" : -77.06213919999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 157
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 38.8427099,
+                        "lng" : -77.0547741
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eS Eads St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wealFvzhuMOCKEE?MAGAE?GAECGAIGICCAGAICoA[SEGAEAEAAACCAAAAACCM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.84140379999999,
+                        "lng" : -77.055318
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1294
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 318
+                     },
+                     "end_location" : {
+                        "lat" : 38.8541794,
+                        "lng" : -77.053299
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Eads St\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "}malFhwhuMUIgA[KC_Dy@uBi@y@QkEiAgBMYAOEk@?k@D]B]DaBTM@kANK?c@@qBI{BIe@Cm@CgAAQAiDIaAMQ?aAE[AqBEoAGcDQ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8427099,
+                        "lng" : -77.0547741
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "246 ft",
+                        "value" : 75
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 38.85361049999999,
+                        "lng" : -77.05348619999999
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003e22nd St S\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "suclFbnhuM@Z|@Dp@B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8541794,
+                        "lng" : -77.053299
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uxalF~ynuMTqAVLFBF@FKJ@p@@v@@BESsCAmBDq@T}APuBD[JqAPiBBe@A}@Es@a@eCQ_BGw@_@gCq@gEAs@Ds@He@DUHe@?g@@WHk@@]A_@CEKAOaGc@wIOeBOm@i@kG]wCZMLIDSXkCR{BDmAAiBOiCa@_C]gCcAiCQe@SuAEWIKSEIIKKMIKQAOBKP[DYCg@ASNe@N}@`@s@PUTy@~@eArBuDfBmDNUFYFUdAgClAiEtByGd@oA`@wAPs@B[OCQEc@Ea@QeBc@g@KIIEQ}Ae@{IyBkEiAgBMYAOEwAD{@HgEf@uCGaDMqHQsAM}AGaEMcDQ@ZnBH"
+         },
+         "summary" : "Four Mile Run Trail and S Eads St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

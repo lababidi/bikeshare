@@ -1,5 +1,145 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8973158,
+               "lng" : -77.070998
+            },
+            "southwest" : {
+               "lat" : 38.8960593,
+               "lng" : -77.0781119
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 666
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 307
+               },
+               "end_address" : "1614-1698 Key Boulevard, Arlington, VA 22209, USA",
+               "end_location" : {
+                  "lat" : 38.8960593,
+                  "lng" : -77.0781119
+               },
+               "start_address" : "1912-1968 North Lynn Street, Arlington, VA 22209, USA",
+               "start_location" : {
+                  "lat" : 38.8973158,
+                  "lng" : -77.070998
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "89 ft",
+                        "value" : 27
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.8971254,
+                        "lng" : -77.0711749
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e toward \u003cb\u003e19th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gcllFv|kuM@?HBDBFFJP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8973158,
+                        "lng" : -77.070998
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "377 ft",
+                        "value" : 115
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 38.896862,
+                        "lng" : -77.07240709999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e19th St N\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "abllFx}kuM?z@?h@@`@@LBF@HFPFNFJJTFJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8971254,
+                        "lng" : -77.0711749
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "240 ft",
+                        "value" : 73
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 38.8963617,
+                        "lng" : -77.07294
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eN Nash St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "k`llFpeluMFHJNHJFFHJJJFFFFNJFF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.896862,
+                        "lng" : -77.07240709999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 451
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 184
+                     },
+                     "end_location" : {
+                        "lat" : 38.8960593,
+                        "lng" : -77.0781119
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKey Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "g}klFzhluMENCF?FAJAJ?H@JJnCXxJPfFBb@BhAFnA?J"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8963617,
+                        "lng" : -77.07294
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gcllFv|kuMJBLJJP?z@@jANp@b@|@d@l@d@f@VRIVCh@hAf]"
+         },
+         "summary" : "Key Blvd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

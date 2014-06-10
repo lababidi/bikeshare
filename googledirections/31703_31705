@@ -1,5 +1,98 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8970017,
+               "lng" : -76.94730419999999
+            },
+            "southwest" : {
+               "lat" : 38.8944544,
+               "lng" : -76.9491767
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 417
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 118
+               },
+               "end_address" : "4000-4060 Benning Road Northeast, Washington, DC 20019, USA",
+               "end_location" : {
+                  "lat" : 38.8944544,
+                  "lng" : -76.9476567
+               },
+               "start_address" : "4058 Minnesota Avenue Northeast, Washington, DC 20019, USA",
+               "start_location" : {
+                  "lat" : 38.8970017,
+                  "lng" : -76.94730419999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 267
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 38.8951035,
+                        "lng" : -76.9491767
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eMinnesota Ave NE\u003c/b\u003e toward \u003cb\u003eBenning Rd NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gallFrwstM@@DDNLBBFD`@d@`AdAt@x@JLtAxAhAt@PR"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8970017,
+                        "lng" : -76.94730419999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "492 ft",
+                        "value" : 150
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 81
+                     },
+                     "end_location" : {
+                        "lat" : 38.8944544,
+                        "lng" : -76.9476567
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBenning Rd NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kuklFjcttMF]\\cAr@qBFSHUTq@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8951035,
+                        "lng" : -76.9491767
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gallFrwstMZX`DjD`BfBhAt@PRd@aBz@eC^gA"
+         },
+         "summary" : "Minnesota Ave NE and Benning Rd NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

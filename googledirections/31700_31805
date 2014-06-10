@@ -1,5 +1,170 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8733075,
+               "lng" : -76.96724279999999
+            },
+            "southwest" : {
+               "lat" : 38.8599898,
+               "lng" : -76.9732195
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1853
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 295
+               },
+               "end_address" : "1401-1455 25th Street Southeast, Washington, DC 20020, USA",
+               "end_location" : {
+                  "lat" : 38.8730573,
+                  "lng" : -76.97092889999999
+               },
+               "start_address" : "2669-2799 Good Hope Road Southeast, Washington, DC 20020, USA",
+               "start_location" : {
+                  "lat" : 38.8599898,
+                  "lng" : -76.96724279999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 156
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 38.8606583,
+                        "lng" : -76.968779
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eGood Hope Rd SE\u003c/b\u003e toward \u003cb\u003eNaylor Rd SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}ydlFftwtMO`AM`AGVCLCJO\\MTU\\CD_@d@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8599898,
+                        "lng" : -76.96724279999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1209
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 171
+                     },
+                     "end_location" : {
+                        "lat" : 38.8701723,
+                        "lng" : -76.9731992
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eNaylor Rd SE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "c~dlFz}wtMaAX]JoAd@E@EBC@A@OLA@KBGBIBMDE@MF]PcAl@gAn@WNu@`@{@f@KHMFQJSJIBIBSHKBG@I@OFE?O@Q@S?M?K?IAQCUG_@MqAm@a@QICICQGSESEKAQCMAOCS?KAW?W?W@M@K@WBMBWDK@IBUF_@NIBUJID_@PQJ{@`@a@VMR_AbBMVk@~@OTkCvE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8606583,
+                        "lng" : -76.968779
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 229
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 38.8722243,
+                        "lng" : -76.9732195
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e23rd St SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qyflFnyxtMqAA_@?o@?mBAqB?WF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8701723,
+                        "lng" : -76.9731992
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 231
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 38.8733075,
+                        "lng" : -76.9709575
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMinnesota Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kfglFryxtM}@yBQa@EOG]Oa@Uo@iAqCKU"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8722243,
+                        "lng" : -76.9732195
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 38.8730573,
+                        "lng" : -76.97092889999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e25th St SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "emglFnkxtMBADAFAH?T?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8733075,
+                        "lng" : -76.9709575
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}ydlFftwtMi@hDSh@c@r@c@j@_Bd@_Bl@QNMDe@NwDvBuCbB}@b@q@RYHU@_A@[Eu@UgCgAeAUcAIsA?_AJcARiAd@oCvAgCnE{ClFqBA}CAqB?WFoA{CMm@{ByFZET?"
+         },
+         "summary" : "Naylor Rd SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

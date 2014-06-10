@@ -1,5 +1,170 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.856352,
+               "lng" : -77.04933439999999
+            },
+            "southwest" : {
+               "lat" : 38.8461744,
+               "lng" : -77.0747743
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3537
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 783
+               },
+               "end_address" : "1967 Crystal Drive, Crystal City Shops, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.856352,
+                  "lng" : -77.0493355
+               },
+               "start_address" : "1200-1298 28th Street South, Arlington, VA 22206, USA",
+               "start_location" : {
+                  "lat" : 38.8461744,
+                  "lng" : -77.06929169999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 902
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 174
+                     },
+                     "end_location" : {
+                        "lat" : 38.8517329,
+                        "lng" : -77.0747743
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003e28th St S\u003c/b\u003e toward \u003cb\u003eS Meade St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qcblF`rkuMCNShAKh@YxA]vAGXUx@_@rACD[dAc@jAUn@e@hAWl@[h@KNKNKLSTSRUNMHKHKFIDw@Z]F[Fk@D_@?]ASCMAMAMEIASGIC_@MWMi@YUAKAE?EAE@E?I@K@G@IBGBGBIDEBYXSZQb@Qd@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8461744,
+                        "lng" : -77.06929169999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 176
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 38.8531272,
+                        "lng" : -77.07380909999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eArmy Navy Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ifclFhtluMi@]cBkAk@]}Aw@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8517329,
+                        "lng" : -77.0747743
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 mi",
+                        "value" : 1829
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 458
+                     },
+                     "end_location" : {
+                        "lat" : 38.8534236,
+                        "lng" : -77.0526971
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e23rd St S\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aoclFhnluM?aD@aFA{MAgA?qB?g@?_A?kACeAAiAA{@CuHAsGAkBCsD?{DGuJC{JGiMC_J?WKiC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8531272,
+                        "lng" : -77.07380909999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 276
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 38.8531752,
+                        "lng" : -77.04955880000001
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003e23rd St S\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "{pclFjjhuMLS?g@Hu@JwFDsCDuB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8534236,
+                        "lng" : -77.0526971
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 354
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 38.856352,
+                        "lng" : -77.0493355
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCrystal Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "koclFvvguMo@Gm@E_AGi@CwACcACcACoAEg@Ai@AIBO?U?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8531752,
+                        "lng" : -77.04955880000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qcblF`rkuM}@|Ee@pBu@lCyAfE}@vBg@x@_AfA{@j@aA`@y@NkADq@Es@K]Kw@[i@YUAQA[@e@JQH_@\\e@~@Qd@i@]oCiB}Aw@?aD?}TAyDCyFIoUMqYO}d@KiCLS?g@Hu@PkKDuBo@GmBMaCG_GOyA@"
+         },
+         "summary" : "28th St S and 23rd St S",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

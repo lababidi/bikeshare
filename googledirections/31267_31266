@@ -1,5 +1,170 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.908143,
+               "lng" : -77.0271365
+            },
+            "southwest" : {
+               "lat" : 38.9053209,
+               "lng" : -77.0385062
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1257
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 331
+               },
+               "end_address" : "1100-1112 M Street Northwest, Washington, DC 20005, USA",
+               "end_location" : {
+                  "lat" : 38.905638,
+                  "lng" : -77.0271365
+               },
+               "start_address" : "1308-1366 17th Street Northwest, Washington, DC 20036, USA",
+               "start_location" : {
+                  "lat" : 38.908143,
+                  "lng" : -77.03850079999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 178
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 38.906544,
+                        "lng" : -77.038501
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e17th St NW\u003c/b\u003e toward \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{fnlFrqeuMh@?Z?r@?x@@lA?|@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.908143,
+                        "lng" : -77.03850079999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 161
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 38.9070612,
+                        "lng" : -77.0367732
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRhode Island Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{|mlFrqeuM}@gDQo@WaC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.906544,
+                        "lng" : -77.038501
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 265
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 38.9062817,
+                        "lng" : -77.0339482
+                     },
+                     "html_instructions" : "At \u003cb\u003eScott Cir NW\u003c/b\u003e, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "c`nlFxfeuM@EBI@M@O?MAMAMCEBQ@I@I?G@I?GBK@IBMB_@No@T{@Ti@J_@Ha@n@yB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9070612,
+                        "lng" : -77.0367732
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "499 ft",
+                        "value" : 152
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 38.9056699,
+                        "lng" : -77.0323901
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eM St NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "g{mlFduduMTm@DMBIDKz@qDBGFKBGFW"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9062817,
+                        "lng" : -77.0339482
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 501
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 127
+                     },
+                     "end_location" : {
+                        "lat" : 38.905638,
+                        "lng" : -77.0271365
+                     },
+                     "html_instructions" : "At the traffic circle, exit onto \u003cb\u003eM St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "mwmlFlkduMF@BAB?@AB?@ABA@?BA@A@ABCBCBC@EBGBGBG@G@G@O?I?CAEAI?E?A?EEIGGACCCCCCCAAIEGAI?EA@qH?Q?s@?a@?sG@_B?I?y@?W"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056699,
+                        "lng" : -77.0323901
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{fnlFrqeuMrD@jCAoAwEWaC@EDW@]C[CEBQBSDe@DWB_@No@T{@Ti@TaAdAgDHW`A}DJSJ_@J?JCXSL]Di@CY?GMQMOKGQAEA@qH?eA@_L?qA"
+         },
+         "summary" : "M St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

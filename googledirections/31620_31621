@@ -1,5 +1,98 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.89734079999999,
+               "lng" : -77.0161808
+            },
+            "southwest" : {
+               "lat" : 38.89535130000001,
+               "lng" : -77.0193452
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 495
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 77
+               },
+               "end_address" : "451 4th Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.89535130000001,
+                  "lng" : -77.0161808
+               },
+               "start_address" : "501-547 F Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.89734079999999,
+                  "lng" : -77.0193452
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 274
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : 38.8973403,
+                        "lng" : -77.01618089999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eF St NW\u003c/b\u003e toward \u003cb\u003e5th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kcllF|yauM?sA?S?}F?cD?cA?k@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89734079999999,
+                        "lng" : -77.0193452
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 221
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 38.89535130000001,
+                        "lng" : -77.0161808
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e4th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kcllFbfauM|@?|B?v@?z@?x@?b@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8973403,
+                        "lng" : -77.01618089999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kcllF|yauM?iO?oBzD?pE?"
+         },
+         "summary" : "F St NW and 4th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

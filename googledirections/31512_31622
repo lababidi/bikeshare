@@ -1,5 +1,169 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9038081,
+               "lng" : -76.984666
+            },
+            "southwest" : {
+               "lat" : 38.894778,
+               "lng" : -76.98763289999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1361
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 311
+               },
+               "end_address" : "1313 D Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.894778,
+                  "lng" : -76.98763289999999
+               },
+               "start_address" : "1299 Neal Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9038081,
+                  "lng" : -76.9871572
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 246
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 38.902739,
+                        "lng" : -76.984666
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eNeal St NE\u003c/b\u003e toward \u003cb\u003eTrinidad Ave NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ykmlFvp{tMnA{DFO\\eA^mA~@qC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9038081,
+                        "lng" : -76.9871572
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 228
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 38.9009358,
+                        "lng" : -76.985929
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eStaples St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cemlFda{tMvD~Bv@f@b@Xx@f@XP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.902739,
+                        "lng" : -76.984666
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "98 ft",
+                        "value" : 30
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 38.9008094,
+                        "lng" : -76.9856193
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFlorida Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{yllF`i{tMRm@DO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9009358,
+                        "lng" : -76.985929
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 673
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 173
+                     },
+                     "end_location" : {
+                        "lat" : 38.8947822,
+                        "lng" : -76.9855034
+                     },
+                     "html_instructions" : "\u003cb\u003eFlorida Ave NE\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003e14th St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ayllFbg{tMFGBCDCBABADAB?DAD?D@dAAx@?l@@h@?XAP?`A?hH?P?hB@N?fB?N?x@?P?h@AV@|BA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9008094,
+                        "lng" : -76.9856193
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 184
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 38.894778,
+                        "lng" : -76.98763289999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eD St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ksklFjf{tM?vB?rB?hD?R"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8947822,
+                        "lng" : -76.9855034
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ykmlFvp{tMtC_J~@qCvD~BzA`ArAx@X}@TQREjC?jR@rKA?hL"
+         },
+         "summary" : "Neal St NE and 14th St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

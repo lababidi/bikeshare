@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8959146,
+               "lng" : -77.0259676
+            },
+            "southwest" : {
+               "lat" : 38.8930282,
+               "lng" : -77.0259961
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.2 mi",
+                  "value" : 321
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 73
+               },
+               "end_address" : "300-376 10th Street Northwest, Washington, DC 20530, USA",
+               "end_location" : {
+                  "lat" : 38.8930282,
+                  "lng" : -77.0259676
+               },
+               "start_address" : "406 10th Street Northwest, Washington, DC 20004, USA",
+               "start_location" : {
+                  "lat" : 38.8959146,
+                  "lng" : -77.0259961
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 321
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 38.8930282,
+                        "lng" : -77.0259676
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e10th St NW\u003c/b\u003e toward \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "mzklFnccuMbFCdA?tGA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8959146,
+                        "lng" : -77.0259961
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mzklFnccuM~PE"
+         },
+         "summary" : "10th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,5 +1,218 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9307246,
+               "lng" : -77.03145719999999
+            },
+            "southwest" : {
+               "lat" : 38.9034072,
+               "lng" : -77.04345769999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4199
+               },
+               "duration" : {
+                  "text" : "20 mins",
+                  "value" : 1180
+               },
+               "end_address" : "1339-1345 Park Road Northwest, Washington, DC 20010, USA",
+               "end_location" : {
+                  "lat" : 38.9307246,
+                  "lng" : -77.03145719999999
+               },
+               "start_address" : "1075-1099 19th Street Northwest, Washington, DC 20036, USA",
+               "start_location" : {
+                  "lat" : 38.9034072,
+                  "lng" : -77.043457
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "125 ft",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 38.9037466,
+                        "lng" : -77.04345769999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e19th St NW\u003c/b\u003e toward \u003cb\u003eL St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "iimlFrpfuMcA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9034072,
+                        "lng" : -77.043457
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 769
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 264
+                     },
+                     "end_location" : {
+                        "lat" : 38.9037458,
+                        "lng" : -77.0345694
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eL St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mkmlFrpfuM?U@kE?[?u@@O?]AeF?wACc@DaE?wA?oB?{DAmA?Q?{@?sA?{A?_A?eAAU"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9037466,
+                        "lng" : -77.04345769999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 mi",
+                        "value" : 1626
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 382
+                     },
+                     "end_location" : {
+                        "lat" : 38.9183717,
+                        "lng" : -77.03450370000002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e15th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mkmlF`yduMgA?cB?e@?aB?gA?}AAoA?M?I?S@cBAiC?eB?s@?q@?m@?}A?qAAaA?qCAuCAmA?u@?M?_A@yC?C?mA?a@?oB?cC?Q?M?oBAO?[?sB@sCAi@?K?S?YAWC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9037458,
+                        "lng" : -77.0345694
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1170
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 374
+                     },
+                     "end_location" : {
+                        "lat" : 38.9286647,
+                        "lng" : -77.0361922
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003e15th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "yfplFrxduM_@FyAVc@Jc@@eFLUASDEBEBCFCDCFCHADCDEBCDGBGBE@G@mAB[@iABuBDgBF}@@K?mGPgBDU@qDDeABkABSDm@RiBj@uC~@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9183717,
+                        "lng" : -77.03450370000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 308
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 38.9287745,
+                        "lng" : -77.03264039999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eIrving St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cgrlFdceuM?U?SDmB?I?Q?QEqBSuGCoAAKB["
+                     },
+                     "start_location" : {
+                        "lat" : 38.9286647,
+                        "lng" : -77.0361922
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 164
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 38.9302453,
+                        "lng" : -77.0327468
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e14th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ygrlF~lduMqAHmAFc@@m@@e@?O?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9287745,
+                        "lng" : -77.03264039999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "407 ft",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.9307246,
+                        "lng" : -77.03145719999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePark Rd NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aqrlFtmduMGQEGEKiA{E"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9302453,
+                        "lng" : -77.0327468
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iimlFrpfuMcA??U@gF?iI?wACc@DyGAkK?kHA{AkD?mHA{B@wSCwLC}G@wNAsH?cBAWC_@F}Bb@iGNUASDKFGLM\\YPwBH}Vl@wFHkABSDwC~@uC~@?UDaC?[]iN@g@_DPgCBMYoAgF"
+         },
+         "summary" : "15th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

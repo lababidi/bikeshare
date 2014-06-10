@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9155778,
+               "lng" : -77.03818059999999
+            },
+            "southwest" : {
+               "lat" : 38.9079253,
+               "lng" : -77.04169659999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1354
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 264
+               },
+               "end_address" : "1621 T Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9155778,
+                  "lng" : -77.03818059999999
+               },
+               "start_address" : "1308-1366 17th Street Northwest, Washington, DC 20036, USA",
+               "start_location" : {
+                  "lat" : 38.908143,
+                  "lng" : -77.03850079999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "79 ft",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.9079253,
+                        "lng" : -77.0385034
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e17th St NW\u003c/b\u003e toward \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{fnlFrqeuMh@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.908143,
+                        "lng" : -77.03850079999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 303
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 38.909038,
+                        "lng" : -77.04169659999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qenlFrqeuM}E~R"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9079253,
+                        "lng" : -77.0385034
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 727
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 134
+                     },
+                     "end_location" : {
+                        "lat" : 38.9155764,
+                        "lng" : -77.0416496
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e18th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "olnlFrefuMY?kAAQAQ?cCAaA@qA?I?W?k@?eAAKAgC?iC?M?m@?aBAO?gA?{@?uC?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.909038,
+                        "lng" : -77.04169659999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 300
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 38.9155778,
+                        "lng" : -77.03818059999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eT St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kuolFhefuM?qB?y@?oB@yIA_A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9155764,
+                        "lng" : -77.0416496
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{fnlFrqeuMh@?}E~ReBAiFAcOCmDAcC?uC??qB?iD?yK"
+         },
+         "summary" : "18th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

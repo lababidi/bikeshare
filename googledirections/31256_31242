@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8995543,
+               "lng" : -77.025977
+            },
+            "southwest" : {
+               "lat" : 38.8944245,
+               "lng" : -77.04161210000001
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1919
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 491
+               },
+               "end_address" : "1776-1798 Pennsylvania Avenue Northwest, Washington, DC 20006, USA",
+               "end_location" : {
+                  "lat" : 38.8995543,
+                  "lng" : -77.04161210000001
+               },
+               "start_address" : "406 10th Street Northwest, Washington, DC 20004, USA",
+               "start_location" : {
+                  "lat" : 38.8959146,
+                  "lng" : -77.0259961
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 166
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 38.8944245,
+                        "lng" : -77.025977
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e10th St NW\u003c/b\u003e toward \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mzklFnccuMbFCdA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8959146,
+                        "lng" : -77.0259961
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 683
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 191
+                     },
+                     "end_location" : {
+                        "lat" : 38.8955258,
+                        "lng" : -77.0336308
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cqklFjccuMYvAEV]zAM|@UlAWrAaAhFS~@Ep@CR?LAH?J?H?jBAjD@fAAdD@n@AxB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8944245,
+                        "lng" : -77.025977
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 360
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 105
+                     },
+                     "end_location" : {
+                        "lat" : 38.8987612,
+                        "lng" : -77.0336375
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e15th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "axklFdsduMeB?iA@{D@{DA}A?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8955258,
+                        "lng" : -77.0336308
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 710
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 172
+                     },
+                     "end_location" : {
+                        "lat" : 38.8995543,
+                        "lng" : -77.04161210000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "glllFfsduMB^?rF?L@nA?\\?|C@n@?pC?tB?pEAh@Ij@Of@e@fBCJaAvD]vA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8987612,
+                        "lng" : -77.0336375
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mzklFnccuMhHC_@nB]zAM|@m@`DuAhHIdAAl@AdO?hDoD@wJ?}A?B^?`G@lB@tMAzFYrAiCbK"
+         },
+         "summary" : "Pennsylvania Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

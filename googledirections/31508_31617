@@ -1,5 +1,239 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9053133,
+               "lng" : -76.9830451
+            },
+            "southwest" : {
+               "lat" : 38.8992375,
+               "lng" : -76.99495899999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1665
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 420
+               },
+               "end_address" : "801-807 Bladensburg Road Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.90048600000001,
+                  "lng" : -76.9830451
+               },
+               "start_address" : "800 Florida Avenue Northeast, Gallaudet University, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9051436,
+                  "lng" : -76.99410689999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "180 ft",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 38.9053133,
+                        "lng" : -76.99468329999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "ctmlFd||tM?@Cn@]~@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9051436,
+                        "lng" : -76.99410689999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "223 ft",
+                        "value" : 68
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 38.904758,
+                        "lng" : -76.99489799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003e8th St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eumlFv_}tMl@E~@p@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9053133,
+                        "lng" : -76.99468329999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 250
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : {
+                        "lat" : 38.9025162,
+                        "lng" : -76.99495899999999
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003e8th St NE\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "wqmlFba}tMHBBBD@B@D?pD?vD?P?d@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.904758,
+                        "lng" : -76.99489799999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 460
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 102
+                     },
+                     "end_location" : {
+                        "lat" : 38.9024895,
+                        "lng" : -76.98963839999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eK St NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wcmlFna}tM@oF?_F?_FBqD?mA?wB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9025162,
+                        "lng" : -76.99495899999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 395
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 96
+                     },
+                     "end_location" : {
+                        "lat" : 38.9008094,
+                        "lng" : -76.9856193
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eFlorida Ave NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qcmlFf`|tMFSXaARm@V{@^kAhAqDr@wBJ]|@qCRm@DO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9024895,
+                        "lng" : -76.98963839999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 177
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 38.8992375,
+                        "lng" : -76.9855049
+                     },
+                     "html_instructions" : "\u003cb\u003eFlorida Ave NE\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003e14th St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ayllFbg{tMFGBCDCBABADAB?DAD?D@dAAx@?l@@h@?XAP?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9008094,
+                        "lng" : -76.9856193
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 200
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 38.9000638,
+                        "lng" : -76.9834501
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMaryland Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gollFjf{tMMa@u@gCuAiEIe@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8992375,
+                        "lng" : -76.9855049
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "197 ft",
+                        "value" : 60
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 38.90048600000001,
+                        "lng" : -76.9830451
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eBladensburg Rd NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "ktllFpyztMWe@}@i@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9000638,
+                        "lng" : -76.9834501
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ctmlFd||tMCp@]~@l@EhAt@HDrJ@v@?@oMBqK?eElA_EhDsKpA_ELWPKTCrD@bAAP?Ma@kCqIIe@We@}@i@"
+         },
+         "summary" : "K St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

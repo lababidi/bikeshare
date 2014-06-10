@@ -1,5 +1,74 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8561842,
+               "lng" : -77.0512272
+            },
+            "southwest" : {
+               "lat" : 38.8561842,
+               "lng" : -77.0512272
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "2210-2262 20th Street South, Crystal City Shops, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.8561842,
+                  "lng" : -77.0512272
+               },
+               "start_address" : "2210-2262 20th Street South, Crystal City Shops, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.8561842,
+                  "lng" : -77.0512272
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8561842,
+                        "lng" : -77.0512272
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e20th St S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cbdlFdahuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8561842,
+                        "lng" : -77.0512272
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cbdlFdahuM"
+         },
+         "summary" : "20th St S",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

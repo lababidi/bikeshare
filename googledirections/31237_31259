@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9037407,
+               "lng" : -77.0450565
+            },
+            "southwest" : {
+               "lat" : 38.894467,
+               "lng" : -77.05352379999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1462
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 313
+               },
+               "end_address" : "20th Street Northwest, Washington, DC 20245, USA",
+               "end_location" : {
+                  "lat" : 38.894686,
+                  "lng" : -77.0450565
+               },
+               "start_address" : "2500 Pennsylvania Avenue Northwest, Washington, DC 20530, USA",
+               "start_location" : {
+                  "lat" : 38.9037407,
+                  "lng" : -77.05352379999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 280
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 38.9025131,
+                        "lng" : -77.0507751
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e toward \u003cb\u003e25th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kkmlFnohuMJk@h@oB|AmGRMBCBG\\}@\\[HE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9037407,
+                        "lng" : -77.05352379999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 644
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 117
+                     },
+                     "end_location" : {
+                        "lat" : 38.8970133,
+                        "lng" : -77.0501146
+                     },
+                     "html_instructions" : "At the traffic circle, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003e23rd St NW\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "ucmlFj~guMFAFAPCJEHEDGDEDGFKBGBIBKBMBO?Qb@?`A?tA?v@?N?P?lE@|B?R?hB?d@?fA?P?j@A^AH?n@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9025131,
+                        "lng" : -77.0507751
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 507
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 88
+                     },
+                     "end_location" : {
+                        "lat" : 38.894467,
+                        "lng" : -77.04526980000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVirginia Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iallFdzguM`BuDHSBOBU`@_AHQd@iAh@mA?A@AN]N]nAuC`B{Dv@{A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8970133,
+                        "lng" : -77.0501146
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "102 ft",
+                        "value" : 31
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 38.894686,
+                        "lng" : -77.0450565
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e20th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mqklF|{fuMSUQOEC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.894467,
+                        "lng" : -77.04526980000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kkmlFnohuMt@{C|AmGRMFK\\}@\\[HENC\\INMVa@Ns@?Qb@?vC?fH@`H?dDCx@?jBiEFe@j@qApA{CnBqE`B{Dv@{Ae@e@EC"
+         },
+         "summary" : "23rd St NW and Virginia Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

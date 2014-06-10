@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.931821,
+               "lng" : -77.027035
+            },
+            "southwest" : {
+               "lat" : 38.9175992,
+               "lng" : -77.0319592
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2319
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 452
+               },
+               "end_address" : "2000-2098 14th Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9175992,
+                  "lng" : -77.0319592
+               },
+               "start_address" : "1339-1345 Park Road Northwest, Washington, DC 20010, USA",
+               "start_location" : {
+                  "lat" : 38.9307246,
+                  "lng" : -77.03145719999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 302
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 38.931821,
+                        "lng" : -77.02826
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003ePark Rd NW\u003c/b\u003e toward \u003cb\u003eHolmead Pl NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_trlFreduMi@uBG[gAiEYmAq@sCUaA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9307246,
+                        "lng" : -77.03145719999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 mi",
+                        "value" : 1534
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 260
+                     },
+                     "end_location" : {
+                        "lat" : 38.918111,
+                        "lng" : -77.027036
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e11th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{zrlFrqcuMRCp@Mf@GrB[~AWD?bAQ`@GNC~@OlAQb@Gt@MrASv@M~@M^Ed@Ir@MH?DAP?j@?v@?v@?R?`B?bB?hD?J?N?x@?xA?d@?b@?l@?lI?zH?jC?hA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.931821,
+                        "lng" : -77.02826
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 426
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 38.9181132,
+                        "lng" : -77.0319544
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eV St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "eeplF~icuM?jB?@?`B?zB?Z?`@?r@?r@?P?~B?B?bE?dB?b@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.918111,
+                        "lng" : -77.027036
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "187 ft",
+                        "value" : 57
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 38.9175992,
+                        "lng" : -77.0319592
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e14th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eeplFthduMdB@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9181132,
+                        "lng" : -77.0319544
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_trlFreduMsCiLgAuEdAQ`G{@tDm@xLgB|@MVAnD?dQ?zU?tE??lB?zG?xF?pIdB@"
+         },
+         "summary" : "11th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

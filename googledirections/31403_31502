@@ -1,5 +1,170 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9565928,
+               "lng" : -76.9954898
+            },
+            "southwest" : {
+               "lat" : 38.9346044,
+               "lng" : -77.0198937
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4226
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 878
+               },
+               "end_address" : "3602 John McCormack Drive Northeast, The Catholic University of America, Washington, DC 20017, USA",
+               "end_location" : {
+                  "lat" : 38.9346044,
+                  "lng" : -76.9954898
+               },
+               "start_address" : "5500-5548 5th Street Northwest, Washington, DC 20011, USA",
+               "start_location" : {
+                  "lat" : 38.9565928,
+                  "lng" : -77.0198937
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 385
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 38.953137,
+                        "lng" : -77.01972499999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e5th St NW\u003c/b\u003e toward \u003cb\u003eKennedy St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uuwlFh}auMZ?RAvAChBEn@Af@Ar@AhAClACzCG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9565928,
+                        "lng" : -77.0198937
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1037
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 308
+                     },
+                     "end_location" : {
+                        "lat" : 38.953452,
+                        "lng" : -77.00775209999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHamilton St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "c`wlFf|auMEgDEaF?OA]?i@AkAAgAA]Ag@?a@ASAsAEuFA{@AaBCiBCmDAq@Ak@?[CmCAgAA{@EuEA]AiBAw@?i@?G@E@G@E"
+                     },
+                     "start_location" : {
+                        "lat" : 38.953137,
+                        "lng" : -77.01972499999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 941
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 215
+                     },
+                     "end_location" : {
+                        "lat" : 38.94563249999999,
+                        "lng" : -77.0047811
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFort Totten Dr NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "abwlFlq_uMFBD@FBF@J?vABrA?tBAJ?LABALAJCJCJELGLGn@c@v@i@tA}@LGJI`Ao@DCJGLINEJCFCFADALC\\EvAM`BMLAnCUNAlAMJAFAFAHCHAFAHCFCHCFEDCFCVUJKDEDGv@gAp@_ABGBAHM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.953452,
+                        "lng" : -77.00775209999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 831
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 119
+                     },
+                     "end_location" : {
+                        "lat" : 38.9434171,
+                        "lng" : -76.99901609999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "equlFz~~tMGOEGqAiEOk@Mk@Ie@w@mCsAmEOi@CQ?UDWJMTQVK~Bw@vC_ArC}@bA[rBq@x@UFC?C?CCG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.94563249999999,
+                        "lng" : -77.0047811
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1032
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 182
+                     },
+                     "end_location" : {
+                        "lat" : 38.9346044,
+                        "lng" : -76.9954898
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e at \u003cb\u003eJohn McCormack Dr NE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "kculFzz}tM?I?ABCrDoApC_AdDeAb@MDAzAe@@AfF{AxFgBlEsAjDgAz@QZEhC]^EHEBA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9434171,
+                        "lng" : -76.99901609999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uuwlFh}auMfMUhFKKiKCcDQiQSiUKyK?oBBMLDNDbBBbFCh@Kf@UjEsC~AeAp@Wx@MvIs@pBSb@Ib@Qp@i@tBuCFIHMGOwAqE]wAIe@w@mCcBwFCg@DWJMl@]vGwBdKaDFGCK?KvDsA`JuC~PkFxJ{CvAWhDc@LG"
+         },
+         "summary" : "Hamilton St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

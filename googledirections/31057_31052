@@ -1,5 +1,314 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8454228,
+               "lng" : -77.0504098
+            },
+            "southwest" : {
+               "lat" : 38.8424971,
+               "lng" : -77.0859225
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3585
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 832
+               },
+               "end_address" : "3501 Potomac Avenue, Arlington, VA 22213, USA",
+               "end_location" : {
+                  "lat" : 38.84403620000001,
+                  "lng" : -77.0504098
+               },
+               "start_address" : "3501 South Four Mile Run Drive, Arlington, VA 22206, USA",
+               "start_location" : {
+                  "lat" : 38.84442540000001,
+                  "lng" : -77.0859225
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "125 ft",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.8443249,
+                        "lng" : -77.08551079999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eS Four Mile Run Dr\u003c/b\u003e toward \u003cb\u003eS Shirlington Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uxalF~ynuMLaAFO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.84442540000001,
+                        "lng" : -77.0859225
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "82 ft",
+                        "value" : 25
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 38.8441164,
+                        "lng" : -77.0856122
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Shirlington Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_xalFlwnuMLHHBB@B@F@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8443249,
+                        "lng" : -77.08551079999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "240 ft",
+                        "value" : 73
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 38.8434886,
+                        "lng" : -77.0855935
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eShirlington Connector Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wvalF`xnuMFKD?D@H?f@@v@B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8441164,
+                        "lng" : -77.0856122
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 851
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 204
+                     },
+                     "end_location" : {
+                        "lat" : 38.8437654,
+                        "lng" : -77.0761012
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFour Mile Run Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yralF|wnuM?ABC?A?ECUIaAEu@Cw@@u@@YBWN}@D_@HeAFo@BU?C@A@K?A?CBW?CD_@?CBW?A@ABW?G@CDi@@M@W?_@A]Cc@AOKo@UuAKu@Ei@Gw@_@gCk@kDE[AW?[@YBYH_@?EBI@G?CDYBK?G?_@?I@MD[BO@O?M?QAMCEKA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8434886,
+                        "lng" : -77.0855935
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 516
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 111
+                     },
+                     "end_location" : {
+                        "lat" : 38.844551,
+                        "lng" : -77.07024679999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eFour Mile Run Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qtalFr|luMAiAMwDMgCUoEKuACOEOEKAGAIGcAOaBEe@K_AS}AIy@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8437654,
+                        "lng" : -77.0761012
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 792
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 147
+                     },
+                     "end_location" : {
+                        "lat" : 38.8447752,
+                        "lng" : -77.06213919999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eFour Mile Run Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "myalF`xkuMRIFCHCBEBG@KHs@NwANyABa@B_@@m@?u@As@GeAGcAGk@YsAY}BCICK_A}BKWEMCQOcAAMCICEEESEIIEGECMIKQAE?I?EBELSBGBK@M?OCWAK?GBMJWBIBQBSBMBI\\i@JMDGJ[H]"
+                     },
+                     "start_location" : {
+                        "lat" : 38.844551,
+                        "lng" : -77.07024679999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "154 ft",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 38.8447652,
+                        "lng" : -77.06162479999999
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eFour Mile Run Trail\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "{zalFjejuMBSBYBW?KAE?CCCCG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8447752,
+                        "lng" : -77.06213919999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 865
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 217
+                     },
+                     "end_location" : {
+                        "lat" : 38.8425229,
+                        "lng" : -77.05238679999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Glebe Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yzalFbbjuMPYPc@HWFULm@Js@D_@Ba@@a@@{@@}C@U?U?_@@]@o@?Q@MBSBS@ODUFYH[J]FOFQLSxBqEHURe@l@eB@A^eAV{A@IDg@@[@IB_@Bu@Aa@?KEcBCe@DY"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8447652,
+                        "lng" : -77.06162479999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 170
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 38.8440453,
+                        "lng" : -77.0525524
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eS Potomac Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wlalFlhhuMY@_ADwEV"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8425229,
+                        "lng" : -77.05238679999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 182
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 38.8442637,
+                        "lng" : -77.05047239999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eS Potomac Ave\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ivalFlihuMAYGoBGcBWqD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8440453,
+                        "lng" : -77.0525524
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "85 ft",
+                        "value" : 26
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.84403620000001,
+                        "lng" : -77.0504098
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Potomac Ave\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "swalFl|guMj@K"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8442637,
+                        "lng" : -77.05047239999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uxalF~ynuMTqAVLFBF@FKJ@p@@v@@BESsCAmBDq@T}APuBD[JqAPiBBe@A}@Es@a@eCQ_BGw@_@gCq@gEAs@Ds@He@DUHe@?g@@WHk@@]A_@CEKAOaGc@wIOeBOm@i@kG]wCZMLIDSXkCR{BDmAAiBOiCa@_C]gCcAiCQe@SuAEWIKSEIIKKMIKQAOBKP[DYCg@ASNe@N}@`@s@PUTy@Fm@Bc@AIGKb@}@Pm@XaBHaAB}ABiFDmBNmAPu@Rm@xCmGbBsEXeBFcADi@@wAEoBCe@DYyAFwEVAYOsEWqDj@K"
+         },
+         "summary" : "Four Mile Run Trail",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

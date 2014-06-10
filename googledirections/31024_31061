@@ -1,5 +1,242 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.88282239999999,
+               "lng" : -77.0847933
+            },
+            "southwest" : {
+               "lat" : 38.8484369,
+               "lng" : -77.1030392
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 5023
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1042
+               },
+               "end_address" : "3436 24th Street South, Arlington, VA 22206, USA",
+               "end_location" : {
+                  "lat" : 38.8484369,
+                  "lng" : -77.0849145
+               },
+               "start_address" : "901 North Monroe Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.88282239999999,
+                  "lng" : -77.1030392
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 429
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 112
+                     },
+                     "end_location" : {
+                        "lat" : 38.8792293,
+                        "lng" : -77.10180699999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eNorth Monroe Street\u003c/b\u003e toward \u003cb\u003e9th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "shilF~druMVKPI|Bm@`Bk@bCaA~BcA`Bq@@?@AB?B?@?B?B?B@B@TLNHHFNN"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88282239999999,
+                        "lng" : -77.1030392
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 185
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 38.8776829,
+                        "lng" : -77.10103819999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eNorth Monroe Street\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "erhlFh}quMTEzAm@bEeB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8792293,
+                        "lng" : -77.10180699999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 448
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 38.8790031,
+                        "lng" : -77.09615289999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e5th St N\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ohhlFnxquM}@gFs@gEu@gEi@{COm@e@oC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8776829,
+                        "lng" : -77.10103819999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1376
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 288
+                     },
+                     "end_location" : {
+                        "lat" : 38.8673756,
+                        "lng" : -77.09121089999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Irving St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wphlF|ypuMtC{@fDaA|E}AnCy@lBo@ZMxCw@vCo@rAWz@Sl@Ob@K\\Ab@KZIj@SpA_@zFgBFCBAFEZMJIJKHOFMDMHUFMHMHIHGHGJEJErDgAtAc@NCPCH@H@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8790031,
+                        "lng" : -77.09615289999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 278
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 38.8681134,
+                        "lng" : -77.08815059999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e6th St S\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "chflF`{ouMo@eEs@oEm@iDAM?I@K"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8673756,
+                        "lng" : -77.09121089999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 mi",
+                        "value" : 1544
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 364
+                     },
+                     "end_location" : {
+                        "lat" : 38.8544861,
+                        "lng" : -77.08865890000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Walter Reed Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ulflF|gouMz@IlD]lAMrBQZCf@GxBYTEfAMp@KRCrBYnASlAOv@KHABABC@AxAE^Cz@CR@Z?DFBB@@B?d@BhAR|Cj@h@LJBdB\\zBj@|Bf@pDr@x@Pp@Nj@H`@D^F\\Bh@?d@G\\Hr@AP?P?NB\\J"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8681134,
+                        "lng" : -77.08815059999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 752
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 119
+                     },
+                     "end_location" : {
+                        "lat" : 38.8484522,
+                        "lng" : -77.0847933
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Kenmore St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qwclFbkouMPY@ATSp@Yv@Y`Ag@vBoAl@_@HErOaJrCsAtAq@r@["
+                     },
+                     "start_location" : {
+                        "lat" : 38.8544861,
+                        "lng" : -77.08865890000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "36 ft",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.8484369,
+                        "lng" : -77.0849145
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e24th St S\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yqblF|rnuM@V"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8484522,
+                        "lng" : -77.0847933
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "shilF~druMh@U|Bm@`Bk@bGeCbBq@JANBd@VXVTEzAm@bEeB}@gFiBoKi@{COm@e@oCtC{@dK_D|FiBtDeAjFgAhBc@b@K\\A~@U`K_Dr@_@T[L[Pc@RWROVKhGkB`@GRBcBuKo@wD@UjLgArEk@`Gw@~Eq@FEzAGzAGn@@NLd@BhARfEx@pB`@xFrAjFdA|AX`ALfABd@G\\HdAA`@B\\JPYVUhBs@pF}CrOaJrCsAhCmA@V"
+         },
+         "summary" : "N Irving St and S Walter Reed Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

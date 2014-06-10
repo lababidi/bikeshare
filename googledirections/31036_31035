@@ -1,5 +1,170 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8824485,
+               "lng" : -77.1075414
+            },
+            "southwest" : {
+               "lat" : 38.8761765,
+               "lng" : -77.12063810000001
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.3 mi",
+                  "value" : 2097
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 496
+               },
+               "end_address" : "4006 5th Street North, Arlington, VA 22203, USA",
+               "end_location" : {
+                  "lat" : 38.8762725,
+                  "lng" : -77.10777089999999
+               },
+               "start_address" : "Bluemont Junction Trail, Arlington, VA 22203, USA",
+               "start_location" : {
+                  "lat" : 38.87883739999999,
+                  "lng" : -77.12063810000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 376
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 72
+                     },
+                     "end_location" : {
+                        "lat" : 38.8818662,
+                        "lng" : -77.11890889999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eBluemont Junction Trail\u003c/b\u003e toward \u003cb\u003eN Buchanan St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wohlF~ruuM]YgCoBy@q@cCcBSIGCWEcAWkAGu@E"
+                     },
+                     "start_location" : {
+                        "lat" : 38.87883739999999,
+                        "lng" : -77.12063810000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "456 ft",
+                        "value" : 139
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 38.8820247,
+                        "lng" : -77.11745309999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ubilFdhuuME{B?_A?aB?AAAUA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8818662,
+                        "lng" : -77.11890889999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 843
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 212
+                     },
+                     "end_location" : {
+                        "lat" : 38.8824466,
+                        "lng" : -77.10774649999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "scilF`_uuM?WA_@?g@Cm@De@A_@CwABi@?{@CsBEaFAqEAg@Ag@CaBW{FUyEEy@GsACe@Aa@?I?u@@{@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8820247,
+                        "lng" : -77.11745309999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 693
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 163
+                     },
+                     "end_location" : {
+                        "lat" : 38.8762671,
+                        "lng" : -77.10817109999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Quincy St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ifilFlbsuMnAEdDKp@EB?|@El@CRAtACb@AF?D?J?H@`@Bn@F`Gf@v@HpAHv@HXBJBF?XHJBFBDBPJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8824466,
+                        "lng" : -77.10774649999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "151 ft",
+                        "value" : 46
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 38.8762725,
+                        "lng" : -77.10777089999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u_hlF`esuMJQDS?EAY?GAAM?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8762671,
+                        "lng" : -77.10817109999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wohlF~ruuMeDiC}DuC[M{A]aCME{D?cBWCEmCBeACwABi@CoDGsLCoACaBW{F[sGKyB?}CjHWtEO|@A|It@zE`@x@PLFPJJQDYAa@OA"
+         },
+         "summary" : "N Fairfax Dr and N Quincy St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

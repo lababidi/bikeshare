@@ -1,5 +1,266 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8349047,
+               "lng" : -77.0501163
+            },
+            "southwest" : {
+               "lat" : 38.8101738,
+               "lng" : -77.0872021
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4818
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1142
+               },
+               "end_address" : "3315 South Stafford Street, Arlington, VA 22206, USA",
+               "end_location" : {
+                  "lat" : 38.833994,
+                  "lng" : -77.0872021
+               },
+               "start_address" : "601-623 U.S. 1, Alexandria, VA 22314, USA",
+               "start_location" : {
+                  "lat" : 38.8114352,
+                  "lng" : -77.0501163
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "469 ft",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 38.8101738,
+                        "lng" : -77.0504102
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Henry St\u003c/b\u003e toward \u003cb\u003ePendleton St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "oj{kFfzguM\\D~Er@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8114352,
+                        "lng" : -77.0501163
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 286
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 38.8106037,
+                        "lng" : -77.0536678
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eOronoco St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qb{kF`|guMYrE]xE]|E"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8101738,
+                        "lng" : -77.0504102
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 233
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 38.8126628,
+                        "lng" : -77.05319960000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN West St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ge{kFlphuMa@OoAOoBWoAQa@Ey@KMA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8106037,
+                        "lng" : -77.0536678
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.7 mi",
+                        "value" : 2676
+                     },
+                     "duration" : {
+                        "text" : "11 mins",
+                        "value" : 665
+                     },
+                     "end_location" : {
+                        "lat" : 38.8258852,
+                        "lng" : -77.0782026
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eE Braddock Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cr{kFnmhuMKnAEt@G`@ANEVa@tAYr@Uh@Yp@e@xAq@lBA^Ql@M^KZ]`AW`Ag@~Ac@tAoAxDmAnD_@nAg@zAaApDUx@Ol@_@xAi@xAkB~EqBhG_@jAiApCGJ{@rBGPMXYj@Q\\KRU\\i@n@iAlAaDdDw@x@iC|BwApAMLKH}@hAy@bAST[`@IJu@`AcAlA[`@MNOP_BvBUZWf@Yz@GPEPETEXCRC^APCp@Ez@El@AHG\\Kd@Sn@O\\MXYb@w@vAQd@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8126628,
+                        "lng" : -77.05319960000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 529
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 112
+                     },
+                     "end_location" : {
+                        "lat" : 38.8304907,
+                        "lng" : -77.0797302
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eValley Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yd~kFvimuMmCh@a@HgEfAeCj@mEfAkE`A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8258852,
+                        "lng" : -77.0782026
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 632
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 119
+                     },
+                     "end_location" : {
+                        "lat" : 38.8338785,
+                        "lng" : -77.0852699
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCrestwood Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qa_lFhsmuMDvC?D?D?BAB?B?BABABABCDmEpGqJhNsAnBABA@AB?BER"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8304907,
+                        "lng" : -77.0797302
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "331 ft",
+                        "value" : 101
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 38.8347861,
+                        "lng" : -77.0852537
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Quaker Ln\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wv_lF|unuMe@?}@@i@AK?G?SC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8338785,
+                        "lng" : -77.0852699
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "285 ft",
+                        "value" : 87
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 38.8349047,
+                        "lng" : -77.0862418
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e33rd St S\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "m|_lFxunuMC\\QfD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8347861,
+                        "lng" : -77.0852537
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "430 ft",
+                        "value" : 131
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 38.833994,
+                        "lng" : -77.0872021
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Stafford St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "c}_lF~{nuM^^`C`CR\\"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8349047,
+                        "lng" : -77.0862418
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "oj{kFfzguM|Fx@w@lL]|Ea@O_Eg@yDe@[vDEVa@tAo@|A_AjCq@lBA^_@lAi@|A_A`DsBnGmB~FiBlGe@fB_@xAi@xAkB~EqBhG_@jAiApCcA~BUj@k@hAa@p@sB|ByE~E{FfFgDdE_D|D]`@uBrCWf@Yz@Mb@SbBQlDIf@_@tAoBrDQd@mCh@iFpAsIrBkE`ADvC?JAFCNeQdWwAtBAFERe@?gB?S?SCC\\QfD^^`C`CR\\"
+         },
+         "summary" : "E Braddock Rd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

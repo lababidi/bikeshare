@@ -1,5 +1,167 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9038848,
+               "lng" : -77.01890770000001
+            },
+            "southwest" : {
+               "lat" : 38.9028967,
+               "lng" : -77.0283984
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 958
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 307
+               },
+               "end_address" : "1033 5th Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9030615,
+                  "lng" : -77.0189469
+               },
+               "start_address" : "Washington, DC 20005, USA",
+               "start_location" : {
+                  "lat" : 38.9037346,
+                  "lng" : -77.0283984
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 163
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 38.903755,
+                        "lng" : -77.02651689999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eL St NW\u003c/b\u003e toward \u003cb\u003e12th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ikmlFnrcuMA[?a@?oEAiB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9037346,
+                        "lng" : -77.0283984
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 238
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 38.9029284,
+                        "lng" : -77.02398629999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mkmlFvfcuMb@kB`BgHT_AFe@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.903755,
+                        "lng" : -77.02651689999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 179
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 38.9028967,
+                        "lng" : -77.0219422
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMt Vernon Pl NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ifmlF|vbuMCoJFM@["
+                     },
+                     "start_location" : {
+                        "lat" : 38.9029284,
+                        "lng" : -77.02398629999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 286
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 107
+                     },
+                     "end_location" : {
+                        "lat" : 38.9038848,
+                        "lng" : -77.01890770000001
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eNew York Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cfmlFbjbuMCw@CQIWiBwHi@mB]uA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9028967,
+                        "lng" : -77.0219422
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "302 ft",
+                        "value" : 92
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 38.9030615,
+                        "lng" : -77.0189469
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e5th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "glmlFdwauMF?X@\\@d@@F?H?R?L@H?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9038848,
+                        "lng" : -77.01890770000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ikmlFnrcuMCwJdCsK\\eBCoJFM@[Cw@Mi@sCeL]uAF?v@BjA@V@"
+         },
+         "summary" : "New York Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

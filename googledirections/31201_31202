@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.912607,
+               "lng" : -77.02962099999999
+            },
+            "southwest" : {
+               "lat" : 38.9098507,
+               "lng" : -77.0345555
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 910
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 190
+               },
+               "end_address" : "1350 R Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9126062,
+                  "lng" : -77.03168099999999
+               },
+               "start_address" : "1515 15th Street Northwest, Washington, DC 20005, USA",
+               "start_location" : {
+                  "lat" : 38.9098507,
+                  "lng" : -77.0345555
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 225
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 38.911871,
+                        "lng" : -77.03452949999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e15th St NW\u003c/b\u003e toward \u003cb\u003eChurch St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qqnlF~xduMi@AaA?qCAuCA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9098507,
+                        "lng" : -77.0345555
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 425
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 102
+                     },
+                     "end_location" : {
+                        "lat" : 38.9118668,
+                        "lng" : -77.02962099999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCorcoran St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e~nlFxxduM?[?o@?qB?oC?u@?yA?e@?qB?uA?{C?mB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.911871,
+                        "lng" : -77.03452949999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "269 ft",
+                        "value" : 82
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 38.912607,
+                        "lng" : -77.0296213
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e13th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "e~nlFbzcuMaA?qA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9118668,
+                        "lng" : -77.02962099999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 178
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 38.9126062,
+                        "lng" : -77.03168099999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ybolFbzcuM?zK"
+                     },
+                     "start_location" : {
+                        "lat" : 38.912607,
+                        "lng" : -77.0296213
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qqnlF~xduMsKE?mI?gH?qF?mBaA?qA??zK"
+         },
+         "summary" : "15th St NW and Corcoran St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

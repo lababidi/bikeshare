@@ -1,5 +1,122 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8792973,
+               "lng" : -77.00587299999999
+            },
+            "southwest" : {
+               "lat" : 38.8742984,
+               "lng" : -77.01774949999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1852
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 398
+               },
+               "end_address" : "1150 4th Street Southwest, Washington, DC 20024, USA",
+               "end_location" : {
+                  "lat" : 38.8767133,
+                  "lng" : -77.0177242
+               },
+               "start_address" : "1300-1350 First Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8742984,
+                  "lng" : -77.0058913
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 554
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 123
+                     },
+                     "end_location" : {
+                        "lat" : 38.879283,
+                        "lng" : -77.00587299999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eFirst St SE\u003c/b\u003e toward \u003cb\u003eN St SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ksglFxe_uMcA@uDCA?{@?aB@O?GBMAgA?O?}@@o@AK?u@AqA?WAyA?gA?OA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8742984,
+                        "lng" : -77.0058913
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1010
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 218
+                     },
+                     "end_location" : {
+                        "lat" : 38.8792973,
+                        "lng" : -77.01754439999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eI St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "orhlFte_uM?pA?tA?FAlC?vB@vBAj@?\\?T?Z?pC@X?pA?RAl@@hDAnA@FA|C?vK@d@?f@?pB?V?\\AnCAtB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.879283,
+                        "lng" : -77.00587299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 288
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : {
+                        "lat" : 38.8767133,
+                        "lng" : -77.0177242
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e4th St SW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "srhlFrnauMzADP@f@@p@Bd@BdAFdBHp@DR@LAPCDA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8792973,
+                        "lng" : -77.01754439999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ksglFxe_uMwHAqB@U@eE?kDCaD?OA?pA?|AAdG?vE@xG?~[?nECdGlBFdEPvCN`@?VE"
+         },
+         "summary" : "First St SE and I St SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8974469,
+               "lng" : -77.0020189
+            },
+            "southwest" : {
+               "lat" : 38.88738110000001,
+               "lng" : -77.004908
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1413
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 309
+               },
+               "end_address" : "Union Station - Columbus Circle at Flag Poles, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.89695570000001,
+                  "lng" : -77.004908
+               },
+               "start_address" : "132 3rd Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.88738110000001,
+                  "lng" : -77.0020316
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1107
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 244
+                     },
+                     "end_location" : {
+                        "lat" : 38.897335,
+                        "lng" : -77.002038
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e3rd St SE\u003c/b\u003e toward \u003cb\u003eIndependence Ave SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cejlFtm~tMg@AQ?yD@O?yA@G?}B?}B?sA?C?M?cE?O?U?iA@S?]?iDA{DAQ@c@?S?cF@QAM?A?}@?i@?{B?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88738110000001,
+                        "lng" : -77.0020316
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "449 ft",
+                        "value" : 137
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 38.8973394,
+                        "lng" : -77.0036164
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eF St NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kcllFvm~tM?|C?hC?R"
+                     },
+                     "start_location" : {
+                        "lat" : 38.897335,
+                        "lng" : -77.002038
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "33 ft",
+                        "value" : 10
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 38.897425,
+                        "lng" : -77.00363109999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMetropolitan Branch Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kcllFrw~tME?E@C?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8973394,
+                        "lng" : -77.0036164
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 159
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.89695570000001,
+                        "lng" : -77.004908
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eMetropolitan Branch Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{cllFtw~tMAxC?B?@AB?@AD?t@?B?B@@@@B@B?^E@?FDXHPD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.897425,
+                        "lng" : -77.00363109999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cejlFtm~tMy@AiE@}I@mL@uKAmH?wB?{B??|C?|CK@C?AxC?DADAbABBF@`@E`@NPD"
+         },
+         "summary" : "3rd St SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

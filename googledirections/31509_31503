@@ -1,5 +1,170 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9140752,
+               "lng" : -77.013272
+            },
+            "southwest" : {
+               "lat" : 38.9125967,
+               "lng" : -77.0189165
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 755
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 152
+               },
+               "end_address" : "131-199 R Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9126012,
+                  "lng" : -77.01349999999999
+               },
+               "start_address" : "421-427 R Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9125967,
+                  "lng" : -77.01766889999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "354 ft",
+                        "value" : 108
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 38.9125975,
+                        "lng" : -77.0189165
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eR St NW\u003c/b\u003e toward \u003cb\u003e5th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wbolFloauM?hD?~@?N"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9125967,
+                        "lng" : -77.01766889999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "259 ft",
+                        "value" : 79
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 38.9133071,
+                        "lng" : -77.01891259999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e5th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wbolFfwauMuAAw@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9125975,
+                        "lng" : -77.0189165
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 207
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 38.9140752,
+                        "lng" : -77.01673339999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRhode Island Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "egolFdwauMqAeFgAmE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9133071,
+                        "lng" : -77.01891259999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 341
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 38.9126015,
+                        "lng" : -77.013272
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFlorida Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_lolFpiauM`@kAHUFUVw@L]h@aBFQn@qB\\gAJYJ_@ZaADKRo@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9140752,
+                        "lng" : -77.01673339999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "66 ft",
+                        "value" : 20
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.9126012,
+                        "lng" : -77.01349999999999
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR St NW\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-right",
+                     "polyline" : {
+                        "points" : "wbolF|s`uM?l@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9126015,
+                        "lng" : -77.013272
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wbolFloauM?hF?NuAAw@?qAeFgAmE`@kAPk@d@uA~BmHx@gCRo@?l@"
+         },
+         "summary" : "Florida Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

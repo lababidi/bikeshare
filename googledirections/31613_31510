@@ -1,5 +1,218 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9270793,
+               "lng" : -76.97778029999999
+            },
+            "southwest" : {
+               "lat" : 38.8839796,
+               "lng" : -76.9955284
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5479
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1301
+               },
+               "end_address" : "2895 18th Street Northeast, Washington, DC 20018, USA",
+               "end_location" : {
+                  "lat" : 38.9270793,
+                  "lng" : -76.97899049999999
+               },
+               "start_address" : "799 D Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8839796,
+                  "lng" : -76.99541769999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "39 ft",
+                        "value" : 12
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.8840477,
+                        "lng" : -76.9955284
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{oilFjd}tMMT"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8839796,
+                        "lng" : -76.99541769999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "85 ft",
+                        "value" : 26
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.8842208,
+                        "lng" : -76.9953307
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003ePennsylvania Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ipilF`e}tMISCCGGKG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8840477,
+                        "lng" : -76.9955284
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "115 ft",
+                        "value" : 35
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 38.8840785,
+                        "lng" : -76.99496959999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePennsylvania Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kqilFxc}tMH[Pk@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8842208,
+                        "lng" : -76.9953307
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 mi",
+                        "value" : 2082
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 470
+                     },
+                     "end_location" : {
+                        "lat" : 38.90280370000001,
+                        "lng" : -76.9949573
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e8th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "opilFpa}tMm@CO?M?G?U?M?}F@O?q@@iBA{C?W?c@?}C?Q?K?iD@YA_F?}C?g@?Q?W?eB?{D?g@?qA?G?mB@wB?Q?[?O?eAAO?_F?Q?M@mHA{A?u@?U?aB@yEAuC?G?oA?e@?Q?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8840785,
+                        "lng" : -76.99496959999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 mi",
+                        "value" : 2176
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 435
+                     },
+                     "end_location" : {
+                        "lat" : 38.9170091,
+                        "lng" : -76.97785019999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWest Virginia Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oemlFna}tMg@_AcByCMUWa@EKw@oAs@aAKMi@o@o@w@iAqAIImAwAiAqAIImAwAMMo@w@[a@w@_Aa@e@SUQSGIu@{@m@u@e@i@IKMM[a@gBqB{AgBkEkFQS_@e@IMkBuBOOgBuBuAaB]_@KMQU{@cAy@aAaAgAMOY]w@}@qBaCqCeDQQyAgBkAqAOQm@s@o@eACGEIK_@@UASCSEMGM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.90280370000001,
+                        "lng" : -76.9949573
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 349
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 115
+                     },
+                     "end_location" : {
+                        "lat" : 38.9198981,
+                        "lng" : -76.9790103
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMontana Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "i~olFpvytMKGUEU?MDKDQLSPQRMHWTeCTWBgAJKBC?QDIBE@IBCBIBGDSJIFKHKHIHKHMP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9170091,
+                        "lng" : -76.97785019999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 799
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 242
+                     },
+                     "end_location" : {
+                        "lat" : 38.9270793,
+                        "lng" : -76.97899049999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e18th St NE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "kpplFx}ytMWAC?e@?O?k@@wC?kBAK?oA?O?m@?C?E?W?[?o@?g@?Q?aAAQ@_A?o@?Q?iB?kB?uE?uAA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9198981,
+                        "lng" : -76.9790103
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{oilFjd}tMMTISKKKGH[Pk@m@C]?]?mIBgT?kWA{d@?wR?qDqG}@{A_AoAmDcEoFkGaFaGaKqLgGsHyH}I{G_IqPwRs@mAQi@?i@Ia@GMKGUEU?YJe@^_@\\WTeCT_BNOBk@Ni@Xk@d@YZ[AyF@wEAuE?aS?uAA"
+         },
+         "summary" : "8th St SE and West Virginia Ave NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

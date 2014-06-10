@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9376104,
+               "lng" : -77.02430029999999
+            },
+            "southwest" : {
+               "lat" : 38.936017,
+               "lng" : -77.0327269
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 909
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 267
+               },
+               "end_address" : "3670 New Hampshire Avenue Northwest, Washington, DC 20011, USA",
+               "end_location" : {
+                  "lat" : 38.936017,
+                  "lng" : -77.02459139999999
+               },
+               "start_address" : "3707 14th Street Northwest, Washington, DC 20010, USA",
+               "start_location" : {
+                  "lat" : 38.9375004,
+                  "lng" : -77.032726
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "39 ft",
+                        "value" : 12
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.9376104,
+                        "lng" : -77.0327269
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e14th St NW\u003c/b\u003e toward \u003cb\u003eQuincy St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "k~slFpmduMU?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9375004,
+                        "lng" : -77.032726
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 713
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 207
+                     },
+                     "end_location" : {
+                        "lat" : 38.9376076,
+                        "lng" : -77.024489
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eQuincy St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "a_tlFpmduM?W?eB?{B?aC@oB?w@?c@AU?wB?iC@a@AoE?kB?c@?y@?kD?yB?m@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9376104,
+                        "lng" : -77.0327269
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "440 ft",
+                        "value" : 134
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.9364085,
+                        "lng" : -77.02430029999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGeorgia Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "a_tlF`zbuMnFe@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9376076,
+                        "lng" : -77.024489
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "164 ft",
+                        "value" : 50
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 38.936017,
+                        "lng" : -77.02459139999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eNew Hampshire Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "qwslFzxbuM^Tl@b@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9364085,
+                        "lng" : -77.02430029999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "k~slFpmduMU??W?aF@mIAsU?eH?m@nFe@lAx@"
+         },
+         "summary" : "Quincy St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

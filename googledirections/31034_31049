@@ -1,5 +1,122 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8840541,
+               "lng" : -77.1094835
+            },
+            "southwest" : {
+               "lat" : 38.8826178,
+               "lng" : -77.113923
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 535
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 94
+               },
+               "end_address" : "1101 North Utah Street, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.8836684,
+                  "lng" : -77.11391239999999
+               },
+               "start_address" : "1001 North Randolph Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8826178,
+                  "lng" : -77.1094835
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 161
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 38.8840541,
+                        "lng" : -77.10972439999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eN Randolph St\u003c/b\u003e toward \u003cb\u003e11th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kgilFfmsuMgBPuD\\"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8826178,
+                        "lng" : -77.1094835
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 365
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 38.883746,
+                        "lng" : -77.113923
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e11th St N\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ipilFvnsuMNlERzFHnDLlE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8840541,
+                        "lng" : -77.10972439999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "30 ft",
+                        "value" : 9
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 38.8836684,
+                        "lng" : -77.11391239999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Utah St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mnilF~htuMNA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.883746,
+                        "lng" : -77.113923
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kgilFfmsuM}Gn@b@hMV|JNA"
+         },
+         "summary" : "N Randolph St and 11th St N",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

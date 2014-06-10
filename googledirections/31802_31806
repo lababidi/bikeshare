@@ -1,5 +1,218 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8674403,
+               "lng" : -76.98030159999999
+            },
+            "southwest" : {
+               "lat" : 38.8448144,
+               "lng" : -76.99381529999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 4082
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1019
+               },
+               "end_address" : "1319 Alabama Avenue Southeast, Washington, DC 20032, USA",
+               "end_location" : {
+                  "lat" : 38.8448144,
+                  "lng" : -76.98785769999999
+               },
+               "start_address" : "1217 Good Hope Road Southeast, Washington, DC 20020, USA",
+               "start_location" : {
+                  "lat" : 38.8673016,
+                  "lng" : -76.9880591
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "164 ft",
+                        "value" : 50
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.8674403,
+                        "lng" : -76.98860860000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eGood Hope Rd SE\u003c/b\u003e toward \u003cb\u003eMartin Luther King Jr Ave SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sgflFjv{tME\\Kz@IR"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8673016,
+                        "lng" : -76.9880591
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 830
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 194
+                     },
+                     "end_location" : {
+                        "lat" : 38.8615145,
+                        "lng" : -76.99381529999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMartin Luther King Jr Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ohflFxy{tMPHn@Rv@X`@LNFhDjARFb@Pl@RfA`@pAf@z@\\FBDB`@TRVJLFJNVLVDHFNBDFPTf@nBjEzAjDDH@BHJ@BxAhAn@f@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8674403,
+                        "lng" : -76.98860860000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "49 ft",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 38.8614015,
+                        "lng" : -76.99371549999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHoward Rd SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mcelFjz|tMTS"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8615145,
+                        "lng" : -76.99381529999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 644
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 127
+                     },
+                     "end_location" : {
+                        "lat" : 38.8556631,
+                        "lng" : -76.99321019999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eSheridan Rd SE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "wbelFvy|tMH@D@FAjMeApBUNAr@EF?F?F?F@zCVx@HL@J?J?JApBSz@IDCBC@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8614015,
+                        "lng" : -76.99371549999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1031
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 247
+                     },
+                     "end_location" : {
+                        "lat" : 38.8534415,
+                        "lng" : -76.9833682
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eStanton Rd SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{~clFpv|tMTDJDHLDBF@JAhAi@`@Uz@q@j@q@v@gATc@Vi@Ri@h@yBDYBY@a@@w@Bq@Fq@R{BRgBDMFKJKDGDK@UFyAD}A?i@?eACsCEmAIiBMoAUaBOu@Qs@I]EGECIO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8556631,
+                        "lng" : -76.99321019999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 817
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 284
+                     },
+                     "end_location" : {
+                        "lat" : 38.846903,
+                        "lng" : -76.98030159999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eStanton Rd SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_qclF`yztMRGJEHCHETMZYNQDIr@iAn@eAf@w@h@}@j@{@LQDEDEDEDCDEBAFCFABAH?BAF?jA?V?bA?vAA~CAh@AN?LAREj@MnA]p@Qj@Mx@Uz@SVI"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8534415,
+                        "lng" : -76.9833682
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 695
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 138
+                     },
+                     "end_location" : {
+                        "lat" : 38.8448144,
+                        "lng" : -76.98785769999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAlabama Ave SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "chblFzeztMx@dETlA~@~Eb@|Bv@dEb@dCdCtNJr@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.846903,
+                        "lng" : -76.98030159999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sgflFjv{tMQxAIRPHfBl@p@TnGxB|EjBf@X^d@j@dA|FtMJNhCpBTSH@L?|P{AbAG^@nFb@dE_@HGVBTRLDtAk@|AgAbByBl@mARi@h@yBHs@ByAJcBf@cFLYPSFa@LwD?oBIaFWyDe@wC[qAKKIORGTI^Sj@k@x@sAlDwF^c@VOXE`NE`@GzBk@rEiAVIx@dEtAlHzAbIhDzRJr@"
+         },
+         "summary" : "Martin Luther King Jr Ave SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

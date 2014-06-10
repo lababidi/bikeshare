@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9102577,
+               "lng" : -77.0345555
+            },
+            "southwest" : {
+               "lat" : 38.9089051,
+               "lng" : -77.04489909999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1060
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 252
+               },
+               "end_address" : "1401-1499 20th Street Northwest, Washington, DC 20036, USA",
+               "end_location" : {
+                  "lat" : 38.9089051,
+                  "lng" : -77.04489909999999
+               },
+               "start_address" : "1515 15th Street Northwest, Washington, DC 20005, USA",
+               "start_location" : {
+                  "lat" : 38.9098507,
+                  "lng" : -77.0345555
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "72 ft",
+                        "value" : 22
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.9096506,
+                        "lng" : -77.0345573
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e15th St NW\u003c/b\u003e toward \u003cb\u003eP St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qqnlF~xduMf@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9098507,
+                        "lng" : -77.0345555
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 706
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 173
+                     },
+                     "end_location" : {
+                        "lat" : 38.9097662,
+                        "lng" : -77.04267469999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eP St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ipnlF~xduM@pA?~B?rB@x@?PAV?v@?l@?B?|F?t@?xAApE@zG?tBE^?JAFCFCFIJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9096506,
+                        "lng" : -77.0345573
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 250
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 38.9096457,
+                        "lng" : -77.044898
+                     },
+                     "html_instructions" : "At the traffic circle, continue straight to stay on \u003cb\u003eP St NW\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "aqnlFtkfuMGBG@GBGDIFGDCDEDGHEHCFCFCHAHCFAHAHAL?L?L?J@H@HBH?BBF@F@@BHFLBDBFDDBDDBDBHFDBHBB@FBD@JT@F@FD\\A~@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9097662,
+                        "lng" : -77.04267469999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "269 ft",
+                        "value" : 82
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 38.9089051,
+                        "lng" : -77.04489909999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e20th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ipnlFryfuMrC?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9096457,
+                        "lng" : -77.044898
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qqnlF~xduMf@?@pA?rF?zC?b`@Ej@ENMRODa@VW^Mb@Ih@@p@H^N`@PXZRZJL\\Fd@A~@rC?"
+         },
+         "summary" : "P St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

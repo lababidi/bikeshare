@@ -1,5 +1,242 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9285773,
+               "lng" : -76.9909497
+            },
+            "southwest" : {
+               "lat" : 38.9049656,
+               "lng" : -77.0055998
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.3 mi",
+                  "value" : 3649
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 659
+               },
+               "end_address" : "101-131 M Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9056456,
+                  "lng" : -77.0055998
+               },
+               "start_address" : "1037 Irving Street Northeast, Washington, DC 20017, USA",
+               "start_location" : {
+                  "lat" : 38.9285773,
+                  "lng" : -76.9909497
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "423 ft",
+                        "value" : 129
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.928505,
+                        "lng" : -76.992436
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eIrving St NE\u003c/b\u003e toward \u003cb\u003e10th St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sfrlFlh|tMJhFB~@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9285773,
+                        "lng" : -76.9909497
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 325
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 38.925584,
+                        "lng" : -76.99243
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e10th St NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cfrlFvq|tMN?dDAL?P?`@?fC?N@L?rCAT?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.928505,
+                        "lng" : -76.992436
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 324
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 114
+                     },
+                     "end_location" : {
+                        "lat" : 38.925582,
+                        "lng" : -76.996173
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFranklin St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{sqlFtq|tM?hD?|AAnA?~B?@?@?\\?@?f@?h@@bA?xA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.925584,
+                        "lng" : -76.99243
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "26 ft",
+                        "value" : 8
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 38.925656,
+                        "lng" : -76.9961704
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e7th St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{sqlF`i}tMO?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.925582,
+                        "lng" : -76.996173
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 mi",
+                        "value" : 1684
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 262
+                     },
+                     "end_location" : {
+                        "lat" : 38.9125966,
+                        "lng" : -77.00116319999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMetropolitan Branch Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ktqlF`i}tMCS?_F?WBGJ?@?@?N@R@R?^@bCb@LFJBTBjEnAx@XzAv@f@PTHJFVTTRXLJ@XAZAF@NBFB@@B@LLPN@@VThEjBjJbEvNnGrH`D`Ab@jAh@pCnA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.925656,
+                        "lng" : -76.9961704
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 952
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 176
+                     },
+                     "end_location" : {
+                        "lat" : 38.904974,
+                        "lng" : -77.0040321
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eMetropolitan Branch Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wbolFfh~tMJ@DA@G?g@?w@@EBAFB|An@nJvDd@RB@\\N~CnAlBjADB`@PHBFBb@Jx@Rb@JlI|BZH@?XF`@Jb@F\\DH@?H"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9125966,
+                        "lng" : -77.00116319999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "249 ft",
+                        "value" : 76
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 38.9056461,
+                        "lng" : -77.0038524
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eM St NE\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-right",
+                     "polyline" : {
+                        "points" : "asmlFdz~tMYC[GWGSEYEEAEA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.904974,
+                        "lng" : -77.0040321
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "495 ft",
+                        "value" : 151
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 38.9056456,
+                        "lng" : -77.0055998
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eM St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iwmlF`y~tM?jI?P"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056461,
+                        "lng" : -77.0038524
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sfrlFlh|tMNhHtDAhE?fE?AvM@xD?xAO?CS?_FB_@L?x@B^@bCb@XJTBjEnAx@XzAv@|@Zb@\\TRXLd@?b@?NBZTRPVThEjBbZrMtJdE|ExBP?BmBJ@lMfFfFtBrBnAj@Tj@NfMfD`BZf@F?HYCs@Om@KKC?|I"
+         },
+         "summary" : "Metropolitan Branch Trail",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

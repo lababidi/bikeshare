@@ -1,5 +1,264 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.954707,
+               "lng" : -77.07040260000001
+            },
+            "southwest" : {
+               "lat" : 38.9225386,
+               "lng" : -77.08774459999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.1 mi",
+                  "value" : 4943
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1148
+               },
+               "end_address" : "12-80 Observatory Circle Northwest, Washington, DC 20008, USA",
+               "end_location" : {
+                  "lat" : 38.92261329999999,
+                  "lng" : -77.07040260000001
+               },
+               "start_address" : "4200-4214 Fessenden Street Northwest, Washington, DC 20016, USA",
+               "start_location" : {
+                  "lat" : 38.9546977,
+                  "lng" : -77.0824281
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "384 ft",
+                        "value" : 117
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.954707,
+                        "lng" : -77.08378259999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eFessenden St NW\u003c/b\u003e toward \u003cb\u003eWisconsin Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{iwlFddnuM?f@?t@?dAAhB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9546977,
+                        "lng" : -77.0824281
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 155
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.953315,
+                        "lng" : -77.08377899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e43rd St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}iwlFrlnuMnA?fA?l@?D?z@?N?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.954707,
+                        "lng" : -77.08378259999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "472 ft",
+                        "value" : 144
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.9533148,
+                        "lng" : -77.08210989999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eEllicott St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eawlFrlnuMAwCAo@BeC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.953315,
+                        "lng" : -77.08377899999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1231
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 323
+                     },
+                     "end_location" : {
+                        "lat" : 38.942518,
+                        "lng" : -77.081968
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e42nd St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "eawlFdbnuM`CKDAtA?P?lC?x@AN@N?T?bA?dB?V?b@?N?nC?N@pDAp@?j@?l@?v@?rB?B?D?D@D@B@B@B@DDRRHHJHB@HHNHFDVLB@PHB@LDBBH@JBF@L@J@H@H?ZBD?B?L@D?PAR?PANCNCFADADALCJETKHCPKPKHEFGFGp@k@BABABABA@?T?N?l@?b@?D?FADADEBC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9533148,
+                        "lng" : -77.08210989999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 908
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 215
+                     },
+                     "end_location" : {
+                        "lat" : 38.9357731,
+                        "lng" : -77.08774459999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eNebraska Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w}tlFhanuM~@t@h@b@d@b@t@j@TRTRTP`At@LLTRbAz@\\Xn@f@x@n@dAx@rAjALH?@LHFFj@^X\\R^JZBHBFDFDFDFBDDBDBBBHBHBJBb@JNDFBRDn@f@j@d@DDn@f@B@XVh@`@LL`BnA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.942518,
+                        "lng" : -77.081968
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1236
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 197
+                     },
+                     "end_location" : {
+                        "lat" : 38.9259876,
+                        "lng" : -77.0813206
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNew Mexico Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qsslFjeouMHURc@BG@CDI@ALUDILQBCDIHGNOJKLIJIFEHENIHEXMLGhB}@PIFCJGhAi@DCTKrAo@dAg@ZQRMBAXONIj@W@AFC|As@bBy@tBcARIFCHGHEHEVM`Ae@`CeArCwATKLGRILGhFaC^WT@RSNOHO\\o@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9357731,
+                        "lng" : -77.08774459999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 776
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 208
+                     },
+                     "end_location" : {
+                        "lat" : 38.9225454,
+                        "lng" : -77.07470850000001
+                     },
+                     "html_instructions" : "\u003cb\u003eNew Mexico Ave NW\u003c/b\u003e turns slightly \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eTunlaw Rd NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mvqlFf}muMTcHHiABw@Bi@@S?SEIBq@@a@BUDYR_Al@sCh@oC?C@CBGBCDEROnB}@bD{A`EoBTK"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9259876,
+                        "lng" : -77.0813206
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 357
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : 38.9225386,
+                        "lng" : -77.0705875
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCalvert St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}`qlF|sluM?oA@wB?oA?QA}@?k@?_A@gH?{@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9225454,
+                        "lng" : -77.07470850000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 ft",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.92261329999999,
+                        "lng" : -77.07040260000001
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eObservatory Cir NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "{`qlFdzkuMASCIEEAA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9225386,
+                        "lng" : -77.0705875
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{iwlFddnuMAlGjE?jA?CgEBeC`CKzAAhF?nE?zE?~G?|E?TDdA|@r@^f@Tj@Hz@F\\@fAGb@Ix@Yt@e@`Aw@^CfB?LCHIdEhDhGfFhBvAdAx@rAjALJTPj@^X\\^z@R`@TTb@NnAZpCzBtAhA`BnAHUVk@Ve@\\i@r@m@l@_@jGyCtDgBlAq@pKcFtKiFdAe@hFaC^WT@RSX_@\\o@TcHLaCD}@?SEIDsAHo@`AsEn@_DHIbCmAdJkETK?oA@gEAoA@oME]GG"
+         },
+         "summary" : "New Mexico Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

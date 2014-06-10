@@ -1,5 +1,194 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8997008,
+               "lng" : -77.0219017
+            },
+            "southwest" : {
+               "lat" : 38.8867404,
+               "lng" : -77.0260943
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1962
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 486
+               },
+               "end_address" : "700-798 8th Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.8997008,
+                  "lng" : -77.022947
+               },
+               "start_address" : "301-321 L'Enfant Plaza, Washington, DC 20560, USA",
+               "start_location" : {
+                  "lat" : 38.8873968,
+                  "lng" : -77.02609099999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "240 ft",
+                        "value" : 73
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 38.8867404,
+                        "lng" : -77.0260943
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eL'Enfant Plaza\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gejlF`dcuMbC?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8873968,
+                        "lng" : -77.02609099999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "361 ft",
+                        "value" : 110
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875674,
+                        "lng" : -77.02584539999999
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "cajlF`dcuM?i@eDE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8867404,
+                        "lng" : -77.0260943
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 341
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875679,
+                        "lng" : -77.021906
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eIndependence Ave SW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ifjlFpbcuM?aI?Q?k@?E?E?wD?oE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875674,
+                        "lng" : -77.02584539999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1210
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 316
+                     },
+                     "end_location" : {
+                        "lat" : 38.8984511,
+                        "lng" : -77.02191560000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e7th St SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ifjlF|ibuMyA?oCAQ?eB@y@?}@?e@?s@?a@?{A?u@?Q?K?q@Ai@?e@?oF?}@@y@AC?c@@E?q@?uA?iGBuB?w@@g@?]CQAO?e@?W?S?K?q@?[?M@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875679,
+                        "lng" : -77.021906
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "292 ft",
+                        "value" : 89
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 38.8984545,
+                        "lng" : -77.0229439
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eG St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ijllF~ibuM?|B?lA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8984511,
+                        "lng" : -77.02191560000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "456 ft",
+                        "value" : 139
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.8997008,
+                        "lng" : -77.022947
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e8th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ijllFjpbuMmB@eBAc@@A?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8984545,
+                        "lng" : -77.0229439
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gejlF`dcuMbC??i@eDE?aI?}@?E?}D?oEyA?aDA_D@yD?oD?qO?wKBmD@eAC_BAmB?M@?|B?lAmB@iC?A?"
+         },
+         "summary" : "7th St SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8877541,
+               "lng" : -77.02817349999999
+            },
+            "southwest" : {
+               "lat" : 38.8837587,
+               "lng" : -77.0467027
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1953
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 467
+               },
+               "end_address" : "201-245 12th Street Southwest, Washington, DC 20228, USA",
+               "end_location" : {
+                  "lat" : 38.8872365,
+                  "lng" : -77.02817349999999
+               },
+               "start_address" : "690 Ohio Drive Southwest, Washington, DC 20418, USA",
+               "start_location" : {
+                  "lat" : 38.8840239,
+                  "lng" : -77.0467027
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "135 ft",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.8837587,
+                        "lng" : -77.04637169999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eOhio Dr SW\u003c/b\u003e toward \u003cb\u003eWest Basin Dr SW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cpilFzdguMX]@CV_@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8840239,
+                        "lng" : -77.0467027
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 397
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 38.8868091,
+                        "lng" : -77.0449654
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWest Basin Dr SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "onilFxbguMMQAAAC}@oAACEIGOCGK_@AEEKAAEIGKGKQSGIIIECCCIIcA@UBaAJO@q@EeAIs@?_@?M@Q?A?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8837587,
+                        "lng" : -77.04637169999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1478
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 369
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875704,
+                        "lng" : -77.02817589999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eIndependence Ave SW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qajlF`zfuMBkC@O?K@}B@k@?c@Ai@Aa@Eu@IiAASC]Ce@Ac@AW?u@A_S@s@?a@A{CAUAm@Cq@Ew@Ek@AQAMEg@Ec@CSGWEKEQYs@c@_AIUEMGOEWCOCOAS?OAM@M?M?M@K@MBM`@kCB[?a@A_@GkA?{@?yP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8868091,
+                        "lng" : -77.0449654
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "121 ft",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.8872365,
+                        "lng" : -77.02817349999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e12th St SW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ifjlFbqcuMt@AJ?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875704,
+                        "lng" : -77.02817589999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cpilFzdguMZa@V_@MQCE_AsA]aAO]i@u@][yADqALwBOsA?_@@@kCDeEAmAGwASaDC{@AuT@uACqDE_BKcBOkBKk@K]}@sBOc@Mg@G_@A_ABu@d@yCB}@IkB?uR`AA"
+         },
+         "summary" : "Independence Ave SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

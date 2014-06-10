@@ -1,5 +1,170 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.912607,
+               "lng" : -77.02892629999999
+            },
+            "southwest" : {
+               "lat" : 38.89964030000001,
+               "lng" : -77.0320103
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1770
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 405
+               },
+               "end_address" : "1350 R Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9126062,
+                  "lng" : -77.03168099999999
+               },
+               "start_address" : "724-798 14th Street Northwest, Washington, DC 20005, USA",
+               "start_location" : {
+                  "lat" : 38.89964030000001,
+                  "lng" : -77.0318913
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 640
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 174
+                     },
+                     "end_location" : {
+                        "lat" : 38.9053437,
+                        "lng" : -77.0317378
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e14th St NW\u003c/b\u003e toward \u003cb\u003eH St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wqllFhhduMsB?[?]?s@@qB?qA?i@@m@@i@@W@UFgB?uBBkB@YIA?A?C?EAM?eAG[?OAC?CAC?AAA?AACACAAAA?AAACAA?AGI"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89964030000001,
+                        "lng" : -77.0318913
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "269 ft",
+                        "value" : 82
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 38.9060028,
+                        "lng" : -77.0316631
+                     },
+                     "html_instructions" : "At the traffic circle, continue straight to stay on \u003cb\u003e14th St NW\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "kumlFjgduMEIGGACCCCCCCAAIEGAI?EAG?C@C@E@C@GDA?_@N"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9053437,
+                        "lng" : -77.0317378
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 385
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 38.909195,
+                        "lng" : -77.0300546
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVermont Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "oymlFzfduMQCECEAECKEYMCCA?AAA?A?A?C?E?OIgCoAyFqCqAm@MCEAE?I@SB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9060028,
+                        "lng" : -77.0316631
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 485
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 97
+                     },
+                     "end_location" : {
+                        "lat" : 38.912607,
+                        "lng" : -77.0296213
+                     },
+                     "html_instructions" : "At the traffic circle, exit onto \u003cb\u003e13th St NW\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "mmnlFx|cuM@S@GF[@M?I?CCw@IMGMACKMOOGGMIOAKAQ?G?UL[NONELA@Q^CHCDABC@CBCBE@IBOF}B@gBAm@?aA?qA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.909195,
+                        "lng" : -77.0300546
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 178
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 38.9126062,
+                        "lng" : -77.03168099999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ybolFbzcuM?zK"
+                     },
+                     "start_location" : {
+                        "lat" : 38.912607,
+                        "lng" : -77.0296213
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wqllFhhduMaF@{GBaABUFgB?aFD[IYAuBIWK]e@MOKGQAU@SH_@NQCKEo@[GAE?UIaKaF_Bq@KA]DLeA?MCw@IMIQ[]UQ[CY?q@\\U\\S`@MTWLOF}B@uCAsC??zK"
+         },
+         "summary" : "14th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

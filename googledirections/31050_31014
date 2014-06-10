@@ -1,0 +1,169 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8981013,
+               "lng" : -77.0709415
+            },
+            "southwest" : {
+               "lat" : 38.8849441,
+               "lng" : -77.0885583
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 mi",
+                  "value" : 2631
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 555
+               },
+               "end_address" : "1912-1968 North Lynn Street, Arlington, VA 22209, USA",
+               "end_location" : {
+                  "lat" : 38.8973158,
+                  "lng" : -77.070998
+               },
+               "start_address" : "1001-1039 North Barton Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8849441,
+                  "lng" : -77.0878554
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 517
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 151
+                     },
+                     "end_location" : {
+                        "lat" : 38.8895572,
+                        "lng" : -77.0885583
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eN Barton St\u003c/b\u003e toward \u003cb\u003e11th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{uilFbfouMaARG@w@N}@Fs@DmDXkDToAH_DN}AL"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8849441,
+                        "lng" : -77.0878554
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1435
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 236
+                     },
+                     "end_location" : {
+                        "lat" : 38.8945134,
+                        "lng" : -77.073804
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eClarendon Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wrjlFnjouMeAaDQm@EQi@iBc@uAYu@Q[GKKI_@]UUKQEGIKIKIKEKGOI]G[AWSoDOqFImDCUAUCIAIEOEMO_@IQ]a@SWWWMWi@yA]eAUs@Kc@I_@Go@OwAo@_Fa@eDg@aEc@qDK_@Sc@KSQUQSAAIGGEIEIGEIIO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8895572,
+                        "lng" : -77.0885583
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 212
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 38.8950045,
+                        "lng" : -77.07146019999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eWilson Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uqklFfnluMMSGOGSEOCMAGAOAYAWEs@Eg@Iu@Ge@S{B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8945134,
+                        "lng" : -77.073804
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 345
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 38.8981013,
+                        "lng" : -77.0714387
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Moore St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wtklFr_luMW@w@@e@?eCFU?QAu@Co@C_@?]@m@AqACc@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8950045,
+                        "lng" : -77.07146019999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "400 ft",
+                        "value" : 122
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 38.8973158,
+                        "lng" : -77.070998
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "chllFn_luM@e@?U@K@IDEFGJCJ?~AFF@F@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8981013,
+                        "lng" : -77.0714387
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{uilFbfouMiATw@N}@FaF^{F^}F\\wAoEo@{B}@kCYg@k@g@UUKQOSSWM[Qy@UgEY_LEk@Qq@Yq@q@y@WWMWgA_Da@wAQoAiC_Tc@qDK_@_@w@c@i@KIQKOQWc@Oc@Mu@OmCQ{AS{BW@}A@{CFgAEoACkA?uBE@{@BULMVCnBJ"
+         },
+         "summary" : "Clarendon Blvd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

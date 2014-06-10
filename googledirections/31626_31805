@@ -1,5 +1,386 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.887603,
+               "lng" : -76.97092889999999
+            },
+            "southwest" : {
+               "lat" : 38.8730573,
+               "lng" : -76.98364269999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 mi",
+                  "value" : 2956
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 678
+               },
+               "end_address" : "1401-1455 25th Street Southeast, Washington, DC 20020, USA",
+               "end_location" : {
+                  "lat" : 38.8730573,
+                  "lng" : -76.97092889999999
+               },
+               "start_address" : "200-206 15th Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8873209,
+                  "lng" : -76.98364269999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "102 ft",
+                        "value" : 31
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.887603,
+                        "lng" : -76.98363929999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e15th St SE\u003c/b\u003e toward \u003cb\u003eIndependence Ave SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wdjlFvzztMU?a@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8873209,
+                        "lng" : -76.98364269999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "404 ft",
+                        "value" : 123
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.88759,
+                        "lng" : -76.982219
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eIndependence Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ofjlFvzztM?wA@cE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.887603,
+                        "lng" : -76.98363929999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 812
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 175
+                     },
+                     "end_location" : {
+                        "lat" : 38.8802888,
+                        "lng" : -76.98221909999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e16th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mfjlFzqztMR?f@?x@?dA?T?^?d@?l@Ab@@b@?`@?N?rB?t@?nA@P?vEAP?jB?|A?L?R?|@?B?J?bE?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88759,
+                        "lng" : -76.982219
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "413 ft",
+                        "value" : 126
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 38.8802847,
+                        "lng" : -76.9807624
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eH St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yxhlFzqztM@cH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8802888,
+                        "lng" : -76.98221909999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "377 ft",
+                        "value" : 115
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 38.8792486,
+                        "lng" : -76.98076159999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e17th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wxhlFvhztMlE?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8802847,
+                        "lng" : -76.9807624
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "262 ft",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 38.87894,
+                        "lng" : -76.9799328
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAnacostia Riverwalk Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "irhlFvhztMLo@@KPo@Ri@FO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8792486,
+                        "lng" : -76.98076159999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 604
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 157
+                     },
+                     "end_location" : {
+                        "lat" : 38.8755477,
+                        "lng" : -76.9750727
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eAnacostia Riverwalk Trail\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "kphlFpcztMBEHMLELCL?BBNF@?LBB@B?H@J?D?P?FC^QPMNSNW?ABCVi@FMBGnF}M`@gAN_@HQ@A?ADKFO?ARa@`AeC?I"
+                     },
+                     "start_location" : {
+                        "lat" : 38.87894,
+                        "lng" : -76.9799328
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "472 ft",
+                        "value" : 144
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 38.8766028,
+                        "lng" : -76.9743876
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eAnacostia Riverwalk Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "e{glFdeytMA?OBU@KAMCWQU[Wc@Se@USOCA?MF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8755477,
+                        "lng" : -76.9750727
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 237
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 38.8757894,
+                        "lng" : -76.97691589999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAnacostia Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wahlF|`ytMjAlFVdAH`@?@?@BL@??BFZ@B?@DNHd@DPLb@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8766028,
+                        "lng" : -76.9743876
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 242
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 38.8742283,
+                        "lng" : -76.9751089
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNicholson St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u|glFvpytMNKp@[^OLGRINIDE@ADEBEDEDEVg@@EBEJU@C@??CVk@f@mAVi@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8757894,
+                        "lng" : -76.97691589999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 165
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 38.8745435,
+                        "lng" : -76.97324259999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFairlawn Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}rglFleytM}@uJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8742283,
+                        "lng" : -76.9751089
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 218
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 88
+                     },
+                     "end_location" : {
+                        "lat" : 38.8735644,
+                        "lng" : -76.9710565
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePennsylvania Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "{tglFvyxtMf@_BNc@FQzAkEZy@JW"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8745435,
+                        "lng" : -76.97324259999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "102 ft",
+                        "value" : 31
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.8733075,
+                        "lng" : -76.9709575
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003e25th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wnglFblxtMH?@?@?PGPK"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8735644,
+                        "lng" : -76.9710565
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.8730573,
+                        "lng" : -76.97092889999999
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003e25th St SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "emglFnkxtMBADAFAH?T?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8733075,
+                        "lng" : -76.9709575
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wdjlFvzztMw@?@{GzD?bG?jG@rLAbB?nE?@cHlE?N{@d@yAJUVSZCRJVDZ@XCp@_@b@q@^w@rFeN|@{BL_@tAgD?IQBa@?e@Um@_ASe@USQCMFjAlF`@fB?@Nr@DPNv@Lb@NKpAk@`@QVQTWh@iAZs@~@wB}@uJf@_BVu@vBeGJWH?B?l@Wf@A"
+         },
+         "summary" : "16th St SE and Anacostia Riverwalk Trail",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.915888,
+               "lng" : -77.0043793
+            },
+            "southwest" : {
+               "lat" : 38.9109529,
+               "lng" : -77.04452619999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 4046
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1103
+               },
+               "end_address" : "1919-1977 Florida Avenue Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9153176,
+                  "lng" : -77.04452619999999
+               },
+               "start_address" : "1580-1598 Eckington Place Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9109529,
+                  "lng" : -77.0048383
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 187
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 38.91259530000001,
+                        "lng" : -77.0043793
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eEckington Pl NE\u003c/b\u003e toward \u003cb\u003eQ St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mxnlFf__uM_@IA?sCi@aBYq@M"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9109529,
+                        "lng" : -77.0048383
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.1 mi",
+                        "value" : 3380
+                     },
+                     "duration" : {
+                        "text" : "15 mins",
+                        "value" : 914
+                     },
+                     "end_location" : {
+                        "lat" : 38.9126015,
+                        "lng" : -77.0434468
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR St NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wbolFj|~tM@~@A|A@|D?tAApA@`C?lC?h@Ax@?R?H?\\?^?fA?hA?dD?tF?P?h@?`@?jA?J?x@?pA?tA?b@?xB?l@?N?N?xC?R?nC?~A?V?B?jE?~@?N@bEA~B?@@nAAhA?vB?lE?lEAxJ?X?lE?~C?\\?fI?pM@~B?NApB@`G?jK?fKCtL@fE@dJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.91259530000001,
+                        "lng" : -77.0043793
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 365
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 38.915888,
+                        "lng" : -77.043436
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e19th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wbolFppfuMcAA{@?W?q@?mA?Q?_BAs@?qC?Q?W?K?K@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9126015,
+                        "lng" : -77.0434468
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "374 ft",
+                        "value" : 114
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 38.9153176,
+                        "lng" : -77.04452619999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFlorida Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iwolFnpfuMFLFLb@bAN\\Rd@Rh@DJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.915888,
+                        "lng" : -77.043436
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mxnlFf__uMwGmAq@M@~@?zG?vLA`C?fT?xN?bO?~G?bI@pAA`E?zKA`W@fu@C|XBlPiEA{LAK@FLj@pA|@xB"
+         },
+         "summary" : "R St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

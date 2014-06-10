@@ -1,5 +1,74 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.87883739999999,
+               "lng" : -77.12063810000001
+            },
+            "southwest" : {
+               "lat" : 38.87883739999999,
+               "lng" : -77.12063810000001
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Bluemont Junction Trail, Arlington, VA 22203, USA",
+               "end_location" : {
+                  "lat" : 38.87883739999999,
+                  "lng" : -77.12063810000001
+               },
+               "start_address" : "Bluemont Junction Trail, Arlington, VA 22203, USA",
+               "start_location" : {
+                  "lat" : 38.87883739999999,
+                  "lng" : -77.12063810000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.87883739999999,
+                        "lng" : -77.12063810000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eBluemont Junction Trail\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wohlF~ruuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.87883739999999,
+                        "lng" : -77.12063810000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wohlF~ruuM"
+         },
+         "summary" : "Bluemont Junction Trail",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

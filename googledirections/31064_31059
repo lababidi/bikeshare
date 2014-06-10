@@ -1,0 +1,121 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8351748,
+               "lng" : -77.0872021
+            },
+            "southwest" : {
+               "lat" : 38.833739,
+               "lng" : -77.09439379999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 674
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 124
+               },
+               "end_address" : "3147-3199 South Abingdon Street, Arlington, VA 22206, USA",
+               "end_location" : {
+                  "lat" : 38.8351748,
+                  "lng" : -77.09439379999999
+               },
+               "start_address" : "3315 South Stafford Street, Arlington, VA 22206, USA",
+               "start_location" : {
+                  "lat" : 38.833994,
+                  "lng" : -77.0872021
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "66 ft",
+                        "value" : 20
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 38.8338788,
+                        "lng" : -77.0873811
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eS Stafford St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mw_lF~aouMTb@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.833994,
+                        "lng" : -77.0872021
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 614
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : 38.8348556,
+                        "lng" : -77.09417329999999
+                     },
+                     "html_instructions" : "At the traffic circle, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003e34th St S\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "wv_lFbcouM?D?@?B@@?B@@?@@B?@@@@@@@@@LhAAf@Eb@Ev@[bBO`AE^OlAALEh@En@Ev@ANATChAEvACh@CnAElAEx@CRCRIj@?@GVCJEJCHQ`@EHEHSV"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8338788,
+                        "lng" : -77.0873811
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "131 ft",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 38.8351748,
+                        "lng" : -77.09439379999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eS Abingdon St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "{|_lFpmpuMKJIFIDOHMF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8348556,
+                        "lng" : -77.09417329999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mw_lF~aouMTh@?DBHDHBBLhAAf@KzAk@dD]dDOlCQzGKfCGf@UpAa@`AY`@URg@V"
+         },
+         "summary" : "34th St S",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,5 +1,145 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.885982,
+               "lng" : -76.9860594
+            },
+            "southwest" : {
+               "lat" : 38.8802937,
+               "lng" : -77.0022987
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1599
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 320
+               },
+               "end_address" : "1385 Potomac Avenue Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.8802937,
+                  "lng" : -76.98611769999999
+               },
+               "start_address" : "259-299 D Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8850662,
+                  "lng" : -77.0022987
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "72 ft",
+                        "value" : 22
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.885072,
+                        "lng" : -77.00204099999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eD St SE\u003c/b\u003e toward \u003cb\u003e3rd St SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uvilFjo~tM?s@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8850662,
+                        "lng" : -77.0022987
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 231
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 38.885982,
+                        "lng" : -76.9996568
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eNorth Carolina Ave SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uvilFvm~tM?EAI?IACAKeAmD]mAIUACAAi@gBACGSIY"
+                     },
+                     "start_location" : {
+                        "lat" : 38.885072,
+                        "lng" : -77.00204099999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1329
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 270
+                     },
+                     "end_location" : {
+                        "lat" : 38.880437,
+                        "lng" : -76.9860594
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePennsylvania Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "k|ilFz~}tMRo@v@cCDO@INa@Tw@|@uC`@sAp@uBRo@l@_CPi@H[Pk@Pi@Ro@J]Tu@ZeAL]X_ANg@ZaAFSHWn@uBHWFSNc@L]Nm@FQl@oBHYHYFUXaAn@wBBGdAiDt@_Cd@wA@Gb@{A`@sARs@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.885982,
+                        "lng" : -76.9996568
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "56 ft",
+                        "value" : 17
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 38.8802937,
+                        "lng" : -76.98611769999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePotomac Ave SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wyhlFzi{tMZJ@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.880437,
+                        "lng" : -76.9860594
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uvilFjo~tMAmAgBkGw@cCIWIYRo@|@sCPk@fDwK|AuFbAcDvCoJdDsKt@kCnDiLlBoGRs@ZJ@?"
+         },
+         "summary" : "Pennsylvania Ave SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

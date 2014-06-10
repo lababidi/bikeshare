@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9178205,
+               "lng" : -77.0406196
+            },
+            "southwest" : {
+               "lat" : 38.9178205,
+               "lng" : -77.0406196
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1724 California Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9178205,
+                  "lng" : -77.0406196
+               },
+               "start_address" : "1724 California Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9178205,
+                  "lng" : -77.0406196
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9178205,
+                        "lng" : -77.0406196
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eCalifornia St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kcplFz~euM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9178205,
+                        "lng" : -77.0406196
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kcplFz~euM"
+         },
+         "summary" : "California St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

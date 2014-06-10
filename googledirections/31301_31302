@@ -1,5 +1,194 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9387191,
+               "lng" : -77.0742724
+            },
+            "southwest" : {
+               "lat" : 38.9334351,
+               "lng" : -77.0871918
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1653
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 415
+               },
+               "end_address" : "3720-3808 Newark Street Northwest, Washington, DC 20016, USA",
+               "end_location" : {
+                  "lat" : 38.9352484,
+                  "lng" : -77.0742724
+               },
+               "start_address" : "4300-4354 Massachusetts Avenue Northwest, American University, Washington, DC 20016, USA",
+               "start_location" : {
+                  "lat" : 38.9387191,
+                  "lng" : -77.0871918
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "236 ft",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.938274,
+                        "lng" : -77.0865929
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_ftlF|aouMxAwB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9387191,
+                        "lng" : -77.0871918
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "30 ft",
+                        "value" : 9
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 38.9383326,
+                        "lng" : -77.08652719999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ectlFd~nuMKK"
+                     },
+                     "start_location" : {
+                        "lat" : 38.938274,
+                        "lng" : -77.0865929
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 824
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 177
+                     },
+                     "end_location" : {
+                        "lat" : 38.9334351,
+                        "lng" : -77.0797831
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qctlFx}nuMLMFG@A@AB??A@?@?B?@?b@?D?DAB?BAB?@??AB?@A@?ZODIFO?E@E@M?E?MAOBW@M@KHa@Ja@p@cAVc@JO@CPUZg@DGBEXa@z@qAb@q@tAuBlBwCZc@p@cAPW|A{B\\k@l@_Aj@_ADGNW"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9383326,
+                        "lng" : -77.08652719999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 237
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 38.9334819,
+                        "lng" : -77.07706039999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMacomb St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_eslFrsmuMAECGAGAG?G?U?qA?kA@gF?}A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9334351,
+                        "lng" : -77.0797831
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 248
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : {
+                        "lat" : 38.9356988,
+                        "lng" : -77.0771938
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e39th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "geslFrbmuMS?qB?Q?w@?UAY?K?U?U@K?UBU@o@J[F"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9334819,
+                        "lng" : -77.07706039999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 263
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 38.9352484,
+                        "lng" : -77.0742724
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eNewark St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "csslFlcmuMC_@?_@AU?a@?c@@c@@c@Do@D]Do@BODe@@IDUDS@KDM@EBIFUL[L_@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9356988,
+                        "lng" : -77.0771938
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_ftlF|aouMxAwBKKTUFEH?r@Al@ULY@K@SA]De@Jm@Ja@p@cAb@s@t@iA|BkDpGuJnBsCjAkBp@gANWAEEOAO@{K?}AS?cC?sBAmADeAL[FC_@Au@?eABgAJmAPoBRcAZaAL_@"
+         },
+         "summary" : "Massachusetts Avenue Northwest",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

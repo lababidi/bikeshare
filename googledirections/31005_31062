@@ -1,5 +1,242 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8701041,
+               "lng" : -77.0600491
+            },
+            "southwest" : {
+               "lat" : 38.8546219,
+               "lng" : -77.1013907
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5506
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1334
+               },
+               "end_address" : "1301-1319 South George Mason Drive, Arlington, VA 22204, USA",
+               "end_location" : {
+                  "lat" : 38.8547394,
+                  "lng" : -77.100667
+               },
+               "start_address" : "1250-1360 South Hayes Street, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.8623123,
+                  "lng" : -77.0600491
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 301
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 38.86090970000001,
+                        "lng" : -77.0621841
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e toward \u003cb\u003e15th St S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mhelFhxiuMZB\\Bh@DX@TBB@BBBBBB@B?D@B?B@DAD?lA@xD@L?H@B@DBBB@FDHDlAl@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8623123,
+                        "lng" : -77.0600491
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "266 ft",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.8613305,
+                        "lng" : -77.0629393
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e15th St S\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "u_elFrejuMSh@Qb@KVa@p@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.86090970000001,
+                        "lng" : -77.0621841
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1066
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 201
+                     },
+                     "end_location" : {
+                        "lat" : 38.8701041,
+                        "lng" : -77.0651079
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eS Joyce St\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "ibelFjjjuMWXKLSLa@Ti@Vo@Pg@FQ@M@O?k@A_AKOCiAOc@Gs@QMCKEA?sD}@MC_@IMCoAW]Eg@?_@@c@BS@OBA?UBa@DK@E@I@A@[De@HC@KBA?a@H]H]HA?A?y@Ve@PSJMFOJOLUPONSTKLIJOTINGJEDEFeA|ASZMREFIP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8613305,
+                        "lng" : -77.0629393
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 ft",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 38.8699547,
+                        "lng" : -77.0652977
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eColumbia Pike\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cyflF|wjuMLRNP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8701041,
+                        "lng" : -77.0651079
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 ft",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 38.8700404,
+                        "lng" : -77.0655328
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eColumbia Pike\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "exflFbyjuMCFCFGRAH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8699547,
+                        "lng" : -77.0652977
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.2 mi",
+                        "value" : 3508
+                     },
+                     "duration" : {
+                        "text" : "16 mins",
+                        "value" : 934
+                     },
+                     "end_location" : {
+                        "lat" : 38.8587554,
+                        "lng" : -77.1013907
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eColumbia Pike\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wxflFpzjuMLHZHPF^@R?VCn@MxA[XEJAF?D?D?F?B?@?B?D@D@VFPLLLJLJTDJBJBJBLBR?F@RFRBl@DzADn@Fl@BVF`@zBfNj@`DLz@Lr@Lz@HXRvAHh@^xBH`@BRTnAPjALt@F`@Lt@N|@N`AF^\\rBd@hCTnARpAXfBLt@`@bCN~@^vBZjBPfAN`ALv@PfA^vBV`BRlARnA\\pBNx@FZ\\xBd@tCXbBDR\\tBNx@Lx@DTJl@V`BZlBdBpJXbBBZ`@xBHl@r@dExAdJxCrQ`A`FTfA`@xBXxAF\\"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8700404,
+                        "lng" : -77.0655328
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 476
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : 38.8546812,
+                        "lng" : -77.1008837
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS George Mason Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "grdlFtzquMTSTS\\Un@]VIRIj@Mh@MfGo@RC^Ah@@VBn@Jd@Nd@P`@VVN"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8587554,
+                        "lng" : -77.1013907
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 38.8547394,
+                        "lng" : -77.100667
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003e13th Rd S\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "wxclFnwquMJYWO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8546812,
+                        "lng" : -77.1008837
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mhelFhxiuM|BNXDFFFP?|ABfE@LPPvAr@e@lAm@hAc@f@u@b@i@Vo@Py@H]@kBMyASwAYYIcFkA}A[eAEgBJy@HcBXmB`@{@Vy@\\cAr@y@~@g@v@mBtCOX\\d@Ql@h@RPF^@j@ChCi@r@GR?f@J^ZVb@Pp@BZHf@HhCL|AJx@fDhSZnBVtAfA|Gx@dFt@vE`BlJzD~UvIxh@v@~E`C~M\\~BxDrUxCrQ`A`Fv@`E`@vBj@g@lAs@j@StA[zGs@hA?fANjA`@x@f@JYWO"
+         },
+         "summary" : "Columbia Pike",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

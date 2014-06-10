@@ -1,5 +1,74 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9164165,
+               "lng" : -77.0627707
+            },
+            "southwest" : {
+               "lat" : 38.9037491,
+               "lng" : -77.06825270000002
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1504
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 476
+               },
+               "end_address" : "1900-2056 Wisconsin Avenue Northwest, Washington, DC 20007, USA",
+               "end_location" : {
+                  "lat" : 38.9164165,
+                  "lng" : -77.06825270000002
+               },
+               "start_address" : "1044 Wisconsin Avenue Northwest, Washington, DC 20007, USA",
+               "start_location" : {
+                  "lat" : 38.9037491,
+                  "lng" : -77.0627707
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1504
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 476
+                     },
+                     "end_location" : {
+                        "lat" : 38.9164165,
+                        "lng" : -77.06825270000002
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eWisconsin Ave NW\u003c/b\u003e toward \u003cb\u003eWaters Alley NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "mkmlFhijuMQ?[@g@?K?K?C?K@K@K?M?Q@KAQ?gA@[?c@@]?mAA[?k@@E@IB[LQFYNoAh@kAf@SJ]LoBz@WJ}@`@SHC@YLUHWLq@Zk@VWJgAd@SHSHIDs@VWJcAd@y@\\u@\\w@ZkAh@IBEBUJQJcCbAg@TWJQFu@\\}Ap@]NkBx@ULaAb@MFGDsAt@g@^"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9037491,
+                        "lng" : -77.0627707
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mkmlFhijuM}BBw@BaC?kD?q@Be@PgEhByD`B{FfCaHtCkH`DuElB}GxCmB~@sAt@g@^"
+         },
+         "summary" : "Wisconsin Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

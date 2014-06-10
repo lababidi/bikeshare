@@ -1,5 +1,194 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.814657,
+               "lng" : -77.04194629999999
+            },
+            "southwest" : {
+               "lat" : 38.8046101,
+               "lng" : -77.0531953
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 2006
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 511
+               },
+               "end_address" : "301-399 King Street, Alexandria, VA 22314, USA",
+               "end_location" : {
+                  "lat" : 38.8046101,
+                  "lng" : -77.0433846
+               },
+               "start_address" : "821 North West Street, Alexandria, VA 22314, USA",
+               "start_location" : {
+                  "lat" : 38.81454799999999,
+                  "lng" : -77.05282529999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "95 ft",
+                        "value" : 29
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.814657,
+                        "lng" : -77.053127
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e toward \u003cb\u003eN West St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}}{kFdkhuMUz@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.81454799999999,
+                        "lng" : -77.05282529999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "52 ft",
+                        "value" : 16
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.8145249,
+                        "lng" : -77.05319539999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN West St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "s~{kF`mhuMXL@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.814657,
+                        "lng" : -77.053127
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "249 ft",
+                        "value" : 76
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 38.8139944,
+                        "lng" : -77.0529379
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eN West St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "w}{kFnmhuMBUBOBGDIJGHAH@L@h@H"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8145249,
+                        "lng" : -77.05319539999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 965
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 329
+                     },
+                     "end_location" : {
+                        "lat" : 38.812596,
+                        "lng" : -77.04194629999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMadison St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mz{kFzkhuMT}D^wFZwEZyEJcBNwBNyBJyA\\kFX{EZwEZ}E"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8139944,
+                        "lng" : -77.0529379
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 897
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 162
+                     },
+                     "end_location" : {
+                        "lat" : 38.8046424,
+                        "lng" : -77.04365110000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Royal St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wq{kFdgfuMbFn@bFn@rBVlBNrBZND~AT`Fp@bFn@bFp@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.812596,
+                        "lng" : -77.04194629999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 ft",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.8046101,
+                        "lng" : -77.0433846
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKing St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_`zkFxqfuMDu@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8046424,
+                        "lng" : -77.04365110000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}}{kFdkhuMUz@XLDUFWPQR?v@JlBgZfDmh@fM~ArBVlBNbC`@`IfAfM`BDu@"
+         },
+         "summary" : "Madison St and N Royal St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

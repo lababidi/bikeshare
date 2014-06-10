@@ -1,5 +1,194 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8991001,
+               "lng" : -77.0020181
+            },
+            "southwest" : {
+               "lat" : 38.88738110000001,
+               "lng" : -77.0336507
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.3 mi",
+                  "value" : 3700
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 864
+               },
+               "end_address" : "727 15th Street Northwest, Washington, DC 20005, USA",
+               "end_location" : {
+                  "lat" : 38.8991001,
+                  "lng" : -77.0336507
+               },
+               "start_address" : "132 3rd Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.88738110000001,
+                  "lng" : -77.0020316
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "75 ft",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875838,
+                        "lng" : -77.0020181
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e3rd St SE\u003c/b\u003e toward \u003cb\u003eIndependence Ave SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cejlFtm~tMg@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88738110000001,
+                        "lng" : -77.0020316
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1146
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 220
+                     },
+                     "end_location" : {
+                        "lat" : 38.88757700000001,
+                        "lng" : -77.0152367
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eIndependence Ave SE/Pennsylvania Ave SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Independence Ave SE\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kfjlFrm~tMItECtA?\\HR?hFAvD@nM@xA?tA?z@?pB@`M?vF@bA?l@?rA?r@?V?v@A`@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875838,
+                        "lng" : -77.0020181
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 271
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 38.8900175,
+                        "lng" : -77.01518879999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e3rd St SW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kfjlFf`auMwBC}@A_A?UAaBAsA?]?G?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88757700000001,
+                        "lng" : -77.0152367
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 170
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 38.8914739,
+                        "lng" : -77.0150024
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sujlF|_auMESCGECIA_E?I?E?EAG?K?]A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8900175,
+                        "lng" : -77.01518879999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 mi",
+                        "value" : 1692
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 448
+                     },
+                     "end_location" : {
+                        "lat" : 38.8955258,
+                        "lng" : -77.0336308
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u~jlFv~`uMIh@H\\i@pCMn@CJaAhFy@lESjAOz@Mv@UhA}@dFUlAEXQ|@i@hCSdASjAABKf@Mz@AJCNUnAcApFSlAYvAEV]zAM|@UlAWrAaAhFS~@Ep@CR?LAH?J?H?jBAjD@fAAdD@n@AxB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8914739,
+                        "lng" : -77.0150024
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 398
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 115
+                     },
+                     "end_location" : {
+                        "lat" : 38.8991001,
+                        "lng" : -77.0336507
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e15th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "axklFdsduMeB?iA@{D@{DA}A?Q@g@?I?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8955258,
+                        "lng" : -77.0336308
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cejlFtm~tMg@AItECrBHR?hF?fS@|IBjX?vEA`@wBC}BAwBCqB?G?ESIKiEAO?w@CIh@H\\w@`EsCnOqBbLwAnHu@|Di@fDwBnL]zAM|@m@`DuAhHIdAAl@AdO?hDoD@wJ?oB@q@?"
+         },
+         "summary" : "Independence Ave SE and Pennsylvania Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

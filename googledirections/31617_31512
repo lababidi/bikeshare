@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9038081,
+               "lng" : -76.98225029999999
+            },
+            "southwest" : {
+               "lat" : 38.90048600000001,
+               "lng" : -76.9871572
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 637
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 180
+               },
+               "end_address" : "1299 Neal Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9038081,
+                  "lng" : -76.9871572
+               },
+               "start_address" : "801-807 Bladensburg Road Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.90048600000001,
+                  "lng" : -76.9830451
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 153
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 38.9017136,
+                        "lng" : -76.98225029999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eBladensburg Rd NE\u003c/b\u003e toward \u003cb\u003eMaryland Ave NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "awllF`wztMc@[SOyAw@mAm@GEKG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.90048600000001,
+                        "lng" : -76.9830451
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 484
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 126
+                     },
+                     "end_location" : {
+                        "lat" : 38.9038081,
+                        "lng" : -76.9871572
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNeal St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u~llF`rztMGReCxHw@bCGP_ApC_@lA]dAGNoAzD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9017136,
+                        "lng" : -76.98225029999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "awllF`wztMw@k@gDeBSMmClI_DtJuBpG"
+         },
+         "summary" : "Neal St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

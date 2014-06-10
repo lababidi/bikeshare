@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8930282,
+               "lng" : -77.01754439999999
+            },
+            "southwest" : {
+               "lat" : 38.8767133,
+               "lng" : -77.0259676
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 mi",
+                  "value" : 2560
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 567
+               },
+               "end_address" : "300-376 10th Street Northwest, Washington, DC 20530, USA",
+               "end_location" : {
+                  "lat" : 38.8930282,
+                  "lng" : -77.0259676
+               },
+               "start_address" : "1150 4th Street Southwest, Washington, DC 20024, USA",
+               "start_location" : {
+                  "lat" : 38.8767133,
+                  "lng" : -77.0177242
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.1 mi",
+                        "value" : 1712
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 336
+                     },
+                     "end_location" : {
+                        "lat" : 38.89209779999999,
+                        "lng" : -77.0175569
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e4th St SW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mbhlFvoauME@QBM@SAq@EeBIeAGe@Cq@Cg@AQA{AEW@aB?uA?U?mA?wA@gE?A?I?A?A?A?A?Y?A?mC@iC@}A?y@AmAB_EC_A?cECm@?uF@WAcBB}@?m@AK@yAA[@gB?mAAY?{A?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8767133,
+                        "lng" : -77.0177242
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "312 ft",
+                        "value" : 95
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 38.8923857,
+                        "lng" : -77.01858540000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eConstitution Ave NW/Pennsylvania Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sbklFvnauMy@lE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89209779999999,
+                        "lng" : -77.0175569
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 650
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 166
+                     },
+                     "end_location" : {
+                        "lat" : 38.89210370000001,
+                        "lng" : -77.02596129999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eConstitution Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mdklFduauMRVBDLPFLDLBNDZ@Z?Z?vA?zA?tCAd@AtB@fE?v@?lC@RAV?VAh@?f@?`@A~@?dD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8923857,
+                        "lng" : -77.01858540000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "338 ft",
+                        "value" : 103
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 38.8930282,
+                        "lng" : -77.0259676
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e10th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sbklFfccuMyD@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89210370000001,
+                        "lng" : -77.02596129999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mbhlFvoauMWDa@?cG[gEMeF@{J@oD@oJBqNG_RBkHAy@lERVPVLZHj@@jFAxN?pFAjCAdFyD@"
+         },
+         "summary" : "4th St SW and Constitution Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

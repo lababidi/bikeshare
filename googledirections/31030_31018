@@ -1,5 +1,170 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8959356,
+               "lng" : -77.07943179999999
+            },
+            "southwest" : {
+               "lat" : 38.8910139,
+               "lng" : -77.088926
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1421
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 319
+               },
+               "end_address" : "1604-1608 North Rhodes Street, Arlington, VA 22209, USA",
+               "end_location" : {
+                  "lat" : 38.8921425,
+                  "lng" : -77.07943179999999
+               },
+               "start_address" : "1909-1915 North Adams Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8959356,
+                  "lng" : -77.088926
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 348
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 127
+                     },
+                     "end_location" : {
+                        "lat" : 38.8929117,
+                        "lng" : -77.0880013
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Adams St\u003c/b\u003e toward \u003cb\u003eUS-29 S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "szklFxlouMdBKZ@N?HATC`@GzC}@lFcB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8959356,
+                        "lng" : -77.088926
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 171
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 38.8933798,
+                        "lng" : -77.0861211
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKey Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ugklF~fouMs@gEi@oD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8929117,
+                        "lng" : -77.0880013
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 268
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 38.8910139,
+                        "lng" : -77.085691
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Veitch St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sjklFf{nuMfBKnCQv@G^C~AMh@]"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8933798,
+                        "lng" : -77.0861211
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 563
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 111
+                     },
+                     "end_location" : {
+                        "lat" : 38.8926995,
+                        "lng" : -77.07982179999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eClarendon Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "y{jlFpxnuMKQEGIKIKIKEKGOI]G[AWSoDOqFImDCUAUCIAIEOEMO_@IQ]a@SWWWMWi@yA]eA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8910139,
+                        "lng" : -77.085691
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "233 ft",
+                        "value" : 71
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 38.8921425,
+                        "lng" : -77.07943179999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Rhodes St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kfklFzsmuMf@]n@_@VO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8926995,
+                        "lng" : -77.07982179999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "szklFxlouMdBKZ@XAv@KhKaD}AwJvF]vAK~AMh@]QYSWOWQm@Is@SoDOqFMcEE_@GYUm@g@s@k@o@w@qB]eAf@]fAo@"
+         },
+         "summary" : "N Adams St and Clarendon Blvd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

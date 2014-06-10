@@ -1,5 +1,74 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8426002,
+               "lng" : -77.05019919999999
+            },
+            "southwest" : {
+               "lat" : 38.8426002,
+               "lng" : -77.05019919999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "3901 Potomac Avenue, Alexandria, VA 22301, USA",
+               "end_location" : {
+                  "lat" : 38.8426002,
+                  "lng" : -77.05019919999999
+               },
+               "start_address" : "3901 Potomac Avenue, Alexandria, VA 22301, USA",
+               "start_location" : {
+                  "lat" : 38.8426002,
+                  "lng" : -77.05019919999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8426002,
+                        "lng" : -77.05019919999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gmalFvzguM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8426002,
+                        "lng" : -77.05019919999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gmalFvzguM"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,385 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8961583,
+               "lng" : -77.0781119
+            },
+            "southwest" : {
+               "lat" : 38.8810365,
+               "lng" : -77.1116447
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 4077
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 849
+               },
+               "end_address" : "1614-1698 Key Boulevard, Arlington, VA 22209, USA",
+               "end_location" : {
+                  "lat" : 38.8960593,
+                  "lng" : -77.0781119
+               },
+               "start_address" : "4299 9th Street North, Arlington, VA 22230, USA",
+               "start_location" : {
+                  "lat" : 38.8810365,
+                  "lng" : -77.1116447
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "358 ft",
+                        "value" : 109
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.8810373,
+                        "lng" : -77.11038859999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e9th St N\u003c/b\u003e toward \u003cb\u003eN Stafford St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "o}hlFvzsuM?QAkE@["
+                     },
+                     "start_location" : {
+                        "lat" : 38.8810365,
+                        "lng" : -77.1116447
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "446 ft",
+                        "value" : 136
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 38.8822515,
+                        "lng" : -77.1105266
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Stafford St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "o}hlF|rsuMwAHU@cBLK?S@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8810373,
+                        "lng" : -77.11038859999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1004
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 208
+                     },
+                     "end_location" : {
+                        "lat" : 38.884683,
+                        "lng" : -77.0996392
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aeilFxssuMUyEEy@GsACe@Aa@?I?u@@{@FwAFqABk@Am@AYAWGeAEm@Mk@a@eBaA{C{@aDiAcDiAyDeAuDQe@Mc@EOCOAKAKCQCs@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8822515,
+                        "lng" : -77.1105266
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "69 ft",
+                        "value" : 21
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.884836,
+                        "lng" : -77.09949639999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gtilFvoquMMKIIGE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.884683,
+                        "lng" : -77.0996392
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 325
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 100
+                     },
+                     "end_location" : {
+                        "lat" : 38.88761239999999,
+                        "lng" : -77.1004422
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Kirkwood Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "guilFznquMU^wBr@mAb@OBA?g@DG@O@cAFS@W@I@O@UBOBK@QDKDODQH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.884836,
+                        "lng" : -77.09949639999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "223 ft",
+                        "value" : 68
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 38.8874854,
+                        "lng" : -77.0997074
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e13th St N\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qfjlFvtquMAS?QAM?K@I?IBI@IBIDIHU"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88761239999999,
+                        "lng" : -77.1004422
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "72 ft",
+                        "value" : 22
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 38.8872925,
+                        "lng" : -77.0996578
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Johnson St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yejlFdpquMf@I"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8874854,
+                        "lng" : -77.0997074
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "135 ft",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 38.8873239,
+                        "lng" : -77.0991848
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e13th St N\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qdjlFzoquME_B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8872925,
+                        "lng" : -77.0996578
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 199
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 38.889107,
+                        "lng" : -77.0993903
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Jackson St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wdjlFzlquMaDRcET"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8873239,
+                        "lng" : -77.0991848
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1388
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 227
+                     },
+                     "end_location" : {
+                        "lat" : 38.8937944,
+                        "lng" : -77.0847866
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKey Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}ojlFdnquMGq@wAuCa@{@Se@MWMWOa@Uq@KYIUK[c@uAoAgEMa@Us@eAmDyAwEgA}DSeAG[Im@Ek@Ae@I_CEsAScEC[g@}Cs@gEi@oDScAM{@AM?OAC?G?I?IAC?CACCGCEIIEGCCEGES"
+                     },
+                     "start_location" : {
+                        "lat" : 38.889107,
+                        "lng" : -77.0993903
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 386
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 38.8951581,
+                        "lng" : -77.0818836
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at \u003cb\u003eN Uhle St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "emklF|rnuMWCI@G@G?SD}AHOCCAEEI_@W_BQk@UeA@i@Ae@U_@Yi@GOCKAM?OBQDMPk@Vw@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8937944,
+                        "lng" : -77.0847866
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 273
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 38.8961583,
+                        "lng" : -77.07930619999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at \u003cb\u003eKey Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wuklFv`nuMYyAOq@KWKa@Go@G}@E_@Ao@Eo@EWEQEIIGOE{@K"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8951581,
+                        "lng" : -77.0818836
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "253 ft",
+                        "value" : 77
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 38.8960482,
+                        "lng" : -77.0784343
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Scott St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_|klFtpmuMD[DWBUB]@]?i@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8961583,
+                        "lng" : -77.07930619999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 38.8960593,
+                        "lng" : -77.0781119
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eKey Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "i{klFdkmuM?e@AY"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8960482,
+                        "lng" : -77.0784343
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "o}hlFvzsuMA}E@[wAHyBN_@@g@mK?}CNiD@yACq@MsBo@qCaA{C{@aDsC}IwA{ESs@E[E]Cs@MKQOU^wBr@}Af@i@DoBLgAHy@Pa@NAe@?m@Ng@HUf@IE_BaDRcETGq@yBqE_AwBw@}BwCsJ_DeKgA}DSeAQiAGqAOsEW_F{AeJ}@sFQ}AA_@IUY]ESWCQB[D}AHOCIGa@_Cg@qB?oAo@iAK[A]H_@h@cBi@kCWy@OmBGoAEo@EWK[YM{@KD[Hm@D{@?oAAY"
+         },
+         "summary" : "Key Blvd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

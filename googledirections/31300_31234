@@ -1,5 +1,122 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9445999,
+               "lng" : -77.04488379999999
+            },
+            "southwest" : {
+               "lat" : 38.9089051,
+               "lng" : -77.0637577
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.7 mi",
+                  "value" : 4360
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 791
+               },
+               "end_address" : "1401-1499 20th Street Northwest, Washington, DC 20036, USA",
+               "end_location" : {
+                  "lat" : 38.9089051,
+                  "lng" : -77.04489909999999
+               },
+               "start_address" : "4210-4250 Connecticut Avenue Northwest, Washington, DC 20008, USA",
+               "start_location" : {
+                  "lat" : 38.9445999,
+                  "lng" : -77.0637577
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "2.5 mi",
+                        "value" : 3968
+                     },
+                     "duration" : {
+                        "text" : "11 mins",
+                        "value" : 685
+                     },
+                     "end_location" : {
+                        "lat" : 38.9123928,
+                        "lng" : -77.0451276
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eConnecticut Ave NW\u003c/b\u003e toward \u003cb\u003eVeazey Terrace NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wjulFnojuMbAg@tE}BLGzEyBhEuBRKlHoD|CyAZQx@c@dFeCh@YdCkArBcAfHmDrBaArDiBtDiB~DkBn@YxBgAhDcBxDkBzHwDdEqBrBcAd@UtFmChCsApCwApAq@hAk@nJoEl@Wt@]BCDCDEBCBC@EBE@GDMBMDMF[H[Jk@F_@BKBGBEBGDEDEFCDCzB}@pAg@BABCLGLGFCHEd@QF@JAp@Wz@_@\\KRATCJA`EQLANALATC^GNEJETIVMlEuBbAe@h@Y"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9445999,
+                        "lng" : -77.0637577
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "203 ft",
+                        "value" : 62
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 38.9118735,
+                        "lng" : -77.04488379999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eConnecticut Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "maolF`{fuMXEFCNERI`@W"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9123928,
+                        "lng" : -77.0451276
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 330
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 96
+                     },
+                     "end_location" : {
+                        "lat" : 38.9089051,
+                        "lng" : -77.04489909999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e20th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "e~nlFnyfuMtC@jA?zA@Z?`B?rC?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9118735,
+                        "lng" : -77.04488379999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wjulFnojuMbOgHhTkKdJuEtS_KxQyIxWoMtQyIvLiGvMiGRQh@uBZ_BRYzEmBb@UPId@QF@JAp@Wz@_@\\Kh@EjFWrAS`@OdFcClB_A`@Ib@O`@WtC@fD@|B?rC?"
+         },
+         "summary" : "Connecticut Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

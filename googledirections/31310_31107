@@ -1,5 +1,217 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9550567,
+               "lng" : -77.03880819999999
+            },
+            "southwest" : {
+               "lat" : 38.9318999,
+               "lng" : -77.0698534
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4748
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1169
+               },
+               "end_address" : "3249-3299 17th Street Northwest, Washington, DC 20010, USA",
+               "end_location" : {
+                  "lat" : 38.9318999,
+                  "lng" : -77.0388514
+               },
+               "start_address" : "5000 Connecticut Avenue Northwest, Washington, DC 20008, USA",
+               "start_location" : {
+                  "lat" : 38.9550567,
+                  "lng" : -77.0698404
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "289 ft",
+                        "value" : 88
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.954336,
+                        "lng" : -77.069425
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eConnecticut Ave NW\u003c/b\u003e toward \u003cb\u003eFessenden St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "clwlFnukuMb@Sd@UPIZOVO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9550567,
+                        "lng" : -77.0698404
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1152
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 235
+                     },
+                     "end_location" : {
+                        "lat" : 38.944031,
+                        "lng" : -77.069823
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e36th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sgwlFzrkuMZPB@^JHBPDbBb@NDF?r@?rD?bB?d@@NAvB?t@@Z?T?Z?fA?N?lA?xAAvA@hAAN?R@j@A`B?N?`C@N?N?hA?N?`E?jB?NANAHA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.954336,
+                        "lng" : -77.069425
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 388
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 87
+                     },
+                     "end_location" : {
+                        "lat" : 38.9409345,
+                        "lng" : -77.0678487
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eReno Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "egulFjukuMRKLGJGBAFEVMVMDC|@_@r@WZO`A]j@SFAZM^MFCNIDENIDELKf@k@x@{@VU"
+                     },
+                     "start_location" : {
+                        "lat" : 38.944031,
+                        "lng" : -77.069823
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1522
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 292
+                     },
+                     "end_location" : {
+                        "lat" : 38.9394983,
+                        "lng" : -77.0512337
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTilden St NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "ystlF`ikuMBIHKFIDQFMBODUF[Hy@JkABg@B]@k@Bq@@q@?k@?a@Cq@Ag@C]Ea@Gg@?i@?KAKCOg@sDCWC[Ca@Cc@Ac@A]@k@@wQ@qJEu@@[@OBUBQ\\mAH_@D]@U@SA_@As@GgACSEk@AQE}@Ce@AYAe@@Q@M@KDOBKD[d@g@HI^a@BCDE\\[b@c@FGFEJQDI?A@AVi@BIP_@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9409345,
+                        "lng" : -77.0678487
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1520
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 519
+                     },
+                     "end_location" : {
+                        "lat" : 38.9325526,
+                        "lng" : -77.0390031
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePark Rd NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{jtlFdahuMLQBE\\c@n@o@^a@`@g@FIDEBEFMBEBG@EZy@Tu@Z_ABGRm@f@gBRo@BMBG@CBGBCPSJKLKf@e@~@q@PQJGHMLOPUFOHSDIBKDUDUBIFO@CDEHKBCr@c@HETO@?@ArAw@BAHEJEBALCHAPAF?J?F?F?N@F?xBXt@HD@D?D?F?F?BAB?D?FCB?DCHEFEHEBCBGHCBEDEBKZkAj@mCv@{BBIFSDO@GBM?G@M?O?E@iD?eA?gBCoB?OAMAOOcAIq@OeACk@Ds@BO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9394983,
+                        "lng" : -77.0512337
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "138 ft",
+                        "value" : 42
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.932219,
+                        "lng" : -77.03880819999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMt Pleasant St NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "m_slFvteuMRSPKZE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9325526,
+                        "lng" : -77.0390031
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "118 ft",
+                        "value" : 36
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.9318999,
+                        "lng" : -77.0388514
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e17th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "k}rlFpseuMHDH@L?\\?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.932219,
+                        "lng" : -77.03880819999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "clwlFnukuMvBcAVOZPb@LnCr@rI?xJ@hLAnP@zBAXCp@]|@e@pBw@|Am@nBq@l@]tByBZ_@PUVeAPuANsBJmDEgDI_AGg@?i@AWk@cEOyBCaABcS@qJEu@Bk@Fg@f@mBFs@?s@I{BI_AMoC?w@BYH[D[d@g@h@k@HIpAmAR_@Zs@^q@`@i@nAqAr@}@Pa@pAwDrAsELWrAqApAcATU^e@Pc@HUJk@Rc@LO|@i@lBiA\\OVEXAj@@|Dd@Z?TEZOZUHK^wAj@mCv@{BJ]Jm@BmECmH]sCOeACk@HcAd@_@ZEHDV@\\?"
+         },
+         "summary" : "Tilden St NW and Park Rd NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

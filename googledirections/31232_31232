@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8972036,
+               "lng" : -77.0223218
+            },
+            "southwest" : {
+               "lat" : 38.8972036,
+               "lng" : -77.0223218
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "701-799 F Street Northwest, Washington, DC 20004, USA",
+               "end_location" : {
+                  "lat" : 38.8972036,
+                  "lng" : -77.0223218
+               },
+               "start_address" : "701-799 F Street Northwest, Washington, DC 20004, USA",
+               "start_location" : {
+                  "lat" : 38.8972036,
+                  "lng" : -77.0223218
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8972036,
+                        "lng" : -77.0223218
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eF St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "obllFnlbuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8972036,
+                        "lng" : -77.0223218
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "obllFnlbuM"
+         },
+         "summary" : "F St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

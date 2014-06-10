@@ -1,5 +1,362 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8943848,
+               "lng" : -76.98332569999999
+            },
+            "southwest" : {
+               "lat" : 38.8892156,
+               "lng" : -77.0137852
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3471
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 791
+               },
+               "end_address" : "1504-1506 East Capitol Street Northeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.8898015,
+                  "lng" : -76.98332569999999
+               },
+               "start_address" : "2nd Street Northwest & D Street Northwest & Interstate 395, Washington, DC, USA",
+               "start_location" : {
+                  "lat" : 38.8922743,
+                  "lng" : -77.0137852
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "289 ft",
+                        "value" : 88
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.8930662,
+                        "lng" : -77.013778
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eExit 9\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ucklFdw`uM_DA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8922743,
+                        "lng" : -77.0137852
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 287
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 38.8935844,
+                        "lng" : -77.01116859999999
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e at the fork, follow signs for \u003cb\u003eUS Capitol\u003c/b\u003e and merge onto \u003cb\u003eC St NW\u003c/b\u003e",
+                     "maneuver" : "fork-right",
+                     "polyline" : {
+                        "points" : "uhklFbw`uMMICAEAQAU?GAG?GCGCGCGCEEEGEICGCIAG?E?K@IBK@MF[DUBMBCFK@_@?iA?aBAcB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8930662,
+                        "lng" : -77.013778
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "433 ft",
+                        "value" : 132
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 38.8943848,
+                        "lng" : -77.01004569999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLouisiana Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "{kklFxf`uMU]OUCEa@o@SYo@eAOU"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8935844,
+                        "lng" : -77.01116859999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 169
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 38.8942505,
+                        "lng" : -77.00830449999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eDelaware Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{pklFx_`uMbA_C?Q?s@?q@AIg@{A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8943848,
+                        "lng" : -77.01004569999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "308 ft",
+                        "value" : 94
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.8937144,
+                        "lng" : -77.0075499
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eDelaware Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "apklFzt_uMjBkB?i@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8942505,
+                        "lng" : -77.00830449999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 195
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 38.8920286,
+                        "lng" : -77.0081761
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eDelaware Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ulklFdp_uMNDt@RhCr@dBd@XH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8937144,
+                        "lng" : -77.0075499
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 194
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 38.8920049,
+                        "lng" : -77.0059297
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eConstitution Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ebklFbt_uM@i@BuJ?a@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8920286,
+                        "lng" : -77.0081761
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 244
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 38.889812,
+                        "lng" : -77.0059285
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFirst St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_bklF`f_uMp@?p@?`A?V?f@?J?t@?rA?x@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8920049,
+                        "lng" : -77.0059297
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1246
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 257
+                     },
+                     "end_location" : {
+                        "lat" : 38.889805,
+                        "lng" : -76.99153299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eEast Capitol St NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "itjlF`f_uM?_B?sD?eD?Q?U@oAAkB@kBAcH?kA?iC?sE@gM?}A?W?aBAY@cC?kB?gC?wA?iD?s@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.889812,
+                        "lng" : -77.0059285
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "207 ft",
+                        "value" : 63
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.8892349,
+                        "lng" : -76.9915333
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e11th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gtjlF`l|tMhA@R?RA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.889805,
+                        "lng" : -76.99153299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 279
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 38.8892555,
+                        "lng" : -76.9883133
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eEast Capitol St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "upjlF`l|tMAgF?[@S?c@?e@@yAAwACwAAW"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8892349,
+                        "lng" : -76.9915333
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "135 ft",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.8896219,
+                        "lng" : -76.98831
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e13th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{pjlF|w{tMgA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8892555,
+                        "lng" : -76.9883133
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 439
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 38.8898015,
+                        "lng" : -76.98332569999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eE Capitol St SE/East Capitol St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "csjlF|w{tMU_@EOGI?oA?kK?Y?wE?}C?}@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8896219,
+                        "lng" : -76.98831
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ucklFdw`uM_DAMIICw@C_@OKMIQEc@N_AHc@JO@iBAeEkAiBcA_BOUbA_C?eAA{@g@{AjBkB?i@ND~DfA~Bn@D_L?a@p@?rB?~@?nE?@iW?mj@?qK?aG?s@hA@f@AAcGBwDEoDAWgA?[o@GI?oA?eL?uJ?}@"
+         },
+         "summary" : "East Capitol St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

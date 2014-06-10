@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8932368,
+               "lng" : -77.08584150000002
+            },
+            "southwest" : {
+               "lat" : 38.8824796,
+               "lng" : -77.1094835
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 mi",
+                  "value" : 2571
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 573
+               },
+               "end_address" : "1001 North Randolph Street, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.8826178,
+                  "lng" : -77.1094835
+               },
+               "start_address" : "1663-1699 North Veitch Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8932368,
+                  "lng" : -77.0861044
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 225
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.8912204,
+                        "lng" : -77.08584150000002
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Veitch St\u003c/b\u003e toward \u003cb\u003e16th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wiklFb{nuMjAGnCQv@G^C~AM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8932368,
+                        "lng" : -77.0861044
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1197
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 294
+                     },
+                     "end_location" : {
+                        "lat" : 38.8856506,
+                        "lng" : -77.0973968
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWilson Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c}jlFnynuMLf@J\\H`@Hd@N`CD`@BL@@H\\dA`EBXjA~DnAnETb@h@nBFVBFLf@v@`DNh@HXTx@Xd@\\p@BD@Bn@hA|A~Bh@p@\\f@\\h@rArBNVPV^j@LNPX\\b@b@z@PPFHFFPP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8912204,
+                        "lng" : -77.08584150000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1134
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 234
+                     },
+                     "end_location" : {
+                        "lat" : 38.8824796,
+                        "lng" : -77.1094619
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "izilFvaquMI^CJAJAF?F@F@FDNvB`HZx@FPpA|DTt@Pj@^rAhAvD~@fD`AzCDJDLv@bCJ`@Hb@FVJn@BZD^B^BfAAj@CrBCh@Ev@A|@?`@?T@TDrABz@Dv@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8856506,
+                        "lng" : -77.0973968
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "49 ft",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.8826178,
+                        "lng" : -77.1094835
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Randolph St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ofilFbmsuM[B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8824796,
+                        "lng" : -77.1094619
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wiklFb{nuMrHe@~AMLf@T~@Hd@N`CHn@J^dA`EBXzCnKTb@h@nBJ^dAhEXbATx@Xd@`@v@p@lAbEbGtCnE^h@\\b@b@z@XZXXQ~@@NFVrCzIxAnEpClJ`CbIJXbAdDPz@NjAH~@@rBG|CGtB?v@P|E[B"
+         },
+         "summary" : "Wilson Blvd and N Fairfax Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8578303,
+               "lng" : -77.0595129
+            },
+            "southwest" : {
+               "lat" : 38.8461744,
+               "lng" : -77.0747743
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 mi",
+                  "value" : 2723
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 634
+               },
+               "end_address" : "602 15th Street South, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.8578303,
+                  "lng" : -77.0595787
+               },
+               "start_address" : "1200-1298 28th Street South, Arlington, VA 22206, USA",
+               "start_location" : {
+                  "lat" : 38.8461744,
+                  "lng" : -77.06929169999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 902
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 174
+                     },
+                     "end_location" : {
+                        "lat" : 38.8517329,
+                        "lng" : -77.0747743
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003e28th St S\u003c/b\u003e toward \u003cb\u003eS Meade St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qcblF`rkuMCNShAKh@YxA]vAGXUx@_@rACD[dAc@jAUn@e@hAWl@[h@KNKNKLSTSRUNMHKHKFIDw@Z]F[Fk@D_@?]ASCMAMAMEIASGIC_@MWMi@YUAKAE?EAE@E?I@K@G@IBGBGBIDEBYXSZQb@Qd@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8461744,
+                        "lng" : -77.06929169999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 476
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 92
+                     },
+                     "end_location" : {
+                        "lat" : 38.8554989,
+                        "lng" : -77.07218139999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eArmy Navy Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ifclFhtluMi@]cBkAk@]}Aw@YQcAo@]WUQUUYSk@a@YMME_@Oa@Qe@WaAk@YS"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8517329,
+                        "lng" : -77.0747743
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1097
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 328
+                     },
+                     "end_location" : {
+                        "lat" : 38.8556046,
+                        "lng" : -77.0595129
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e20th St S\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{}clFbdluMDeWCeIAkCCgDE{JEiJC_K"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8554989,
+                        "lng" : -77.07218139999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 248
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 38.8578303,
+                        "lng" : -77.0595787
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Hayes St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "o~clF|tiuMsCB}CBkCD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8556046,
+                        "lng" : -77.0595129
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qcblF`rkuM}@|Ee@pBu@lCyAfE}@vBg@x@_AfA{@j@aA`@y@NkADq@Es@K]Kw@[i@YUAQA[@e@JQH_@\\e@~@Qd@i@]oCiBwBiAaBgAk@g@eAu@g@SaAa@gBcAYSDeWEqMSmg@}LL"
+         },
+         "summary" : "28th St S and 20th St S",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

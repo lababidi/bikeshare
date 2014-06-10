@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8971925,
+               "lng" : -76.9836454
+            },
+            "southwest" : {
+               "lat" : 38.8904621,
+               "lng" : -76.9883052
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 948
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 150
+               },
+               "end_address" : "501-523 15th Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.8971925,
+                  "lng" : -76.9836596
+               },
+               "start_address" : "1 13th Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.8904621,
+                  "lng" : -76.9883013
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 188
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.8921405,
+                        "lng" : -76.98823179999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e13th St NE/Lincoln Park Dr NE\u003c/b\u003e toward \u003cb\u003eNorth Carolina Ave NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow 13th St NE\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "kxjlFzw{tMC?Y@}DA{A@WO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8904621,
+                        "lng" : -76.9883013
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 523
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 38.8961142,
+                        "lng" : -76.9849966
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTennessee Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "{bklFlw{tMqBuAkDiC{BaBuBgBuCwB[YwAiA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8921405,
+                        "lng" : -76.98823179999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "384 ft",
+                        "value" : 117
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 38.896112,
+                        "lng" : -76.983648
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eE St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "u{klFfc{tM?oA?I?e@?aC?K"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8961142,
+                        "lng" : -76.9849966
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "394 ft",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.8971925,
+                        "lng" : -76.9836596
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e15th St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u{klFxzztMe@?iAAO@qA@E?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.896112,
+                        "lng" : -76.983648
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kxjlFzw{tMwH@iCeBgHkFuBgBuCwBsBcB?aG?Ke@?yA?wA@"
+         },
+         "summary" : "Tennessee Ave NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,122 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9024091,
+               "lng" : -77.04345429999999
+            },
+            "southwest" : {
+               "lat" : 38.9008796,
+               "lng" : -77.0488235
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 657
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 199
+               },
+               "end_address" : "900-998 19th Street Northwest, Washington, DC 20006, USA",
+               "end_location" : {
+                  "lat" : 38.902204,
+                  "lng" : -77.0434544
+               },
+               "start_address" : "900-978 22nd Street Northwest, The George Washington University, Washington, DC 20037, USA",
+               "start_location" : {
+                  "lat" : 38.9008796,
+                  "lng" : -77.0488235
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 170
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : 38.9024091,
+                        "lng" : -77.0488201
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e22nd St NW\u003c/b\u003e toward \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "oyllFbrguMgFAS?Q@c@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9008796,
+                        "lng" : -77.0488235
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 464
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 38.9024084,
+                        "lng" : -77.04345429999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eK St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "acmlFbrguM?k@@eK?qF?mBA}C?aC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9024091,
+                        "lng" : -77.0488201
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 ft",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 38.902204,
+                        "lng" : -77.0434544
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e19th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "acmlFppfuMh@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9024084,
+                        "lng" : -77.04345429999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "oyllFbrguMqH?@qWA_Hh@?"
+         },
+         "summary" : "K St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

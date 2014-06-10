@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8841073,
+               "lng" : -76.9860989
+            },
+            "southwest" : {
+               "lat" : 38.8841073,
+               "lng" : -76.9860989
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1329-1399 D Street Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.8841073,
+                  "lng" : -76.9860989
+               },
+               "start_address" : "1329-1399 D Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8841073,
+                  "lng" : -76.9860989
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8841073,
+                        "lng" : -76.9860989
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eD St SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "upilFbj{tM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8841073,
+                        "lng" : -76.9860989
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "upilFbj{tM"
+         },
+         "summary" : "D St SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

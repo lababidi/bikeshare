@@ -1,5 +1,169 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9260883,
+               "lng" : -77.02308649999999
+            },
+            "southwest" : {
+               "lat" : 38.8998095,
+               "lng" : -77.0365044
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4116
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 919
+               },
+               "end_address" : "806 H Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.8998136,
+                  "lng" : -77.02308649999999
+               },
+               "start_address" : "2833 16th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9260883,
+                  "lng" : -77.0364689
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 888
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 115
+                     },
+                     "end_location" : {
+                        "lat" : 38.9180995,
+                        "lng" : -77.03649279999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e16th St NW\u003c/b\u003e toward \u003cb\u003eHarvard St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "awqlF|deuMj@?dC?vAAjB?vB@hA?h@@z@?rA?fA?J?r@BN@tB?xB?v@AXAZA^?dB?nE@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9260883,
+                        "lng" : -77.0364689
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 170
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 38.9181171,
+                        "lng" : -77.03453260000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eV St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ceplF`eeuM?EAeC?{@A_E"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9180995,
+                        "lng" : -77.03649279999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 mi",
+                        "value" : 1867
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 417
+                     },
+                     "end_location" : {
+                        "lat" : 38.9013274,
+                        "lng" : -77.0345981
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e15th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "geplFxxduMR?J?h@?rC@rBAZ?N?nB@L?P?bC?nB?`@?lA?B?xC?~@AL?t@?lA?tC@pC@`A?pA@|A?l@?p@?r@?dB?hC?bB@RAH?L?nA?|A@fA?`B?d@?bB?fA?Z?nB?pA?V?V?nA@f@?B@N?x@?N@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9181171,
+                        "lng" : -77.03453260000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "440 ft",
+                        "value" : 134
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 38.90021429999999,
+                        "lng" : -77.03513700000001
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVermont Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "i|llFfyduMR?H@H?DBPFFBVN~BhA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9013274,
+                        "lng" : -77.0345981
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1057
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 298
+                     },
+                     "end_location" : {
+                        "lat" : 38.8998136,
+                        "lng" : -77.02308649999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eH St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iullFr|duM?kHAcF?yB?cC@cA?A?[@G?E@G@EBE@EBGBEPYPMBIDG@G@GBK?M@aABgG?s@?iE?m@?s@?C?u@?y@?kK?]?]?}A?["
+                     },
+                     "start_location" : {
+                        "lat" : 38.90021429999999,
+                        "lng" : -77.03513700000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "awqlF|deuMtJAfHBzC?~@BvH?zDCnE@?EAaEA_ER?t@?rH?vN@|GAvLBvSBhL?xL?jCBfBBNBXJvCxAAoO@cIBq@JYT_@TWLc@@oAB{H?oH?yO?wC"
+         },
+         "summary" : "15th St NW and H St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

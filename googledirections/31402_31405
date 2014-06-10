@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9497412,
+               "lng" : -77.0273325
+            },
+            "southwest" : {
+               "lat" : 38.9477741,
+               "lng" : -77.0327362
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 686
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 179
+               },
+               "end_address" : "1201-1203 Emerson Street Northwest, Washington, DC 20011, USA",
+               "end_location" : {
+                  "lat" : 38.949735,
+                  "lng" : -77.0273325
+               },
+               "start_address" : "4701-4729 14th Street Northwest, Washington, DC 20011, USA",
+               "start_location" : {
+                  "lat" : 38.9477741,
+                  "lng" : -77.03272129999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "449 ft",
+                        "value" : 137
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.9490023,
+                        "lng" : -77.0327362
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e14th St NW\u003c/b\u003e toward \u003cb\u003eDecatur St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "q~ulFnmduMaB?M?wA?M?_@B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9477741,
+                        "lng" : -77.03272129999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 263
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 38.9490047,
+                        "lng" : -77.029696
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eDelafield Pl NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gfvlFrmduM?q@?gCAcD@aG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9490023,
+                        "lng" : -77.0327362
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "266 ft",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 38.9497349,
+                        "lng" : -77.0296996
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e13th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gfvlFrzcuMqC?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9490047,
+                        "lng" : -77.029696
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 205
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 38.949735,
+                        "lng" : -77.0273325
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eEmerson St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yjvlFrzcuM?WAgC@yH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9497349,
+                        "lng" : -77.0296996
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "q~ulFnmduMuE?_@B?q@AkH@aGqC?A_D@yH"
+         },
+         "summary" : "14th St NW, Delafield Pl NW and Emerson St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

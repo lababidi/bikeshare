@@ -1,5 +1,122 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.918806,
+               "lng" : -77.04163969999999
+            },
+            "southwest" : {
+               "lat" : 38.9089051,
+               "lng" : -77.04489909999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1379
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 373
+               },
+               "end_address" : "2263-2279 18th Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.918806,
+                  "lng" : -77.0416669
+               },
+               "start_address" : "1401-1499 20th Street Northwest, Washington, DC 20036, USA",
+               "start_location" : {
+                  "lat" : 38.9089051,
+                  "lng" : -77.04489909999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 247
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 38.9111243,
+                        "lng" : -77.0448935
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e20th St NW\u003c/b\u003e toward \u003cb\u003eP St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uknlFryfuMsC?aB?[?{AAkA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9089051,
+                        "lng" : -77.04489909999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 278
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 38.9111288,
+                        "lng" : -77.04168369999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eQ St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oynlFpyfuM?O?a@?e@AK?A?A?A?I?E?A?A?S?}B@OAuG?kA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9111243,
+                        "lng" : -77.0448935
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 854
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 234
+                     },
+                     "end_location" : {
+                        "lat" : 38.918806,
+                        "lng" : -77.0416669
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e18th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qynlFnefuMI?W?k@?eAAKAgC?iC?M?m@?aBAO?gA?{@?uC?mC?u@AS?Y?c@?M?A?gA@_@@o@Ac@?a@?U?a@@{@?M@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9111288,
+                        "lng" : -77.04168369999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uknlFryfuMmJAkA??O?gAAO?S@cDAaJa@?eGCgHA{OAqG@aCB"
+         },
+         "summary" : "18th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

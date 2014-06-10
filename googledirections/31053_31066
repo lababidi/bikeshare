@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8672729,
+               "lng" : -77.0719359
+            },
+            "southwest" : {
+               "lat" : 38.8638801,
+               "lng" : -77.0803354
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 907
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 252
+               },
+               "end_address" : "832-900 South Orme Street, Arlington, VA 22204, USA",
+               "end_location" : {
+                  "lat" : 38.8672729,
+                  "lng" : -77.07227039999999
+               },
+               "start_address" : "1052 South Courthouse Road, Arlington, VA 22204, USA",
+               "start_location" : {
+                  "lat" : 38.8638801,
+                  "lng" : -77.0802539
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "144 ft",
+                        "value" : 44
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 38.8642729,
+                        "lng" : -77.0803354
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eS Courthouse Rd\u003c/b\u003e toward \u003cb\u003eColumbia Pike\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "grelFpvmuMmAP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8638801,
+                        "lng" : -77.0802539
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 766
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 182
+                     },
+                     "end_location" : {
+                        "lat" : 38.8664448,
+                        "lng" : -77.0719359
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eColumbia Pike\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "utelFbwmuM_@wBO_Aa@cCMu@YgBSqAUoAe@iC]sBG_@OaAO}@Mu@Ga@Mu@QkAUoACSIa@_@yBIi@SwAIY"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8642729,
+                        "lng" : -77.0803354
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "318 ft",
+                        "value" : 97
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 38.8672729,
+                        "lng" : -77.07227039999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Orme St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gbflFrbluMeD`A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8664448,
+                        "lng" : -77.0719359
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "grelFpvmuMmAP_@wBq@cEqA_I{A_Js@kEu@qEi@cD]qBeD`A"
+         },
+         "summary" : "Columbia Pike",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

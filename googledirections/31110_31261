@@ -1,5 +1,98 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9153176,
+               "lng" : -77.04452619999999
+            },
+            "southwest" : {
+               "lat" : 38.8924592,
+               "lng" : -77.0466756
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 mi",
+                  "value" : 2629
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 548
+               },
+               "end_address" : "100-298 21st Street Northwest, Washington, DC, USA",
+               "end_location" : {
+                  "lat" : 38.8924592,
+                  "lng" : -77.0466756
+               },
+               "start_address" : "1919-1977 Florida Avenue Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9153176,
+                  "lng" : -77.04452619999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 235
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 38.9139925,
+                        "lng" : -77.0466323
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eFlorida Ave NW\u003c/b\u003e toward \u003cb\u003e20th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wsolFhwfuMP^BDRd@|AfDVd@R^NVTZZ`@RR"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9153176,
+                        "lng" : -77.04452619999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.5 mi",
+                        "value" : 2394
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 489
+                     },
+                     "end_location" : {
+                        "lat" : 38.8924592,
+                        "lng" : -77.0466756
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e21st St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "mkolFldguMtDB~AAN?`C?T?V?~@Ad@?jABrA?hC?T?~D?N?tB?pA?R?ZAlE?tB@X?pD?pBAx@?lA?H?t@@nAAN?L@P?`B?tB?hBAR@pA?b@?fB?R?jA?L?x@@@?pA?hA?R?J?d@?Z?T?hG?fA@x@?X?lB?tC@tA?`AAnC@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9139925,
+                        "lng" : -77.0466323
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wsolFhwfuMfCrFj@dAd@r@n@t@tG@~D?dBA~CBnJ?fW?fL?rIApF@xI@hO@jP@"
+         },
+         "summary" : "21st St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

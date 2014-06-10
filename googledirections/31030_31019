@@ -1,5 +1,169 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8959356,
+               "lng" : -77.0880013
+            },
+            "southwest" : {
+               "lat" : 38.888966,
+               "lng" : -77.0924809
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 1031
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 278
+               },
+               "end_address" : "2825-2847 Wilson Boulevard, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.888966,
+                  "lng" : -77.0924809
+               },
+               "start_address" : "1909-1915 North Adams Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8959356,
+                  "lng" : -77.088926
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 348
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 127
+                     },
+                     "end_location" : {
+                        "lat" : 38.8929117,
+                        "lng" : -77.0880013
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Adams St\u003c/b\u003e toward \u003cb\u003eUS-29 S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "szklFxlouMdBKZ@N?HATC`@GzC}@lFcB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8959356,
+                        "lng" : -77.088926
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 169
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 38.8925912,
+                        "lng" : -77.0899065
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKey Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ugklF~fouMf@|CBZRbE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8929117,
+                        "lng" : -77.0880013
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 243
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 38.8905363,
+                        "lng" : -77.0906406
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Bryan St\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "ueklF|rouMJT@B?@@?@@@@BBB@VL\\Tf@NRD^BjD`@~@J"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8925912,
+                        "lng" : -77.0899065
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "325 ft",
+                        "value" : 99
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 38.889648,
+                        "lng" : -77.09069790000001
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eN Danville St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{xjlFnwouMRA|CL"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8905363,
+                        "lng" : -77.0906406
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 172
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 66
+                     },
+                     "end_location" : {
+                        "lat" : 38.888966,
+                        "lng" : -77.0924809
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWilson Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "isjlFzwouMTb@h@nBFVBFLf@l@fC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.889648,
+                        "lng" : -77.09069790000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "szklFxlouMdBKZ@XAv@KhKaDj@xDRbEJT@B@@JHt@b@z@TjEd@~@JRA|CLTb@p@fC~@vD"
+         },
+         "summary" : "N Adams St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,170 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9564733,
+               "lng" : -77.0276958
+            },
+            "southwest" : {
+               "lat" : 38.9294828,
+               "lng" : -77.0332195
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3480
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 810
+               },
+               "end_address" : "5521-5539 Colorado Avenue Northwest, Washington, DC 20011, USA",
+               "end_location" : {
+                  "lat" : 38.9564733,
+                  "lng" : -77.03302669999999
+               },
+               "start_address" : "3133 11th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9294828,
+                  "lng" : -77.0276958
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 374
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 38.932791,
+                        "lng" : -77.028488
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e11th St NW\u003c/b\u003e toward \u003cb\u003eKenyon St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "glrlFbncuMUBOBa@FcAPE?_BVsBZg@Fq@LSBOBoAT_@DaAL"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9294828,
+                        "lng" : -77.0276958
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "387 ft",
+                        "value" : 118
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 38.93237329999999,
+                        "lng" : -77.0297374
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMonroe St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}`slF`scuMJ^\\zAJ`@\\zA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.932791,
+                        "lng" : -77.028488
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.6 mi",
+                        "value" : 2651
+                     },
+                     "duration" : {
+                        "text" : "11 mins",
+                        "value" : 636
+                     },
+                     "end_location" : {
+                        "lat" : 38.9562104,
+                        "lng" : -77.02970329999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e13th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "i~rlFzzcuMOCM?{C?}F?gA?I?mE@a@?U?m@A[Ag@?a@AsB?M?aA?eC?K?_C?gA?kA?gC?kA?S?K@o@Aw@?W?q@?cA?i@?aD?_B?]?Y?mC?M?K?aB?wA?a@?gA?kB@uECiA@U?s@?qC?sAAY?yA?O?sEBM?_ECkFBuEAsE?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.93237329999999,
+                        "lng" : -77.0297374
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 304
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 72
+                     },
+                     "end_location" : {
+                        "lat" : 38.9562134,
+                        "lng" : -77.0332195
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKennedy St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iswlFrzcuM?~T"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9562104,
+                        "lng" : -77.02970329999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "108 ft",
+                        "value" : 33
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 38.9564733,
+                        "lng" : -77.03302669999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eColorado Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "iswlFrpduMe@YMK"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9562134,
+                        "lng" : -77.0332195
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "glrlFbncuMmK|AeDj@aBRh@zBh@|B]CkN?sH?yEC}R?aJ?qe@?sHAkIBuYA?~Te@YMK"
+         },
+         "summary" : "13th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

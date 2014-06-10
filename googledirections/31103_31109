@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.926749,
+               "lng" : -77.022199
+            },
+            "southwest" : {
+               "lat" : 38.9155716,
+               "lng" : -77.03647029999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 mi",
+                  "value" : 2504
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 491
+               },
+               "end_address" : "717 T Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9155733,
+                  "lng" : -77.022199
+               },
+               "start_address" : "2833 16th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9260883,
+                  "lng" : -77.0364689
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "69 ft",
+                        "value" : 21
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.9262766,
+                        "lng" : -77.03647029999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e16th St NW\u003c/b\u003e toward \u003cb\u003eHarvard St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "awqlF|deuMe@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9260883,
+                        "lng" : -77.0364689
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 822
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 167
+                     },
+                     "end_location" : {
+                        "lat" : 38.926749,
+                        "lng" : -77.027046
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHarvard St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gxqlF|deuM?IAg@Ae@CmBEgB?KKwDCeAEuAAWEwA?GAICIAEEIK]EMCKCKCOAMAM?S?c@?aB?yE?S?a@?U?oB?_A?yA?{E?QAI"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9262766,
+                        "lng" : -77.03647029999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1242
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 195
+                     },
+                     "end_location" : {
+                        "lat" : 38.915577,
+                        "lng" : -77.02704249999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e11th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e{qlF`jcuMDAP?j@?v@?v@?R?`B?bB?hD?J?N?x@?xA?d@?b@?l@?lI?zH?jC?hA?N?rA?lA?j@@Z?j@A~C@r@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.926749,
+                        "lng" : -77.027046
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 419
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 125
+                     },
+                     "end_location" : {
+                        "lat" : 38.9155733,
+                        "lng" : -77.022199
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eT St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kuolF~icuM@{B?k@AU?mC@EA_C?uC?]?m@?eB?]?y@@m@?g@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.915577,
+                        "lng" : -77.02704249999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "awqlF|deuMe@??ICmAUyKQkGGa@[aAKw@?oP?gKAIDA|@?dF?hH?``@?nO@r@A@{BAaA?iL@_J"
+         },
+         "summary" : "Harvard St NW and 11th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

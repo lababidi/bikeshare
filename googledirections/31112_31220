@@ -1,5 +1,193 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9279619,
+               "lng" : -77.04163969999999
+            },
+            "southwest" : {
+               "lat" : 38.89491950000001,
+               "lng" : -77.046671
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4104
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 995
+               },
+               "end_address" : "319-399 21st Street Northwest, Washington, DC 20245, USA",
+               "end_location" : {
+                  "lat" : 38.89491950000001,
+                  "lng" : -77.046671
+               },
+               "start_address" : "1845 Harvard Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9279619,
+                  "lng" : -77.04327549999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "259 ft",
+                        "value" : 79
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 38.9275494,
+                        "lng" : -77.04253299999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eHarvard St NW\u003c/b\u003e toward \u003cb\u003eAdams Mill Rd NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wbrlFnofuMpAuC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9279619,
+                        "lng" : -77.04327549999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 588
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 212
+                     },
+                     "end_location" : {
+                        "lat" : 38.9232496,
+                        "lng" : -77.04361849999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAdams Mill Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e`rlFxjfuM`DfErB~BZTLFPHPHJDNFLBNDLBJ@XBLBp@FB?ZH`ABl@@FAVGHCFCFEDEDE@ADI@EJWRk@Rg@Rm@`@M"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9275494,
+                        "lng" : -77.04253299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "381 ft",
+                        "value" : 116
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 38.9226795,
+                        "lng" : -77.0426674
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eAdams Mill Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ieqlFrqfuM?i@@]FYDMDKFIJMJKRMPITE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9232496,
+                        "lng" : -77.04361849999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 666
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 101
+                     },
+                     "end_location" : {
+                        "lat" : 38.9167908,
+                        "lng" : -77.04163969999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e18th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "waqlFtkfuMHCNCp@KVG~Cs@`AY|A]xA_@pA[J@B?HAHAL?v@@xAEz@?`@AT?`@?b@?n@@^AfAA@?L?b@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9226795,
+                        "lng" : -77.0426674
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 534
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 139
+                     },
+                     "end_location" : {
+                        "lat" : 38.9139925,
+                        "lng" : -77.0466323
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFlorida Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}|olFfefuMLZd@nAv@lB|@xBHRFLFLb@bAN\\Rd@Rh@Vj@BDRd@|AfDVd@R^NVTZZ`@RR"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9167908,
+                        "lng" : -77.04163969999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 mi",
+                        "value" : 2121
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 455
+                     },
+                     "end_location" : {
+                        "lat" : 38.89491950000001,
+                        "lng" : -77.046671
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e21st St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "mkolFldguMtDB~AAN?`C?T?V?~@Ad@?jABrA?hC?T?~D?N?tB?pA?R?ZAlE?tB@X?pD?pBAx@?lA?H?t@@nAAN?L@P?`B?tB?hBAR@pA?b@?fB?R?jA?L?x@@@?pA?hA?R?J?d@?Z?T?hG?fA@x@?X?~@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9139925,
+                        "lng" : -77.0466323
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wbrlFnofuMpAuC`DfErB~BZT^P\\Nz@TdBP^HnBD^IPGTSf@sAf@uA`@M?i@Hw@JYRW^Yf@OXGhAS`FmAvD}@pA[J@LAVAnFEbGAb@?LZ|A|DvAhDzApDlC~Fj@dAd@r@n@t@tG@~D?dBA~CBnJ?vFArW?vN?xKBtG?dN@"
+         },
+         "summary" : "21st St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

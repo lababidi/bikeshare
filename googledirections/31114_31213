@@ -1,5 +1,122 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.918806,
+               "lng" : -77.0384806
+            },
+            "southwest" : {
+               "lat" : 38.90276070000001,
+               "lng" : -77.0416669
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.3 mi",
+                  "value" : 2057
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 377
+               },
+               "end_address" : "1000-1030 17th Street Northwest, Washington, DC 20036, USA",
+               "end_location" : {
+                  "lat" : 38.90276070000001,
+                  "lng" : -77.0384983
+               },
+               "start_address" : "2263-2279 18th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.918806,
+                  "lng" : -77.0416669
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 359
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 38.9155764,
+                        "lng" : -77.0416496
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e18th St NW\u003c/b\u003e toward \u003cb\u003eWyoming Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qiplFlefuMLAz@?`@AT?`@?b@?n@@^AfAA@?L?b@?X?R?t@@lC?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.918806,
+                        "lng" : -77.0416669
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 273
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 38.915575,
+                        "lng" : -77.0384952
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eT St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kuolFhefuM?qB?y@?oB@yI"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9155764,
+                        "lng" : -77.0416496
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1425
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 268
+                     },
+                     "end_location" : {
+                        "lat" : 38.90276070000001,
+                        "lng" : -77.0384983
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e17th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "iuolFrqeuMzBCN?F@T?|BArC?bA?D?jAArA@|@@`A?rA?bA@N?|@?bAApA?P?|A?lA?L?J@h@?rA?Z?r@?x@@lA?|@AfA?rAAT?pD@D?D?`E@`EA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.915575,
+                        "lng" : -77.0384952
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qiplFlefuMvGCzBApF@@uRhDAzIA~G@dF@dGAnJBfHCrE@bK?"
+         },
+         "summary" : "17th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

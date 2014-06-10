@@ -1,5 +1,265 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8561842,
+               "lng" : -77.0512272
+            },
+            "southwest" : {
+               "lat" : 38.8058191,
+               "lng" : -77.06326369999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.9 mi",
+                  "value" : 6335
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1301
+               },
+               "end_address" : "1850-1864 Diagonal Road, Alexandria, VA 22314, USA",
+               "end_location" : {
+                  "lat" : 38.8058191,
+                  "lng" : -77.0607491
+               },
+               "start_address" : "2210-2262 20th Street South, Crystal City Shops, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.8561842,
+                  "lng" : -77.0512272
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "197 ft",
+                        "value" : 60
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 38.8560829,
+                        "lng" : -77.0519099
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003e20th St S\u003c/b\u003e toward \u003cb\u003eS Clark St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cbdlFdahuMD^LfB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8561842,
+                        "lng" : -77.0512272
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 895
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 136
+                     },
+                     "end_location" : {
+                        "lat" : 38.8483592,
+                        "lng" : -77.0520654
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Clark St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oadlFlehuMv@B~@BdENxAFfBFj@Bb@@R?PCTGFEPM`@a@^YPGVGZArELVBb@J^TJF@@DBPJPR\\ZPLNJRDd@@H?R@f@CTGPKNKNMLILEPAN?j@@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8560829,
+                        "lng" : -77.0519099
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "223 ft",
+                        "value" : 68
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 38.8481647,
+                        "lng" : -77.05134679999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e27th St S\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gqblFlfhuMVe@BcADWDM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8483592,
+                        "lng" : -77.0520654
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 929
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 199
+                     },
+                     "end_location" : {
+                        "lat" : 38.8400617,
+                        "lng" : -77.05204139999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eFour Mile Run Park Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_pblF|ahuMLFHBPHzCxAj@X|@Zt@Nj@@`AP~@F@?T@J?D@D@NJLB~@FZ?jAIP?@@HH@?JAvEW~@EXAd@G~AMz@GP?H?F?FAFCJKHGLC@?@?d@CF?HAH?H?H@H?H?LAD?FADCHAB?DAB?B?B?DB@@BBBBD?B?@ADE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8481647,
+                        "lng" : -77.05134679999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "203 ft",
+                        "value" : 62
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 38.8400652,
+                        "lng" : -77.05275639999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eFour Mile Run Park Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "k}`lFffhuM?Z@h@@LCR?DA`@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8400617,
+                        "lng" : -77.05204139999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 241
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 38.840298,
+                        "lng" : -77.05550819999999
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eFour Mile Run Park Trail\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "m}`lFvjhuM?T?t@CbCA`AAbACn@Cl@E`@Or@GZ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8400652,
+                        "lng" : -77.05275639999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.4 mi",
+                        "value" : 3891
+                     },
+                     "duration" : {
+                        "text" : "12 mins",
+                        "value" : 743
+                     },
+                     "end_location" : {
+                        "lat" : 38.8067131,
+                        "lng" : -77.05979069999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCommonwealth Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{~`lF|{huM\\z@ZFZJ|Af@PF`@LbA\\|CbAtDfAr@P^XlFbBjCz@jCx@p@Tb@PlAb@NHRFpA`@pCl@nA\\pA`@|@RrCx@`Cv@zBx@~An@~ClATJdBp@l@TlAf@tAh@b@PzBx@zClAvCz@`AN\\Dx@FpADjBBz@ETKnACvDYz@GtBOpDWpDWvAMjAK|@E`ACnAC`CQbCU~B[xBc@PD|Bk@PCvCu@vCq@xCo@NE~Cq@n@UXQHGFCHEHCFCJIPG@AB?fAM@?B?@AB?n@MRGPEPGd@MlA["
+                     },
+                     "start_location" : {
+                        "lat" : 38.840298,
+                        "lng" : -77.05550819999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "213 ft",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 38.80621240000001,
+                        "lng" : -77.0594064
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eDaingerfield Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}lzkFtviuMbBkA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8067131,
+                        "lng" : -77.05979069999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "407 ft",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 38.8058191,
+                        "lng" : -77.0607491
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eDiagonal Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yizkFhtiuMRtAn@tCH^"
+                     },
+                     "start_location" : {
+                        "lat" : 38.80621240000001,
+                        "lng" : -77.0594064
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cbdlFdahuMRfCvBFrLb@v@@f@KXS`A{@h@OZArELz@Nj@\\FDb@^n@h@b@Pn@@z@Af@S^YZO`@Aj@@Ve@BcADWDMLFZLfErB|@Zt@Nj@@`AP`AF`@@JBNJLBzAF|AIJJdH_@~@IzCUZ?NAROVKp@Cf@?f@AZGPANLH?FG@dAA`@ArBKxHInAWnA\\z@ZFxBr@tGvBhFxA^XlFbBvGtBtAf@|Al@dBh@`FjApA`@|@RtGpBzEhBhI`DbDpA~CjAzClAvCz@~ATjCLjBBz@ETKnACrFa@fHg@hGe@hCQpCGdGg@~B[xBc@PD|Bk@hDy@`NyCn@UXQPKf@WRIjAMJAfBc@rBi@bBkARtAx@tD"
+         },
+         "summary" : "Commonwealth Ave",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

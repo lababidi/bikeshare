@@ -1,5 +1,122 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.857296,
+               "lng" : -77.04932090000001
+            },
+            "southwest" : {
+               "lat" : 38.8561135,
+               "lng" : -77.0511379
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.2 mi",
+                  "value" : 307
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 44
+               },
+               "end_address" : "1967 Crystal Drive, Crystal City Shops, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.856352,
+                  "lng" : -77.0493355
+               },
+               "start_address" : "1802-2066 South Bell Street, Crystal City Shops, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.857296,
+                  "lng" : -77.0510374
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "400 ft",
+                        "value" : 122
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.8562017,
+                        "lng" : -77.0511379
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eS Bell St\u003c/b\u003e toward \u003cb\u003e20th St S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cidlF~_huMF?P@l@BZ@f@BnAF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.857296,
+                        "lng" : -77.0510374
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.8561135,
+                        "lng" : -77.04932090000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e20th St S\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gbdlFr`huMDkCBmA@w@DyA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8562017,
+                        "lng" : -77.0511379
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "89 ft",
+                        "value" : 27
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.856352,
+                        "lng" : -77.0493355
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCrystal Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "uadlFfuguMIBO?U?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8561135,
+                        "lng" : -77.04932090000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cidlF~_huMbBFvBJHyEFqCYBU?"
+         },
+         "summary" : "S Bell St and 20th St S",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

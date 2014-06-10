@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.898492,
+               "lng" : -77.0709415
+            },
+            "southwest" : {
+               "lat" : 38.8959061,
+               "lng" : -77.0865515
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1603
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 328
+               },
+               "end_address" : "1912-1968 North Lynn Street, Arlington, VA 22209, USA",
+               "end_location" : {
+                  "lat" : 38.8973158,
+                  "lng" : -77.070998
+               },
+               "start_address" : "2100-2198 21st Street North, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8968695,
+                  "lng" : -77.0863959
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "361 ft",
+                        "value" : 110
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.8959061,
+                        "lng" : -77.0864687
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eN Veitch St\u003c/b\u003e toward \u003cb\u003e20th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "m`llF~|nuMJFVLF@H@F@J@H@HAhAGVG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8968695,
+                        "lng" : -77.0863959
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1295
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 265
+                     },
+                     "end_location" : {
+                        "lat" : 38.8983229,
+                        "lng" : -77.0722294
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eUS-29 N\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mzklFl}nuM}@eFKo@Ec@Cu@AeBAqF?mCAYImAEe@G_@Oq@Qg@k@yAISCG?CwCuHY{@Me@Kc@WiASkAMy@QuAKmAG}@GwAAeA?{A@qADmABq@H{BFwA?[B]"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8959061,
+                        "lng" : -77.0864687
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 198
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 38.8973158,
+                        "lng" : -77.070998
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "oillFldluMFGBGDGBIBIBK@G@E@E@C@G@e@?M@Q@e@?U@K@IDEFGJCJ?~AFF@F@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8983229,
+                        "lng" : -77.0722294
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "m`llF~|nuMb@TPBf@BhAGVGiAuGIyACwIAgDOsBWqA}@aCeDuIg@aBc@mBa@eC]cDOuCAaDF_DLmDFsBB]FGHOFSH_@BK@s@DyAFORKzBJ"
+         },
+         "summary" : "US-29 N",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

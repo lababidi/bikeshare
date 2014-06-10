@@ -1,5 +1,74 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.886951,
+               "lng" : -76.996678
+            },
+            "southwest" : {
+               "lat" : 38.886951,
+               "lng" : -76.996678
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "635-699 North Carolina Avenue Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.886951,
+                  "lng" : -76.996678
+               },
+               "start_address" : "635-699 North Carolina Avenue Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.886951,
+                  "lng" : -76.996678
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.886951,
+                        "lng" : -76.996678
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mbjlFfl}tM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.886951,
+                        "lng" : -76.996678
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mbjlFfl}tM"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

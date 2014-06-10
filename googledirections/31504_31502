@@ -1,5 +1,170 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9346044,
+               "lng" : -76.99288279999999
+            },
+            "southwest" : {
+               "lat" : 38.9323793,
+               "lng" : -76.9954898
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 477
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 113
+               },
+               "end_address" : "3602 John McCormack Drive Northeast, The Catholic University of America, Washington, DC 20017, USA",
+               "end_location" : {
+                  "lat" : 38.9346044,
+                  "lng" : -76.9954898
+               },
+               "start_address" : "900-998 Monroe Street Northeast, Washington, DC 20017, USA",
+               "start_location" : {
+                  "lat" : 38.9324447,
+                  "lng" : -76.99288279999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 187
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 38.9323827,
+                        "lng" : -76.99503990000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eMonroe St NE\u003c/b\u003e toward \u003cb\u003e9th St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "w~rlFnt|tM@f@BxA@^?P@`A@lA?J?j@?T?P?J"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9324447,
+                        "lng" : -76.99288279999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "49 ft",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.9324823,
+                        "lng" : -76.9950037
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMetropolitan Branch Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "k~rlF~a}tMCDA?KCAI"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9323827,
+                        "lng" : -76.99503990000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "463 ft",
+                        "value" : 141
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 38.933541,
+                        "lng" : -76.9949683
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eMetropolitan Branch Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "__slFva}tMCUC[EIK@a@Bk@Hw@JSDQFMJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9324823,
+                        "lng" : -76.9950037
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "325 ft",
+                        "value" : 99
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 38.9343009,
+                        "lng" : -76.9954108
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "seslFpa}tMCCAAC?ODA?[HG@IBgAp@CFAD?F"
+                     },
+                     "start_location" : {
+                        "lat" : 38.933541,
+                        "lng" : -76.9949683
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "115 ft",
+                        "value" : 35
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.9346044,
+                        "lng" : -76.9954898
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kjslFhd}tMg@FOBCB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9343009,
+                        "lng" : -76.9954108
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "w~rlFnt|tMFrDBfE?f@CPMCAIGq@EIK@mALkAP_@RCCEAODo@NgAp@CFAL{@N"
+         },
+         "summary" : "Monroe St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,217 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.90048600000001,
+               "lng" : -76.9830451
+            },
+            "southwest" : {
+               "lat" : 38.886951,
+               "lng" : -76.996678
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2197
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 501
+               },
+               "end_address" : "801-807 Bladensburg Road Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.90048600000001,
+                  "lng" : -76.9830451
+               },
+               "start_address" : "635-699 North Carolina Avenue Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.886951,
+                  "lng" : -76.996678
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "89 ft",
+                        "value" : 27
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.8871898,
+                        "lng" : -76.99667479999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e toward \u003cb\u003eNorth Carolina Ave SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mbjlFfl}tMo@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.886951,
+                        "lng" : -76.996678
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 501
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 134
+                     },
+                     "end_location" : {
+                        "lat" : 38.8892349,
+                        "lng" : -76.9915333
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eNorth Carolina Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}cjlFdl}tMg@eBY}@Ma@[_A_@oA_@oAm@oBQo@y@cCa@{AaA}CK[AGAG@S"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8871898,
+                        "lng" : -76.99667479999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 279
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 38.8892555,
+                        "lng" : -76.9883133
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eEast Capitol St SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "upjlF`l|tMAgF?[@S?c@?e@@yAAwACwAAW"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8892349,
+                        "lng" : -76.9915333
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 322
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 91
+                     },
+                     "end_location" : {
+                        "lat" : 38.8921405,
+                        "lng" : -76.98823179999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e13th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{pjlF|w{tMgA?Q?K?C?K?I?I?o@Cy@@Y@}DA{A@WO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8892555,
+                        "lng" : -76.9883133
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 727
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 96
+                     },
+                     "end_location" : {
+                        "lat" : 38.8976277,
+                        "lng" : -76.9836686
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTennessee Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "{bklFlw{tMqBuAkDiC{BaBuBgBuCwB[YwAiAu@o@yBeBcAw@q@q@II"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8921405,
+                        "lng" : -76.98823179999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 264
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 38.9000053,
+                        "lng" : -76.98363809999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e15th St NE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "eellF|zztMy@A{AA_BAwD?m@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8976277,
+                        "lng" : -76.9836686
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "253 ft",
+                        "value" : 77
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 38.90048600000001,
+                        "lng" : -76.9830451
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBladensburg Rd NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "atllFvzztMIe@We@}@i@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9000053,
+                        "lng" : -76.98363809999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mbjlFfl}tMo@Ag@eBg@_BiCoIkAsDcByFMc@?[?{H@_CEoDAWgA?]?Y?y@CsAByG?iCeBgHkFuBgBuCwBsBcBoDuCuBiBIIy@A{DCeF?Ie@We@}@i@"
+         },
+         "summary" : "Tennessee Ave NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

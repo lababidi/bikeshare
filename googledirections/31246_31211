@@ -1,5 +1,266 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9051261,
+               "lng" : -77.0536522
+            },
+            "southwest" : {
+               "lat" : 38.8951688,
+               "lng" : -77.0573895
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1445
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 358
+               },
+               "end_address" : "Interstate 66, Washington, DC 20566, USA",
+               "end_location" : {
+                  "lat" : 38.8951688,
+                  "lng" : -77.0545602
+               },
+               "start_address" : "M St NW & 28th St NW, Washington, DC 20007, USA",
+               "start_location" : {
+                  "lat" : 38.9051261,
+                  "lng" : -77.05702359999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "66 ft",
+                        "value" : 20
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.9049431,
+                        "lng" : -77.0570238
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e toward \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "atmlFjeiuMd@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9051261,
+                        "lng" : -77.05702359999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "135 ft",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 38.9047938,
+                        "lng" : -77.0565963
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{rmlFjeiuMDQBKDQH[BG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9049431,
+                        "lng" : -77.0570238
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "299 ft",
+                        "value" : 91
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.9041973,
+                        "lng" : -77.0567246
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRock Creek Park Trails\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}qmlFvbiuMBBB@JZLHXLVLPAJOB]"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9047938,
+                        "lng" : -77.0565963
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 739
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 145
+                     },
+                     "end_location" : {
+                        "lat" : 38.8977718,
+                        "lng" : -77.05655519999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eRock Creek Park Trails\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gnmlFnciuMH?VAHAnBPD@F@VJD@HDRFD@F@RA`@C@?FB@@@?PD@@VF?@@?JBHFV\\DHFDDBB?@?H@JA`A?rBBLCBCRIx@UhCo@v@QzA_@fB]f@GJ?RArAHH@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9041973,
+                        "lng" : -77.0567246
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "167 ft",
+                        "value" : 51
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 38.8978195,
+                        "lng" : -77.05598569999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eF St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "afllFnbiuM@S@W?O?IAGCKGW"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8977718,
+                        "lng" : -77.05655519999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "187 ft",
+                        "value" : 57
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 38.8973673,
+                        "lng" : -77.0557025
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eF St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kfllF|~huMPGLGTKROBG@C@?FA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8978195,
+                        "lng" : -77.05598569999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 168
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 38.8973531,
+                        "lng" : -77.0537568
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eF St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qcllFb}huM?wC@k@@_E"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8973673,
+                        "lng" : -77.0557025
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "79 ft",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.8971594,
+                        "lng" : -77.0536522
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mcllF~phuMPERO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8973531,
+                        "lng" : -77.0537568
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 254
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 38.8951688,
+                        "lng" : -77.0545602
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gbllFhphuMNRXh@Zb@Tb@FLFHNJFBLBT@x@AhC@V@H?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8971594,
+                        "lng" : -77.0536522
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "atmlFjeiuMd@?DQH]Lc@FDJZLHp@ZPAJOB]H?`@CtBRn@TXHZ?b@CHDTFXHTJ\\f@PHJ@lAArBBLCVMbEeArCq@nCe@^A|AJBk@?YESGWPGb@SVWBCFA?wCBkFPEROh@|@Zb@Tb@NVVNb@DbE?`@@"
+         },
+         "summary" : "Rock Creek Park Trails",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

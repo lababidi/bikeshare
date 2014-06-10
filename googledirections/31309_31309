@@ -1,5 +1,74 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9546977,
+               "lng" : -77.0824281
+            },
+            "southwest" : {
+               "lat" : 38.9546977,
+               "lng" : -77.0824281
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "4200-4214 Fessenden Street Northwest, Washington, DC 20016, USA",
+               "end_location" : {
+                  "lat" : 38.9546977,
+                  "lng" : -77.0824281
+               },
+               "start_address" : "4200-4214 Fessenden Street Northwest, Washington, DC 20016, USA",
+               "start_location" : {
+                  "lat" : 38.9546977,
+                  "lng" : -77.0824281
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9546977,
+                        "lng" : -77.0824281
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eFessenden St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{iwlFddnuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9546977,
+                        "lng" : -77.0824281
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{iwlFddnuM"
+         },
+         "summary" : "Fessenden St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

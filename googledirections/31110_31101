@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9175992,
+               "lng" : -77.0319592
+            },
+            "southwest" : {
+               "lat" : 38.9153176,
+               "lng" : -77.04452619999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1320
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 327
+               },
+               "end_address" : "2000-2098 14th Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9175992,
+                  "lng" : -77.0319592
+               },
+               "start_address" : "1919-1977 Florida Avenue Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9153176,
+                  "lng" : -77.04452619999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "154 ft",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 38.9155525,
+                        "lng" : -77.04407139999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eFlorida Ave NW\u003c/b\u003e toward \u003cb\u003eT St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wsolFhwfuMEKSi@Se@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9153176,
+                        "lng" : -77.04452619999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1048
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 224
+                     },
+                     "end_location" : {
+                        "lat" : 38.9155746,
+                        "lng" : -77.0319624
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eT St NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "euolFltfuMAoB?OAwFAkB?qB?y@?oB@yIAwB?Y?wB?cC?aC?uA?yB?w@?_@?wA?mC?eB?U?Y?iA@]"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9155525,
+                        "lng" : -77.04407139999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 225
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 95
+                     },
+                     "end_location" : {
+                        "lat" : 38.9175992,
+                        "lng" : -77.0319592
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e14th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iuolFvhduMoCBQ?}BCuB?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9155746,
+                        "lng" : -77.0319624
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wsolFhwfuMYu@Se@AoBAgGA}E?{R?wK?iS?cB@]oCBoCCuB?"
+         },
+         "summary" : "T St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

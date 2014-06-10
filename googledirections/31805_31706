@@ -1,5 +1,266 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8730573,
+               "lng" : -76.9522276
+            },
+            "southwest" : {
+               "lat" : 38.8655251,
+               "lng" : -76.9709383
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 mi",
+                  "value" : 2519
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 952
+               },
+               "end_address" : "38th St SE & Pennsylvania Ave SE, Washington, DC 20020, USA",
+               "end_location" : {
+                  "lat" : 38.86559159999999,
+                  "lng" : -76.9522291
+               },
+               "start_address" : "1401-1455 25th Street Southeast, Washington, DC 20020, USA",
+               "start_location" : {
+                  "lat" : 38.8730573,
+                  "lng" : -76.97092889999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 399
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 167
+                     },
+                     "end_location" : {
+                        "lat" : 38.8694687,
+                        "lng" : -76.9709383
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e25th St SE\u003c/b\u003e toward \u003cb\u003ePalmer Pl SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "skglFhkxtMn@?lB@|@AvA?hA?`A@L?~F?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8730573,
+                        "lng" : -76.97092889999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 273
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 38.8694786,
+                        "lng" : -76.96778639999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "euflFjkxtM@yD?oECkF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8694687,
+                        "lng" : -76.9709383
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 252
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 38.8672119,
+                        "lng" : -76.96778549999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e28th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "guflFtwwtM^?f@?nA?z@AR?bC@xA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8694786,
+                        "lng" : -76.96778639999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 701
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 347
+                     },
+                     "end_location" : {
+                        "lat" : 38.8656252,
+                        "lng" : -76.9608265
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003ePark Dr SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "agflFtwwtM?y@?YE_@I[GS?SJSPSVYNYHUBe@@q@FWJi@Py@Fs@Dw@Bs@HWNi@Ni@@u@@w@J}@FSVi@?UC[EYG[AI?K?G?ICIEMESAG@KF]Fi@B]CM@KBEHEX@T?PMFELEVG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8672119,
+                        "lng" : -76.96778549999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "325 ft",
+                        "value" : 99
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.86563719999999,
+                        "lng" : -76.9596837
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePark Dr SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "e}elFdlvtM?eAA_D"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8656252,
+                        "lng" : -76.9608265
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 ft",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 38.8658054,
+                        "lng" : -76.95972359999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBranch Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "g}elF~dvtMa@F"
+                     },
+                     "start_location" : {
+                        "lat" : 38.86563719999999,
+                        "lng" : -76.9596837
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 653
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 157
+                     },
+                     "end_location" : {
+                        "lat" : 38.8663145,
+                        "lng" : -76.95303869999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003ePennsylvania Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "i~elFfevtMWy@Y_AMa@Qa@Qa@K]Eg@@m@@k@N}@Hy@F_AJ{@Rk@`@gBb@qANq@Hm@Bm@B}@?c@EWc@yA[{@QWSKe@WIC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8658054,
+                        "lng" : -76.95972359999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "262 ft",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 38.8659749,
+                        "lng" : -76.9522276
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePennsylvania Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "maflFn{ttMBM~@sC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8663145,
+                        "lng" : -76.95303869999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "141 ft",
+                        "value" : 43
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 38.86559159999999,
+                        "lng" : -76.9522291
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "i_flFlvttM^Aj@@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8659749,
+                        "lng" : -76.9522276
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "skglFhkxtMlU@@iKCkF^?vB?nAA|E@?sAO{@GS?SJSPSVYNYHUBe@@q@FW\\cBLkBBs@HW^sABmBJ}@FSVi@?UIu@Ie@?SOu@?SNgAB]CMDQHEX@T?PMTKVG?eAA_Da@Fq@yB_@cA]_AEg@@m@@k@N}@PyBJ{@Rk@`@gBb@qAX_BFkBE{@_AuCQWSKo@[bAaDjA?"
+         },
+         "summary" : "25th St SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

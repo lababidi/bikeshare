@@ -1,5 +1,410 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8849504,
+               "lng" : -77.0600491
+            },
+            "southwest" : {
+               "lat" : 38.86090970000001,
+               "lng" : -77.1079081
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.7 mi",
+                  "value" : 7607
+               },
+               "duration" : {
+                  "text" : "32 mins",
+                  "value" : 1906
+               },
+               "end_address" : "1040 North Quincy Street, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.883964,
+                  "lng" : -77.1079081
+               },
+               "start_address" : "1250-1360 South Hayes Street, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.8623123,
+                  "lng" : -77.0600491
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 301
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 38.86090970000001,
+                        "lng" : -77.0621841
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e toward \u003cb\u003e15th St S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mhelFhxiuMZB\\Bh@DX@TBB@BBBBBB@B?D@B?B@DAD?lA@xD@L?H@B@DBBB@FDHDlAl@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8623123,
+                        "lng" : -77.0600491
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "266 ft",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.8613305,
+                        "lng" : -77.0629393
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e15th St S\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "u_elFrejuMSh@Qb@KVa@p@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.86090970000001,
+                        "lng" : -77.0621841
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1066
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 201
+                     },
+                     "end_location" : {
+                        "lat" : 38.8701041,
+                        "lng" : -77.0651079
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eS Joyce St\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "ibelFjjjuMWXKLSLa@Ti@Vo@Pg@FQ@M@O?k@A_AKOCiAOc@Gs@QMCKEA?sD}@MC_@IMCoAW]Eg@?_@@c@BS@OBA?UBa@DK@E@I@A@[De@HC@KBA?a@H]H]HA?A?y@Ve@PSJMFOJOLUPONSTKLIJOTINGJEDEFeA|ASZMREFIP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8613305,
+                        "lng" : -77.0629393
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 ft",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 38.8699547,
+                        "lng" : -77.0652977
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eColumbia Pike\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cyflF|wjuMLRNP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8701041,
+                        "lng" : -77.0651079
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 ft",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 38.8700404,
+                        "lng" : -77.0655328
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eColumbia Pike\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "exflFbyjuMCFCFGRAH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8699547,
+                        "lng" : -77.0652977
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 mi",
+                        "value" : 1585
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 550
+                     },
+                     "end_location" : {
+                        "lat" : 38.8642729,
+                        "lng" : -77.0803354
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eColumbia Pike\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wxflFpzjuMLHZHPF^@R?VCn@MxA[XEJAF?D?D?F?B?@?B?D@D@VFPLLLJLJTDJBJBJBLBR?F@RFRBl@DzADn@Fl@BVF`@zBfNj@`DLz@Lr@Lz@HXRvAHh@^xBH`@BRTnAPjALt@F`@Lt@N|@N`AF^\\rBd@hCTnARpAXfBLt@`@bCN~@^vB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8700404,
+                        "lng" : -77.0655328
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1321
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 354
+                     },
+                     "end_location" : {
+                        "lat" : 38.8754463,
+                        "lng" : -77.0842004
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Courthouse Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "utelFbwmuM{AR}BZcEf@iAPcLrAS?m@BuBVkAN{@HwFp@gDd@c@?ULy@ASDa@T]LMLMHUBGBIDEDGDi@l@MLYNk@Z]Zw@bAk@r@A@CBABIJCBGFABOTCHAL"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8642729,
+                        "lng" : -77.0803354
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "358 ft",
+                        "value" : 109
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.8748978,
+                        "lng" : -77.08520369999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qzglFfonuM@@BHJJ^^T^L\\Jd@Jj@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8754463,
+                        "lng" : -77.0842004
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 745
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 155
+                     },
+                     "end_location" : {
+                        "lat" : 38.8786461,
+                        "lng" : -77.0915282
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eN Fillmore St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cwglFnunuMODUHG@E@EDAJ?HCb@Bx@Cb@Oh@Ch@@j@IZSXOVSZSl@O\\KXEN?TAh@?D?@AD?BAD?@ABABABCDEDSXYPa@\\s@b@eA|@s@Xg@v@o@p@Ef@?RARCRATAHCFOPEFMRQXSRYNQL]XGLGN"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8748978,
+                        "lng" : -77.08520369999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 38.8798889,
+                        "lng" : -77.0923885
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Fillmore St\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "qnhlF`}ouM_@HwE`D"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8786461,
+                        "lng" : -77.0915282
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 203
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 38.8789477,
+                        "lng" : -77.0943954
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Pershing Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ivhlFlbpuMtA|DdBrE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8798889,
+                        "lng" : -77.0923885
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 617
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : 38.884494,
+                        "lng" : -77.09460079999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Highland St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mphlF~npuMaCH{CBaCDiA@w@@eAA_DB_DH{CDOA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8789477,
+                        "lng" : -77.0943954
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 452
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 127
+                     },
+                     "end_location" : {
+                        "lat" : 38.8849504,
+                        "lng" : -77.09966489999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e10th St N\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "asilFfppuM?j@@dB?f@FfGBjEEp@AVK~@o@pCOh@U^"
+                     },
+                     "start_location" : {
+                        "lat" : 38.884494,
+                        "lng" : -77.09460079999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 766
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 156
+                     },
+                     "end_location" : {
+                        "lat" : 38.88255729999999,
+                        "lng" : -77.1077554
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}uilFzoquMFPpA|DTt@Pj@^rAhAvD~@fD`AzCDJDLv@bCJ`@Hb@FVJn@BZD^B^BfAAj@CrBCh@Ev@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8849504,
+                        "lng" : -77.09966489999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 157
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : 38.883964,
+                        "lng" : -77.1079081
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Quincy St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_gilFnbsuMs@BM@k@D]?_AFkAH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88255729999999,
+                        "lng" : -77.1077554
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mhelFhxiuM|BNXDFFFP?|ABfE@LPPvAr@e@lAm@hAc@f@u@b@i@Vo@Py@H]@kBMyASwAYYIcFkA}A[eAEgBJy@HcBXmB`@{@Vy@\\cAr@y@~@g@v@mBtCOX\\d@Ql@h@RPF^@j@ChCi@r@GR?f@J^ZVb@Pp@BZHf@HhCL|AJx@fDhSZnBVtAfA|Gx@dFt@vE`BlJ|ArJn@vDyEn@mGx@cLrAS?cDZgCX_LvAc@?ULy@ASD_Ab@[V]FOJq@r@g@\\k@Z]ZcBvBEDORY`@EVDJj@j@T^L\\VpAe@NMBGPCl@Bx@Cb@Oh@Ch@@j@IZc@p@SZSl@[v@Ed@Cv@CNMRSXYPuA`AeA|@s@Xg@v@o@p@Ez@Ef@C^SXSZe@l@k@\\]XGLGN_@HwE`DtA|DdBrEaCH}GHaCBeF@{HNOA?j@@lCJrMGhAK~@o@pCOh@U^xAnEpClJ`CbIJXbAdDPz@NjAH~@@rBG|CEv@s@By@F}AFkAH"
+         },
+         "summary" : "Columbia Pike",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

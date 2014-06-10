@@ -1,5 +1,74 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8944544,
+               "lng" : -76.9476567
+            },
+            "southwest" : {
+               "lat" : 38.8944544,
+               "lng" : -76.9476567
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "4000-4060 Benning Road Northeast, Washington, DC 20019, USA",
+               "end_location" : {
+                  "lat" : 38.8944544,
+                  "lng" : -76.9476567
+               },
+               "start_address" : "4000-4060 Benning Road Northeast, Washington, DC 20019, USA",
+               "start_location" : {
+                  "lat" : 38.8944544,
+                  "lng" : -76.9476567
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8944544,
+                        "lng" : -76.9476567
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eBenning Rd NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iqklFzystM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8944544,
+                        "lng" : -76.9476567
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iqklFzystM"
+         },
+         "summary" : "Benning Rd NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

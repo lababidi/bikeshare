@@ -1,5 +1,98 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8980699,
+               "lng" : -77.03161559999999
+            },
+            "southwest" : {
+               "lat" : 38.8946183,
+               "lng" : -77.03196249999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 413
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 150
+               },
+               "end_address" : "649-699 14th Street Northwest, Washington, DC 20005, USA",
+               "end_location" : {
+                  "lat" : 38.8980699,
+                  "lng" : -77.0319332
+               },
+               "start_address" : "1350-1398 D Street Northwest, Washington, DC 20004, USA",
+               "start_location" : {
+                  "lat" : 38.8946183,
+                  "lng" : -77.03161559999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "95 ft",
+                        "value" : 29
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.89462109999999,
+                        "lng" : -77.03195459999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eD St NW\u003c/b\u003e toward \u003cb\u003e14th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "krklFrfduM?`A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8946183,
+                        "lng" : -77.03161559999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 384
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 145
+                     },
+                     "end_location" : {
+                        "lat" : 38.8980699,
+                        "lng" : -77.0319332
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e14th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "krklFthduMgA@kBAuB@o@AwB?A?mACyA@u@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89462109999999,
+                        "lng" : -77.03195459999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "krklFrfduM?`AgA@aF?wFEoC?"
+         },
+         "summary" : "14th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

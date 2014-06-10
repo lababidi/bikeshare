@@ -1,5 +1,74 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8970017,
+               "lng" : -76.94730419999999
+            },
+            "southwest" : {
+               "lat" : 38.8970017,
+               "lng" : -76.94730419999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "4058 Minnesota Avenue Northeast, Washington, DC 20019, USA",
+               "end_location" : {
+                  "lat" : 38.8970017,
+                  "lng" : -76.94730419999999
+               },
+               "start_address" : "4058 Minnesota Avenue Northeast, Washington, DC 20019, USA",
+               "start_location" : {
+                  "lat" : 38.8970017,
+                  "lng" : -76.94730419999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8970017,
+                        "lng" : -76.94730419999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eMinnesota Ave NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gallFrwstM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8970017,
+                        "lng" : -76.94730419999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gallFrwstM"
+         },
+         "summary" : "Minnesota Ave NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

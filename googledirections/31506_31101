@@ -1,5 +1,122 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9175992,
+               "lng" : -77.0121425
+            },
+            "southwest" : {
+               "lat" : 38.9125902,
+               "lng" : -77.0319794
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 mi",
+                  "value" : 2581
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 740
+               },
+               "end_address" : "2000-2098 14th Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9175992,
+                  "lng" : -77.0319592
+               },
+               "start_address" : "1832 1st Street Northwest, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9154169,
+                  "lng" : -77.0121532
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 313
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 38.9126037,
+                        "lng" : -77.0121571
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eFirst St NW\u003c/b\u003e toward \u003cb\u003eSeaton Pl NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ktolF|l`uML?N?vA?L?dA?`A@L?D?~BAJAH?zA@`@@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9154169,
+                        "lng" : -77.0121532
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 mi",
+                        "value" : 1713
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 552
+                     },
+                     "end_location" : {
+                        "lat" : 38.9126061,
+                        "lng" : -77.0319494
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wbolF~l`uM?h@?`@?jA?J?x@?pA?tA?b@?xB?l@?N?N?xC?R?nC?~A?V?B?jE?~@?N@bEA~B?@@nAAhA?vB?lE?lEAxJ?X?lE?~C?\\?fI?pM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9126037,
+                        "lng" : -77.0121571
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 555
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 141
+                     },
+                     "end_location" : {
+                        "lat" : 38.9175992,
+                        "lng" : -77.0319592
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e14th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ybolFthduMsC?eA?mA?Q?{@?eA?wA@{@?oCBQ?}BCuB?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9126061,
+                        "lng" : -77.0319494
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ktolF|l`uM~G@jCCdB@`@@?h@?lB?lF?zE?tS?rK@pAA`EAnX?rU?pMsC?sC?kF@kEBoCCuB?"
+         },
+         "summary" : "R St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

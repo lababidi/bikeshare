@@ -1,5 +1,122 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8792668,
+               "lng" : -76.99496979999999
+            },
+            "southwest" : {
+               "lat" : 38.87643,
+               "lng" : -77.003698
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1099
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 273
+               },
+               "end_address" : "726 I Street Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.8792649,
+                  "lng" : -76.99530059999999
+               },
+               "start_address" : "151-199 M Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.876442,
+                  "lng" : -77.003698
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 756
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 160
+                     },
+                     "end_location" : {
+                        "lat" : 38.87643,
+                        "lng" : -76.99496979999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eM St SE\u003c/b\u003e toward \u003cb\u003e2nd St SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "w`hlFbx~tM?e@@oB?e@?sB?W?mH?}D?Q?_@?wA?{BA}A@U?_@?qG?qF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.876442,
+                        "lng" : -77.003698
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 315
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : 38.8792668,
+                        "lng" : -76.9949742
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e8th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u`hlFpa}tMS?{@@kC?kBA[?Y?S?C?A?_@?A?A?A?S?C?O?S?A?{@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.87643,
+                        "lng" : -76.99496979999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 38.8792649,
+                        "lng" : -76.99530059999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eI St SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mrhlFpa}tM@`A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8792668,
+                        "lng" : -76.9949742
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "w`hlFbx~tM@eY?k[gI?mA?_A?e@?{@?@`A"
+         },
+         "summary" : "M St SE and 8th St SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

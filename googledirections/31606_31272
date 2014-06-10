@@ -1,5 +1,194 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8876541,
+               "lng" : -76.98611769999999
+            },
+            "southwest" : {
+               "lat" : 38.8791822,
+               "lng" : -77.01399069999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 mi",
+                  "value" : 2914
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 635
+               },
+               "end_address" : "201-247 Washington Avenue Southwest, Washington, DC 20024, USA",
+               "end_location" : {
+                  "lat" : 38.8873793,
+                  "lng" : -77.01383299999999
+               },
+               "start_address" : "1385 Potomac Avenue Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8802937,
+                  "lng" : -76.98611769999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "36 ft",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 38.880194,
+                        "lng" : -76.9861303
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003ePotomac Ave SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yxhlFfj{tMR@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8802937,
+                        "lng" : -76.98611769999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 220
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 38.8791822,
+                        "lng" : -76.988294
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003ePotomac Ave SE\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "exhlFhj{tMh@p@n@hBh@fBZfAh@bB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.880194,
+                        "lng" : -76.9861303
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 267
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.8815828,
+                        "lng" : -76.988309
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e13th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{qhlFxw{tMU?iD@wA@gC@G?K?k@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8791822,
+                        "lng" : -76.988294
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1445
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 346
+                     },
+                     "end_location" : {
+                        "lat" : 38.8876253,
+                        "lng" : -77.0030893
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePennsylvania Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{`ilF|w{tMOb@k@hBK\\s@zB[bAGTIXKZWr@Md@Oj@GNGNOb@Mb@Oj@q@vBGXa@tAOf@Y~@K\\o@rBu@zBKd@GTOd@y@pCQp@s@tB_@pAaAtCSv@GPeAbDEPKZ{@xCSj@uBbHa@rAu@|B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8815828,
+                        "lng" : -76.988309
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 946
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 179
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875682,
+                        "lng" : -77.01399069999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eIndependence Ave SE/Pennsylvania Ave SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Independence Ave SE\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "ufjlFht~tMCtA?\\HR?hFAvD@nM@xA?tA?z@?pB@`M?vF@bA?l@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8876253,
+                        "lng" : -77.0030893
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "82 ft",
+                        "value" : 25
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 38.8873793,
+                        "lng" : -77.01383299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWashington Ave SW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ifjlFlx`uMd@_@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875682,
+                        "lng" : -77.01399069999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yxhlFfj{tMR@h@p@xApEdAjD_E@sFBk@AOb@w@fCaBnFaA`Dm@fBkBrGeBxFyA|E_DjKcDbKaBrFwCvJu@|BCtA?\\HRA`LBzTBnZ?l@d@_@"
+         },
+         "summary" : "Pennsylvania Ave SE and Independence Ave SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

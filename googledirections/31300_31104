@@ -1,5 +1,121 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9445999,
+               "lng" : -77.0427455
+            },
+            "southwest" : {
+               "lat" : 38.9228769,
+               "lng" : -77.0637577
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.1 mi",
+                  "value" : 3349
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 651
+               },
+               "end_address" : "1804 Adams Mill Road Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9228769,
+                  "lng" : -77.0427455
+               },
+               "start_address" : "4210-4250 Connecticut Avenue Northwest, Washington, DC 20008, USA",
+               "start_location" : {
+                  "lat" : 38.9445999,
+                  "lng" : -77.0637577
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.6 mi",
+                        "value" : 2570
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 415
+                     },
+                     "end_location" : {
+                        "lat" : 38.9235388,
+                        "lng" : -77.051526
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eConnecticut Ave NW\u003c/b\u003e toward \u003cb\u003eVeazey Terrace NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wjulFnojuMbAg@tE}BLGzEyBhEuBRKlHoD|CyAZQx@c@dFeCh@YdCkArBcAfHmDrBaArDiBtDiB~DkBn@YxBgAhDcBxDkBzHwDdEqBrBcAd@UtFmC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9445999,
+                        "lng" : -77.0637577
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 686
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 220
+                     },
+                     "end_location" : {
+                        "lat" : 38.9232496,
+                        "lng" : -77.04361849999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCalvert St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cgqlF`chuM?W@UJ{DBi@BiB?YBeA@??Y?A?AFgB?G@EHkC@Q@O@e@@K?[@sA?W?mB?uD@wA?G?W?k@?GAcC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9235388,
+                        "lng" : -77.051526
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "305 ft",
+                        "value" : 93
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.9228769,
+                        "lng" : -77.0427455
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eAdams Mill Rd NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "ieqlFrqfuM?i@@]FYDMDKFIJMJKRM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9232496,
+                        "lng" : -77.04361849999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wjulFnojuMbOgHhTkKdJuEtS_KxQyIxWoMtQyIPsGHcFReGFsA@uF@mHAaFHw@JYRW^Y"
+         },
+         "summary" : "Connecticut Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

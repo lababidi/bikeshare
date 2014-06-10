@@ -1,5 +1,361 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.901539,
+               "lng" : -76.99667479999999
+            },
+            "southwest" : {
+               "lat" : 38.885982,
+               "lng" : -77.0466811
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.7 mi",
+                  "value" : 5994
+               },
+               "duration" : {
+                  "text" : "23 mins",
+                  "value" : 1376
+               },
+               "end_address" : "635-699 North Carolina Avenue Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.886951,
+                  "lng" : -76.996678
+               },
+               "start_address" : "974-986 21st Street Northwest, Washington, DC 20006, USA",
+               "start_location" : {
+                  "lat" : 38.901539,
+                  "lng" : -77.0466469
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1071
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 260
+                     },
+                     "end_location" : {
+                        "lat" : 38.8919042,
+                        "lng" : -77.0466636
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e21st St NW\u003c/b\u003e toward \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "s}llFpdguMj@?hBAR@pA?b@?fB?R?jA?L?x@@@?pA?hA?R?J?d@?Z?T?hG?fA@x@?X?lB?tC@tA?`AA~C@v@?f@C"
+                     },
+                     "start_location" : {
+                        "lat" : 38.901539,
+                        "lng" : -77.0466469
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 624
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 102
+                     },
+                     "end_location" : {
+                        "lat" : 38.8918975,
+                        "lng" : -77.0394544
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kaklFrdguM?q@@cH?C?Q?wA?yC?Y?AAsGAoA?{@@[ByCAmD?AAa@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8919042,
+                        "lng" : -77.0466636
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 325
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 87
+                     },
+                     "end_location" : {
+                        "lat" : 38.8899344,
+                        "lng" : -77.0368263
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e at \u003cb\u003e17th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "kaklFpweuMFU?AH]He@FWFSTe@`@o@l@s@z@u@RM|@g@^]f@y@Pc@BE@EHE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8918975,
+                        "lng" : -77.0394544
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "30 ft",
+                        "value" : 9
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 38.8899355,
+                        "lng" : -77.0367186
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "aujlFdgeuMAU"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8899344,
+                        "lng" : -77.0368263
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 322
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 38.8898899,
+                        "lng" : -77.0335123
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eJefferson Dr SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cujlFnfeuMIMW]QUYk@Qo@Kk@AKIcAAaAB_@Fi@H]@EJc@Vm@T]^m@PY"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8899355,
+                        "lng" : -77.0367186
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 160
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 84
+                     },
+                     "end_location" : {
+                        "lat" : 38.8902998,
+                        "lng" : -77.0317762
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eJefferson Dr SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ytjlFlrduMA[AIEQMWGYGWg@oCAU?Q?_@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8898899,
+                        "lng" : -77.0335123
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 189
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.8886036,
+                        "lng" : -77.0317601
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eJefferson Dr SW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kwjlFrgduM`BCtBAdB@T?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8902998,
+                        "lng" : -77.0317762
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1446
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 257
+                     },
+                     "end_location" : {
+                        "lat" : 38.8888142,
+                        "lng" : -77.01521269999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJefferson Dr SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wljlFngduMG_JCyI?M?o@?A?M?WASAQAQGQAGKYK]EOCMGWG_@Gi@Cg@Ci@?W@U?YDm@XiBRoADY@GBYBO?E?K@K?S?UAI?A?KA}B?E?s@AcD?k@CyD?aA?a@AmAAsAAcH?m@?e@Am@AmBAsD@sA?q@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8886036,
+                        "lng" : -77.0317601
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "453 ft",
+                        "value" : 138
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.88757700000001,
+                        "lng" : -77.0152367
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e3rd St SW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "anjlF``auM~@?|@@vBB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8888142,
+                        "lng" : -77.01521269999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1079
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 333
+                     },
+                     "end_location" : {
+                        "lat" : 38.8873021,
+                        "lng" : -77.00285599999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eIndependence Ave SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kfjlFf`auM@a@?w@?W?s@?sA?m@AcA?wFAaM?qB?{@?uAAyAAoM@wD?iFFU?[BQBINc@V}@BE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88757700000001,
+                        "lng" : -77.0152367
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 313
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 38.885982,
+                        "lng" : -76.9996568
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePennsylvania Ave SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sdjlFzr~tMX_Ah@eBtBcHDOfAeD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8873021,
+                        "lng" : -77.00285599999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 291
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 38.8871898,
+                        "lng" : -76.99667479999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNorth Carolina Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "k|ilFz~}tMY{@oAuD{@eDkA}D"
+                     },
+                     "start_location" : {
+                        "lat" : 38.885982,
+                        "lng" : -76.9996568
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "89 ft",
+                        "value" : 27
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.886951,
+                        "lng" : -76.996678
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}cjlFdl}tMn@@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8871898,
+                        "lng" : -76.99667479999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "s}llFpdguMrW@zUBnJ?f@C?q@@gH?}GCaLDuDAoDAa@FUH_@P}@\\y@`@o@l@s@nAcA|@g@^]x@}ADKHEAUa@k@k@aA]{AKoAAaAB_@PgALi@l@kAp@gACe@EQMWOq@i@eD?q@vEEzB@KwV?g@Ce@Ic@_@oAKe@OiAGqA@m@DgAl@yDNkA?sAGoSIwU?gG?q@~@?tDD@yA?mECoZC{T@aLFU?[F[f@aB|DoMlAuDiBqF{@eDkA}Dn@@"
+         },
+         "summary" : "Jefferson Dr SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

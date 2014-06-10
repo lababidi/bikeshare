@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8898044,
+               "lng" : -76.9769178
+            },
+            "southwest" : {
+               "lat" : 38.8802937,
+               "lng" : -76.98611769999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1841
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 518
+               },
+               "end_address" : "1385 Potomac Avenue Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.8802937,
+                  "lng" : -76.98611769999999
+               },
+               "start_address" : "1835 East Capitol Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8897449,
+                  "lng" : -76.9769178
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 744
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 253
+                     },
+                     "end_location" : {
+                        "lat" : 38.889803,
+                        "lng" : -76.985506
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eE Capitol St SE\u003c/b\u003e toward \u003cb\u003e19th St SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "{sjlFvpytMC`A?hAGZ?vB?^?~A?~I?bH?zC?~B?|C?vE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8897449,
+                        "lng" : -76.9769178
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1027
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 207
+                     },
+                     "end_location" : {
+                        "lat" : 38.8805658,
+                        "lng" : -76.9855044
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e14th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gtjlFlf{tML?xA?fB?P?rB?L?B?L?P?\\?R?pD?rBAhC@L?~E?N?J@~B?zBAh@?|C?pB?X?pBA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.889803,
+                        "lng" : -76.985506
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "230 ft",
+                        "value" : 70
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 38.8802937,
+                        "lng" : -76.98611769999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePotomac Ave SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qzhlFjf{tMAj@@VDPFJJLZJ@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8805658,
+                        "lng" : -76.9855044
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{sjlFvpytMCjCGZ?vB?~B?bS?pS`F?hK?bW?rI?pBAAj@Fh@RX\\J"
+         },
+         "summary" : "E Capitol St SE and 14th St SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

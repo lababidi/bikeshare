@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.957282,
+               "lng" : -77.0273325
+            },
+            "southwest" : {
+               "lat" : 38.9497349,
+               "lng" : -77.03302669999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1381
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 274
+               },
+               "end_address" : "1201-1203 Emerson Street Northwest, Washington, DC 20011, USA",
+               "end_location" : {
+                  "lat" : 38.949735,
+                  "lng" : -77.0273325
+               },
+               "start_address" : "5521-5539 Colorado Avenue Northwest, Washington, DC 20011, USA",
+               "start_location" : {
+                  "lat" : 38.9564733,
+                  "lng" : -77.03302669999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "348 ft",
+                        "value" : 106
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.957282,
+                        "lng" : -77.032377
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eColorado Ave NW\u003c/b\u003e toward \u003cb\u003eLongfellow St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}twlFloduMGGEAGAGGu@m@IGUQKIa@["
+                     },
+                     "start_location" : {
+                        "lat" : 38.9564733,
+                        "lng" : -77.03302669999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 231
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 38.9572787,
+                        "lng" : -77.0297035
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLongfellow St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_zwlFjkduM?kC?}C?oC?_@?}@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.957282,
+                        "lng" : -77.032377
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 839
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 126
+                     },
+                     "end_location" : {
+                        "lat" : 38.9497349,
+                        "lng" : -77.0296996
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e13th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_zwlFrzcuM~@?tC?rE?tE@jFC~DBL?rECN?xA?X?rA@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9572787,
+                        "lng" : -77.0297035
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 205
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 38.949735,
+                        "lng" : -77.0273325
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eEmerson St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yjvlFrzcuM?WAgC@yH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9497349,
+                        "lng" : -77.0296996
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}twlFloduM]SaBqAa@[?kC?mH?}AtE?tY@jIClB@A_D@yH"
+         },
+         "summary" : "13th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

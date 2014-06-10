@@ -1,5 +1,264 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.899175,
+               "lng" : -77.0544166
+            },
+            "southwest" : {
+               "lat" : 38.8919343,
+               "lng" : -77.0806364
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3543
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1072
+               },
+               "end_address" : "1614-1698 Key Boulevard, Arlington, VA 22209, USA",
+               "end_location" : {
+                  "lat" : 38.8960593,
+                  "lng" : -77.0781119
+               },
+               "start_address" : "Interstate 66, Washington, DC 20566, USA",
+               "start_location" : {
+                  "lat" : 38.8951688,
+                  "lng" : -77.0545602
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "312 ft",
+                        "value" : 95
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 38.8960263,
+                        "lng" : -77.05454499999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "yuklF~uhuMI?WAiCA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8951688,
+                        "lng" : -77.0545602
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "36 ft",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 38.8960274,
+                        "lng" : -77.05441859999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e{klFzuhuM?W"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8960263,
+                        "lng" : -77.05454499999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1416
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 320
+                     },
+                     "end_location" : {
+                        "lat" : 38.8943562,
+                        "lng" : -77.06589529999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eMt Vernon Trail\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eEntering Virginia\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e{klFbuhuMVAP@N?VBZBfAH|@FfAH\\BXBL@RDJBVJ@@NHJDl@n@LPJNJVHPBJ@D@?BNBJ@HFp@Fp@DZBTJfAV`CPvBPnBHt@NdBNxAR|BHt@Dl@JfAF|@Dj@Fp@Db@Ff@B`@BX@Z@P?V?PAZE`@ANEZMn@Qj@KVIREHKRKRSZSZMNKJQNKFKHKHKFOF_@N]Ja@Ja@JaAPYFOF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8960274,
+                        "lng" : -77.05441859999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 309
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 38.896874,
+                        "lng" : -77.0672024
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eMt Vernon Trail\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "wpklFz|juMi@VYNsAz@k@\\WP]LgBx@}@^y@ZMIMI"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8943562,
+                        "lng" : -77.06589529999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "400 ft",
+                        "value" : 122
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 38.8979041,
+                        "lng" : -77.0676287
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eMt Vernon Trail\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "m`llF~dkuMMAmAVyAf@EBQR"
+                     },
+                     "start_location" : {
+                        "lat" : 38.896874,
+                        "lng" : -77.0672024
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 386
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 115
+                     },
+                     "end_location" : {
+                        "lat" : 38.8990533,
+                        "lng" : -77.0706184
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eMt Vernon Trail\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "{fllFtgkuMMLMHO@SEQG[IC?ED@FBDTFFBD@FDDP@P@@B^@B?@?FBP?FAPCFCDKLQNQFOHQNSXKNEPG`@Eb@G~@Mt@Gj@Cd@AR"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8979041,
+                        "lng" : -77.0676287
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 907
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 383
+                     },
+                     "end_location" : {
+                        "lat" : 38.8974886,
+                        "lng" : -77.0806364
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eCustis Trail\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "anllFjzkuMAXGxD?NAF?DCHAB?BA@?B?DCfC?B?^?nCAX?R@X@z@BdA@`AD|@Bf@L~ARtBTfBLt@f@tCl@|B@RDLZ`AJ\\JNHHFN`@dAFNBNDZNf@Nv@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8990533,
+                        "lng" : -77.0706184
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 269
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 137
+                     },
+                     "end_location" : {
+                        "lat" : 38.8960482,
+                        "lng" : -77.0784343
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Scott St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "idllF~xmuMTMPKFCDC@?TO^SXQPKLKPSNONSHUNYTq@D[DWBUB]@]?i@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8974886,
+                        "lng" : -77.0806364
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 38.8960593,
+                        "lng" : -77.0781119
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eKey Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "i{klFdkmuM?e@AY"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8960482,
+                        "lng" : -77.0784343
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yuklF~uhuMa@AiCA?Wh@?f@BhF^v@F`@Ft@Zx@t@X`@Zz@Jd@`BfQ`B|QZhDJhB?h@G|@Gj@_@zAg@hA_@n@a@j@u@l@WPo@V_AVcB\\i@NcAf@_CxAu@^eDxAy@ZMI[KmAVyAf@WVMLMHO@SEm@QC?EDDL\\JLFHd@H~@AXGL]\\a@Pe@h@Q`@MdAG~@Mt@KpACl@IvEGRCtCA|EH|EHdB`@tEb@|Cf@tCl@|BF`@f@~ATXh@tAJ^TbANv@TMXO\\SjAq@^_@^c@Xo@Tq@D[Hm@D{@AiB"
+         },
+         "summary" : "Custis Trail",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

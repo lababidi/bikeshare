@@ -1,5 +1,194 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8659948,
+               "lng" : -77.05180009999999
+            },
+            "southwest" : {
+               "lat" : 38.8629241,
+               "lng" : -77.06342049999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1486
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 269
+               },
+               "end_address" : "Joyce St & Pentagon Row, Pentagon Row, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.8636483,
+                  "lng" : -77.0633122
+               },
+               "start_address" : "421-499 12th Street South, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.8629718,
+                  "lng" : -77.05279399999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "272 ft",
+                        "value" : 83
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 38.8629241,
+                        "lng" : -77.0518426
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e12th St S\u003c/b\u003e toward \u003cb\u003eArmy Navy Dr\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qlelF|jhuMFaD@["
+                     },
+                     "start_location" : {
+                        "lat" : 38.8629718,
+                        "lng" : -77.05279399999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1117
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 210
+                     },
+                     "end_location" : {
+                        "lat" : 38.8659948,
+                        "lng" : -77.06281469999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eArmy Navy Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "glelF~dhuMo@AaACe@AU?O@MBKBMDMFKFURGFKLOVINEJENCLERCPCTC\\IrAObBM~@AV]pE[|EC\\c@~FOxAAl@KrAS`CWdDYjEEdAG~AAv@?V"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8629241,
+                        "lng" : -77.0518426
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "282 ft",
+                        "value" : 86
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 38.8652436,
+                        "lng" : -77.06303869999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Joyce St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "m_flFpijuMZHt@LbAT"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8659948,
+                        "lng" : -77.06281469999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "39 ft",
+                        "value" : 12
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 38.8652114,
+                        "lng" : -77.0629101
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eS Joyce St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wzelF~jjuMDY"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8652436,
+                        "lng" : -77.06303869999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 178
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 38.8636638,
+                        "lng" : -77.06342049999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Joyce St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qzelFdjjuMLBrD|@@?JDLBr@Pb@F"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8652114,
+                        "lng" : -77.0629101
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "33 ft",
+                        "value" : 10
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 38.8636483,
+                        "lng" : -77.0633122
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{pelFjmjuM@U"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8636638,
+                        "lng" : -77.06342049999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qlelF|jhuMH}DqBE{@A]DYHYN]Z[d@Yx@QxAYvDOvA]pE[|Eg@|GQfC_@tEq@pJMdDAnApAVbATDY`E`AnAZb@F@U"
+         },
+         "summary" : "Army Navy Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

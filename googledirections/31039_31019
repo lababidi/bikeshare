@@ -1,5 +1,217 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.88919870000001,
+               "lng" : -77.09169439999999
+            },
+            "southwest" : {
+               "lat" : 38.8801544,
+               "lng" : -77.10774649999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2225
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 593
+               },
+               "end_address" : "2825-2847 Wilson Boulevard, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.888966,
+                  "lng" : -77.0924809
+               },
+               "start_address" : "801 North Quincy Street, Arlington, VA 22203, USA",
+               "start_location" : {
+                  "lat" : 38.8801544,
+                  "lng" : -77.107562
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 255
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 38.8824466,
+                        "lng" : -77.10774649999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eN Quincy St\u003c/b\u003e toward \u003cb\u003e9th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}whlFfasuM_@@S@m@B}@DC?q@DeDJoAD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8801544,
+                        "lng" : -77.107562
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 762
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 136
+                     },
+                     "end_location" : {
+                        "lat" : 38.884683,
+                        "lng" : -77.0996392
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ifilFlbsuMFwAFqABk@Am@AYAWGeAEm@Mk@a@eBaA{C{@aDiAcDiAyDeAuDQe@Mc@EOCOAKAKCQCs@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8824466,
+                        "lng" : -77.10774649999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 443
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 126
+                     },
+                     "end_location" : {
+                        "lat" : 38.8844108,
+                        "lng" : -77.094606
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e10th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gtilFvoquM?W@KBO@MDQDS@CJc@Pq@Ju@BW?W?W?c@EiEEgGAwD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.884683,
+                        "lng" : -77.0996392
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 285
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 138
+                     },
+                     "end_location" : {
+                        "lat" : 38.8869626,
+                        "lng" : -77.09494909999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Highland St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qrilFhppuMOAW@_BJS@M@K@Q@OBW@[DoAH}@HYBiAJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8844108,
+                        "lng" : -77.094606
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 324
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 38.8883841,
+                        "lng" : -77.09169439999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eClarendon Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "objlFlrpuMSg@KUi@sAISKWMYg@oAO_@CEM]Ss@EQEMAGGUGS?CEQGOCMEQGYI[G]"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8869626,
+                        "lng" : -77.09494909999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "299 ft",
+                        "value" : 91
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 38.88919870000001,
+                        "lng" : -77.0917965
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Edgewood St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kkjlF`~ouMm@FuBL"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8883841,
+                        "lng" : -77.09169439999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "213 ft",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.888966,
+                        "lng" : -77.0924809
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWilson Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "opjlFv~ouMl@fC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88919870000001,
+                        "lng" : -77.0917965
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}whlFfasuMkMd@NiD@yACq@MsBo@qCaA{C{@aDsC}IwA{ESs@E[E]CkAL{@d@mBNmA?o@MmTg@?_BJ_AFsCTwALiAJSg@u@iBUk@iAoCa@qAK_@Qu@WaAQu@G]m@FuBLl@fC"
+         },
+         "summary" : "N Fairfax Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

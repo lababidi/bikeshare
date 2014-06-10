@@ -1,5 +1,241 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9445999,
+               "lng" : -77.03880819999999
+            },
+            "southwest" : {
+               "lat" : 38.9318999,
+               "lng" : -77.0637577
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 mi",
+                  "value" : 2966
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 732
+               },
+               "end_address" : "3249-3299 17th Street Northwest, Washington, DC 20010, USA",
+               "end_location" : {
+                  "lat" : 38.9318999,
+                  "lng" : -77.0388514
+               },
+               "start_address" : "4210-4250 Connecticut Avenue Northwest, Washington, DC 20008, USA",
+               "start_location" : {
+                  "lat" : 38.9445999,
+                  "lng" : -77.0637577
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 950
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 166
+                     },
+                     "end_location" : {
+                        "lat" : 38.9368175,
+                        "lng" : -77.05923469999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eConnecticut Ave NW\u003c/b\u003e toward \u003cb\u003eVeazey Terrace NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wjulFnojuMbAg@tE}BLGzEyBhEuBRKlHoD|CyAZQx@c@dFeCh@Y"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9445999,
+                        "lng" : -77.0637577
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 825
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 155
+                     },
+                     "end_location" : {
+                        "lat" : 38.933425,
+                        "lng" : -77.0508509
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePorter St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "czslFdsiuM?e@Bk@B[DSDQDQFOHUBGV_@DGHMFMDKJWBKBK@KN}@N_AHa@H_@J_@f@mBT{@^uAl@wBFWHWHUHWHYVs@HSp@_B\\{@HWFO`A_CHQ@CRg@n@{AXu@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9368175,
+                        "lng" : -77.05923469999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 381
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 174
+                     },
+                     "end_location" : {
+                        "lat" : 38.9325664,
+                        "lng" : -77.046712
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eKlingle Rd NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{dslFx~guMDOL]BEb@iA?Ax@yBH[FSF[F_@B[BW@]@W@[?O?Q?s@@cB@kA?iA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.933425,
+                        "lng" : -77.0508509
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "43 ft",
+                        "value" : 13
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.9326648,
+                        "lng" : -77.0467944
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eKlingle Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "q_slF|dguMQN"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9325664,
+                        "lng" : -77.046712
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "440 ft",
+                        "value" : 134
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 38.9332271,
+                        "lng" : -77.04542379999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eKlingle Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c`slFleguMUq@]iAk@oBQe@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9326648,
+                        "lng" : -77.0467944
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 585
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 168
+                     },
+                     "end_location" : {
+                        "lat" : 38.9325526,
+                        "lng" : -77.0390031
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePark Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ucslFz|fuMHCBEDEBKZkAj@mCv@{BBIFSDO@GBM?G@M?O?E@iD?eA?gBCoB?OAMAOOcAIq@OeACk@Ds@BO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9332271,
+                        "lng" : -77.04542379999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "138 ft",
+                        "value" : 42
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.932219,
+                        "lng" : -77.03880819999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMt Pleasant St NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "m_slFvteuMRSPKZE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9325526,
+                        "lng" : -77.0390031
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "118 ft",
+                        "value" : 36
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.9318999,
+                        "lng" : -77.0388514
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e17th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "k}rlFpseuMHDH@L?\\?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.932219,
+                        "lng" : -77.03880819999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wjulFnojuMbOgHhTkKdJuEBqAHo@\\iAj@}@\\}@d@uCfAoEjBaHf@_B`@gAnA{C|AyD~A}DVs@fBaFNo@J{@HiB@yD@uCQNUq@iAyDQe@HCHK^wAj@mCv@{BJ]Jm@BmECmH]sCOeACk@HcAd@_@ZEHDV@\\?"
+         },
+         "summary" : "Connecticut Ave NW and Porter St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

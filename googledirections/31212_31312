@@ -1,5 +1,218 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9084604,
+               "lng" : -77.0466443
+            },
+            "southwest" : {
+               "lat" : 38.9026376,
+               "lng" : -77.0635846
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2232
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 476
+               },
+               "end_address" : "3149-3199 O Street Northwest, Washington, DC 20007, USA",
+               "end_location" : {
+                  "lat" : 38.9084276,
+                  "lng" : -77.0635846
+               },
+               "start_address" : "1155 21st Street Northwest, Washington, DC 20036, USA",
+               "start_location" : {
+                  "lat" : 38.9053397,
+                  "lng" : -77.0466495
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 300
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 38.9026376,
+                        "lng" : -77.0466443
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e21st St NW\u003c/b\u003e toward \u003cb\u003eL St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kumlFpdguMpC?pBAx@?lA?H?t@@nAA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9053397,
+                        "lng" : -77.0466495
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 242
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 38.9026766,
+                        "lng" : -77.04944039999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eK St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "odmlFndguM?hK?f@?b@?P?PAPEb@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9026376,
+                        "lng" : -77.0466443
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 731
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 159
+                     },
+                     "end_location" : {
+                        "lat" : 38.9049431,
+                        "lng" : -77.0570238
+                     },
+                     "html_instructions" : "At the traffic circle, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "wdmlF~uguMG@GDEBEBGFKJINITCLCLAP?P?NBRDPFNFJJV@R?T?H?BADAJCPGXIZ}AlGi@nBUrA_@vAe@vBu@xCa@|ACHCJAB?@CJ?@ELCHIZEPAFCFIZEPCJEP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9026766,
+                        "lng" : -77.04944039999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 213
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 66
+                     },
+                     "end_location" : {
+                        "lat" : 38.9068628,
+                        "lng" : -77.0570462
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e28th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{rmlFjeiuM}@?gD?m@@kBB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9049431,
+                        "lng" : -77.0570238
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 361
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 92
+                     },
+                     "end_location" : {
+                        "lat" : 38.9068174,
+                        "lng" : -77.0612197
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{~mlFpeiuM?N?d@@jC?R@z@?dA?rA@|B?t@?pB@zA?R"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9068628,
+                        "lng" : -77.0570462
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 183
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 38.9084604,
+                        "lng" : -77.0612476
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e31st St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "s~mlFr_juMcD@{A@gA@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9068174,
+                        "lng" : -77.0612197
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 202
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 38.9084276,
+                        "lng" : -77.0635846
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eO St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{hnlFx_juMDpM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9084604,
+                        "lng" : -77.0612476
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kumlFpdguMjKA~@@nAA?hK?jA?b@Gt@OF_@ZSd@GZAb@Bb@`@dA@v@O|@gBhHi@nBUrAeAnEwAvFIZCLi@pBI\\EP}@?uE@kBB?N@pD@nA@lI@lE?RcD@cDBDpM"
+         },
+         "summary" : "Pennsylvania Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

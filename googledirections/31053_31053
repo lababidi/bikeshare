@@ -1,5 +1,74 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8638422,
+               "lng" : -77.080246
+            },
+            "southwest" : {
+               "lat" : 38.8638422,
+               "lng" : -77.080246
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1053-1189 South Courthouse Road, Arlington, VA 22204, USA",
+               "end_location" : {
+                  "lat" : 38.8638422,
+                  "lng" : -77.080246
+               },
+               "start_address" : "1053-1189 South Courthouse Road, Arlington, VA 22204, USA",
+               "start_location" : {
+                  "lat" : 38.8638422,
+                  "lng" : -77.080246
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8638422,
+                        "lng" : -77.080246
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eS Courthouse Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_relFpvmuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8638422,
+                        "lng" : -77.080246
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_relFpvmuM"
+         },
+         "summary" : "S Courthouse Rd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

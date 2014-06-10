@@ -1,5 +1,74 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9008631,
+               "lng" : -77.018677
+            },
+            "southwest" : {
+               "lat" : 38.9008631,
+               "lng" : -77.018677
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "500 I Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9008631,
+                  "lng" : -77.018677
+               },
+               "start_address" : "500 I Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9008631,
+                  "lng" : -77.018677
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9008631,
+                        "lng" : -77.018677
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eI St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kyllFvuauM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9008631,
+                        "lng" : -77.018677
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kyllFvuauM"
+         },
+         "summary" : "I St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

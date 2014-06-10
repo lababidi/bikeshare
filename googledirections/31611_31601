@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9003027,
+               "lng" : -76.9769178
+            },
+            "southwest" : {
+               "lat" : 38.8897449,
+               "lng" : -76.9883071
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.3 mi",
+                  "value" : 2153
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 524
+               },
+               "end_address" : "1835 East Capitol Street Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.8897449,
+                  "lng" : -76.9769178
+               },
+               "start_address" : "801-813 13th Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9003027,
+                  "lng" : -76.9883071
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 330
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 123
+                     },
+                     "end_location" : {
+                        "lat" : 38.8973331,
+                        "lng" : -76.9883037
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e13th St NE\u003c/b\u003e toward \u003cb\u003eH St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{ullF|w{tMR?pB?NA|B?pC?T@bC?PA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9003027,
+                        "lng" : -76.9883071
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 242
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 38.897332,
+                        "lng" : -76.985505
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eF St NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "icllFzw{tMAeJ@iE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8973331,
+                        "lng" : -76.9883037
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 837
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 189
+                     },
+                     "end_location" : {
+                        "lat" : 38.889803,
+                        "lng" : -76.985506
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e14th St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "icllFjf{tMhB@N?fB?N?x@?P?h@AV@|BAl@?xA@rA?R?lC?nB?v@?JAf@@N?l@AfB@hA?|BAZ@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.897332,
+                        "lng" : -76.985505
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 744
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 177
+                     },
+                     "end_location" : {
+                        "lat" : 38.8897449,
+                        "lng" : -76.9769178
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eE Capitol St SE/East Capitol St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow E Capitol St SE\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gtjlFlf{tM?wE?}C?_C?{C?cH?_J?_B?_@?wBF[?iABaA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.889803,
+                        "lng" : -76.985506
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{ullF|w{tMpQA?oPxB@bE?|P?jM?xC??uJ?_\\?_C?wBF[BkC"
+         },
+         "summary" : "14th St NE and E Capitol St SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

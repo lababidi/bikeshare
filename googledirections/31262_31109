@@ -1,5 +1,122 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9155805,
+               "lng" : -77.022199
+            },
+            "southwest" : {
+               "lat" : 38.8978575,
+               "lng" : -77.02704829999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2329
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 608
+               },
+               "end_address" : "717 T Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9155733,
+                  "lng" : -77.022199
+               },
+               "start_address" : "601-699 11th Street Northwest, Washington, DC 20004, USA",
+               "start_location" : {
+                  "lat" : 38.8978575,
+                  "lng" : -77.0270402
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.1 mi",
+                        "value" : 1820
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 491
+                     },
+                     "end_location" : {
+                        "lat" : 38.9142188,
+                        "lng" : -77.0270412
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e11th St NW\u003c/b\u003e toward \u003cb\u003eG St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sfllF~icuMyAA{B?oDBiBCs@?m@?i@C[?I@WBeF?wF@k@?c@@sAAwA?m@AqA?oA?M?A?kA?}@?uAAmA@iB?qA?oA?u@?qAAmA?wAA[@S?G?_@?I?]@}B?}AAmA?yA@uA@_@?s@Ae@?W?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8978575,
+                        "lng" : -77.0270402
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 173
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 38.9155755,
+                        "lng" : -77.0260878
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVermont Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "{lolF~icuMi@g@IIGEEEEEIGSM{Aw@s@]YM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9142188,
+                        "lng" : -77.0270412
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 336
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 38.9155733,
+                        "lng" : -77.022199
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eT St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kuolF`dcuM?mC@EA_C?uC?]?m@?eB?]?y@@m@?g@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9155755,
+                        "lng" : -77.0260878
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sfllF~icuMuEAyG?gDCa@D}M@{F?_MCgSA{I@}GByAAW?i@g@QOKK]UoCuAYM?mC?eC?gI@mD"
+         },
+         "summary" : "11th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

@@ -1,5 +1,361 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9475539,
+               "lng" : -77.04327549999999
+            },
+            "southwest" : {
+               "lat" : 38.927402,
+               "lng" : -77.07947109999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5542
+               },
+               "duration" : {
+                  "text" : "27 mins",
+                  "value" : 1600
+               },
+               "end_address" : "4441 Wisconsin Avenue Northwest, Washington, DC 20016, USA",
+               "end_location" : {
+                  "lat" : 38.9475539,
+                  "lng" : -77.07947109999999
+               },
+               "start_address" : "1845 Harvard Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9279619,
+                  "lng" : -77.04327549999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "46 ft",
+                        "value" : 14
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 38.9280355,
+                        "lng" : -77.04340809999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eHarvard St NW\u003c/b\u003e toward \u003cb\u003eAdams Mill Rd NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wbrlFnofuMOX"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9279619,
+                        "lng" : -77.04327549999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 155
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 38.9282093,
+                        "lng" : -77.0451636
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eHarvard St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gcrlFhpfuMDH@D?D?DC`@?JAF?DCVAZCVMjBKlA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9280355,
+                        "lng" : -77.04340809999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "305 ft",
+                        "value" : 93
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.927402,
+                        "lng" : -77.0454642
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNorth Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "idrlFf{fuMf@L~Ad@VF@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9282093,
+                        "lng" : -77.0451636
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "410 ft",
+                        "value" : 125
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.927635,
+                        "lng" : -77.04406879999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNational Zoo Dr NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "g_rlFb}fuMGy@Em@YgBGYCK?GDW"
+                     },
+                     "start_location" : {
+                        "lat" : 38.927402,
+                        "lng" : -77.0454642
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 919
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 171
+                     },
+                     "end_location" : {
+                        "lat" : 38.9332542,
+                        "lng" : -77.05060639999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRock Creek Park Trails\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u`rlFltfuMMCcAOA?KAU@c@He@HUFUJUJGDOJa@XYNWRKJONYZg@j@g@p@qApB{@lAQPo@p@w@v@STSb@Sp@Sx@o@|DS`BKr@MhAI\\M^UVSHWF[BcAh@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.927635,
+                        "lng" : -77.04406879999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 520
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 130
+                     },
+                     "end_location" : {
+                        "lat" : 38.9367448,
+                        "lng" : -77.04770529999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eRock Creek Park Trails\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ycslFh}guMEACAAAGCECA?CCECUSQOMOEGEGIQCICECMKoAMe@OUSQQMW[c@U_@OKS[i@]]WK}@Os@I_@@]FQBm@?i@BWY?aA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9332542,
+                        "lng" : -77.05060639999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 495
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 103
+                     },
+                     "end_location" : {
+                        "lat" : 38.9384919,
+                        "lng" : -77.05224129999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWestern Ridge Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "syslFdkguMYAWDWLW\\S\\Kz@IhA?@C|@DbBFp@?j@En@Qn@C^@`@?PSn@_@`@IXMb@MTOBe@BIF[|@KJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9367448,
+                        "lng" : -77.04770529999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 277
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 38.9408585,
+                        "lng" : -77.05176380000002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eWestern Ridge Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qdtlFnghuMIA{@a@{@UkASMEEEOOGIGEe@Ac@ESAK@IBULgALE@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9384919,
+                        "lng" : -77.05224129999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "256 ft",
+                        "value" : 78
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 38.9404989,
+                        "lng" : -77.05247229999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eTilden St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kstlFndhuMHJ?@@@?@?@@FAL?F?F@D@FDHFJPVVV"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9408585,
+                        "lng" : -77.05176380000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1386
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 569
+                     },
+                     "end_location" : {
+                        "lat" : 38.9409345,
+                        "lng" : -77.0678487
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTilden St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cqtlF|hhuMe@f@ODGJKLGNENELANCT?RB\\Dd@BZJx@DVP|AFv@DZ?F@L?JCRCLKd@CJO`@KXELAJAHCPAF?H?PAtB?hAAt@?^@zC@rN@^AlA?^?j@@Z@^Bb@B`@BT?@b@zCDXBLDPNd@Ff@D`@B\\@f@Bp@?`@?j@Ap@Cp@Aj@C\\Cf@KjAIx@GZETCNGLEPGHIJCH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9404989,
+                        "lng" : -77.05247229999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 281
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 38.9431586,
+                        "lng" : -77.06931709999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eReno Rd NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ystlF`ikuMWTy@z@g@j@MJEDOHEDOHGB_@L[LG@k@RaA\\[Ns@V"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9409345,
+                        "lng" : -77.0678487
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 667
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 187
+                     },
+                     "end_location" : {
+                        "lat" : 38.94316269999999,
+                        "lng" : -77.0770282
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eVan Ness St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "waulFfrkuM@v@?vOCX?R?P@d@AvI?P?|@?h@@\\?jDAxA@v@?`@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9431586,
+                        "lng" : -77.06931709999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 532
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 168
+                     },
+                     "end_location" : {
+                        "lat" : 38.9475539,
+                        "lng" : -77.07947109999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWisconsin Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "waulFlbmuMu@Z_@RmAh@yAr@gAh@SJi@VqAn@YJc@TOFWLcBr@OFw@\\i@Vy@^a@P"
+                     },
+                     "start_location" : {
+                        "lat" : 38.94316269999999,
+                        "lng" : -77.0770282
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wbrlFnofuMOXDH@JEz@c@jG`Dz@MgBa@aCCSDWMCeAOa@?iARk@RoAv@q@b@[ZaAfAyBbDmA~AgBhBSTSb@g@jBcA~GY|BW|@UVSHs@JcAh@EAECMGa@[_@_@KOUo@KoAMe@c@g@i@i@cAe@g@}@]]WKqBY}@HQBm@?i@BWY?aAYAWDWLk@z@UdCC~@DbBFp@EzAQn@C^@r@Sn@_@`@W|@MTOBe@BIF[|@KJeAc@{@UkASSKWYGEiAG_@?_@PmANHLBL?b@FPXb@VVe@f@ODGJS\\K\\Ed@Bp@ZrC^xD@XG`@Op@[z@Mt@CxCA~B@zDBrOAlB@fADbAFv@b@|CHf@Tv@LhADdABrAA|AMbDUdCMp@Yx@MTqApAu@v@UN}@`@qC`AoAf@@nQCl@@v@ApM@zI?`@u@ZmB|@_F`C_DxAcEfBeChA"
+         },
+         "summary" : "Tilden St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

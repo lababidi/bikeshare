@@ -1,5 +1,192 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9086945,
+               "lng" : -77.03235389999999
+            },
+            "southwest" : {
+               "lat" : 38.900693,
+               "lng" : -77.0469999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1903
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 424
+               },
+               "end_address" : "2100-2124 I Street Northwest, The George Washington University, Washington, DC 20037, USA",
+               "end_location" : {
+                  "lat" : 38.9006958,
+                  "lng" : -77.0469999
+               },
+               "start_address" : "1415 Rhode Island Avenue Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9086945,
+                  "lng" : -77.03235389999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 370
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 38.9074348,
+                        "lng" : -77.0362911
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eRhode Island Ave NW\u003c/b\u003e toward \u003cb\u003e15th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ijnlFdkduMXnA\\pAb@hBz@lDz@fDR|@?N?@?D@DPtA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9086945,
+                        "lng" : -77.03235389999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "482 ft",
+                        "value" : 147
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 38.9068501,
+                        "lng" : -77.03766379999999
+                     },
+                     "html_instructions" : "At \u003cb\u003eScott Cir NW\u003c/b\u003e, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eScott Cir NW\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "mbnlFxceuMCDAJAH?N@n@@Dd@f@D@x@tAPn@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9074348,
+                        "lng" : -77.0362911
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 333
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.9056297,
+                        "lng" : -77.0411838
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eRhode Island Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "y~mlFjleuM|@fDnAnFLd@Jd@Ld@H\\DPRv@Np@HZ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9068501,
+                        "lng" : -77.03766379999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 473
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 147
+                     },
+                     "end_location" : {
+                        "lat" : 38.9056284,
+                        "lng" : -77.04664679999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eM St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ewmlFjbfuMCl@Av@?~I?R@xB?rCAjF?r@?L@J@R@H?D"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056297,
+                        "lng" : -77.0411838
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 549
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 133
+                     },
+                     "end_location" : {
+                        "lat" : 38.900693,
+                        "lng" : -77.04664649999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e21st St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ewmlFpdguMX?pD?pBAx@?lA?H?t@@nAAN?L@P?`B?tB?hBAR@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056284,
+                        "lng" : -77.04664679999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "102 ft",
+                        "value" : 31
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.9006958,
+                        "lng" : -77.0469999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eI St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ixllFpdguMA|@?F"
+                     },
+                     "start_location" : {
+                        "lat" : 38.900693,
+                        "lng" : -77.04664649999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ijnlFdkduMvCxLnAdF?P@JPtACDCT@~@f@l@D@x@tAnAvE|AtGh@zBb@hBHZCl@AvK@lCA`MDn@vJAnJ@~EAR@A|@?F"
+         },
+         "summary" : "Rhode Island Ave NW and 21st St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

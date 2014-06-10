@@ -1,5 +1,217 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8887397,
+               "lng" : -77.02118919999999
+            },
+            "southwest" : {
+               "lat" : 38.8768127,
+               "lng" : -77.02858069999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1651
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 415
+               },
+               "end_address" : "549-699 Water Street Southwest, Washington, DC 20024, USA",
+               "end_location" : {
+                  "lat" : 38.8768127,
+                  "lng" : -77.02118919999999
+               },
+               "start_address" : "1157-1275 Jefferson Drive Southwest, National Mall, Washington, DC 20560, USA",
+               "start_location" : {
+                  "lat" : 38.8887397,
+                  "lng" : -77.02858069999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "95 ft",
+                        "value" : 29
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 38.8887345,
+                        "lng" : -77.02824369999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "smjlFrscuM@cA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8887397,
+                        "lng" : -77.02858069999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "30 ft",
+                        "value" : 9
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 38.8886581,
+                        "lng" : -77.02827259999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eJefferson Dr SW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qmjlFnqcuMLD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8887345,
+                        "lng" : -77.02824369999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "20 ft",
+                        "value" : 6
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 38.8886581,
+                        "lng" : -77.02819749999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJefferson Dr SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cmjlFtqcuM?M"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8886581,
+                        "lng" : -77.02827259999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 822
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 213
+                     },
+                     "end_location" : {
+                        "lat" : 38.8815105,
+                        "lng" : -77.0272339
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e12th St SW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cmjlFfqcuMxECt@A|@@JAN?\\Ch@If@@`AA~A@fA?Z?Z?ZAR@N?J?T?~@Ad@?XDj@?P?VB\\BX@b@@J?FAHAJCNELC@AJE@?HELGFC?A@?DCPKDE@AFGPOHKJMBCBC@ALOLQT["
+                     },
+                     "start_location" : {
+                        "lat" : 38.8886581,
+                        "lng" : -77.02819749999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 504
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 111
+                     },
+                     "end_location" : {
+                        "lat" : 38.8786119,
+                        "lng" : -77.0228436
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMaine Ave SW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "m`ilFdkcuMNa@Nc@Le@\\qALa@Ja@N_@JU@CNYd@m@h@q@LOLQnEcGrBqC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8815105,
+                        "lng" : -77.0272339
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "121 ft",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.8783805,
+                        "lng" : -77.02315709999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e7th St SW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "inhlFvobuMl@~@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8786119,
+                        "lng" : -77.0228436
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 244
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 38.8768127,
+                        "lng" : -77.02118919999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWater St SW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{lhlFvqbuMPUlBeCT[t@eAf@s@LQFIn@{@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8783805,
+                        "lng" : -77.02315709999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "smjlFrscuM@cALD?MxECrB?ZAfAMhB?~E@jA?tAAd@?XD|@?t@FpA@t@Ql@Wh@a@lAuAT[Na@\\iAj@sBZaALYt@gAtGwIrBqCl@~@~B{C`CgDv@eA"
+         },
+         "summary" : "12th St SW and Maine Ave SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

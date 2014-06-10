@@ -1,5 +1,169 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.85361049999999,
+               "lng" : -77.0504098
+            },
+            "southwest" : {
+               "lat" : 38.84403620000001,
+               "lng" : -77.05350729999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1285
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 219
+               },
+               "end_address" : "3501 Potomac Avenue, Arlington, VA 22213, USA",
+               "end_location" : {
+                  "lat" : 38.84403620000001,
+                  "lng" : -77.0504098
+               },
+               "start_address" : "2250-2298 South Eads Street, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.85361049999999,
+                  "lng" : -77.05348619999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.8533597,
+                        "lng" : -77.05350729999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eS Eads St\u003c/b\u003e toward \u003cb\u003e23rd St S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "arclFhohuMp@B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.85361049999999,
+                        "lng" : -77.05348619999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "407 ft",
+                        "value" : 124
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 38.853304,
+                        "lng" : -77.0521308
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e23rd St S\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "opclFlohuM?WKiCLS?g@Hu@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8533597,
+                        "lng" : -77.05350729999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 585
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 91
+                     },
+                     "end_location" : {
+                        "lat" : 38.8483592,
+                        "lng" : -77.0520654
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Clark St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cpclFxfhuMb@@R?PCTGFEPM`@a@^YPGVGZArELVBb@J^TJF@@DBPJPR\\ZPLNJRDd@@H?R@f@CTGPKNKNMLILEPAN?j@@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.853304,
+                        "lng" : -77.0521308
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "164 ft",
+                        "value" : 50
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 38.8482186,
+                        "lng" : -77.05154209999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e27th St S\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gqblFlfhuMVe@BcA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8483592,
+                        "lng" : -77.0520654
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 498
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : 38.84403620000001,
+                        "lng" : -77.0504098
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eS Potomac Ave\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "kpblFbchuMDWDMJ_@JOFIPMJEFABADAD?D?BAJ?H?F?T@z@BT@P?N?N?j@AT?TATATARATCTATCNAj@ILMxAUREFAxAUj@K"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8482186,
+                        "lng" : -77.05154209999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "arclFhohuMp@B?WKiCLS?g@Hu@v@@f@KXS`A{@h@OZArELz@Nr@b@b@^n@h@b@Pn@@z@Af@S^YZO`@Aj@@Ve@BcADWPm@RYPMJEJCJA^AnBF|AAvAEtAKz@KLMxAUZGdCa@"
+         },
+         "summary" : "S Clark St and S Potomac Ave",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

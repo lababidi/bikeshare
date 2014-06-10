@@ -1,5 +1,145 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8946054,
+               "lng" : -77.07180679999999
+            },
+            "southwest" : {
+               "lat" : 38.8893212,
+               "lng" : -77.07893659999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 1039
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 265
+               },
+               "end_address" : "Arlington Blvd S R & Queen St, Arlington, VA 22209, USA",
+               "end_location" : {
+                  "lat" : 38.8893212,
+                  "lng" : -77.077395
+               },
+               "start_address" : "1696-1798 North Fort Myer Drive, Arlington, VA 22209, USA",
+               "start_location" : {
+                  "lat" : 38.8946054,
+                  "lng" : -77.07223789999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 170
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 38.8931371,
+                        "lng" : -77.07180679999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Fort Myer Dr\u003c/b\u003e toward \u003cb\u003eN Lynn St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "irklFndluMbBM|@INCLOTGNEPGl@S"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8946054,
+                        "lng" : -77.07223789999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 568
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 112
+                     },
+                     "end_location" : {
+                        "lat" : 38.89071819999999,
+                        "lng" : -77.07752809999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ciklFxaluMLVJTNRZb@T`@RXRb@Xt@z@nCf@~AN^Rp@Z`AV|@x@zCBNFT^|BHb@FTF^H^"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8931371,
+                        "lng" : -77.07180679999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "459 ft",
+                        "value" : 140
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 38.8901072,
+                        "lng" : -77.07893659999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e14th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_zjlFpemuM|@~Bb@zAV|@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89071819999999,
+                        "lng" : -77.07752809999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 161
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 38.8893212,
+                        "lng" : -77.077395
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Rhodes St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "evjlFjnmuMTa@HMN]Pk@?A@CDQ?ADM?A@CLe@@ANc@DMLY@EBCBCDEFC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8901072,
+                        "lng" : -77.07893659999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "irklFndluMpD[LOTG`@Ml@SLVZh@p@dAf@|@Xt@z@nCv@~Bn@rBpAxEt@fENt@H^|@~Bz@xC^o@b@oAl@sBXq@PM"
+         },
+         "summary" : "N Fairfax Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

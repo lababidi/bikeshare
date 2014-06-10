@@ -1,5 +1,241 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9445999,
+               "lng" : -77.030867
+            },
+            "southwest" : {
+               "lat" : 38.9302453,
+               "lng" : -77.0637577
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.5 mi",
+                  "value" : 4023
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1140
+               },
+               "end_address" : "4210-4250 Connecticut Avenue Northwest, Washington, DC 20008, USA",
+               "end_location" : {
+                  "lat" : 38.9445999,
+                  "lng" : -77.0637577
+               },
+               "start_address" : "1339-1345 Park Road Northwest, Washington, DC 20010, USA",
+               "start_location" : {
+                  "lat" : 38.9307246,
+                  "lng" : -77.03145719999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "184 ft",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 38.9309272,
+                        "lng" : -77.030867
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003ePark Rd NW\u003c/b\u003e toward \u003cb\u003eHolmead Pl NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_trlFreduMi@uB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9307246,
+                        "lng" : -77.03145719999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "381 ft",
+                        "value" : 116
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 38.931973,
+                        "lng" : -77.030869
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHolmead Pl NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iurlF|aduMU?yD?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9309272,
+                        "lng" : -77.030867
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 177
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 38.9313313,
+                        "lng" : -77.03273589999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMonroe St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "y{rlF|aduMDRj@~Bf@lB?Bd@nB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.931973,
+                        "lng" : -77.030869
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "397 ft",
+                        "value" : 121
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 38.9302453,
+                        "lng" : -77.0327468
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e14th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ywrlFrmduMZ?fB?rA@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9313313,
+                        "lng" : -77.03273589999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 614
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 165
+                     },
+                     "end_location" : {
+                        "lat" : 38.9326672,
+                        "lng" : -77.0391163
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePark Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aqrlFtmduMOt@Mb@_ClIGP_ArDENMV_@pAaB~Fg@`Be@nBERGFKb@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9302453,
+                        "lng" : -77.0327468
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1512
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 281
+                     },
+                     "end_location" : {
+                        "lat" : 38.9394983,
+                        "lng" : -77.0512337
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003ePark Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "e`slFnueuMBT@FFLBj@NdAHp@NbA@N@L?NBnB?fB?dAAhD?D?NAL?FCLAFENGRCHw@zBk@lC[jACJEDCDIBCFCBIDGDIDEBC?GBE?C?C@G?G?E?E?EAu@IyBYG?OAG?G?K?G?Q@I@MBC@KDIDC@sAv@A@A?UNIDs@b@CBIJEDABGNCHETETCJEHIRGNQTMNILKFQP_Ap@g@d@MJKJQRCBCFABCFCLSn@g@fBSl@CF[~@Ut@[x@ADCFCDGLCDEDGHa@f@_@`@o@n@]b@CDMP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9326672,
+                        "lng" : -77.0391163
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 990
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 482
+                     },
+                     "end_location" : {
+                        "lat" : 38.94101089999999,
+                        "lng" : -77.06168760000001
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eTilden St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{jtlFdahuMQ^CHWh@A@?@EHKPGDGFc@b@]ZEDCB_@`@IHe@f@ODGJKLGNENELANCT?RB\\Dd@BZJx@DVP|AFv@DZ?F@L?JCRCLKd@CJO`@KXELAJAHCPAF?H?PAtB?hAAt@?^@zC@rN@^AlA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9394983,
+                        "lng" : -77.0512337
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 437
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 98
+                     },
+                     "end_location" : {
+                        "lat" : 38.9445999,
+                        "lng" : -77.0637577
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eConnecticut Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ittlFpbjuMiEtB{ExBMFuE|BcAf@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.94101089999999,
+                        "lng" : -77.06168760000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_trlFreduMi@uBU?yD?DRrAlFd@rBbC?rA@Ot@mCpJgAdESf@aCpImApEERGFKb@BTHTBj@NdAXtBB\\B~BA|IEr@St@w@zBk@lC_@vAWV_@TWFW@gAKaCYWAm@@g@LcB`AuAx@UXKXKj@[x@u@z@qAbAu@p@e@j@]hA{@tC_@fAw@|BU^i@p@oApAa@h@_@p@]v@QZOLkAhAi@j@e@f@ODSXM^G\\Ch@HbANtAVtBLrAAt@Or@Sl@Qf@CTEt@CtGB|VeLnFcFdCcAf@"
+         },
+         "summary" : "Park Rd NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

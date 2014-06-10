@@ -1,5 +1,121 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.905879,
+               "lng" : -77.01890879999999
+            },
+            "southwest" : {
+               "lat" : 38.9030615,
+               "lng" : -77.032512
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1339
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 516
+               },
+               "end_address" : "1455 Massachusetts Avenue Northwest, Washington, DC 20005, USA",
+               "end_location" : {
+                  "lat" : 38.905879,
+                  "lng" : -77.032512
+               },
+               "start_address" : "1033 5th Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9030615,
+                  "lng" : -77.0189469
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "404 ft",
+                        "value" : 123
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 83
+                     },
+                     "end_location" : {
+                        "lat" : 38.9041639,
+                        "lng" : -77.018928
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e5th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cgmlFlwauMI?MAS?I?G?e@A]AYAG?S?U@M@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9030615,
+                        "lng" : -77.0189469
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 743
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 307
+                     },
+                     "end_location" : {
+                        "lat" : 38.9041545,
+                        "lng" : -77.0275154
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eL St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_nmlFhwauM?b@A~B?\\?\\?F?lJ?hD?X?l@?nAA`A?V@dE?f@@dDBrEAzA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9041639,
+                        "lng" : -77.018928
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 473
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 126
+                     },
+                     "end_location" : {
+                        "lat" : 38.905879,
+                        "lng" : -77.032512
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "}mmlF~lcuMa@nBmAdFSd@Mf@Kf@y@`DaCvJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9041545,
+                        "lng" : -77.0275154
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cgmlFlwauM{CG_ABA~EApWFfRAzAa@nBmAdFSd@YnA{DxO"
+         },
+         "summary" : "L St NW and Massachusetts Avenue Northwest",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

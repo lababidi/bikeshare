@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8878522,
+               "lng" : -77.0878554
+            },
+            "southwest" : {
+               "lat" : 38.8849441,
+               "lng" : -77.09502830000001
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 949
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 197
+               },
+               "end_address" : "1001-1039 North Barton Street, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.8849441,
+                  "lng" : -77.0878554
+               },
+               "start_address" : "1150-1198 North Highland Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8878522,
+                  "lng" : -77.09502830000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 190
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 83
+                     },
+                     "end_location" : {
+                        "lat" : 38.8861539,
+                        "lng" : -77.09481599999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Highland St\u003c/b\u003e toward \u003cb\u003eWilson Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ahjlF|rpuMnAG`BGhAKXC|@I"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8878522,
+                        "lng" : -77.09502830000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 471
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : 38.8860473,
+                        "lng" : -77.08985969999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e11th St N\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "m}ilFrqpuMCc@G}BA_@Aa@GqBAc@KeECo@CmAAcAK_CA_A?E?C?A@??A@A?A@A@A@A@??ABAB?|@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8861539,
+                        "lng" : -77.09481599999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "495 ft",
+                        "value" : 151
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.88616,
+                        "lng" : -77.08811779999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003e11th St N\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "y|ilFrrouMGaCMyE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8860473,
+                        "lng" : -77.08985969999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "449 ft",
+                        "value" : 137
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.8849441,
+                        "lng" : -77.0878554
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Barton St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "o}ilFvgouMr@E|@Gv@OFA`AS"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88616,
+                        "lng" : -77.08811779999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ahjlF|rpuMpDObBO|@ICc@I}CW}JG}BMcEAkABEFEdAEU{IpBM`Ce@"
+         },
+         "summary" : "11th St N",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

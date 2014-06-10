@@ -1,5 +1,169 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8898066,
+               "lng" : -76.96724279999999
+            },
+            "southwest" : {
+               "lat" : 38.8599898,
+               "lng" : -77.0003495
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.4 mi",
+                  "value" : 5433
+               },
+               "duration" : {
+                  "text" : "25 mins",
+                  "value" : 1502
+               },
+               "end_address" : "2669-2799 Good Hope Road Southeast, Washington, DC 20020, USA",
+               "end_location" : {
+                  "lat" : 38.8599898,
+                  "lng" : -76.96724279999999
+               },
+               "start_address" : "401-499 East Capitol Street Northeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8898066,
+                  "lng" : -77.0003495
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 763
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 148
+                     },
+                     "end_location" : {
+                        "lat" : 38.889805,
+                        "lng" : -76.99153299999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eE Capitol St SE/East Capitol St NE\u003c/b\u003e toward \u003cb\u003e5th St SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow E Capitol St SE\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "itjlFdc~tM?]?iC?sE@gM?}A?W?aBAY@cC?kB?gC?wA?iD?s@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8898066,
+                        "lng" : -77.0003495
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 mi",
+                        "value" : 1838
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 402
+                     },
+                     "end_location" : {
+                        "lat" : 38.8732984,
+                        "lng" : -76.991277
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e11th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gtjlF`l|tMhA@R?RAT?|A?lA?dC?dB?`A?nC?dD?T?n@?xA?z@?P?v@?z@?P?rAAr@BpA?rA?J?v@?Z?N?`A?|@AfA?jB?xA?nA@|A?@?F?@?L?B?B?@?`@CN@D?N?T?L?rA?H?bA@n@?RAR?t@CzD?~A?X?^?jBEnAUj@Q"
+                     },
+                     "start_location" : {
+                        "lat" : 38.889805,
+                        "lng" : -76.99153299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 372
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 94
+                     },
+                     "end_location" : {
+                        "lat" : 38.8703633,
+                        "lng" : -76.9892641
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMartin Luther King Jr Ave SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cmglFnj|tMLEZIRGj@Sx@_@x@i@rByA|DuCt@g@DE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8732984,
+                        "lng" : -76.991277
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 190
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 38.8688284,
+                        "lng" : -76.99006469999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eGood Hope Rd SE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "wzflFz}{tMjAJf@Jl@LXJJDJFXPNLLNd@n@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8703633,
+                        "lng" : -76.9892641
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 mi",
+                        "value" : 2270
+                     },
+                     "duration" : {
+                        "text" : "13 mins",
+                        "value" : 799
+                     },
+                     "end_location" : {
+                        "lat" : 38.8599898,
+                        "lng" : -76.96724279999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGood Hope Rd SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eqflFzb|tMHKX]@CFGBC@ABE@C@ADE?A@A@AFKFI@A@CDGHMFI@A@A@A@C@AHMh@q@`@YbAk@HSJ{@f@gFfA_KRsBD_@j@oF`@aEJ{@VkCNyA^eDLoA@QBSLcA@SLy@BYBGBQJc@DOBIFUBMDMHSj@yAp@cB@EFMb@oA~@eCHSb@kAFMZ_Ap@sBd@}Ab@}AZiAFU@CPk@Z_AZ{@BIXy@Z_ARg@Rm@Ne@BGBGNa@FQFOLUHMDG@CBCBCLQNOFIBCBEDCPQRWZ[JKNQn@o@JK^e@BET]LUN]BKBMFWLaANaA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8688284,
+                        "lng" : -76.99006469999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "itjlFdc~tM?u`@@oM?}E|A@tEA|L?fO?dBAdCBrD?vEArJ@\\?|@AxG?hACzG?x@?jBEnAUx@Wn@QdBs@lDcCrF}DDEjAJtAXd@Pd@X\\\\d@n@HKZa@PSHM\\g@Xa@JOh@q@`@YbAk@HSr@cHlCcWtAcNr@{G`@kDn@iC~EoMxBmGlB{GxCwIj@cBl@yAT]h@o@jBqB~AgBb@s@Ri@h@iD"
+         },
+         "summary" : "11th St SE and Good Hope Rd SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

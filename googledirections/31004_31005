@@ -1,5 +1,170 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8631142,
+               "lng" : -77.0592668
+            },
+            "southwest" : {
+               "lat" : 38.8578303,
+               "lng" : -77.0600491
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 762
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 125
+               },
+               "end_address" : "1250-1360 South Hayes Street, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.8623123,
+                  "lng" : -77.0600491
+               },
+               "start_address" : "602 15th Street South, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.8578303,
+                  "lng" : -77.0595787
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "410 ft",
+                        "value" : 125
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.858802,
+                        "lng" : -77.0597133
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mldlFjuiuMGXEDI@M@KBICKEKKOQw@HKBYJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8578303,
+                        "lng" : -77.0595787
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "131 ft",
+                        "value" : 40
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.8589761,
+                        "lng" : -77.0593088
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eS Hayes St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ordlFdviuMWs@K["
+                     },
+                     "start_location" : {
+                        "lat" : 38.858802,
+                        "lng" : -77.0597133
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 455
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : 38.86302329999999,
+                        "lng" : -77.0592668
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Hayes St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ssdlFtsiuMmA^g@Lc@BU@y@Bi@?YASAc@?o@Ag@AiAE]CyBQy@ImAQ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8589761,
+                        "lng" : -77.0593088
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "167 ft",
+                        "value" : 51
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 38.8631142,
+                        "lng" : -77.0598418
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e12th St S\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{lelFlsiuMK|@Er@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.86302329999999,
+                        "lng" : -77.0592668
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "299 ft",
+                        "value" : 91
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 38.8623123,
+                        "lng" : -77.0600491
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mmelF~viuMl@NTHH@H@PBb@DP@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8631142,
+                        "lng" : -77.0598418
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mldlFjuiuMGXEDWBU?WQOQw@He@Nc@oAuBl@y@DcBBaCEqBGwCUgC[QpBvA\\fAJ"
+         },
+         "summary" : "S Hayes St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

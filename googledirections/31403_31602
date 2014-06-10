@@ -1,5 +1,170 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9565928,
+               "lng" : -77.01927499999999
+            },
+            "southwest" : {
+               "lat" : 38.9307246,
+               "lng" : -77.03145719999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.1 mi",
+                  "value" : 3404
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 736
+               },
+               "end_address" : "1339-1345 Park Road Northwest, Washington, DC 20010, USA",
+               "end_location" : {
+                  "lat" : 38.9307246,
+                  "lng" : -77.03145719999999
+               },
+               "start_address" : "5500-5548 5th Street Northwest, Washington, DC 20011, USA",
+               "start_location" : {
+                  "lat" : 38.9565928,
+                  "lng" : -77.0198937
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1438
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 340
+                     },
+                     "end_location" : {
+                        "lat" : 38.943675,
+                        "lng" : -77.01927499999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e5th St NW\u003c/b\u003e toward \u003cb\u003eKennedy St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uuwlFh}auMZ?RAvAChBEn@Af@Ar@AhAClACzCGN?tBE|@A@?JAtEGlBCLA\\?j@AN?DAfAEX?h@A`ACFAjAA~@?dBEn@ARA`EIhACp@ARAD?~@?hBGD?^?dAAr@CJ?H?ZC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9565928,
+                        "lng" : -77.0198937
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1423
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 280
+                     },
+                     "end_location" : {
+                        "lat" : 38.9327336,
+                        "lng" : -77.0268883
+                     },
+                     "html_instructions" : "At the traffic circle, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eNew Hampshire Ave NW\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "_eulFlyauM@F?F@D?D@F@D@D@FDL@@HNJLJJLFNDLBN?J?LCJCHEJIHGFKFKVNrA~@VPPLhEvCrAz@`An@fAt@bErCPHp@b@~AfAhA|@nEpCd@\\^TbFjDlEzC~@n@l@^JFbAt@JFFBDBHBD@B?B@D?V@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.943675,
+                        "lng" : -77.01927499999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 371
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : 38.931973,
+                        "lng" : -77.030869
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMonroe St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "q`slF`icuMANAJAHAHM|@CREVKt@AB?D?B@D?B^vAJ^\\zAJ`@\\zAb@dB`@bBHV"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9327336,
+                        "lng" : -77.0268883
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "381 ft",
+                        "value" : 116
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 38.9309272,
+                        "lng" : -77.030867
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHolmead Pl NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "y{rlF|aduMxD?T?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.931973,
+                        "lng" : -77.030869
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "184 ft",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 38.9307246,
+                        "lng" : -77.03145719999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePark Rd NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "iurlF|aduMh@tB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9309272,
+                        "lng" : -77.030867
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uuwlFh}auMfMUpS]dEGvBGhLSpIQtDGdDEd@C@NDXJ\\T\\XR\\HZ?XGTOPSFKVNjBpAzEdD`LtHbAl@hDdCtFnDbG`EfIrF|AdAVF\\@CZUdBSvA`@dBrAxFdAhEHVxD?T?h@tB"
+         },
+         "summary" : "5th St NW and New Hampshire Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

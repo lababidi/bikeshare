@@ -1,5 +1,242 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9270793,
+               "lng" : -76.97778029999999
+            },
+            "southwest" : {
+               "lat" : 38.89695570000001,
+               "lng" : -77.004908
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4901
+               },
+               "duration" : {
+                  "text" : "18 mins",
+                  "value" : 1101
+               },
+               "end_address" : "2895 18th Street Northeast, Washington, DC 20018, USA",
+               "end_location" : {
+                  "lat" : 38.9270793,
+                  "lng" : -76.97899049999999
+               },
+               "start_address" : "Union Station - Columbus Circle at Flag Poles, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.89695570000001,
+                  "lng" : -77.004908
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "102 ft",
+                        "value" : 31
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.8972227,
+                        "lng" : -77.00480279999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eColumbus Circle Northeast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_allFt__uMQEYIGE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89695570000001,
+                        "lng" : -77.004908
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "420 ft",
+                        "value" : 128
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.897425,
+                        "lng" : -77.00363109999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMetropolitan Branch Trail\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "sbllF~~~tMA?_@DC?CAAAAA?C?C?u@@E?A@C?A?C@yC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8972227,
+                        "lng" : -77.00480279999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 445
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : 38.901414,
+                        "lng" : -77.00364399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eMetropolitan Branch Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{cllFtw~tMAAAAAAA?uG@kFAG?E@I@U@I@E?E?oD?_@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.897425,
+                        "lng" : -77.00363109999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 258
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 38.903731,
+                        "lng" : -77.0036379
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eMetropolitan Branch Trail\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "y|llFvw~tMoD@]CO?O?_@D_DA[AE?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.901414,
+                        "lng" : -77.00364399999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 875
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 193
+                     },
+                     "end_location" : {
+                        "lat" : 38.9037249,
+                        "lng" : -76.993532
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eL St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ikmlFvw~tM?Q?S?_B?e@?}A?u@?gB?k@?Q?u@?gA?U?sA?kB?uE?W@wK?W?oFAoF@m@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.903731,
+                        "lng" : -77.0036379
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 mi",
+                        "value" : 2016
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 402
+                     },
+                     "end_location" : {
+                        "lat" : 38.9170091,
+                        "lng" : -76.97785019999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWest Virginia Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "gkmlFpx|tMw@oAs@aAKMi@o@o@w@iAqAIImAwAiAqAIImAwAMMo@w@[a@w@_Aa@e@SUQSGIu@{@m@u@e@i@IKMM[a@gBqB{AgBkEkFQS_@e@IMkBuBOOgBuBuAaB]_@KMQU{@cAy@aAaAgAMOY]w@}@qBaCqCeDQQyAgBkAqAOQm@s@o@eACGEIK_@@UASCSEMGM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9037249,
+                        "lng" : -76.993532
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 349
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 115
+                     },
+                     "end_location" : {
+                        "lat" : 38.9198981,
+                        "lng" : -76.9790103
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMontana Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "i~olFpvytMKGUEU?MDKDQLSPQRMHWTeCTWBgAJKBC?QDIBE@IBCBIBGDSJIFKHKHIHKHMP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9170091,
+                        "lng" : -76.97785019999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 799
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 242
+                     },
+                     "end_location" : {
+                        "lat" : 38.9270793,
+                        "lng" : -76.97899049999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e18th St NE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "kpplFx}ytMWAC?e@?O?k@@wC?kBAK?oA?O?m@?C?E?W?[?o@?g@?Q?aAAQ@_A?o@?Q?iB?kB?uE?uAA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9198981,
+                        "lng" : -76.9790103
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_allFt__uMu@Uc@DECA_ABMAaDeOAm@DeE@oE@m@Co@D{DCE??Q?sB?aH?gR@wT?}GkBqCoDgEkD}DgD_E_CoCmHsIyImKmFiGwIcK}OaRm@s@o@eAIQK_@@UEg@M[a@Mc@D]RkAdAqFh@e@J_@Pu@f@URMPWAi@?{@@_JAsE?}L?kHA"
+         },
+         "summary" : "West Virginia Ave NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

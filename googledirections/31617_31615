@@ -1,5 +1,169 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9007076,
+               "lng" : -76.9829141
+            },
+            "southwest" : {
+               "lat" : 38.8988938,
+               "lng" : -76.99844639999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1600
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 376
+               },
+               "end_address" : "801-819 6th Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9003837,
+                  "lng" : -76.99844109999999
+               },
+               "start_address" : "801-807 Bladensburg Road Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.90048600000001,
+                  "lng" : -76.9830451
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "79 ft",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.9006742,
+                        "lng" : -76.9829141
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eBladensburg Rd NE\u003c/b\u003e toward \u003cb\u003eMaryland Ave NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "awllF`wztMc@["
+                     },
+                     "start_location" : {
+                        "lat" : 38.90048600000001,
+                        "lng" : -76.9830451
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "315 ft",
+                        "value" : 96
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 38.9001018,
+                        "lng" : -76.9836102
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eMaryland Ave NE\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "exllFdvztMGRjAt@D@BBBBBBFFRj@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9006742,
+                        "lng" : -76.9829141
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 289
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 38.8988938,
+                        "lng" : -76.9865688
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMaryland Ave NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "stllFpzztM\\dADLb@xARl@|@|Ct@fCPf@Nd@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9001018,
+                        "lng" : -76.9836102
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1028
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 190
+                     },
+                     "end_location" : {
+                        "lat" : 38.898916,
+                        "lng" : -76.99844160000001
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eG St NE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "amllF`m{tMEP?BAtA@|@BPAr@AhB@jJ?V?T?jF?~E?H?`C?pA@vB?NAfB?N?D?pA?dA?bA?R?dEAjF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8988938,
+                        "lng" : -76.9865688
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 163
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 38.9003837,
+                        "lng" : -76.99844109999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e6th St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gmllFfw}tMwA?oC?a@@SAE?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.898916,
+                        "lng" : -76.99844160000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "awllF`wztMc@[GRpAv@RRzAxExCzJNd@EPAxADnAC|C@dS?|L?`N?xEAjFwA?qD@YA"
+         },
+         "summary" : "G St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

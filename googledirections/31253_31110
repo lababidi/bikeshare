@@ -1,5 +1,169 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9153176,
+               "lng" : -77.0434544
+            },
+            "southwest" : {
+               "lat" : 38.9012317,
+               "lng" : -77.0488184
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2196
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 517
+               },
+               "end_address" : "1919-1977 Florida Avenue Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9153176,
+                  "lng" : -77.04452619999999
+               },
+               "start_address" : "900-998 19th Street Northwest, Washington, DC 20006, USA",
+               "start_location" : {
+                  "lat" : 38.902204,
+                  "lng" : -77.0434544
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "318 ft",
+                        "value" : 97
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 38.9013343,
+                        "lng" : -77.04345479999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e19th St NW\u003c/b\u003e toward \u003cb\u003eI St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wamlFppfuMlD?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.902204,
+                        "lng" : -77.0434544
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 258
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.9012317,
+                        "lng" : -77.04640449999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eI St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "i|llFppfuMAZ?jD?xA@jF?P@F@DN^"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9013343,
+                        "lng" : -77.04345479999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 232
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 38.9021379,
+                        "lng" : -77.0488141
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "u{llF~bguMQp@]tA}@tDYdAQj@[p@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9012317,
+                        "lng" : -77.04640449999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1038
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 210
+                     },
+                     "end_location" : {
+                        "lat" : 38.9114672,
+                        "lng" : -77.0487043
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e22nd St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kamlF`rguMQ@c@?K?A?I?C?AAO?y@?w@?a@?gA?_@?mG?I?WAY?mD@cDAcB?]?eC@uEA}CA[AY?YCS?SAS?M?a@?GAGCEC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9021379,
+                        "lng" : -77.0488141
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 571
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 181
+                     },
+                     "end_location" : {
+                        "lat" : 38.9153176,
+                        "lng" : -77.04452619999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eFlorida Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "u{nlFjqguMIEGEGGEEIIY_@UQY]SSWUaAeAuCwASKSIQIKGGCGGII_@c@SS[a@U[OWS_@We@}AgDSe@CEQ_@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9114672,
+                        "lng" : -77.0487043
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wamlFppfuMlD?AZ?dG@|FBLN^Qp@{AjGk@pB[p@Q@o@?A?OAcP?cKA}M?yDCs@CiAAi@AMG_@Yc@i@o@o@k@i@aAeAuCwAg@U]Qy@y@o@u@e@s@k@eAqBmEUe@"
+         },
+         "summary" : "22nd St NW and Florida Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

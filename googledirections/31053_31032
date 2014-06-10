@@ -1,5 +1,194 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8808554,
+               "lng" : -77.0802539
+            },
+            "southwest" : {
+               "lat" : 38.8638801,
+               "lng" : -77.0923885
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 mi",
+                  "value" : 2623
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 772
+               },
+               "end_address" : "2741-2799 7th Street North, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.8808554,
+                  "lng" : -77.0911273
+               },
+               "start_address" : "1052 South Courthouse Road, Arlington, VA 22204, USA",
+               "start_location" : {
+                  "lat" : 38.8638801,
+                  "lng" : -77.0802539
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1366
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 417
+                     },
+                     "end_location" : {
+                        "lat" : 38.8754463,
+                        "lng" : -77.0842004
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eS Courthouse Rd\u003c/b\u003e toward \u003cb\u003eColumbia Pike\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "grelFpvmuMmAP{AR}BZcEf@iAPcLrAS?m@BuBVkAN{@HwFp@gDd@c@?ULy@ASDa@T]LMLMHUBGBIDEDGDi@l@MLYNk@Z]Zw@bAk@r@A@CBABIJCBGFABOTCHAL"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8638801,
+                        "lng" : -77.0802539
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "358 ft",
+                        "value" : 109
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.8748978,
+                        "lng" : -77.08520369999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qzglFfonuM@@BHJJ^^T^L\\Jd@Jj@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8754463,
+                        "lng" : -77.0842004
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 745
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 155
+                     },
+                     "end_location" : {
+                        "lat" : 38.8786461,
+                        "lng" : -77.0915282
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eN Fillmore St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cwglFnunuMODUHG@E@EDAJ?HCb@Bx@Cb@Oh@Ch@@j@IZSXOVSZSl@O\\KXEN?TAh@?D?@AD?BAD?@ABABABCDEDSXYPa@\\s@b@eA|@s@Xg@v@o@p@Ef@?RARCRATAHCFOPEFMRQXSRYNQL]XGLGN"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8748978,
+                        "lng" : -77.08520369999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 38.8798889,
+                        "lng" : -77.0923885
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Fillmore St\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "qnhlF`}ouM_@HwE`D"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8786461,
+                        "lng" : -77.0915282
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 189
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 38.88075370000001,
+                        "lng" : -77.09050809999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Pershing Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ivhlFlbpuMoAcDe@uAu@}B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8798889,
+                        "lng" : -77.0923885
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "184 ft",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 86
+                     },
+                     "end_location" : {
+                        "lat" : 38.8808554,
+                        "lng" : -77.0911273
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e7th St N\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u{hlFtvouMKPADAB?FAh@?@Cj@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88075370000001,
+                        "lng" : -77.09050809999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "grelFpvmuMkNhBmNdBaABuNbBgDd@c@?ULy@ASDa@T]LMLMHUBQHeAfAeAj@]Zw@bAm@t@EFUVUb@?NNTt@~@XbAJj@OD]JKFATCb@Bx@Cb@Oh@AtAIZSXc@r@c@jAQh@A~@APEN_@h@{@n@s@b@eA|@s@Xg@v@o@p@Ef@Af@Eh@EPUX_@l@m@b@o@f@O\\_@HwE`DuByFu@}BKPCHE~A"
+         },
+         "summary" : "S Courthouse Rd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

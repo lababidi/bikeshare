@@ -1,5 +1,313 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.944613,
+               "lng" : -76.9954898
+            },
+            "southwest" : {
+               "lat" : 38.9346044,
+               "lng" : -77.02506219999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3500
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 785
+               },
+               "end_address" : "3602 John McCormack Drive Northeast, The Catholic University of America, Washington, DC 20017, USA",
+               "end_location" : {
+                  "lat" : 38.9346044,
+                  "lng" : -76.9954898
+               },
+               "start_address" : "4147-4199 9th Street Northwest, Washington, DC 20011, USA",
+               "start_location" : {
+                  "lat" : 38.9418011,
+                  "lng" : -77.02506219999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "180 ft",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 38.9413107,
+                        "lng" : -77.0250399
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e9th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gytlFr}buMB?|AC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9418011,
+                        "lng" : -77.02506219999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "489 ft",
+                        "value" : 149
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 38.941365,
+                        "lng" : -77.0233219
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003e8th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "evtlFn}buMIwI"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9413107,
+                        "lng" : -77.0250399
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "207 ft",
+                        "value" : 63
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 38.941928,
+                        "lng" : -77.02334599999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e8th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ovtlFvrbuMcABm@@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.941365,
+                        "lng" : -77.0233219
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 870
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 317
+                     },
+                     "end_location" : {
+                        "lat" : 38.942134,
+                        "lng" : -77.01331499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eUpshur St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aztlF|rbuMAgBEaCAoBAoAA_AAOAgC?WCiA?]A{@Ag@AqA?]A]?UAuAAWAmA?UAS?EAmACeC?CAeBAg@AyAC}BAyAAQ@E?I@E@E@GBEDM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.941928,
+                        "lng" : -77.02334599999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 356
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 38.944613,
+                        "lng" : -77.010926
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRock Creek Church Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "i{tlFdt`uM]a@]a@QQOMMMECKGGEOIKEq@UGAMCmAe@MGGEGGKKcAmAGKEGCGAEEGOc@CKCIIWEGGQ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.942134,
+                        "lng" : -77.01331499999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 732
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 125
+                     },
+                     "end_location" : {
+                        "lat" : 38.94074,
+                        "lng" : -77.0043917
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHarewood Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yjulFhe`uMZYr@q@VUdC_CBCLQFGHMPWPWFKNYNYFKTg@\\u@@CJWL]DK?A@[Jm@DWBQBMFOBI@CBILYJOLS?O^m@`BmCJSr@kADIDKDIBKDKBKBMBK@MBQ@Q@K?C?Q?e@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.944613,
+                        "lng" : -77.010926
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 468
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 38.9407381,
+                        "lng" : -76.9989788
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eTaylor St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "srtlFl|~tM?k@?iA?iA?e@AO@]?}A?G?kA?uAAuK@_@?C?s@?O?_@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.94074,
+                        "lng" : -77.0043917
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "433 ft",
+                        "value" : 132
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 38.940329,
+                        "lng" : -76.997736
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eJohn McCormack Dr NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "srtlFrz}tMLAB?HC@A@?BCBCFIFKBCDKDKBMDS@M@G?E?G?i@?MAa@AU"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9407381,
+                        "lng" : -76.9989788
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "30 ft",
+                        "value" : 9
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 38.9402507,
+                        "lng" : -76.99770359999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eJohn McCormack Dr NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aptlFzr}tMNG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.940329,
+                        "lng" : -76.997736
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "30 ft",
+                        "value" : 9
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 38.940272,
+                        "lng" : -76.9976003
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qotlFrr}tMCS"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9402507,
+                        "lng" : -76.99770359999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 657
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 121
+                     },
+                     "end_location" : {
+                        "lat" : 38.9346044,
+                        "lng" : -76.9954898
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uotlF~q}tM@AfF{AxFgBlEsAjDgAz@QZEhC]^EHEBA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.940272,
+                        "lng" : -76.9976003
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gytlFr}buM`BCIwIcABm@@AgBGqFGgHE{DKgKKuKIcID[DMDM]a@o@s@][i@[}@[UE{Am@OMoAyAMS[y@Wu@GQZYjAgA~C}Ct@iA|@gBx@oBDM@[Jm@Hi@J]Vq@Xc@?O^m@lBaDx@uATm@Ls@Fs@?mD?eL?mN?o@PAPIV]JWHa@Bc@CoBNGCShF}AfM{DjDgAz@QdDc@h@KBA"
+         },
+         "summary" : "Upshur St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

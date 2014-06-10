@@ -1,5 +1,313 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9248471,
+               "lng" : -77.0218924
+            },
+            "southwest" : {
+               "lat" : 38.8887345,
+               "lng" : -77.02858069999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.9 mi",
+                  "value" : 4589
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 971
+               },
+               "end_address" : "1157-1275 Jefferson Drive Southwest, National Mall, Washington, DC 20560, USA",
+               "end_location" : {
+                  "lat" : 38.8887397,
+                  "lng" : -77.02858069999999
+               },
+               "start_address" : "641-699 Fairmont Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9248471,
+                  "lng" : -77.02219169999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "121 ft",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.924806,
+                        "lng" : -77.02261200000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eFairmont St NW\u003c/b\u003e toward \u003cb\u003eGeorgia Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ioqlFtkbuMDv@@Z"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9248471,
+                        "lng" : -77.02219169999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 953
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 197
+                     },
+                     "end_location" : {
+                        "lat" : 38.916268,
+                        "lng" : -77.02190659999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGeorgia Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "aoqlFhnbuMt@G^Cf@Ez@GtBOj@GtAIp@EHAzBSXCv@GVC\\CNANARClCSNANAB?X?v@AJ?^?p@?hA?F?~@?~AAN@jC?f@@ZAj@@d@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.924806,
+                        "lng" : -77.02261200000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.7 mi",
+                        "value" : 2777
+                     },
+                     "duration" : {
+                        "text" : "10 mins",
+                        "value" : 581
+                     },
+                     "end_location" : {
+                        "lat" : 38.8912925,
+                        "lng" : -77.0219058
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e7th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uyolF|ibuMR?J@tA?T?T?d@?xD?n@@rBAvD?\\?H@\\?zC?dA?dEA`B@~A?vA?^?V?nFAt@?fA?r@?`B?j@?tB@hA@dBChFBR?hA?f@AN?\\?\\?bA?t@@bA?X?T?n@?pB?Z?V?d@AN?P?Z?D?H?PAL?\\?F?B?R?T?N?LAZ?p@?J?R?V?d@?N?P@\\Bf@?v@AtB?hGCtA?p@?D?b@AB?x@@|@AnF?d@?h@?p@@J?P?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.916268,
+                        "lng" : -77.02190659999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "213 ft",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 38.8912943,
+                        "lng" : -77.022662
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "q}jlF|ibuM?bB?p@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8912925,
+                        "lng" : -77.0219058
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "135 ft",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.8910652,
+                        "lng" : -77.0229635
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "q}jlFrnbuMF@B@B@D@B@@BBBBB@D@B@D@D?B@DAD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8912943,
+                        "lng" : -77.022662
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 171
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 38.8899132,
+                        "lng" : -77.0237041
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "e|jlFnpbuMd@??J@T@NBLFRPd@DHDFFDLB^?|AA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8910652,
+                        "lng" : -77.0229635
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "125 ft",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.889906,
+                        "lng" : -77.02414379999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}tjlFbubuM?vA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8899132,
+                        "lng" : -77.0237041
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "210 ft",
+                        "value" : 64
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 38.8893324,
+                        "lng" : -77.02412869999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}tjlFzwbuMrBA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.889906,
+                        "lng" : -77.02414379999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 357
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 38.889246,
+                        "lng" : -77.02824729999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "iqjlFxwbuMBnJBrAF|GAP@\\?R?P"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8893324,
+                        "lng" : -77.02412869999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "187 ft",
+                        "value" : 57
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 38.8887345,
+                        "lng" : -77.02824369999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ypjlFpqcuMfBA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.889246,
+                        "lng" : -77.02824729999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "95 ft",
+                        "value" : 29
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 38.8887397,
+                        "lng" : -77.02858069999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qmjlFnqcuMAbA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8887345,
+                        "lng" : -77.02824369999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ioqlFtkbuMFrAtAKdGe@fCOdCUfCS`E[|@CfKCpID|T?nT@rSA`D@nDAnJ@xH@fLCxDAdBD~ME|OAlC@P??bB?p@F@FBHBJPDR?Jd@??JBd@J`@Vn@LLl@B|AA?vArBABnJJpJ?tAfBAAbA"
+         },
+         "summary" : "7th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

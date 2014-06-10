@@ -1,5 +1,194 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8849441,
+               "lng" : -77.0802539
+            },
+            "southwest" : {
+               "lat" : 38.8638801,
+               "lng" : -77.0878554
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.9 mi",
+                  "value" : 2998
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 816
+               },
+               "end_address" : "1052 South Courthouse Road, Arlington, VA 22204, USA",
+               "end_location" : {
+                  "lat" : 38.8638801,
+                  "lng" : -77.0802539
+               },
+               "start_address" : "1001-1039 North Barton Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8849441,
+                  "lng" : -77.0878554
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 483
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 164
+                     },
+                     "end_location" : {
+                        "lat" : 38.8806286,
+                        "lng" : -77.0872955
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Barton St\u003c/b\u003e toward \u003cb\u003e10th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{uilFbfouMr@QJCNCLAjH_@~Hg@dCKL?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8849441,
+                        "lng" : -77.0878554
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 238
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 38.880969,
+                        "lng" : -77.0846293
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Pershing Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}zhlFrbouM?o@FqC?g@Aa@AYG]Mo@Y{AWeA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8806286,
+                        "lng" : -77.0872955
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 788
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 156
+                     },
+                     "end_location" : {
+                        "lat" : 38.874806,
+                        "lng" : -77.0853034
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eS Courthouse Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "a}hlF|qnuM\\SXMl@MjAQnAYvDc@zCa@f@KZC^BPIjC]JCF?H?J?D?PEHAJ?J@N?RDRFRFVJb@VB@@@HFJH?@FD?@FDHJV^R^Vh@Nd@F`@BT@PAPIL"
+                     },
+                     "start_location" : {
+                        "lat" : 38.880969,
+                        "lng" : -77.0846293
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "404 ft",
+                        "value" : 123
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 38.8754463,
+                        "lng" : -77.0842004
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eS Courthouse Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qvglFbvnuMGCIOKk@Ke@M]U_@_@_@KKCIAA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.874806,
+                        "lng" : -77.0853034
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 376
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 119
+                     },
+                     "end_location" : {
+                        "lat" : 38.87267240000001,
+                        "lng" : -77.082003
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eS Courthouse Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qzglFfonuM@MBINU@CFGBCHK@CBC@Aj@s@v@cA\\[j@[XOLMh@m@FEDEHEFCTCLILM\\M`@UREx@@TM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8754463,
+                        "lng" : -77.0842004
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 990
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 306
+                     },
+                     "end_location" : {
+                        "lat" : 38.8638801,
+                        "lng" : -77.0802539
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eS Courthouse Rd\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "eiglFnanuMb@?fDe@vFq@z@IjAOtBWl@CR?bLsAhAQbEg@|B[zASlAQ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.87267240000001,
+                        "lng" : -77.082003
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{uilFbfouM|A[jRgArCKFaEAiAIw@g@kCWeA\\SfA[zCk@rIeAbAO^BPIvCa@P?P?ZGV@b@Df@Nz@b@NJRRPPj@~@f@nAJv@?b@ILGCIOKk@YcAu@_AOU?OR_@LONSl@u@v@cA\\[dAk@v@{@^UTCLILM\\M`@UREx@@TMb@?fDe@rH{@`Eg@`AClNeB`IcAhDe@"
+         },
+         "summary" : "S Courthouse Rd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

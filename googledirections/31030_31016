@@ -1,5 +1,170 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8959356,
+               "lng" : -77.07658719999999
+            },
+            "southwest" : {
+               "lat" : 38.8910139,
+               "lng" : -77.088926
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1663
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 384
+               },
+               "end_address" : "1717 North Pierce Street, Arlington, VA 22209, USA",
+               "end_location" : {
+                  "lat" : 38.8936221,
+                  "lng" : -77.07661639999999
+               },
+               "start_address" : "1909-1915 North Adams Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8959356,
+                  "lng" : -77.088926
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 348
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 127
+                     },
+                     "end_location" : {
+                        "lat" : 38.8929117,
+                        "lng" : -77.0880013
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Adams St\u003c/b\u003e toward \u003cb\u003eUS-29 S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "szklFxlouMdBKZ@N?HATC`@GzC}@lFcB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8959356,
+                        "lng" : -77.088926
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 171
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 38.8933798,
+                        "lng" : -77.0861211
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKey Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ugklF~fouMs@gEi@oD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8929117,
+                        "lng" : -77.0880013
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 268
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 38.8910139,
+                        "lng" : -77.085691
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Veitch St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sjklFf{nuMfBKnCQv@G^C~AMh@]"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8933798,
+                        "lng" : -77.0861211
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 856
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 160
+                     },
+                     "end_location" : {
+                        "lat" : 38.8934465,
+                        "lng" : -77.07658719999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eClarendon Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "y{jlFpxnuMKQEGIKIKIKEKGOI]G[AWSoDOqFImDCUAUCIAIEOEMO_@IQ]a@SWWWMWi@yA]eAUs@Kc@I_@Go@OwAo@_Fa@eD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8910139,
+                        "lng" : -77.085691
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "66 ft",
+                        "value" : 20
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.8936221,
+                        "lng" : -77.07661639999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Pierce St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "akklFt_muMYBG@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8934465,
+                        "lng" : -77.07658719999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "szklFxlouMdBKZ@XAv@KhKaD}AwJvF]vAK~AMh@]QYSWOWQm@Is@SoDOqFMcEE_@GYUm@g@s@k@o@w@qBs@yBUcAWgCqAeKa@D"
+         },
+         "summary" : "Clarendon Blvd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

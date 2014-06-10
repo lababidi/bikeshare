@@ -1,5 +1,74 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8448144,
+               "lng" : -76.98785769999999
+            },
+            "southwest" : {
+               "lat" : 38.8448144,
+               "lng" : -76.98785769999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1319 Alabama Avenue Southeast, Washington, DC 20032, USA",
+               "end_location" : {
+                  "lat" : 38.8448144,
+                  "lng" : -76.98785769999999
+               },
+               "start_address" : "1319 Alabama Avenue Southeast, Washington, DC 20032, USA",
+               "start_location" : {
+                  "lat" : 38.8448144,
+                  "lng" : -76.98785769999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8448144,
+                        "lng" : -76.98785769999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eAlabama Ave SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "a{alFbu{tM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8448144,
+                        "lng" : -76.98785769999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "a{alFbu{tM"
+         },
+         "summary" : "Alabama Ave SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

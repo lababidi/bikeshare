@@ -1,5 +1,98 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9550567,
+               "lng" : -77.06962999999999
+            },
+            "southwest" : {
+               "lat" : 38.954691,
+               "lng" : -77.0824281
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1152
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 363
+               },
+               "end_address" : "4200-4214 Fessenden Street Northwest, Washington, DC 20016, USA",
+               "end_location" : {
+                  "lat" : 38.9546977,
+                  "lng" : -77.0824281
+               },
+               "start_address" : "5000 Connecticut Avenue Northwest, Washington, DC 20008, USA",
+               "start_location" : {
+                  "lat" : 38.9550567,
+                  "lng" : -77.0698404
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "148 ft",
+                        "value" : 45
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 38.954691,
+                        "lng" : -77.06962999999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eConnecticut Ave NW\u003c/b\u003e toward \u003cb\u003eFessenden St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "clwlFnukuMb@Sd@U"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9550567,
+                        "lng" : -77.0698404
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1107
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 350
+                     },
+                     "end_location" : {
+                        "lat" : 38.9546977,
+                        "lng" : -77.0824281
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFessenden St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "yiwlFdtkuM?`K?~C?n@?X?d@?f@?R?t@?`A?zC?\\?|CAvB?V?zC?F?J?R?tK@zD?P?vIApA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.954691,
+                        "lng" : -77.06962999999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "clwlFnukuMhAi@?`P?vCArR@~b@ApA"
+         },
+         "summary" : "Fessenden St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

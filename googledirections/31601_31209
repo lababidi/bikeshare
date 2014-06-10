@@ -1,5 +1,410 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8897281,
+               "lng" : -76.97060259999999
+            },
+            "southwest" : {
+               "lat" : 38.87127359999999,
+               "lng" : -77.00597680000001
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.2 mi",
+                  "value" : 5173
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 981
+               },
+               "end_address" : "1300-1350 First Street Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.8742984,
+                  "lng" : -77.0058913
+               },
+               "start_address" : "1835 East Capitol Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8897281,
+                  "lng" : -76.9768486
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "154 ft",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 38.8894539,
+                        "lng" : -76.9764661
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eE Capitol St SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ysjlFhpytM@IBKBIBGBEFELKNK"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8897281,
+                        "lng" : -76.9768486
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 232
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 38.8893914,
+                        "lng" : -76.9737993
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eE Capitol St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "arjlF|mytME_@?G?E@wF?eD?IBMBUF["
+                     },
+                     "start_location" : {
+                        "lat" : 38.8894539,
+                        "lng" : -76.9764661
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "33 ft",
+                        "value" : 10
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 38.8892992,
+                        "lng" : -76.97380769999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uqjlFf}xtMF?H@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8893914,
+                        "lng" : -76.9737993
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 689
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 130
+                     },
+                     "end_location" : {
+                        "lat" : 38.8842618,
+                        "lng" : -76.97060259999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eAnacostia Riverwalk Trail\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "cqjlFh}xtMDQ@ATF@AFc@Fq@Ho@Je@Xy@^q@n@e@`@Qh@[XOBC@?bAk@PIn@[l@Ut@Sh@MRGf@GXAPAf@Ab@?~@?^@^Aj@@V?VCHGHMHSDQJU"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8892992,
+                        "lng" : -76.97380769999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 690
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 119
+                     },
+                     "end_location" : {
+                        "lat" : 38.8796709,
+                        "lng" : -76.9753118
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAnacostia Riverwalk Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sqilFfixtMJFr@Zp@\\`CxAvD~BzA|@b@Vz@l@xAv@|@h@RRNPLPDNDRJ`@^hBHb@Dj@Dd@P|@BN"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8842618,
+                        "lng" : -76.97060259999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 514
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 92
+                     },
+                     "end_location" : {
+                        "lat" : 38.877534,
+                        "lng" : -76.9799984
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eAnacostia Riverwalk Trail\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "}thlFtfytMRh@Hf@Jh@Jj@RbAH`@HNLJJHbBx@`@PNJRLJNFLFRFZ@VAXCRCVAXB\\FVFPT\\VXDHHLFLBJBNBPBN@BDVD`@@H?FCHEJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8796709,
+                        "lng" : -76.9753118
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 176
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 38.87702770000001,
+                        "lng" : -76.98184740000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eAnacostia Riverwalk Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qghlF~cztMDF@D@H?H?P@VDPBNR^PXBH@L?P@V@N@LDHHTDJBJ@J?J?X"
+                     },
+                     "start_location" : {
+                        "lat" : 38.877534,
+                        "lng" : -76.9799984
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 247
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 38.8765693,
+                        "lng" : -76.98460779999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eAnacostia Riverwalk Trail\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "mdhlFpoztM@FFR@H?H?PCV?L@JBPFTFVDRD^LnBBTBJBL?F?R@H@PDJ@J@P@TFf@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.87702770000001,
+                        "lng" : -76.98184740000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 508
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 92
+                     },
+                     "end_location" : {
+                        "lat" : 38.8740466,
+                        "lng" : -76.9893764
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWater St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qahlFx`{tMDAH?D@B@B@BBBDFJFJHLf@x@FJDJBDBD@HHb@DNBJDJFPBJDHDNHNJ\\N`@LZJP@B@BDHFJ@FHTFNDL@B@FFT?BDLZ`A@DNd@JVRh@FJHRJLDFHPFLNZVr@N^JV"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8765693,
+                        "lng" : -76.98460779999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 227
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 38.873228,
+                        "lng" : -76.9915925
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eAnacostia Riverwalk Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yqglFr~{tMHG@?@??@Pf@N\\JTN^JVFN@B?@@?FNFLFJ@BDHDJBDBJ@BBF@J@FBJ?D@@@L?J?l@@D?D?@?BAB?J?F?D?@?P"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8740466,
+                        "lng" : -76.9893764
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "381 ft",
+                        "value" : 116
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 38.8722275,
+                        "lng" : -76.9912327
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eAnacostia Riverwalk Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ulglFll|tMhB]rAa@HG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.873228,
+                        "lng" : -76.9915925
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 970
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 167
+                     },
+                     "end_location" : {
+                        "lat" : 38.8727501,
+                        "lng" : -77.0016325
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAnacostia Riverwalk Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mfglFdj|tMXZdDvGu@zEIBQrAQxAgE|WCZYnGAH?H@V`@fF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8722275,
+                        "lng" : -76.9912327
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "276 ft",
+                        "value" : 84
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 38.8730357,
+                        "lng" : -77.0023207
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eAnacostia Riverwalk Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "uiglFdk~tM?Dy@T@hAAb@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8727501,
+                        "lng" : -77.0016325
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 399
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 38.8719502,
+                        "lng" : -77.00597680000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eAnacostia Riverwalk Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "okglFno~tMx@P@??@Fj@d@|DzAbF^nAX~@\\dA@DABCBQ@OD]L"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8730357,
+                        "lng" : -77.0023207
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 264
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : 38.8742984,
+                        "lng" : -77.0058913
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFirst St SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "udglFjf_uMCEMKOAa@?m@@yAAcD?eB@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8719502,
+                        "lng" : -77.00597680000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ysjlFhpytMLg@h@c@Eg@@}F?oDFc@F[F?H@DQVDHe@PaBJe@Xy@^q@n@e@jAm@bB_A`Ae@bBi@|@U`AI|CCbC@VCHGRa@Pg@~@b@rDvBrG|D~AdAvC`Bb@d@R`@z@bEJpATlARh@Hf@VtA\\dBVZ`D`B^\\N`@Hr@El@Ep@Jt@\\n@\\b@PZFZHd@Jx@@PITFLB|@H`@d@x@DV@h@B\\N^HV@V@`@H\\C`AD\\Nl@Jr@PdCFX?ZBZFVBf@Ff@DAN@FBV`@~@~ARx@Vx@nAbDP\\Xz@~@`Dp@`Bb@t@bAfCLGpAdD\\r@Rf@FVDXBhA?n@?RhB]rAa@HGXZdDvGu@zEIBQrAQxAgE|W]jHARb@~F?Dy@T?lBz@PFl@d@|DzAbFx@nC^jAEFa@F]LCEMKOAoA@}FAeB@"
+         },
+         "summary" : "Anacostia Riverwalk Trail",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

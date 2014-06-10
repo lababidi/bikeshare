@@ -1,5 +1,215 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.87018030000001,
+               "lng" : -77.0533338
+            },
+            "southwest" : {
+               "lat" : 38.8572315,
+               "lng" : -77.07279969999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.9 mi",
+                  "value" : 2984
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 518
+               },
+               "end_address" : "500-518 18th Street South, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.8573134,
+                  "lng" : -77.0533338
+               },
+               "start_address" : "832-900 South Orme Street, Arlington, VA 22204, USA",
+               "start_location" : {
+                  "lat" : 38.8672729,
+                  "lng" : -77.07227039999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "495 ft",
+                        "value" : 151
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 38.8685632,
+                        "lng" : -77.07279969999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eS Orme St\u003c/b\u003e toward \u003cb\u003eS Southgate Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mgflFtdluMgAZyDlA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8672729,
+                        "lng" : -77.07227039999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "430 ft",
+                        "value" : 131
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.8687788,
+                        "lng" : -77.0713148
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Southgate Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ooflF~gluMYqDC_@Ci@E]CO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8685632,
+                        "lng" : -77.07279969999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 549
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 66
+                     },
+                     "end_location" : {
+                        "lat" : 38.8700772,
+                        "lng" : -77.0653045
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eS Southgate Rd\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "{pflFt~kuM?i@Ii@OcAE]Gg@Mu@uBqLi@_DSgAS}@ACQw@Eg@?[BKBYJ_@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8687788,
+                        "lng" : -77.0713148
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1077
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 230
+                     },
+                     "end_location" : {
+                        "lat" : 38.86125510000001,
+                        "lng" : -77.06303489999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eS Joyce St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_yflFbyjuMHQ\\k@JQnAiBz@oANSNQRQNMRQRKZQb@Qt@SFAZGZG\\GVE@?ZGXC@AZCt@IF?DARAb@E@?@?ZCf@AZHt@LbATtBh@nAZHBTBn@Nl@JdANfANn@@h@CFAHAnAYBAd@Ur@g@n@k@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8700772,
+                        "lng" : -77.0653045
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 293
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.8605037,
+                        "lng" : -77.0599141
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e15th St S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{aelF|jjuMv@qAN[Rg@Jc@H[H]Jq@Fi@Ba@@_@@y@AkA?}@@Y"
+                     },
+                     "start_location" : {
+                        "lat" : 38.86125510000001,
+                        "lng" : -77.06303489999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 575
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 100
+                     },
+                     "end_location" : {
+                        "lat" : 38.8572537,
+                        "lng" : -77.055735
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Hayes St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c}dlFlwiuMt@AVAb@E\\ETEbAWZKt@a@LEf@_@n@e@x@gA|@{ABGd@mAJ]Li@J{@H}@FiALsC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8605037,
+                        "lng" : -77.0599141
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 208
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 38.8573134,
+                        "lng" : -77.0533338
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e18th St S\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "yhdlFj}huMBwBCkBGiEA_@AS"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8572537,
+                        "lng" : -77.055735
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mgflFtdluMaGhB]qEIgACy@g@sDaEoUUaAQw@Eg@Bg@Ny@f@}@zA{BjAcBb@c@b@_@n@]b@Qt@Sb@IpAUx@MxCW\\Cf@AZHxBb@dEdA^F|AZlC^n@@h@CPCrA[d@Ur@g@n@k@v@qAb@cAT_AToAJkAByAAiC@Yt@Az@Gr@K~Ac@bAg@vAeAx@gA|@{Ah@uAXgATyBT}EBwBCkBIiFAS"
+         },
+         "summary" : "S Joyce St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

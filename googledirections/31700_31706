@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8655443,
+               "lng" : -76.95220820000002
+            },
+            "southwest" : {
+               "lat" : 38.859881,
+               "lng" : -76.96724279999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1518
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 370
+               },
+               "end_address" : "38th St SE & Pennsylvania Ave SE, Washington, DC 20020, USA",
+               "end_location" : {
+                  "lat" : 38.8655443,
+                  "lng" : -76.95223009999999
+               },
+               "start_address" : "2669-2799 Good Hope Road Southeast, Washington, DC 20020, USA",
+               "start_location" : {
+                  "lat" : 38.8599898,
+                  "lng" : -76.96724279999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "105 ft",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.859881,
+                        "lng" : -76.966905
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eGood Hope Rd SE\u003c/b\u003e toward \u003cb\u003eAlabama Ave SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}ydlFftwtM@EDYDQFQ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8599898,
+                        "lng" : -76.96724279999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1453
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 339
+                     },
+                     "end_location" : {
+                        "lat" : 38.8652438,
+                        "lng" : -76.95220820000002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAlabama Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gydlFbrwtMKOCECGGSSu@CKGS_@uAOk@Qw@e@gBOa@Ma@Su@kAqEy@cDCMCOAMAOEq@Cq@EyAEsAAYEcAMuDA_@?KACASEi@E]CQGa@]wBEUI]?AESEMEKAEEKSa@QUUSEEqDaCYYMMMOMUGKISEKKUCICKIWGUeAaEK_@GSOs@Oi@UaAo@qC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.859881,
+                        "lng" : -76.966905
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "108 ft",
+                        "value" : 33
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.8655443,
+                        "lng" : -76.95223009999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at \u003cb\u003e38th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wzelFhvttMW@c@@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8652438,
+                        "lng" : -76.95220820000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}ydlFftwtMTcA[q@_AkDa@cBu@iCgDmMK{@m@eQImAo@iEUiASk@Sa@QU[YqDaCYY[]e@aA]cAaBkGeBqH{@B"
+         },
+         "summary" : "Alabama Ave SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

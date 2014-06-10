@@ -1,5 +1,74 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8607753,
+               "lng" : -77.095912
+            },
+            "southwest" : {
+               "lat" : 38.8607753,
+               "lng" : -77.095912
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "3801 9th Road South, Arlington, VA 22204, USA",
+               "end_location" : {
+                  "lat" : 38.8607753,
+                  "lng" : -77.095912
+               },
+               "start_address" : "3801 9th Road South, Arlington, VA 22204, USA",
+               "start_location" : {
+                  "lat" : 38.8607753,
+                  "lng" : -77.095912
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8607753,
+                        "lng" : -77.095912
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eS Oakland St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{~dlFlxpuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8607753,
+                        "lng" : -77.095912
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{~dlFlxpuM"
+         },
+         "summary" : "S Oakland St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

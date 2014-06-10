@@ -1,5 +1,146 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9056566,
+               "lng" : -77.01890770000001
+            },
+            "southwest" : {
+               "lat" : 38.9030615,
+               "lng" : -77.0222653
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 629
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 214
+               },
+               "end_address" : "1033 5th Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9030615,
+                  "lng" : -77.0189469
+               },
+               "start_address" : "801-899 M Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9056395,
+                  "lng" : -77.0222653
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 204
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 38.9056566,
+                        "lng" : -77.0199049
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eM St NW\u003c/b\u003e toward \u003cb\u003e7th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gwmlFdlbuM?eA?iAA}CAkD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056395,
+                        "lng" : -77.0222653
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 238
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 38.9035207,
+                        "lng" : -77.01989449999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e6th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kwmlFj}auMtA?rE?jB?TA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056566,
+                        "lng" : -77.0199049
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "312 ft",
+                        "value" : 95
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 38.9038848,
+                        "lng" : -77.01890770000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNew York Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_jmlFh}auMi@mB]uA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9035207,
+                        "lng" : -77.01989449999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "302 ft",
+                        "value" : 92
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 38.9030615,
+                        "lng" : -77.0189469
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e5th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "glmlFdwauMF?X@\\@d@@F?H?R?L@H?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9038848,
+                        "lng" : -77.01890770000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gwmlFdlbuMCyMjLAgAcE`@@tABj@@"
+         },
+         "summary" : "M St NW and U.S. 1 S",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

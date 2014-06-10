@@ -1,5 +1,265 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
-   "routes" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9279619,
+               "lng" : -77.04253299999999
+            },
+            "southwest" : {
+               "lat" : 38.922542,
+               "lng" : -77.0772717
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4110
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1344
+               },
+               "end_address" : "3901-3949 Calvert Street Northwest, Washington, DC 20007, USA",
+               "end_location" : {
+                  "lat" : 38.9225498,
+                  "lng" : -77.0772717
+               },
+               "start_address" : "1845 Harvard Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9279619,
+                  "lng" : -77.04327549999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "259 ft",
+                        "value" : 79
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 38.9275494,
+                        "lng" : -77.04253299999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eHarvard St NW\u003c/b\u003e toward \u003cb\u003eAdams Mill Rd NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wbrlFnofuMpAuC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9279619,
+                        "lng" : -77.04327549999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 376
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 162
+                     },
+                     "end_location" : {
+                        "lat" : 38.924735,
+                        "lng" : -77.0447023
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAdams Mill Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e`rlFxjfuM`DfErB~BZTLFPHPHJDNFLBNDLBJ@XBLBp@FB?ZH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9275494,
+                        "lng" : -77.04253299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 315
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 38.9232654,
+                        "lng" : -77.04734429999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eCalvert St NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "snqlFjxfuMNVDHFRHLHHJFDLBTFJNFFJ@NFXB\\BnCBNLPXXT^Nd@TX\\Hd@G"
+                     },
+                     "start_location" : {
+                        "lat" : 38.924735,
+                        "lng" : -77.0447023
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 262
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 145
+                     },
+                     "end_location" : {
+                        "lat" : 38.923468,
+                        "lng" : -77.0503647
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCalvert St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "meqlFzhguMAd@ANAPIjCAD?FGfB?@?@?XA?CdA?XChBCh@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9232654,
+                        "lng" : -77.04734429999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 227
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 38.925355,
+                        "lng" : -77.0513457
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWoodley Pl NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ufqlFv{guM}@PG@EBMDA?EBMFMFs@^o@Zw@^y@^c@V"
+                     },
+                     "start_location" : {
+                        "lat" : 38.923468,
+                        "lng" : -77.0503647
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 553
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 187
+                     },
+                     "end_location" : {
+                        "lat" : 38.9261761,
+                        "lng" : -77.057644
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWoodley Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mrqlF|ahuMEb@Ej@En@K|AGl@C\\CLEx@E`AAFC^Cf@C\\Gx@IrAIbAARCRM~A?DK~A?BCRATGbAAJC^IrACT"
+                     },
+                     "start_location" : {
+                        "lat" : 38.925355,
+                        "lng" : -77.0513457
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1192
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 432
+                     },
+                     "end_location" : {
+                        "lat" : 38.9275251,
+                        "lng" : -77.07089429999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eGarfield St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "swqlFfiiuMCj@CTADCZAF?BCNAFEVAHEVGTCHGRK\\IRCHIPMVINILKNMPIJY\\EDGJCBEFCDEHCFEHGPGPAFERAHCPAHANAP?P?P?b@AN?pJ@RAlH?xA?R?hC?`A?b@@~DA~E@V?j@AfC?t@@xBAdA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9261761,
+                        "lng" : -77.057644
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 554
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 96
+                     },
+                     "end_location" : {
+                        "lat" : 38.922542,
+                        "lng" : -77.0708934
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e36th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a`rlF`|kuMV@zAAxC@fHArC?bA@b@?nA?lAAT?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9275251,
+                        "lng" : -77.07089429999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 552
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 190
+                     },
+                     "end_location" : {
+                        "lat" : 38.9225498,
+                        "lng" : -77.0772717
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCalvert St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{`qlF`|kuMAfH?~@?j@@|@?P?nAAvB?nA?dG?`A?hC?T?V"
+                     },
+                     "start_location" : {
+                        "lat" : 38.922542,
+                        "lng" : -77.0708934
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wbrlFnofuMpAuC`DfErB~BZT^P\\Nz@TdBP^HT`@P`@TPHb@FJNFFJ@NJv@BnCBNf@j@T^Nd@TX\\Hd@GAd@C`@S`GEbBCbCCh@}@PMDc@PiDbB}Av@KnA]xEIfAGhAS~Cs@hKe@nHWrBS`Aa@nAk@fA}@jAk@~@W~@It@AxAAbU@tW?bJAdAV@tF?bP?|CAT?AfH?jB@nAA|O?xF"
+         },
+         "summary" : "Garfield St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }

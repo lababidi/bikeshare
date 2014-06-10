@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8666005,
+               "lng" : -76.9851795
+            },
+            "southwest" : {
+               "lat" : 38.8666005,
+               "lng" : -76.9851795
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1931-1999 14th Street Southeast, Washington, DC 20020, USA",
+               "end_location" : {
+                  "lat" : 38.8666005,
+                  "lng" : -76.9851795
+               },
+               "start_address" : "1931-1999 14th Street Southeast, Washington, DC 20020, USA",
+               "start_location" : {
+                  "lat" : 38.8666005,
+                  "lng" : -76.9851795
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8666005,
+                        "lng" : -76.9851795
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e14th St SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gcflFjd{tM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8666005,
+                        "lng" : -76.9851795
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gcflFjd{tM"
+         },
+         "summary" : "14th St SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
