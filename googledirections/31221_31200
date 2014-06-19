@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9102598,
+               "lng" : -77.041681
+            },
+            "southwest" : {
+               "lat" : 38.9047418,
+               "lng" : -77.0444397
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 781
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 215
+               },
+               "end_address" : "1913-1947 Massachusetts Avenue Northwest, Washington, DC 20036, USA",
+               "end_location" : {
+                  "lat" : 38.9100305,
+                  "lng" : -77.0444397
+               },
+               "start_address" : "1123 18th Street Northwest, Washington, DC 20036, USA",
+               "start_location" : {
+                  "lat" : 38.9047418,
+                  "lng" : -77.04169089999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 223
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 38.9067461,
+                        "lng" : -77.041685
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e18th St NW\u003c/b\u003e toward \u003cb\u003eM St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sqmlFpefuMaB?o@?e@?aDAw@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9047418,
+                        "lng" : -77.04169089999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "449 ft",
+                        "value" : 137
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 38.90787419999999,
+                        "lng" : -77.04232739999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eConnecticut Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "e~mlFnefuMcBv@{BhA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9067461,
+                        "lng" : -77.041685
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 154
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 38.9091567,
+                        "lng" : -77.04295230000001
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eConnecticut Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "eenlFpifuMg@LuDfBIDG@C?E?GA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.90787419999999,
+                        "lng" : -77.04232739999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 267
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : {
+                        "lat" : 38.9100305,
+                        "lng" : -77.0444397
+                     },
+                     "html_instructions" : "At the traffic circle, exit onto \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "gmnlFlmfuMEGEGGIGGGEGCGCKCICGAK?I?G?I@GBG@GBGDIFGDCDEDGHEHCFCFCHAHCFAHAHAL?L?L?J@H@HBH?BBF@F@@BHFLBDBFDDBDDBDBAF?HAJ?FCJAFAD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9091567,
+                        "lng" : -77.04295230000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sqmlFpefuMyIAw@?cBv@{BhAg@L_ElBK@MAKOOQOIe@Mg@@_@N[XUb@Kd@Cr@Fh@FTRd@TRCd@GX"
+         },
+         "summary" : "18th St NW and Connecticut Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

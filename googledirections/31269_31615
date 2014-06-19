@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9003837,
+               "lng" : -76.99843969999999
+            },
+            "southwest" : {
+               "lat" : 38.88738110000001,
+               "lng" : -77.0020316
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1755
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 368
+               },
+               "end_address" : "801-819 6th Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9003837,
+                  "lng" : -76.99844109999999
+               },
+               "start_address" : "132 3rd Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.88738110000001,
+                  "lng" : -77.0020316
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "75 ft",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875838,
+                        "lng" : -77.0020181
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e3rd St SE\u003c/b\u003e toward \u003cb\u003eIndependence Ave SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cejlFtm~tMg@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88738110000001,
+                        "lng" : -77.0020316
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 310
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875929,
+                        "lng" : -76.9984408
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eIndependence Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kfjlFrm~tMCU?yB?oC?uE@}C?w@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875838,
+                        "lng" : -77.0020181
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1422
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 313
+                     },
+                     "end_location" : {
+                        "lat" : 38.9003837,
+                        "lng" : -76.99844109999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e6th St SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mfjlFfw}tMeA?g@@kB?aF?aF?yD?[?sE?M?M?K?q@?K?K?_@A]?Y?I@Q?eB?K?eCAS?qB?uB?iB@Q?S?k@?U?S?s@?{@?aBAwA?oC?a@@SAE?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875929,
+                        "lng" : -76.9984408
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cejlFtm~tMg@ACU?iG@sJ?w@eA?sC@cM?wL?{DAoO?uI@eKA"
+         },
+         "summary" : "6th St SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

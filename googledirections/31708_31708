@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8965609,
+               "lng" : -76.96006749999999
+            },
+            "southwest" : {
+               "lat" : 38.8965609,
+               "lng" : -76.96006749999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "382-398 Anacostia Avenue Northeast, Washington, DC 20019, USA",
+               "end_location" : {
+                  "lat" : 38.8965609,
+                  "lng" : -76.96006749999999
+               },
+               "start_address" : "382-398 Anacostia Avenue Northeast, Washington, DC 20019, USA",
+               "start_location" : {
+                  "lat" : 38.8965609,
+                  "lng" : -76.96006749999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8965609,
+                        "lng" : -76.96006749999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eAnacostia Ave NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "o~klFlgvtM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8965609,
+                        "lng" : -76.96006749999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "o~klFlgvtM"
+         },
+         "summary" : "Anacostia Ave NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

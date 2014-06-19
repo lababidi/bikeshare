@@ -1,0 +1,170 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8898066,
+               "lng" : -76.9855178
+            },
+            "southwest" : {
+               "lat" : 38.8841038,
+               "lng" : -77.0003495
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1711
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 341
+               },
+               "end_address" : "1329-1399 D Street Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.8841073,
+                  "lng" : -76.9860989
+               },
+               "start_address" : "401-499 East Capitol Street Northeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8898066,
+                  "lng" : -77.0003495
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 763
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 148
+                     },
+                     "end_location" : {
+                        "lat" : 38.889805,
+                        "lng" : -76.99153299999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eE Capitol St SE/East Capitol St NE\u003c/b\u003e toward \u003cb\u003e5th St SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow E Capitol St SE\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "itjlFdc~tM?]?iC?sE@gM?}A?W?aBAY@cC?kB?gC?wA?iD?s@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8898066,
+                        "lng" : -77.0003495
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "207 ft",
+                        "value" : 63
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.8892349,
+                        "lng" : -76.9915333
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e11th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gtjlF`l|tMhA@R?RA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.889805,
+                        "lng" : -76.99153299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 154
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 38.8892302,
+                        "lng" : -76.9897581
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eEast Capitol St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "upjlF`l|tMAgF?[@S?c@?e@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8892349,
+                        "lng" : -76.9915333
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 681
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : 38.8841038,
+                        "lng" : -76.9855178
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKentucky Ave SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "upjlF~`|tM`BoA`Ay@LAjA{@hAs@t@g@t@o@DYhA}@rAcAlDqCrEoDDE`@W"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8892302,
+                        "lng" : -76.9897581
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "164 ft",
+                        "value" : 50
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 38.8841073,
+                        "lng" : -76.9860989
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eD St SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "spilFnf{tMArB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8841038,
+                        "lng" : -76.9855178
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "itjlFdc~tM?u`@@oM?}E|A@RAAgF@o@?iAbDiCLAjA{@~B{At@o@DY|CaChL_JArB"
+         },
+         "summary" : "E Capitol St SE and Kentucky Ave SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

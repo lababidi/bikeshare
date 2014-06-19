@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8630471,
+               "lng" : -77.05279399999999
+            },
+            "southwest" : {
+               "lat" : 38.8573134,
+               "lng" : -77.0542773
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 792
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 126
+               },
+               "end_address" : "421-499 12th Street South, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.8629718,
+                  "lng" : -77.05279399999999
+               },
+               "start_address" : "500-518 18th Street South, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.8573134,
+                  "lng" : -77.0533338
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "72 ft",
+                        "value" : 22
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.8573619,
+                        "lng" : -77.0530826
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e18th St S\u003c/b\u003e toward \u003cb\u003eS Eads St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eidlFhnhuMCSE]"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8573134,
+                        "lng" : -77.0533338
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 641
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 103
+                     },
+                     "end_location" : {
+                        "lat" : 38.8630471,
+                        "lng" : -77.0542773
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Eads St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oidlFvlhuMW?oBLE@yANsDh@kAP_@DwARqBXOBiEj@}@N]DoATYB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8573619,
+                        "lng" : -77.0530826
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "423 ft",
+                        "value" : 129
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.8629718,
+                        "lng" : -77.05279399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e12th St S\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "amelFfthuMNiH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8630471,
+                        "lng" : -77.0542773
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "eidlFhnhuMIq@W?oBL_BP_Gz@yFv@uJvAYBNiH"
+         },
+         "summary" : "S Eads St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8792668,
+               "lng" : -76.9949709
+            },
+            "southwest" : {
+               "lat" : 38.8742984,
+               "lng" : -77.0059047
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1526
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 373
+               },
+               "end_address" : "726 I Street Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.8792649,
+                  "lng" : -76.99530059999999
+               },
+               "start_address" : "1300-1350 First Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8742984,
+                  "lng" : -77.0058913
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 359
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 91
+                     },
+                     "end_location" : {
+                        "lat" : 38.8775251,
+                        "lng" : -77.0058999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eFirst St SE\u003c/b\u003e toward \u003cb\u003eN St SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ksglFxe_uMcA@uDCA?{@?aB@O?GBMAgA?O?}@@o@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8742984,
+                        "lng" : -77.0058913
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 945
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 188
+                     },
+                     "end_location" : {
+                        "lat" : 38.8775254,
+                        "lng" : -76.9949795
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eL St SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qghlFze_uM?Q?E?k@@mA?YAcB?{@?}@?sA?oA?_@?uD?UAcC@uB?S?sE@uA?[AqO?U?qF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8775251,
+                        "lng" : -77.0058999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 194
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 38.8792668,
+                        "lng" : -76.9949742
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e8th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qghlFra}tMkBA[?Y?S?C?A?_@?A?A?A?E?M?C?O?S?A?{@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8775254,
+                        "lng" : -76.9949795
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 38.8792649,
+                        "lng" : -76.99530059999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eI St SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mrhlFpa}tM@`A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8792668,
+                        "lng" : -76.9949742
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ksglFxe_uMwHAqB@U@eE?@qCAqR?{b@?gGgCAs@?}@?aB?@`A"
+         },
+         "summary" : "L St SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

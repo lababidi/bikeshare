@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9038081,
+               "lng" : -76.9823485
+            },
+            "southwest" : {
+               "lat" : 38.90048600000001,
+               "lng" : -76.9871572
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 637
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 163
+               },
+               "end_address" : "801-807 Bladensburg Road Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.90048600000001,
+                  "lng" : -76.9830451
+               },
+               "start_address" : "1299 Neal Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9038081,
+                  "lng" : -76.9871572
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 475
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 38.9017522,
+                        "lng" : -76.9823485
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eNeal St NE\u003c/b\u003e toward \u003cb\u003eTrinidad Ave NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ykmlFvp{tMnA{DFO\\eA^mA~@qCFQv@cCdCyH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9038081,
+                        "lng" : -76.9871572
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "423 ft",
+                        "value" : 129
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.9007076,
+                        "lng" : -76.983007
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBladensburg Rd NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}~llFtrztM~Az@xAx@HDJF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9017522,
+                        "lng" : -76.9823485
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "30 ft",
+                        "value" : 9
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 38.9006742,
+                        "lng" : -76.9829141
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMaryland Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mxllFxvztMFS"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9007076,
+                        "lng" : -76.983007
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "79 ft",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.90048600000001,
+                        "lng" : -76.9830451
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBladensburg Rd NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "exllFdvztMb@Z"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9006742,
+                        "lng" : -76.9829141
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ykmlFvp{tMzKa]nEbCFSb@Z"
+         },
+         "summary" : "Neal St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

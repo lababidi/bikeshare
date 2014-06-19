@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.918114,
+               "lng" : -77.0259877
+            },
+            "southwest" : {
+               "lat" : 38.9167909,
+               "lng" : -77.0296218
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 562
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 122
+               },
+               "end_address" : "1931 13th Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9167909,
+                  "lng" : -77.0296116
+               },
+               "start_address" : "2001-2055 10th Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9171994,
+                  "lng" : -77.0259877
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "331 ft",
+                        "value" : 101
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.91811,
+                        "lng" : -77.02598999999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e10th St NW\u003c/b\u003e toward \u003cb\u003eV St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "o_plFlccuMW?}C?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9171994,
+                        "lng" : -77.0259877
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 314
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 38.918114,
+                        "lng" : -77.02961999999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eV St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eeplFlccuM?Z?`A?jB?F?jB?@?`B?zB?Z?`@?r@?r@?P"
+                     },
+                     "start_location" : {
+                        "lat" : 38.91811,
+                        "lng" : -77.02598999999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "482 ft",
+                        "value" : 147
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 38.9167909,
+                        "lng" : -77.0296116
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e13th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eeplFbzcuMt@?@?lA?vACZ@L?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.918114,
+                        "lng" : -77.02961999999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "o_plFlccuMuD??|A?`F?zG?fB?Pt@?nA?rBAL?"
+         },
+         "summary" : "V St NW and 13th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

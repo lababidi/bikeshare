@@ -1,0 +1,194 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9324447,
+               "lng" : -76.99288279999999
+            },
+            "southwest" : {
+               "lat" : 38.9155761,
+               "lng" : -77.00057919999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 mi",
+                  "value" : 2665
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 586
+               },
+               "end_address" : "900-998 Monroe Street Northeast, Washington, DC 20017, USA",
+               "end_location" : {
+                  "lat" : 38.9324447,
+                  "lng" : -76.99288279999999
+               },
+               "start_address" : "2213 4th Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9194884,
+                  "lng" : -77.000575
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 428
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 38.9156439,
+                        "lng" : -77.0005694
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e4th St NE\u003c/b\u003e toward \u003cb\u003eW St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ymplFrd~tM|@A~B?tA?~E@nCC|B@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9194884,
+                        "lng" : -77.000575
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "253 ft",
+                        "value" : 77
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 38.9156413,
+                        "lng" : -76.9996848
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eT St NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wuolFpd~tM?qD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9156439,
+                        "lng" : -77.0005694
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "43 ft",
+                        "value" : 13
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.9155761,
+                        "lng" : -76.999555
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e at \u003cb\u003e5th St NE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "wuolF~~}tMJW"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9156413,
+                        "lng" : -76.9996848
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1219
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 252
+                     },
+                     "end_location" : {
+                        "lat" : 38.925675,
+                        "lng" : -76.99495379999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMetropolitan Branch Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kuolFf~}tMwNoGkJcEiEkBWUAAQOMMCAAAGCOCGA[@Y@KAYMUSWUKGUIg@Q{Aw@y@YkEoAUCKCMGcCc@_@AS?SAOAA?A?K?CF?V"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9155761,
+                        "lng" : -76.999555
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 746
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 155
+                     },
+                     "end_location" : {
+                        "lat" : 38.9323831,
+                        "lng" : -76.99498299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e8th St NE/Edgewood St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow 8th St NE\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "otqlFla}tMcC@wE?aBAU?oA?O?gB@mAAO?e@?oC?O?kB?gA?M?e@@_CBS?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.925675,
+                        "lng" : -76.99495379999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 182
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 101
+                     },
+                     "end_location" : {
+                        "lat" : 38.9324447,
+                        "lng" : -76.99288279999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMonroe St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "k~rlFra}tM?Q?U?k@?KAmAAaA?QA_@CyAAg@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9323831,
+                        "lng" : -76.99498299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ymplFrd~tMrN?nCC|B@?qDJWcZsMiEkBWUSQQOYIc@?e@?YMUSc@]}@[{Aw@y@YkEoAUCYKcCc@_@Ag@A_@AC^{I@wEAkF?sI?gED?_BEaEEaC"
+         },
+         "summary" : "Metropolitan Branch Trail and 8th St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

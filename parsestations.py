@@ -30,9 +30,9 @@ with open('2013-3rd-quarter.csv') as csvfile:
 			start = ','.join(j[0])
 			end = ','.join(j[1])
 			print start,end
+			apikey = "AIzaSyDAk6Qe-QxiuSQi4M41RUt0RK7dKjS3sR0" #m2
 			apikey = "AIzaSyAJdK4qxDTTEpT2ha1bjnPyxQBGFOMDW6U" #6
 			apikey = "AIzaSyAMCocd925ayO9xxf4wwT-XkL94Gf8GuzY" #L
-			apikey = "AIzaSyDAk6Qe-QxiuSQi4M41RUt0RK7dKjS3sR0" #m2
 			url = "https://maps.googleapis.com/maps/api/directions/json?origin="+start+"&destination="+end+"&sensor=false&key="+apikey +"&avoid=highways&mode=bicycling"
 			r = requests.get(url)
 			if  "xceed" in r.text: break

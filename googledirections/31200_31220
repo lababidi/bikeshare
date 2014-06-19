@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9107474,
+               "lng" : -77.0444397
+            },
+            "southwest" : {
+               "lat" : 38.89491950000001,
+               "lng" : -77.046671
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1968
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 413
+               },
+               "end_address" : "319-399 21st Street Northwest, Washington, DC 20245, USA",
+               "end_location" : {
+                  "lat" : 38.89491950000001,
+                  "lng" : -77.046671
+               },
+               "start_address" : "1913-1947 Massachusetts Avenue Northwest, Washington, DC 20036, USA",
+               "start_location" : {
+                  "lat" : 38.9100305,
+                  "lng" : -77.0444397
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 208
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 38.9107474,
+                        "lng" : -77.04664889999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e toward \u003cb\u003e20th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "urnlFvvfuMCLCf@Md@Ol@k@|B}@pD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9100305,
+                        "lng" : -77.0444397
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 mi",
+                        "value" : 1760
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 383
+                     },
+                     "end_location" : {
+                        "lat" : 38.89491950000001,
+                        "lng" : -77.046671
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e21st St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ewnlFpdguMrA?hC?T?~D?N?tB?pA?R?ZAlE?tB@X?pD?pBAx@?lA?H?t@@nAAN?L@P?`B?tB?hBAR@pA?b@?fB?R?jA?L?x@@@?pA?hA?R?J?d@?Z?T?hG?fA@x@?X?~@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9107474,
+                        "lng" : -77.04664889999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "urnlFvvfuMGt@]rAiBnH|E?zI?nIAzR@tM?d\\@zE@"
+         },
+         "summary" : "21st St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

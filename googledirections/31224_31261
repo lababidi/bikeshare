@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9034072,
+               "lng" : -77.04345479999999
+            },
+            "southwest" : {
+               "lat" : 38.8924592,
+               "lng" : -77.0466811
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1494
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 331
+               },
+               "end_address" : "100-298 21st Street Northwest, Washington, DC, USA",
+               "end_location" : {
+                  "lat" : 38.8924592,
+                  "lng" : -77.0466756
+               },
+               "start_address" : "1075-1099 19th Street Northwest, Washington, DC 20036, USA",
+               "start_location" : {
+                  "lat" : 38.9034072,
+                  "lng" : -77.043457
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 565
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 172
+                     },
+                     "end_location" : {
+                        "lat" : 38.8983254,
+                        "lng" : -77.0434611
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e19th St NW\u003c/b\u003e toward \u003cb\u003eK St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iimlFrpfuMxC?TAV?vE?zB@bB@|BAxF?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9034072,
+                        "lng" : -77.043457
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 277
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.8983225,
+                        "lng" : -77.0466565
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eG St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qillFrpfuM?R?B?zB?l@@~@?^?x@?bH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8983254,
+                        "lng" : -77.0434611
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 652
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : 38.8924592,
+                        "lng" : -77.0466756
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e21st St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oillFrdguMhA?R?J?d@?Z?T?hG?fA@x@?X?lB?tC@tA?`AAnC@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8983225,
+                        "lng" : -77.0466565
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iimlFrpfuM~KA~EBvJA?`E@|LrO@vI@fH?"
+         },
+         "summary" : "19th St NW and 21st St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

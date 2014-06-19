@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9205887,
+               "lng" : -77.0296116
+            },
+            "southwest" : {
+               "lat" : 38.9140863,
+               "lng" : -77.04368079999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2213
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 574
+               },
+               "end_address" : "1838-1898 Belmont Road Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9205887,
+                  "lng" : -77.04368079999999
+               },
+               "start_address" : "1931 13th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9167909,
+                  "lng" : -77.0296116
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 301
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.914088,
+                        "lng" : -77.02961999999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e13th St NW\u003c/b\u003e toward \u003cb\u003eWallach Pl NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}|olF`zcuMtA@N@zAAZ?R?N?^?N?dA?pAA`A@N?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9167909,
+                        "lng" : -77.0296116
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1041
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 252
+                     },
+                     "end_location" : {
+                        "lat" : 38.9140878,
+                        "lng" : -77.04165359999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "alolFbzcuM?pM?hAAr@@RArB?dF?X?\\?~B?dD?dA?Z?fB@rD?pA?X@n@?fA?LArD?pA?jA?pB?T"
+                     },
+                     "start_location" : {
+                        "lat" : 38.914088,
+                        "lng" : -77.02961999999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 725
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 219
+                     },
+                     "end_location" : {
+                        "lat" : 38.9205787,
+                        "lng" : -77.0419928
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e18th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "alolFhefuMO?gA?{@?uC?mC?u@AS?Y?c@?M?A?gA@_@@o@Ac@?a@?U?a@@{@?yADw@AM?I@I@C?KAqAZyA^"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9140878,
+                        "lng" : -77.04165359999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "479 ft",
+                        "value" : 146
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : 38.9205887,
+                        "lng" : -77.04368079999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBelmont Rd NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "stplFlgfuMApI"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9205787,
+                        "lng" : -77.0419928
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}|olF`zcuM|E@rA?hF??bRAxW@`U?dHiH?qFA{B@uC?mEFeAASBOAkDz@ApI"
+         },
+         "summary" : "S St NW and 18th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

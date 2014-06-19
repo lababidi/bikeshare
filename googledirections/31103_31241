@@ -1,0 +1,194 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9267429,
+               "lng" : -77.0296094
+            },
+            "southwest" : {
+               "lat" : 38.9048789,
+               "lng" : -77.03647029999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.1 mi",
+                  "value" : 3364
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 656
+               },
+               "end_address" : "1455 Massachusetts Avenue Northwest, Washington, DC 20005, USA",
+               "end_location" : {
+                  "lat" : 38.905879,
+                  "lng" : -77.032512
+               },
+               "start_address" : "2833 16th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9260883,
+                  "lng" : -77.0364689
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "69 ft",
+                        "value" : 21
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.9262766,
+                        "lng" : -77.03647029999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e16th St NW\u003c/b\u003e toward \u003cb\u003eHarvard St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "awqlF|deuMe@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9260883,
+                        "lng" : -77.0364689
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 590
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 118
+                     },
+                     "end_location" : {
+                        "lat" : 38.926742,
+                        "lng" : -77.029732
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHarvard St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gxqlF|deuM?IAg@Ae@CmBEgB?KKwDCeAEuAAWEwA?GAICIAEEIK]EMCKCKCOAMAM?S?c@?aB?yE?S?a@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9262766,
+                        "lng" : -77.03647029999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 mi",
+                        "value" : 1852
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 328
+                     },
+                     "end_location" : {
+                        "lat" : 38.9101665,
+                        "lng" : -77.0298847
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e13th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c{qlFxzcuMdEGvB@lAAnDBD?NAhC?jB@TA^?|@?xA?tA?R?D?D?X?z@Gn@EV?D?vBAv@?F?dA?fA?fA?t@?@?lA?vACZ@bB@N@zAAZ?R?N?^?N?dA?pAA`A@N?N?z@?dAAtC@pA?`A?l@?fB@|BAZF@@B@B@BDBBBDLT"
+                     },
+                     "start_location" : {
+                        "lat" : 38.926742,
+                        "lng" : -77.029732
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 212
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 38.9086144,
+                        "lng" : -77.0296206
+                     },
+                     "html_instructions" : "At the traffic circle, take the \u003cb\u003e5th\u003c/b\u003e exit",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "qsnlFv{cuMJTDLFHDFFHFDBBBBD@B@LFHBJ@B?D?B?DAZKROX_@Zg@@CDGHMBCBABA@?@AD?FAH?H?B?DAHE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9101665,
+                        "lng" : -77.0298847
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 415
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 88
+                     },
+                     "end_location" : {
+                        "lat" : 38.9048789,
+                        "lng" : -77.0296207
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003e13th St NW\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "yinlFbzcuMH?fG@f@?fB?fA?dB?xCA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9086144,
+                        "lng" : -77.0296206
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 274
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : 38.905879,
+                        "lng" : -77.032512
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ormlFbzcuMKf@y@`DaCvJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9048789,
+                        "lng" : -77.0296207
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "awqlF|deuMe@??ICmAUyKQkGGa@[aAKw@?sJ?u@dEGvB@|F@TAjH?`G?`BGfAE|BAlE?lE?rBArBBzCAfEAlO@tC@|BAZFDBFF`@t@LVLPTNPHTDRAZKROt@gAT]JE`@AHARE~M@~FAeAhEaCvJ"
+         },
+         "summary" : "13th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

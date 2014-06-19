@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9030382,
+               "lng" : -77.0161782
+            },
+            "southwest" : {
+               "lat" : 38.89535130000001,
+               "lng" : -77.01894779999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1093
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 194
+               },
+               "end_address" : "451 4th Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.89535130000001,
+                  "lng" : -77.0161808
+               },
+               "start_address" : "1054 5th Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9030382,
+                  "lng" : -77.01894779999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 525
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 101
+                     },
+                     "end_location" : {
+                        "lat" : 38.8983194,
+                        "lng" : -77.0189218
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e5th St NW\u003c/b\u003e toward \u003cb\u003eK St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_gmlFlwauMJ?P?N?N?L?J?D?H?hBC|B@F?d@AH?R?V?|B?x@AV@ZAxBAbB@p@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9030382,
+                        "lng" : -77.01894779999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 237
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.89833,
+                        "lng" : -77.0161782
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eG St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oillFfwauM?iB?cAAyA?oB?kD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8983194,
+                        "lng" : -77.0189218
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 331
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 38.89535130000001,
+                        "lng" : -77.0161808
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e4th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qillFbfauM~@?|A?f@?|@?|B?v@?z@?x@?b@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89833,
+                        "lng" : -77.0161782
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_gmlFlwauMfB?fFAl@ArD?fFCtC@?mDAiE?kD~@?dC?zD?pE?"
+         },
+         "summary" : "5th St NW and 4th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

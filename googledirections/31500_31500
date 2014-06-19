@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9194884,
+               "lng" : -77.000575
+            },
+            "southwest" : {
+               "lat" : 38.9194884,
+               "lng" : -77.000575
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "2213 4th Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9194884,
+                  "lng" : -77.000575
+               },
+               "start_address" : "2213 4th Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9194884,
+                  "lng" : -77.000575
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9194884,
+                        "lng" : -77.000575
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e4th St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ymplFrd~tM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9194884,
+                        "lng" : -77.000575
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ymplFrd~tM"
+         },
+         "summary" : "4th St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

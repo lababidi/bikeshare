@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9101404,
+               "lng" : -77.04161210000001
+            },
+            "southwest" : {
+               "lat" : 38.8995543,
+               "lng" : -77.04491929999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1403
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 448
+               },
+               "end_address" : "1913-1947 Massachusetts Avenue Northwest, Washington, DC 20036, USA",
+               "end_location" : {
+                  "lat" : 38.9100305,
+                  "lng" : -77.0444397
+               },
+               "start_address" : "1776-1798 Pennsylvania Avenue Northwest, Washington, DC 20006, USA",
+               "start_location" : {
+                  "lat" : 38.8995543,
+                  "lng" : -77.04161210000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 312
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 99
+                     },
+                     "end_location" : {
+                        "lat" : 38.900712,
+                        "lng" : -77.0448993
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e toward \u003cb\u003e18th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eqllF`efuMENENCLADc@dBe@hBUz@Qr@ETq@fCc@hBGT"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8995543,
+                        "lng" : -77.04161210000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1048
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 283
+                     },
+                     "end_location" : {
+                        "lat" : 38.9101404,
+                        "lng" : -77.0448995
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e20th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mxllFryfuM}B?sEAW@W?{EAqA@yABM?O?eBAw@AU?c@?gB?qD?_C@A?a@?eBAwE?aB?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.900712,
+                        "lng" : -77.0448993
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 ft",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 38.9100699,
+                        "lng" : -77.0447052
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ksnlFryfuMLe@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9101404,
+                        "lng" : -77.0448995
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "79 ft",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 38.9100305,
+                        "lng" : -77.0444397
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "}rnlFlxfuMBg@BM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9100699,
+                        "lng" : -77.0447052
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "eqllF`efuMcCrJcB|GaK?mH?gBBcEC}L@aJAaB?Le@Fu@"
+         },
+         "summary" : "Pennsylvania Ave NW and 20th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

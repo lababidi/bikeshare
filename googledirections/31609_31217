@@ -1,0 +1,169 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8875704,
+               "lng" : -77.02118919999999
+            },
+            "southwest" : {
+               "lat" : 38.8768127,
+               "lng" : -77.02817589999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1546
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 379
+               },
+               "end_address" : "201-245 12th Street Southwest, Washington, DC 20228, USA",
+               "end_location" : {
+                  "lat" : 38.8872365,
+                  "lng" : -77.02817349999999
+               },
+               "start_address" : "549-699 Water Street Southwest, Washington, DC 20024, USA",
+               "start_location" : {
+                  "lat" : 38.8768127,
+                  "lng" : -77.02118919999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 230
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.8782873,
+                        "lng" : -77.0230504
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eWater St SW\u003c/b\u003e toward \u003cb\u003e7th St SW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "achlFlebuMo@z@GHMPg@r@u@dAUZmBdC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8768127,
+                        "lng" : -77.02118919999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "180 ft",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 38.8786324,
+                        "lng" : -77.0225942
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e7th St SW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ilhlF`qbuMo@aASY"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8782873,
+                        "lng" : -77.0230504
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 661
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 150
+                     },
+                     "end_location" : {
+                        "lat" : 38.8826921,
+                        "lng" : -77.02798159999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMaine Ave SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mnhlFdnbuMQVKR_AnAgBbC]d@a@h@_AlAMTOPQTOVWZSXSXOVKTO^CFGRK^Mb@IXI^Mb@O^KTMRQZMNCBKNWRIDGDQJA@MFMFGBA@C@IB?@A?MDIDA?IB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8786324,
+                        "lng" : -77.0225942
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 544
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 139
+                     },
+                     "end_location" : {
+                        "lat" : 38.88757,
+                        "lng" : -77.02795329999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e12th St SW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ygilFzocuMWBU@U@U?W?g@Bs@BWFe@?_A@U?K?O?SA[@[?[?gA?_BAaA@g@Ai@E{@EWAKAGA_@Ge@C"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8826921,
+                        "lng" : -77.02798159999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "184 ft",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 38.8872365,
+                        "lng" : -77.02817349999999
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eIndependence Ave SW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "ifjlFtocuM?R?Xt@AJ?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88757,
+                        "lng" : -77.02795329999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "achlFlebuMmBjCkA`BmBdCo@aASYQVkAbBgF`H_AtAoAfBg@pAm@|B]bAYh@o@~@i@^a@Te@TYJKBm@DkBDs@BWFeB@eAA{C@aD?qAGgBKeAK?l@`AA"
+         },
+         "summary" : "Maine Ave SW and 12th St SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

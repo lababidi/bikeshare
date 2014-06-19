@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8792649,
+               "lng" : -76.99530059999999
+            },
+            "southwest" : {
+               "lat" : 38.8792649,
+               "lng" : -76.99530059999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "726 I Street Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.8792649,
+                  "lng" : -76.99530059999999
+               },
+               "start_address" : "726 I Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8792649,
+                  "lng" : -76.99530059999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8792649,
+                        "lng" : -76.99530059999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eI St SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "krhlFrc}tM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8792649,
+                        "lng" : -76.99530059999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "krhlFrc}tM"
+         },
+         "summary" : "I St SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

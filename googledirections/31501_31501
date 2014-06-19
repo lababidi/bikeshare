@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9336645,
+               "lng" : -76.99108989999999
+            },
+            "southwest" : {
+               "lat" : 38.9336645,
+               "lng" : -76.99108989999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "3601 12th Street Northeast, Washington, DC 20017, USA",
+               "end_location" : {
+                  "lat" : 38.9336645,
+                  "lng" : -76.99108989999999
+               },
+               "start_address" : "3601 12th Street Northeast, Washington, DC 20017, USA",
+               "start_location" : {
+                  "lat" : 38.9336645,
+                  "lng" : -76.99108989999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9336645,
+                        "lng" : -76.99108989999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e12th St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kfslFhi|tM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9336645,
+                        "lng" : -76.99108989999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kfslFhi|tM"
+         },
+         "summary" : "12th St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

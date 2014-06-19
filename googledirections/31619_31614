@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8999828,
+               "lng" : -76.98823179999999
+            },
+            "southwest" : {
+               "lat" : 38.8904621,
+               "lng" : -76.99153299999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1339
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 254
+               },
+               "end_address" : "731-799 11th Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.8999828,
+                  "lng" : -76.9915285
+               },
+               "start_address" : "1 13th Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.8904621,
+                  "lng" : -76.9883013
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 188
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.8921405,
+                        "lng" : -76.98823179999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e13th St NE/Lincoln Park Dr NE\u003c/b\u003e toward \u003cb\u003eNorth Carolina Ave NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow 13th St NE\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "kxjlFzw{tMC?Y@}DA{A@WO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8904621,
+                        "lng" : -76.9883013
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 160
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : 38.8935734,
+                        "lng" : -76.988311
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003e13th St NE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "{bklFlw{tM_@@C@A?IF]?s@B_@?]?uA?G?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8921405,
+                        "lng" : -76.98823179999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 279
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 38.893579,
+                        "lng" : -76.99153299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eC St NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ykklF|w{tM?|D?bE?bCAfB?T"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8935734,
+                        "lng" : -76.988311
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 712
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 125
+                     },
+                     "end_location" : {
+                        "lat" : 38.8999828,
+                        "lng" : -76.9915285
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e11th St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{kklF`l|tMQ?G?_C?uA?kG?aCAS?[?_A@O?qD?yB?I?I?aE?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.893579,
+                        "lng" : -76.99153299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kxjlFzw{tMwH@WO_@@E@IF]?sABsB?G??|D?fIA|BoF?yX?uE?"
+         },
+         "summary" : "13th St NE and 11th St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

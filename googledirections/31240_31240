@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8840239,
+               "lng" : -77.0467027
+            },
+            "southwest" : {
+               "lat" : 38.8840239,
+               "lng" : -77.0467027
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "690 Ohio Drive Southwest, Washington, DC 20418, USA",
+               "end_location" : {
+                  "lat" : 38.8840239,
+                  "lng" : -77.0467027
+               },
+               "start_address" : "690 Ohio Drive Southwest, Washington, DC 20418, USA",
+               "start_location" : {
+                  "lat" : 38.8840239,
+                  "lng" : -77.0467027
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8840239,
+                        "lng" : -77.0467027
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eOhio Dr SW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cpilFzdguM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8840239,
+                        "lng" : -77.0467027
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cpilFzdguM"
+         },
+         "summary" : "Ohio Dr SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

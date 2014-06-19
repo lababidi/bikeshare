@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8114352,
+               "lng" : -77.0501163
+            },
+            "southwest" : {
+               "lat" : 38.8048506,
+               "lng" : -77.052908
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 945
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 165
+               },
+               "end_address" : "106 Commerce Street, Alexandria, VA 22314, USA",
+               "end_location" : {
+                  "lat" : 38.8056072,
+                  "lng" : -77.052908
+               },
+               "start_address" : "601-623 U.S. 1, Alexandria, VA 22314, USA",
+               "start_location" : {
+                  "lat" : 38.8114352,
+                  "lng" : -77.0501163
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 742
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 133
+                     },
+                     "end_location" : {
+                        "lat" : 38.8048506,
+                        "lng" : -77.0515245
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Henry St\u003c/b\u003e toward \u003cb\u003ePendleton St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "oj{kFfzguM\\D~Er@bFn@tC^jAPbFp@bFh@zBX\\D"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8114352,
+                        "lng" : -77.0501163
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "312 ft",
+                        "value" : 95
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 38.80498559999999,
+                        "lng" : -77.0526125
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eEmerson Alley\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "iazkF~bhuMKzAO|B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8048506,
+                        "lng" : -77.0515245
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "230 ft",
+                        "value" : 70
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 38.8056046,
+                        "lng" : -77.0524805
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Fayette St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ebzkFxihuMyBY"
+                     },
+                     "start_location" : {
+                        "lat" : 38.80498559999999,
+                        "lng" : -77.0526125
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "125 ft",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.8056072,
+                        "lng" : -77.052908
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCommerce St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_fzkF~hhuMG|@@JBJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8056046,
+                        "lng" : -77.0524805
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "oj{kFfzguM|Fx@xJnAnHbA~IbA\\DKzAO|ByBYEhABJ"
+         },
+         "summary" : "N Henry St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

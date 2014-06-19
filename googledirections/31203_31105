@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9266788,
+               "lng" : -77.03213769999999
+            },
+            "southwest" : {
+               "lat" : 38.9079272,
+               "lng" : -77.035484
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 mi",
+                  "value" : 2567
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 642
+               },
+               "end_address" : "1342-1398 Harvard Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9266788,
+                  "lng" : -77.03213769999999
+               },
+               "start_address" : "1415 Rhode Island Avenue Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9086945,
+                  "lng" : -77.03235389999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 209
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 38.9079272,
+                        "lng" : -77.03455989999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eRhode Island Ave NW\u003c/b\u003e toward \u003cb\u003e15th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ijnlFdkduMXnA\\pAb@hBz@lD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9086945,
+                        "lng" : -77.03235389999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1162
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 243
+                     },
+                     "end_location" : {
+                        "lat" : 38.9183717,
+                        "lng" : -77.03450370000002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e15th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qenlF~xduMeB?s@?q@?m@?}A?qAAaA?qCAuCAmA?u@?M?_A@yC?C?mA?a@?oB?cC?Q?M?oBAO?[?sB@sCAi@?K?S?YAWC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9079272,
+                        "lng" : -77.03455989999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 901
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 277
+                     },
+                     "end_location" : {
+                        "lat" : 38.926325,
+                        "lng" : -77.035484
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003e15th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "yfplFrxduM_@FyAVc@Jc@@eFLUASDEBEBCFCDCFCHADCDEBCDGBGBE@G@mAB[@iABuBDgBF}@@K?mGPgBDU@qDD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9183717,
+                        "lng" : -77.03450370000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 295
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 92
+                     },
+                     "end_location" : {
+                        "lat" : 38.9266788,
+                        "lng" : -77.03213769999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHarvard St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oxqlFv~duMEgB?KKwDCeAEuAAWEwA?GAICIAEEIK]EMCK"
+                     },
+                     "start_location" : {
+                        "lat" : 38.926325,
+                        "lng" : -77.035484
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ijnlFdkduMvCxLyF?kTE{`@?m@AWC_@F}Bb@iGNUASDKFO^OTOFMBiHN_MZ}BFqDDEgBKcEI{CIaCWw@IY"
+         },
+         "summary" : "15th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

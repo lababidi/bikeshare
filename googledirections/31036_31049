@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8836684,
+               "lng" : -77.1137317
+            },
+            "southwest" : {
+               "lat" : 38.87883739999999,
+               "lng" : -77.12063810000001
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 1016
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 279
+               },
+               "end_address" : "1101 North Utah Street, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.8836684,
+                  "lng" : -77.11391239999999
+               },
+               "start_address" : "Bluemont Junction Trail, Arlington, VA 22203, USA",
+               "start_location" : {
+                  "lat" : 38.87883739999999,
+                  "lng" : -77.12063810000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 376
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 72
+                     },
+                     "end_location" : {
+                        "lat" : 38.8818662,
+                        "lng" : -77.11890889999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eBluemont Junction Trail\u003c/b\u003e toward \u003cb\u003eN Buchanan St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wohlF~ruuM]YgCoBy@q@cCcBSIGCWEcAWkAGu@E"
+                     },
+                     "start_location" : {
+                        "lat" : 38.87883739999999,
+                        "lng" : -77.12063810000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "456 ft",
+                        "value" : 139
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 38.8820247,
+                        "lng" : -77.11745309999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ubilFdhuuME{B?_A?aB?AAAUA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8818662,
+                        "lng" : -77.11890889999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 323
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 124
+                     },
+                     "end_location" : {
+                        "lat" : 38.8820766,
+                        "lng" : -77.1137317
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "scilF`_uuM?WA_@?g@Cm@De@A_@CwABi@?{@CsBEaF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8820247,
+                        "lng" : -77.11745309999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 178
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 38.8836684,
+                        "lng" : -77.11391239999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Utah St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_dilFxgtuMS@qG^W@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8820766,
+                        "lng" : -77.1137317
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wohlF~ruuMeDiC}DuC[M{A]aCME{D?cBWCEmCBeACwABi@CoDEaFS@iH`@"
+         },
+         "summary" : "Bluemont Junction Trail and N Fairfax Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

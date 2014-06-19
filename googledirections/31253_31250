@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9035844,
+               "lng" : -77.0434544
+            },
+            "southwest" : {
+               "lat" : 38.9013343,
+               "lng" : -77.04489730000002
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 472
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 128
+               },
+               "end_address" : "1001-1099 20th Street Northwest, Washington, DC 20036, USA",
+               "end_location" : {
+                  "lat" : 38.9035844,
+                  "lng" : -77.0448942
+               },
+               "start_address" : "900-998 19th Street Northwest, Washington, DC 20006, USA",
+               "start_location" : {
+                  "lat" : 38.902204,
+                  "lng" : -77.0434544
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "318 ft",
+                        "value" : 97
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 38.9013343,
+                        "lng" : -77.04345479999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e19th St NW\u003c/b\u003e toward \u003cb\u003eI St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wamlFppfuMlD?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.902204,
+                        "lng" : -77.0434544
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "410 ft",
+                        "value" : 125
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.9013392,
+                        "lng" : -77.04489730000002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eI St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "i|llFppfuMAZ?jD?xA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9013343,
+                        "lng" : -77.04345479999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 250
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 87
+                     },
+                     "end_location" : {
+                        "lat" : 38.9035844,
+                        "lng" : -77.0448942
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e20th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "k|llFryfuMsEAW@W?{DA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9013392,
+                        "lng" : -77.04489730000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wamlFppfuMlD?AZ?dG_MA"
+         },
+         "summary" : "20th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

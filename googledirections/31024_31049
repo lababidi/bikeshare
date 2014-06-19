@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8836684,
+               "lng" : -77.1030392
+            },
+            "southwest" : {
+               "lat" : 38.882183,
+               "lng" : -77.11391239999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1166
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 261
+               },
+               "end_address" : "1101 North Utah Street, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.8836684,
+                  "lng" : -77.11391239999999
+               },
+               "start_address" : "901 North Monroe Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.88282239999999,
+                  "lng" : -77.1030392
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "246 ft",
+                        "value" : 75
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 38.8834457,
+                        "lng" : -77.10336560000002
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eNorth Monroe Street\u003c/b\u003e toward \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "shilF~druMcBr@YL"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88282239999999,
+                        "lng" : -77.1030392
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 925
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 217
+                     },
+                     "end_location" : {
+                        "lat" : 38.882183,
+                        "lng" : -77.11374479999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qlilF`gruM`AzCDJDLv@bCJ`@Hb@FVJn@BZD^B^BfAAj@CrBCh@Ev@A|@?`@?T@TDrABz@Dv@JvBHvAHhCH|BHnDFnE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8834457,
+                        "lng" : -77.10336560000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 166
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 38.8836684,
+                        "lng" : -77.11391239999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Utah St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sdilFzgtuMqG^W@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.882183,
+                        "lng" : -77.11374479999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "shilF~druM}B`AfAfD|@pCTdARfAHz@FfBE~CI`BA~AJzDd@pKRlHFnEqG^W@"
+         },
+         "summary" : "N Fairfax Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

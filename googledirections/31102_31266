@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9294828,
+               "lng" : -77.02702579999999
+            },
+            "southwest" : {
+               "lat" : 38.905637,
+               "lng" : -77.0276958
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 mi",
+                  "value" : 2665
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 555
+               },
+               "end_address" : "1100-1112 M Street Northwest, Washington, DC 20005, USA",
+               "end_location" : {
+                  "lat" : 38.905638,
+                  "lng" : -77.0271365
+               },
+               "start_address" : "3133 11th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9294828,
+                  "lng" : -77.0276958
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.7 mi",
+                        "value" : 2657
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 554
+                     },
+                     "end_location" : {
+                        "lat" : 38.905637,
+                        "lng" : -77.027041
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e11th St NW\u003c/b\u003e toward \u003cb\u003eIrving St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "glrlFbncuMh@KlAQb@Gt@MrASv@M~@M^Ed@Ir@MH?DAP?j@?v@?v@?R?`B?bB?hD?J?N?x@?xA?d@?b@?l@?lI?zH?jC?hA?N?rA?lA?j@@Z?j@A~C@r@An@AnC@nA?V?d@?r@@^?tAAxAAlA?|A@|B?\\AH?^?F?R?ZAvA@lA?pA@t@?nA?pA?hB?lAAtA@|@?jA?@?L?nA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9294828,
+                        "lng" : -77.0276958
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "26 ft",
+                        "value" : 8
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 38.905638,
+                        "lng" : -77.0271365
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eM St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gwmlF~icuM?R"
+                     },
+                     "start_location" : {
+                        "lat" : 38.905637,
+                        "lng" : -77.027041
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "glrlFbncuM|LiBhBYlD?rP?f^?hF@nHC|G@bGAlK?tQ@lH?N?nA??R"
+         },
+         "summary" : "11th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

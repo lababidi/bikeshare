@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.92261329999999,
+               "lng" : -77.07040260000001
+            },
+            "southwest" : {
+               "lat" : 38.92261329999999,
+               "lng" : -77.07040260000001
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "12-80 Observatory Circle Northwest, Washington, DC 20008, USA",
+               "end_location" : {
+                  "lat" : 38.92261329999999,
+                  "lng" : -77.07040260000001
+               },
+               "start_address" : "12-80 Observatory Circle Northwest, Washington, DC 20008, USA",
+               "start_location" : {
+                  "lat" : 38.92261329999999,
+                  "lng" : -77.07040260000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.92261329999999,
+                        "lng" : -77.07040260000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eObservatory Cir NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iaqlF~xkuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.92261329999999,
+                        "lng" : -77.07040260000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iaqlF~xkuM"
+         },
+         "summary" : "Observatory Cir NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

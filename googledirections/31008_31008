@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8629718,
+               "lng" : -77.05279399999999
+            },
+            "southwest" : {
+               "lat" : 38.8629718,
+               "lng" : -77.05279399999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "421-499 12th Street South, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.8629718,
+                  "lng" : -77.05279399999999
+               },
+               "start_address" : "421-499 12th Street South, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.8629718,
+                  "lng" : -77.05279399999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8629718,
+                        "lng" : -77.05279399999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e12th St S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qlelF|jhuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8629718,
+                        "lng" : -77.05279399999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qlelF|jhuM"
+         },
+         "summary" : "12th St S",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

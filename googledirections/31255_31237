@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9066005,
+               "lng" : -77.0514024
+            },
+            "southwest" : {
+               "lat" : 38.9036794,
+               "lng" : -77.05352379999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 510
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 111
+               },
+               "end_address" : "2500 Pennsylvania Avenue Northwest, Washington, DC 20530, USA",
+               "end_location" : {
+                  "lat" : 38.9037407,
+                  "lng" : -77.05352379999999
+               },
+               "start_address" : "1250 24th Street Northwest, Washington, DC 20037, USA",
+               "start_location" : {
+                  "lat" : 38.9066005,
+                  "lng" : -77.05140539999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "157 ft",
+                        "value" : 48
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 38.9061723,
+                        "lng" : -77.0514024
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e24th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g}mlFhbhuMtAA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9066005,
+                        "lng" : -77.05140539999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 164
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 38.906171,
+                        "lng" : -77.0532966
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003e25th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qzmlFfbhuM@b@AxC?zD?@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9061723,
+                        "lng" : -77.0514024
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 277
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 38.9036794,
+                        "lng" : -77.0532984
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e25th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qzmlFbnhuMp@?t@?lA?zA?bA?\\A`B@Z?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.906171,
+                        "lng" : -77.0532966
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "69 ft",
+                        "value" : 21
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 38.9037407,
+                        "lng" : -77.05352379999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_kmlFbnhuMKj@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9036794,
+                        "lng" : -77.0532984
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "g}mlFhbhuMtAA@b@AtIp@@bC?~G?Z?Kj@"
+         },
+         "summary" : "25th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8978575,
+               "lng" : -77.01940189999999
+            },
+            "southwest" : {
+               "lat" : 38.897203,
+               "lng" : -77.02704659999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 737
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 244
+               },
+               "end_address" : "548 F Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.8973413,
+                  "lng" : -77.01940189999999
+               },
+               "start_address" : "601-699 11th Street Northwest, Washington, DC 20004, USA",
+               "start_location" : {
+                  "lat" : 38.8978575,
+                  "lng" : -77.0270402
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "187 ft",
+                        "value" : 57
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.8973435,
+                        "lng" : -77.02704659999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e11th St NW\u003c/b\u003e toward \u003cb\u003eF St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sfllF~icuMfB@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8978575,
+                        "lng" : -77.0270402
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 446
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : 38.8972039,
+                        "lng" : -77.0219372
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eF St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kcllF`jcuMAsE?yC@kE?C?C?C@GBULYBK@A?A?A?A?A?e@@qA?e@?kE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8973435,
+                        "lng" : -77.02704659999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "52 ft",
+                        "value" : 16
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 38.8973506,
+                        "lng" : -77.02192169999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e7th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "obllFbjbuM]C"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8972039,
+                        "lng" : -77.0219372
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 218
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 38.8973413,
+                        "lng" : -77.01940189999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eF St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "mcllF~ibuM?e@?m@?W@sA?cC?o@?_@?cB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8973506,
+                        "lng" : -77.02192169999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sfllF~icuMfB@AsE@eJ@SBULYBK@G@_D?kE]C?sA@_H?cC"
+         },
+         "summary" : "F St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

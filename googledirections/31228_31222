@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9000166,
+               "lng" : -77.02308649999999
+            },
+            "southwest" : {
+               "lat" : 38.8988543,
+               "lng" : -77.0336507
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 976
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 288
+               },
+               "end_address" : "701-725 15th Street Northwest, Washington, DC 20005, USA",
+               "end_location" : {
+                  "lat" : 38.8991001,
+                  "lng" : -77.0336507
+               },
+               "start_address" : "806 H Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.8998136,
+                  "lng" : -77.02308649999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 635
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 166
+                     },
+                     "end_location" : {
+                        "lat" : 38.9000166,
+                        "lng" : -77.03034149999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eH St NW\u003c/b\u003e toward \u003cb\u003eU.S. 1\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yrllFhqbuM?Z?|A?\\?\\?jK?x@?t@?B?r@?l@?hE?r@CfGA`A?LCJAFAFEFCHQL"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8998136,
+                        "lng" : -77.02308649999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 314
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 106
+                     },
+                     "end_location" : {
+                        "lat" : 38.8988543,
+                        "lng" : -77.0336504
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNew York Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ctllFr~cuMnBtHxB~I"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9000166,
+                        "lng" : -77.03034149999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "89 ft",
+                        "value" : 27
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.8991001,
+                        "lng" : -77.0336507
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e15th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ylllFhsduMg@?I?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8988543,
+                        "lng" : -77.0336504
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yrllFhqbuM?tT?~IEhICXM`@QLnBtHxB~Ig@?I?"
+         },
+         "summary" : "H St NW and New York Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

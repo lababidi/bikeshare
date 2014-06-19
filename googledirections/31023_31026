@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8859239,
+               "lng" : -77.09345549999999
+            },
+            "southwest" : {
+               "lat" : 38.8848101,
+               "lng" : -77.0977503
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 425
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 135
+               },
+               "end_address" : "2946 Washington Boulevard, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.8848101,
+                  "lng" : -77.09345549999999
+               },
+               "start_address" : "North Fairfax Drive, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8857372,
+                  "lng" : -77.0977503
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "105 ft",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.8856506,
+                        "lng" : -77.0973968
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eN Fairfax Dr\u003c/b\u003e toward \u003cb\u003eWilson Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{zilF|cquM?E@G@KBKH_@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8857372,
+                        "lng" : -77.0977503
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "121 ft",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.8859104,
+                        "lng" : -77.09712800000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWilson Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "izilFvaquMQQGGGIQQ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8856506,
+                        "lng" : -77.0973968
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 356
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 87
+                     },
+                     "end_location" : {
+                        "lat" : 38.8848101,
+                        "lng" : -77.09345549999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWashington Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}{ilF``quM?_AA{@?iABiA@KDc@BQ@SBSFUFWHYL[N[`AiBT_@l@kAHM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8859104,
+                        "lng" : -77.09712800000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{zilF|cquMFe@H_@QQOQQQ?_AAeCDuAHu@L}@Pq@\\w@nCcF"
+         },
+         "summary" : "Washington Blvd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

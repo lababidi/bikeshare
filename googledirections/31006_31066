@@ -1,0 +1,145 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8702824,
+               "lng" : -77.0626911
+            },
+            "southwest" : {
+               "lat" : 38.8636483,
+               "lng" : -77.07279969999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1658
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 463
+               },
+               "end_address" : "832-900 South Orme Street, Arlington, VA 22204, USA",
+               "end_location" : {
+                  "lat" : 38.8672729,
+                  "lng" : -77.07227039999999
+               },
+               "start_address" : "Joyce St & Pentagon Row, Pentagon Row, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.8636483,
+                  "lng" : -77.0633122
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "33 ft",
+                        "value" : 10
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 38.8636638,
+                        "lng" : -77.06342049999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e toward \u003cb\u003eS Joyce St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ypelFtljuMAT"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8636483,
+                        "lng" : -77.0633122
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 800
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 156
+                     },
+                     "end_location" : {
+                        "lat" : 38.870146,
+                        "lng" : -77.06518729999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Joyce St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{pelFjmjuMc@Gs@QMCKEA?sD}@MC_@IMCoAW]Eg@?_@@c@BS@OBA?UBa@DK@E@I@A@[De@HC@KBA?a@H]H]HA?A?y@Ve@PSJMFOJOLUPONSTKLIJOTINGJEDEFeA|ASZMREFIPIN"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8636638,
+                        "lng" : -77.06342049999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 697
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 285
+                     },
+                     "end_location" : {
+                        "lat" : 38.8685632,
+                        "lng" : -77.07279969999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eS Southgate Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "myflFlxjuMOf@EXAJA\\?\\@ZD`@D`@RrAnEdXDDFFJPN`@N`@BND\\Bh@B^XpD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.870146,
+                        "lng" : -77.06518729999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "495 ft",
+                        "value" : 151
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.8672729,
+                        "lng" : -77.07227039999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Orme St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ooflF~gluMxDmAfA["
+                     },
+                     "start_location" : {
+                        "lat" : 38.8685632,
+                        "lng" : -77.07279969999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ypelFtljuMATc@GaAUoEgAm@MmB]gA@w@DiAL[DuAV}A\\cBh@aAl@e@`@_@b@k@|@eBfCg@|@U`ACh@@x@JbAbFxZLLZr@Rp@HfA\\pE`GiB"
+         },
+         "summary" : "S Joyce St and S Southgate Rd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

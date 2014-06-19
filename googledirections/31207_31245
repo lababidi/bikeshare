@@ -1,0 +1,145 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9248471,
+               "lng" : -77.0218924
+            },
+            "southwest" : {
+               "lat" : 38.9125987,
+               "lng" : -77.02261200000001
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1418
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 276
+               },
+               "end_address" : "701-799 R Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9125987,
+                  "lng" : -77.0221543
+               },
+               "start_address" : "641-699 Fairmont Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9248471,
+                  "lng" : -77.02219169999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "121 ft",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.924806,
+                        "lng" : -77.02261200000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eFairmont St NW\u003c/b\u003e toward \u003cb\u003eGeorgia Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ioqlFtkbuMDv@@Z"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9248471,
+                        "lng" : -77.02219169999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 953
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 197
+                     },
+                     "end_location" : {
+                        "lat" : 38.916268,
+                        "lng" : -77.02190659999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eGeorgia Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "aoqlFhnbuMt@G^Cf@Ez@GtBOj@GtAIp@EHAzBSXCv@GVC\\CNANARClCSNANAB?X?v@AJ?^?p@?hA?F?~@?~AAN@jC?f@@ZAj@@d@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.924806,
+                        "lng" : -77.02261200000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 408
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 38.9125995,
+                        "lng" : -77.02192409999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e7th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uyolF|ibuMR?J@tA?T?T?d@?xD?n@@rBAvD?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.916268,
+                        "lng" : -77.02190659999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "66 ft",
+                        "value" : 20
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.9125987,
+                        "lng" : -77.0221543
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wbolF~ibuM?l@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9125995,
+                        "lng" : -77.02192409999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ioqlFtkbuMFrAtAKdGe@fCOdCUfCS`E[|@CfKCpID|T??l@"
+         },
+         "summary" : "Georgia Ave NW and 7th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

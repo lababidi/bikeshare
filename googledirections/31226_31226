@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9164165,
+               "lng" : -77.06825270000002
+            },
+            "southwest" : {
+               "lat" : 38.9164165,
+               "lng" : -77.06825270000002
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1900-2056 Wisconsin Avenue Northwest, Washington, DC 20007, USA",
+               "end_location" : {
+                  "lat" : 38.9164165,
+                  "lng" : -77.06825270000002
+               },
+               "start_address" : "1900-2056 Wisconsin Avenue Northwest, Washington, DC 20007, USA",
+               "start_location" : {
+                  "lat" : 38.9164165,
+                  "lng" : -77.06825270000002
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9164165,
+                        "lng" : -77.06825270000002
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eWisconsin Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "szolFpkkuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9164165,
+                        "lng" : -77.06825270000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "szolFpkkuM"
+         },
+         "summary" : "Wisconsin Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

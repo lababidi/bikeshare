@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9051567,
+               "lng" : -76.99410689999999
+            },
+            "southwest" : {
+               "lat" : 38.9004124,
+               "lng" : -77.0020495
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1189
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 287
+               },
+               "end_address" : "800 Florida Avenue Northeast, Gallaudet University, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9051436,
+                  "lng" : -76.99410689999999
+               },
+               "start_address" : "800-898 3rd Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9004124,
+                  "lng" : -77.0020495
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 369
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 38.90373,
+                        "lng" : -77.002043
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e3rd St NE\u003c/b\u003e toward \u003cb\u003eI St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qvllFxm~tMgA?QAkA?Q?}A?I?cC?qA?qC?O?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9004124,
+                        "lng" : -77.0020495
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 613
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 100
+                     },
+                     "end_location" : {
+                        "lat" : 38.903724,
+                        "lng" : -76.99495899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eL St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ikmlFvm~tM?gB?k@?Q?u@?gA?U?sA?kB?uE?W@wK?W?oF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.90373,
+                        "lng" : -77.002043
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 207
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 119
+                     },
+                     "end_location" : {
+                        "lat" : 38.9051436,
+                        "lng" : -76.99410689999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e8th St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gkmlFna}tMqD?E?CAEACCIC_Aq@Oy@Bo@?A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.903724,
+                        "lng" : -76.99495899999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qvllFxm~tMuNAaD??sC?eD?mL@oL?oFqD?IAIEiAu@Oy@Bo@?A"
+         },
+         "summary" : "3rd St NE and L St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

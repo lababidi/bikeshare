@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8767133,
+               "lng" : -77.0177242
+            },
+            "southwest" : {
+               "lat" : 38.8767133,
+               "lng" : -77.0177242
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1150 4th Street Southwest, Washington, DC 20024, USA",
+               "end_location" : {
+                  "lat" : 38.8767133,
+                  "lng" : -77.0177242
+               },
+               "start_address" : "1150 4th Street Southwest, Washington, DC 20024, USA",
+               "start_location" : {
+                  "lat" : 38.8767133,
+                  "lng" : -77.0177242
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8767133,
+                        "lng" : -77.0177242
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e4th St SW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mbhlFvoauM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8767133,
+                        "lng" : -77.0177242
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mbhlFvoauM"
+         },
+         "summary" : "4th St SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

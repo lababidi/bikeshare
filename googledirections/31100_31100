@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9002135,
+               "lng" : -77.042901
+            },
+            "southwest" : {
+               "lat" : 38.9002135,
+               "lng" : -77.042901
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1853-1899 H Street Northwest, Washington, DC 20006, USA",
+               "end_location" : {
+                  "lat" : 38.9002135,
+                  "lng" : -77.042901
+               },
+               "start_address" : "1853-1899 H Street Northwest, Washington, DC 20006, USA",
+               "start_location" : {
+                  "lat" : 38.9002135,
+                  "lng" : -77.042901
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9002135,
+                        "lng" : -77.042901
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eH St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iullFbmfuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9002135,
+                        "lng" : -77.042901
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iullFbmfuM"
+         },
+         "summary" : "H St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8840239,
+               "lng" : -77.03731990000001
+            },
+            "southwest" : {
+               "lat" : 38.8797896,
+               "lng" : -77.0467027
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 1014
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 197
+               },
+               "end_address" : "690 Ohio Drive Southwest, Washington, DC 20418, USA",
+               "end_location" : {
+                  "lat" : 38.8840239,
+                  "lng" : -77.0467027
+               },
+               "start_address" : "East Basin Drive SW, Washington, DC 20242, USA",
+               "start_location" : {
+                  "lat" : 38.8797896,
+                  "lng" : -77.0374128
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "23 ft",
+                        "value" : 7
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.87979,
+                        "lng" : -77.03732819999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "uuhlFxjeuM?O"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8797896,
+                        "lng" : -77.0374128
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "30 ft",
+                        "value" : 9
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.879871,
+                        "lng" : -77.03731990000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eE Basin Dr SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "uuhlFhjeuMOA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.87979,
+                        "lng" : -77.03732819999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 226
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 38.8799234,
+                        "lng" : -77.03985680000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eE Basin Dr SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "evhlFfjeuM?tAAn@?PCb@AVIl@Kp@I^AL?L?RD^BLJb@@LFV"
+                     },
+                     "start_location" : {
+                        "lat" : 38.879871,
+                        "lng" : -77.03731990000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 772
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 135
+                     },
+                     "end_location" : {
+                        "lat" : 38.8840239,
+                        "lng" : -77.0467027
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eOhio Dr SW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ovhlFbzeuMIHKNWh@INMXCFABILAFCHAFAF?H?H?F@L@H@ND`@?D@\\ATAHAJCJGPCDCBKVa@t@ILILS\\GLS\\w@pAqApB{@rA_@j@a@l@qAlBQTQTs@`A_@j@a@h@OREDA@UXW^ABY\\"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8799234,
+                        "lng" : -77.03985680000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uuhlFxjeuM?OOAAdCCt@KdAUpAAZDr@Np@Hd@UXs@zAQb@Cb@Dn@Df@?r@CTK\\u@vAo@fAyEtHeD|EgClDaBvB"
+         },
+         "summary" : "Ohio Dr SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

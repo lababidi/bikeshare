@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9477741,
+               "lng" : -77.0296094
+            },
+            "southwest" : {
+               "lat" : 38.9167909,
+               "lng" : -77.0327535
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.3 mi",
+                  "value" : 3650
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 719
+               },
+               "end_address" : "1931 13th Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9167909,
+                  "lng" : -77.0296116
+               },
+               "start_address" : "4701-4729 14th Street Northwest, Washington, DC 20011, USA",
+               "start_location" : {
+                  "lat" : 38.9477741,
+                  "lng" : -77.03272129999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "2.0 mi",
+                        "value" : 3183
+                     },
+                     "duration" : {
+                        "text" : "10 mins",
+                        "value" : 609
+                     },
+                     "end_location" : {
+                        "lat" : 38.9191847,
+                        "lng" : -77.03194379999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e14th St NW\u003c/b\u003e toward \u003cb\u003eCrittenden St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "q~ulFnmduMb@?nA?hA?dA?bA?dE@N?fA?|@?nAAlC@^Ad@?rE?rE@rEAtE?zC@x@?hBAzB@f@?F?|B?J?n@AdA?hABxA?r@?t@?T?L?n@@N?xBAbB@T?dAAd@?Z?fB?rA@N?d@?l@Ab@AlAGpAI|DSx@GhAENAx@Cj@CdDOPA\\ANAtBKLAj@Cr@EfBIXAvBKp@CPAr@EPAfCMpBKPAn@CN?F?F?F?H?P@P@j@JF?F@F?D@zB?H?T?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9477741,
+                        "lng" : -77.03272129999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 201
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 38.919182,
+                        "lng" : -77.029619
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eW St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{kplFrhduM?cB?a@?cA?wA?g@?]?gB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9191847,
+                        "lng" : -77.03194379999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 266
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 38.9167909,
+                        "lng" : -77.0296116
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e13th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{kplFbzcuMdA?fA?fA?t@?@?lA?vACZ@L?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.919182,
+                        "lng" : -77.029619
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "q~ulFnmduMdR@|]A~X@z@AnCBxE?fE?xB@jBAfF@rAApBIrKk@zGYjKg@tOu@xAEj@@lANrC@T??cB?eB?eGjG?bEAL?"
+         },
+         "summary" : "14th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

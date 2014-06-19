@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.889812,
+               "lng" : -77.0003495
+            },
+            "southwest" : {
+               "lat" : 38.8873793,
+               "lng" : -77.01399069999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1459
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 436
+               },
+               "end_address" : "401-499 East Capitol Street Northeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.8898066,
+                  "lng" : -77.0003495
+               },
+               "start_address" : "201-247 Washington Avenue Southwest, Washington, DC 20024, USA",
+               "start_location" : {
+                  "lat" : 38.8873793,
+                  "lng" : -77.01383299999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "82 ft",
+                        "value" : 25
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875682,
+                        "lng" : -77.01399069999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eWashington Ave SW\u003c/b\u003e toward \u003cb\u003eIndependence Ave SW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "cejlFlw`uMe@^"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8873793,
+                        "lng" : -77.01383299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 704
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 238
+                     },
+                     "end_location" : {
+                        "lat" : 38.8876061,
+                        "lng" : -77.00586229999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eIndependence Ave SW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ifjlFlx`uM?m@AcA?wFAaM?qB?{@?uAAyAAoM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875682,
+                        "lng" : -77.01399069999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 247
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 38.889812,
+                        "lng" : -77.0059285
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFirst St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qfjlFre_uMOJm@@sB@W?c@Ay@@Y?}@?_@AW?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8876061,
+                        "lng" : -77.00586229999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 483
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : 38.8898066,
+                        "lng" : -77.0003495
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eEast Capitol St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "itjlF`f_uM?_B?sD?eD?Q?U@oAAkB@kBAcH?m@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.889812,
+                        "lng" : -77.0059285
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cejlFlw`uMe@^?m@A{HAeUCiPOJm@@kC@}A?oCA?kM?oS"
+         },
+         "summary" : "Independence Ave SW and East Capitol St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9285773,
+               "lng" : -76.9909497
+            },
+            "southwest" : {
+               "lat" : 38.9285773,
+               "lng" : -76.9909497
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1037 Irving Street Northeast, Washington, DC 20017, USA",
+               "end_location" : {
+                  "lat" : 38.9285773,
+                  "lng" : -76.9909497
+               },
+               "start_address" : "1037 Irving Street Northeast, Washington, DC 20017, USA",
+               "start_location" : {
+                  "lat" : 38.9285773,
+                  "lng" : -76.9909497
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9285773,
+                        "lng" : -76.9909497
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eIrving St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sfrlFlh|tM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9285773,
+                        "lng" : -76.9909497
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sfrlFlh|tM"
+         },
+         "summary" : "Irving St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

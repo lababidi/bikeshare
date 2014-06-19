@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8836684,
+               "lng" : -77.107562
+            },
+            "southwest" : {
+               "lat" : 38.8801544,
+               "lng" : -77.11391239999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 955
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 189
+               },
+               "end_address" : "1101 North Utah Street, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.8836684,
+                  "lng" : -77.11391239999999
+               },
+               "start_address" : "801 North Quincy Street, Arlington, VA 22203, USA",
+               "start_location" : {
+                  "lat" : 38.8801544,
+                  "lng" : -77.107562
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 268
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 38.88255729999999,
+                        "lng" : -77.1077554
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eN Quincy St\u003c/b\u003e toward \u003cb\u003e9th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}whlFfasuM_@@S@m@B}@DC?q@DeDJoADU@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8801544,
+                        "lng" : -77.107562
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 521
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 38.882183,
+                        "lng" : -77.11374479999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_gilFnbsuMA|@?`@?T@TDrABz@Dv@JvBHvAHhCH|BHnDFnE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88255729999999,
+                        "lng" : -77.1077554
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 166
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 38.8836684,
+                        "lng" : -77.11391239999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Utah St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sdilFzgtuMqG^W@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.882183,
+                        "lng" : -77.11374479999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}whlFfasuMkMd@U@A|@?v@P|Eh@vMP~JiH`@"
+         },
+         "summary" : "N Quincy St and N Fairfax Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

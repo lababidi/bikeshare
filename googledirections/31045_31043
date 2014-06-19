@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8107349,
+               "lng" : -77.04460110000001
+            },
+            "southwest" : {
+               "lat" : 38.80491260000001,
+               "lng" : -77.052908
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1294
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 362
+               },
+               "end_address" : "612 North Saint Asaph Street, Alexandria, VA 22314, USA",
+               "end_location" : {
+                  "lat" : 38.8107349,
+                  "lng" : -77.04460110000001
+               },
+               "start_address" : "106 Commerce Street, Alexandria, VA 22314, USA",
+               "start_location" : {
+                  "lat" : 38.8056072,
+                  "lng" : -77.052908
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "125 ft",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.8056046,
+                        "lng" : -77.0524805
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eCommerce St\u003c/b\u003e toward \u003cb\u003eS Fayette St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "afzkFtkhuMCKAKF}@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8056072,
+                        "lng" : -77.052908
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "59 ft",
+                        "value" : 18
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.8057636,
+                        "lng" : -77.0524465
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Fayette St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_fzkF~hhuM_@E"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8056046,
+                        "lng" : -77.0524805
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 582
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 241
+                     },
+                     "end_location" : {
+                        "lat" : 38.80491260000001,
+                        "lng" : -77.04581949999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKing St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_gzkFxhhuMZyEJ_BNwBXsE\\}EJaBLmBBYNaCJ}A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8057636,
+                        "lng" : -77.0524465
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 656
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 111
+                     },
+                     "end_location" : {
+                        "lat" : 38.8107349,
+                        "lng" : -77.04460110000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN St Asaph St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "uazkFj_guMoBWi@IiAOcFo@cAM_D]cFo@aFo@YE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.80491260000001,
+                        "lng" : -77.04581949999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "afzkFtkhuMEWF}@_@Ef@yHh@kIz@gMZ_FyCa@mH_AcFk@_NeB"
+         },
+         "summary" : "King St and N St Asaph St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

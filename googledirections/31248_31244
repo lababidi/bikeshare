@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8890651,
+               "lng" : -77.0175526
+            },
+            "southwest" : {
+               "lat" : 38.8841195,
+               "lng" : -77.02858069999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1499
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 332
+               },
+               "end_address" : "404-408 4th Street Southwest, Washington, DC 20024, USA",
+               "end_location" : {
+                  "lat" : 38.8841195,
+                  "lng" : -77.0175776
+               },
+               "start_address" : "1157-1275 Jefferson Drive Southwest, National Mall, Washington, DC 20560, USA",
+               "start_location" : {
+                  "lat" : 38.8887397,
+                  "lng" : -77.02858069999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "95 ft",
+                        "value" : 29
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 38.8887345,
+                        "lng" : -77.02824369999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "smjlFrscuM@cA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8887397,
+                        "lng" : -77.02858069999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "30 ft",
+                        "value" : 9
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 38.8886581,
+                        "lng" : -77.02827259999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eJefferson Dr SW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qmjlFnqcuMLD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8887345,
+                        "lng" : -77.02824369999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 941
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 168
+                     },
+                     "end_location" : {
+                        "lat" : 38.888793,
+                        "lng" : -77.0175553
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJefferson Dr SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cmjlFtqcuM?M?o@?A?M?WASAQAQGQAGKYK]EOCMGWG_@Gi@Cg@Ci@?W@U?YDm@XiBRoADY@GBYBO?E?K@K?S?UAI?A?KA}B?E?s@AcD?k@CyD?aA?a@AmAAsAAcH?m@?e@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8886581,
+                        "lng" : -77.02827259999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 520
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 121
+                     },
+                     "end_location" : {
+                        "lat" : 38.8841195,
+                        "lng" : -77.0175776
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e4th St SW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}mjlFvnauMtFAl@?bEB~@?~DBlACx@@t@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.888793,
+                        "lng" : -77.0175553
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "smjlFrscuM@cALD?}@?g@Ce@Ic@_@oAKe@OiAGqA@m@DgAl@yDNkA?sAGoSEgN?sAbHAbGB~DBlACnB@"
+         },
+         "summary" : "Jefferson Dr SW and 4th St SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

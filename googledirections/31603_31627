@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9056473,
+               "lng" : -77.0030507
+            },
+            "southwest" : {
+               "lat" : 38.9056456,
+               "lng" : -77.0055998
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.1 mi",
+                  "value" : 221
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 39
+               },
+               "end_address" : "201 M Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9056473,
+                  "lng" : -77.0030507
+               },
+               "start_address" : "101-131 M Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9056456,
+                  "lng" : -77.0055998
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 221
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : 38.9056473,
+                        "lng" : -77.0030507
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eM St NE\u003c/b\u003e toward \u003cb\u003eDelaware Ave NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iwmlF~c_uM?Q?kI?I?uC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056456,
+                        "lng" : -77.0055998
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iwmlF~c_uM?}N"
+         },
+         "summary" : "M St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

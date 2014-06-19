@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.876442,
+               "lng" : -77.003698
+            },
+            "southwest" : {
+               "lat" : 38.876442,
+               "lng" : -77.003698
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "151-199 M Street Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.876442,
+                  "lng" : -77.003698
+               },
+               "start_address" : "151-199 M Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.876442,
+                  "lng" : -77.003698
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.876442,
+                        "lng" : -77.003698
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eM St SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "w`hlFbx~tM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.876442,
+                        "lng" : -77.003698
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "w`hlFbx~tM"
+         },
+         "summary" : "M St SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

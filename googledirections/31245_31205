@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9126162,
+               "lng" : -77.0221543
+            },
+            "southwest" : {
+               "lat" : 38.900693,
+               "lng" : -77.0469999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 mi",
+                  "value" : 3473
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 816
+               },
+               "end_address" : "2100-2124 I Street Northwest, The George Washington University, Washington, DC 20037, USA",
+               "end_location" : {
+                  "lat" : 38.9006958,
+                  "lng" : -77.0469999
+               },
+               "start_address" : "701-799 R Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9125987,
+                  "lng" : -77.0221543
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.3 mi",
+                        "value" : 2118
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 517
+                     },
+                     "end_location" : {
+                        "lat" : 38.9125975,
+                        "lng" : -77.0466364
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eR St NW\u003c/b\u003e toward \u003cb\u003e8th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wbolFlkbuM?~C?lEAxJ?X?lE?~C?\\?fI?pM@~B?NApB@`G?jK?fKCtL@fE@dJ?L?@?hG?j@?b@?^?v@?bD?V"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9125987,
+                        "lng" : -77.0221543
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1324
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 295
+                     },
+                     "end_location" : {
+                        "lat" : 38.900693,
+                        "lng" : -77.04664649999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e21st St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wbolFndguMN?`C?T?V?~@Ad@?jABrA?hC?T?~D?N?tB?pA?R?ZAlE?tB@X?pD?pBAx@?lA?H?t@@nAAN?L@P?`B?tB?hBAR@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9125975,
+                        "lng" : -77.0466364
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "102 ft",
+                        "value" : 31
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.9006958,
+                        "lng" : -77.0469999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eI St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ixllFpdguMA|@?F"
+                     },
+                     "start_location" : {
+                        "lat" : 38.900693,
+                        "lng" : -77.04664649999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wbolFlkbuMAtm@?rUAjm@Bv\\?zE?VN?vC?vAApBB|E?zI?bWAfI@tI?AdA"
+         },
+         "summary" : "R St NW and 21st St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

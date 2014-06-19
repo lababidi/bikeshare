@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8904621,
+               "lng" : -76.9883013
+            },
+            "southwest" : {
+               "lat" : 38.8904621,
+               "lng" : -76.9883013
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1 13th Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.8904621,
+                  "lng" : -76.9883013
+               },
+               "start_address" : "1 13th Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.8904621,
+                  "lng" : -76.9883013
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8904621,
+                        "lng" : -76.9883013
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e13th St NE/Lincoln Park Dr NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kxjlFzw{tM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8904621,
+                        "lng" : -76.9883013
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kxjlFzw{tM"
+         },
+         "summary" : "13th St NE/Lincoln Park Dr NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

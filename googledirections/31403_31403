@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9565928,
+               "lng" : -77.0198937
+            },
+            "southwest" : {
+               "lat" : 38.9565928,
+               "lng" : -77.0198937
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "5500-5548 5th Street Northwest, Washington, DC 20011, USA",
+               "end_location" : {
+                  "lat" : 38.9565928,
+                  "lng" : -77.0198937
+               },
+               "start_address" : "5500-5548 5th Street Northwest, Washington, DC 20011, USA",
+               "start_location" : {
+                  "lat" : 38.9565928,
+                  "lng" : -77.0198937
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9565928,
+                        "lng" : -77.0198937
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e5th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uuwlFh}auM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9565928,
+                        "lng" : -77.0198937
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uuwlFh}auM"
+         },
+         "summary" : "5th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

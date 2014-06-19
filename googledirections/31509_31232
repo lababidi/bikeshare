@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9126044,
+               "lng" : -77.01766889999999
+            },
+            "southwest" : {
+               "lat" : 38.8972036,
+               "lng" : -77.0223218
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.3 mi",
+                  "value" : 2113
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 534
+               },
+               "end_address" : "701-799 F Street Northwest, Washington, DC 20004, USA",
+               "end_location" : {
+                  "lat" : 38.8972036,
+                  "lng" : -77.0223218
+               },
+               "start_address" : "421-427 R Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9125967,
+                  "lng" : -77.01766889999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 368
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 176
+                     },
+                     "end_location" : {
+                        "lat" : 38.9125995,
+                        "lng" : -77.02192409999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eR St NW\u003c/b\u003e toward \u003cb\u003e5th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wbolFloauM?hD?~@?N@bEA~B?@@nAAhA?vB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9125967,
+                        "lng" : -77.01766889999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 mi",
+                        "value" : 1712
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 354
+                     },
+                     "end_location" : {
+                        "lat" : 38.8972039,
+                        "lng" : -77.0219372
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e7th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wbolF~ibuM\\?H@\\?zC?dA?dEA`B@~A?vA?^?V?nFAt@?fA?r@?`B?j@?tB@hA@dBChFBR?hA?f@AN?\\?\\?bA?t@@bA?X?T?n@?pB?Z?V?d@AN?P?Z?D?H?PAL?\\?F?B?R?T?N?LAZ?p@?J?R?V?d@?N?P@\\B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9125995,
+                        "lng" : -77.02192409999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "108 ft",
+                        "value" : 33
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.8972036,
+                        "lng" : -77.0223218
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eF St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "obllFbjbuM?jA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8972039,
+                        "lng" : -77.0219372
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wbolFloauM@|LA`C?xC?vB\\?f@@hO?pSAlIBdBChFB|A?rBAvE@rHAjHC~A@\\B?jA"
+         },
+         "summary" : "7th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

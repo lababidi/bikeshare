@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8812869,
+               "lng" : -76.98611769999999
+            },
+            "southwest" : {
+               "lat" : 38.8791822,
+               "lng" : -77.0018297
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1632
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 316
+               },
+               "end_address" : "301-315 G Street Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.88127350000001,
+                  "lng" : -77.0018297
+               },
+               "start_address" : "1385 Potomac Avenue Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8802937,
+                  "lng" : -76.98611769999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "36 ft",
+                        "value" : 11
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 38.880194,
+                        "lng" : -76.9861303
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003ePotomac Ave SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yxhlFfj{tMR@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8802937,
+                        "lng" : -76.98611769999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 220
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 38.8791822,
+                        "lng" : -76.988294
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003ePotomac Ave SE\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "exhlFhj{tMh@p@n@hBh@fBZfAh@bB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.880194,
+                        "lng" : -76.9861303
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 231
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : 38.88126159999999,
+                        "lng" : -76.9883196
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e13th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{qhlFxw{tMU?iD@wA@gC@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8791822,
+                        "lng" : -76.988294
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1170
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 236
+                     },
+                     "end_location" : {
+                        "lat" : 38.88127350000001,
+                        "lng" : -77.0018297
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eG St SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{~hlF~w{tMA`K?`D?~A?|E?|E?bB?jB?b@?nFCbF@~E?vE?lB?dB?V?N?jA@dC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88126159999999,
+                        "lng" : -76.9883196
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yxhlFfj{tMR@h@p@xApEdAjD_E@_FBAbP?~RCbR@jS@xF"
+         },
+         "summary" : "G St SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

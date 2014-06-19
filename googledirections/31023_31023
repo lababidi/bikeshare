@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8857372,
+               "lng" : -77.0977503
+            },
+            "southwest" : {
+               "lat" : 38.8857372,
+               "lng" : -77.0977503
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "North Fairfax Drive, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.8857372,
+                  "lng" : -77.0977503
+               },
+               "start_address" : "North Fairfax Drive, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8857372,
+                  "lng" : -77.0977503
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8857372,
+                        "lng" : -77.0977503
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{zilF|cquM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8857372,
+                        "lng" : -77.0977503
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{zilF|cquM"
+         },
+         "summary" : "N Fairfax Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

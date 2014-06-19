@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8886744,
+               "lng" : -77.0260902
+            },
+            "southwest" : {
+               "lat" : 38.8873968,
+               "lng" : -77.03237589999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 684
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 199
+               },
+               "end_address" : "301-321 L'Enfant Plaza, Washington, DC 20560, USA",
+               "end_location" : {
+                  "lat" : 38.8873968,
+                  "lng" : -77.02609099999999
+               },
+               "start_address" : "1401-1449 Jefferson Drive Southwest, Washington, DC 20024, USA",
+               "start_location" : {
+                  "lat" : 38.8886744,
+                  "lng" : -77.03237589999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 363
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 123
+                     },
+                     "end_location" : {
+                        "lat" : 38.8886581,
+                        "lng" : -77.02819749999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eJefferson Dr SW\u003c/b\u003e toward \u003cb\u003e14th St SW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "emjlFjkduMHi@Bm@?c@G_JCyI?M"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8886744,
+                        "lng" : -77.03237589999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "397 ft",
+                        "value" : 121
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875704,
+                        "lng" : -77.02817589999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eIndependence Ave SW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cmjlFfqcuMxEC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8886581,
+                        "lng" : -77.02819749999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 181
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875678,
+                        "lng" : -77.0260902
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eIndependence Ave SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ifjlFbqcuM?Y?S?i@?k@?[?G?yF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875704,
+                        "lng" : -77.02817589999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 ft",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.8873968,
+                        "lng" : -77.02609099999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eL'Enfant Plaza\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ifjlF`dcuM`@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875678,
+                        "lng" : -77.0260902
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "emjlFjkduMHi@Bm@GcKCgJxEC?Y?}@?gA?aG`@?"
+         },
+         "summary" : "Jefferson Dr SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

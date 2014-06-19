@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9352484,
+               "lng" : -77.0580375
+            },
+            "southwest" : {
+               "lat" : 38.9341069,
+               "lng" : -77.0742724
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1435
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 499
+               },
+               "end_address" : "3720-3808 Newark Street Northwest, Washington, DC 20016, USA",
+               "end_location" : {
+                  "lat" : 38.9352484,
+                  "lng" : -77.0742724
+               },
+               "start_address" : "2901-2911 Newark Street Northwest, Washington, DC 20008, USA",
+               "start_location" : {
+                  "lat" : 38.9341069,
+                  "lng" : -77.0580375
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1435
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 499
+                     },
+                     "end_location" : {
+                        "lat" : 38.9352484,
+                        "lng" : -77.0742724
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eNewark St NW\u003c/b\u003e toward \u003cb\u003e33rd Pl NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "eislFvkiuMOjAAJAJ?J?J@HFjA@J?L?PALALCLAFETELCFKXKZCFADADADUrAANCPCLALALATARAl@?PB|@AhD?pB?hBAtE?F?J@lG?T@`F@pA?z@?pAAbDAzGBfCAvA?dBAt@AP?DALCTADENCLELYp@g@jAYv@AB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9341069,
+                        "lng" : -77.0580375
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "eislFvkiuMQvAAVJlBCz@Qx@_@dA[dBK|@GdB@jJArIDvQClQ@~EAzCGz@Qp@}AxD"
+         },
+         "summary" : "Newark St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9294828,
+               "lng" : -77.027038
+            },
+            "southwest" : {
+               "lat" : 38.9234207,
+               "lng" : -77.03522629999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1367
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 344
+               },
+               "end_address" : "1480-1498 Euclid Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9234207,
+                  "lng" : -77.03522629999999
+               },
+               "start_address" : "3133 11th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9294828,
+                  "lng" : -77.0276958
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 641
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 145
+                     },
+                     "end_location" : {
+                        "lat" : 38.923767,
+                        "lng" : -77.027038
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e11th St NW\u003c/b\u003e toward \u003cb\u003eIrving St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "glrlFbncuMh@KlAQb@Gt@MrASv@M~@M^Ed@Ir@MH?DAP?j@?v@?v@?R?`B?bB?hD?J?N?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9294828,
+                        "lng" : -77.0276958
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 442
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 113
+                     },
+                     "end_location" : {
+                        "lat" : 38.923763,
+                        "lng" : -77.03214299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eEuclid St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qhqlF~icuM@pA?x@?z@?rBAxA?h@?rA?X?\\@jBAhC@xD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.923767,
+                        "lng" : -77.027038
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "49 ft",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 38.9236297,
+                        "lng" : -77.0321328
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e14th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ohqlFziduMXA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.923763,
+                        "lng" : -77.03214299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 269
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 38.9234207,
+                        "lng" : -77.03522629999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eEuclid St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ugqlFxiduMH~A@R@z@FbBDjBF`CBxA?H@D"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9236297,
+                        "lng" : -77.0321328
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "glrlFbncuM|LiBhBYlD?bK?Z?@jCArH@vF?bIXAH~ABnALnELjF"
+         },
+         "summary" : "11th St NW and Euclid St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

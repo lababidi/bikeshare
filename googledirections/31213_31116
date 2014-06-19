@@ -1,0 +1,170 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9178205,
+               "lng" : -77.03862959999999
+            },
+            "southwest" : {
+               "lat" : 38.9026414,
+               "lng" : -77.04169689999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1902
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 466
+               },
+               "end_address" : "1724 California Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9178205,
+                  "lng" : -77.0406196
+               },
+               "start_address" : "K St NW & 17th St NW, Washington, DC 20036, USA",
+               "start_location" : {
+                  "lat" : 38.9026414,
+                  "lng" : -77.03862959999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "226 ft",
+                        "value" : 69
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 38.90276739999999,
+                        "lng" : -77.03938629999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eK St NW\u003c/b\u003e toward \u003cb\u003eConnecticut Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "odmlFlreuM?fA?LANAHEJOZ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9026414,
+                        "lng" : -77.03862959999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "46 ft",
+                        "value" : 14
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.9026437,
+                        "lng" : -77.0393898
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eConnecticut Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iemlFdweuMF?F?H?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.90276739999999,
+                        "lng" : -77.03938629999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 499
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 122
+                     },
+                     "end_location" : {
+                        "lat" : 38.9067461,
+                        "lng" : -77.041685
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eK St NW\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "odmlFdweuMI?G?G?UDMDaD|AgEpBwDlB_@RuDjB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9026437,
+                        "lng" : -77.0393898
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1231
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 317
+                     },
+                     "end_location" : {
+                        "lat" : 38.9178108,
+                        "lng" : -77.041653
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e18th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "e~mlFnefuMgAA[?I@G@G@K?gF?wA?Y?kAAQAQ?cCAaA@qA?I?W?k@?eAAKAgC?iC?M?m@?aBAO?gA?{@?uC?mC?u@AS?Y?c@?M?A?gA@_@@o@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9067461,
+                        "lng" : -77.041685
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "292 ft",
+                        "value" : 89
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 38.9178205,
+                        "lng" : -77.0406196
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCalifornia St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "icplFhefuMA_B?mB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9178108,
+                        "lng" : -77.041653
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "odmlFlreuM?tACXUf@N?H?I?O?c@JiJnEwE`CuDjBgAAe@@OBeJ?sFEuD@eGCqQAqFA{B@oA?AmE"
+         },
+         "summary" : "Connecticut Ave NW and 18th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

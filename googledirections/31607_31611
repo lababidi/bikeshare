@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9003027,
+               "lng" : -76.98364579999999
+            },
+            "southwest" : {
+               "lat" : 38.884101,
+               "lng" : -76.988311
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.5 mi",
+                  "value" : 2410
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 512
+               },
+               "end_address" : "801-813 13th Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9003027,
+                  "lng" : -76.9883071
+               },
+               "start_address" : "1329-1399 D Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8841073,
+                  "lng" : -76.9860989
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 211
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 38.884101,
+                        "lng" : -76.98365799999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eD St SE\u003c/b\u003e toward \u003cb\u003e14th St SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "upilFbj{tM@sB?sJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8841073,
+                        "lng" : -76.9860989
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1046
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 251
+                     },
+                     "end_location" : {
+                        "lat" : 38.893504,
+                        "lng" : -76.983648
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e15th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "spilFzzztMeAAy@@yB?KAS?{@@o@?O?yAA}@?O?IAI?S@s@Aa@?S?_C@aA?q@?G?I?W?a@?G?cA?WAY?[@g@?s@?u@?Y?g@?cA?kBAkA@I?Q@_@AqA?oA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.884101,
+                        "lng" : -76.98365799999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 405
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : 38.8935734,
+                        "lng" : -76.988311
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eC St NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kkklFxzztMKd@APAP@lBAzD@nD?R?pA?h@?nF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.893504,
+                        "lng" : -76.983648
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 748
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 154
+                     },
+                     "end_location" : {
+                        "lat" : 38.9003027,
+                        "lng" : -76.9883071
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e13th St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ykklF|w{tM{B?uB?s@?oA?gC?cA?s@?yBAQ@cC?UAqC?}B?O@qB?S?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8935734,
+                        "lng" : -76.988311
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "upilFbj{tM@gN_C?uE?oGAkR?qL?sE?Mv@?~B?pM?xGqF?oI?cI?{L?"
+         },
+         "summary" : "15th St SE and 13th St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

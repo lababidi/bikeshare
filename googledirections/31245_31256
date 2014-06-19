@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9126092,
+               "lng" : -77.0221543
+            },
+            "southwest" : {
+               "lat" : 38.8959146,
+               "lng" : -77.02705859999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.5 mi",
+                  "value" : 2368
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 512
+               },
+               "end_address" : "406 10th Street Northwest, Washington, DC 20004, USA",
+               "end_location" : {
+                  "lat" : 38.8959146,
+                  "lng" : -77.0259961
+               },
+               "start_address" : "701-799 R Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9125987,
+                  "lng" : -77.0221543
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 422
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 103
+                     },
+                     "end_location" : {
+                        "lat" : 38.9126059,
+                        "lng" : -77.02703169999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eR St NW\u003c/b\u003e toward \u003cb\u003e8th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wbolFlkbuM?~C?lEAxJ?X?lE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9125987,
+                        "lng" : -77.0221543
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1364
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 329
+                     },
+                     "end_location" : {
+                        "lat" : 38.900337,
+                        "lng" : -77.02703339999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e11th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ybolF|icuMlA?|A@|B?\\AH?^?F?R?ZAvA@lA?pA@t@?nA?pA?hB?lAAtA@|@?jA?@?L?nA?pA?l@@vA?rA@b@Aj@?vFAdF?VCHAZ?h@Bl@?r@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9126059,
+                        "lng" : -77.02703169999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "295 ft",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.9003427,
+                        "lng" : -77.02598960000002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePalmer Alley\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cvllF|icuM?oE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.900337,
+                        "lng" : -77.02703339999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 492
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 38.8959146,
+                        "lng" : -77.0259961
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e10th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cvllFlccuMhBA`A?rA?bA@nA?z@?~@?dA?lA?~@?`A?J@X?h@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9003427,
+                        "lng" : -77.02598960000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wbolFlkbuMA`W?lElA?zE@nAAtE?tR@vMBlPC`@EdAB`B??oEhBAtC?rC@nG?fD@h@?"
+         },
+         "summary" : "11th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

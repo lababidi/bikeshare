@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9175992,
+               "lng" : -77.03194619999999
+            },
+            "southwest" : {
+               "lat" : 38.9086945,
+               "lng" : -77.03235389999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 1014
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 228
+               },
+               "end_address" : "2000-2098 14th Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9175992,
+                  "lng" : -77.0319592
+               },
+               "start_address" : "1415 Rhode Island Avenue Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9086945,
+                  "lng" : -77.03235389999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "128 ft",
+                        "value" : 39
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.9088354,
+                        "lng" : -77.03194619999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eRhode Island Ave NW\u003c/b\u003e toward \u003cb\u003e14th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ijnlFdkduM]oA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9086945,
+                        "lng" : -77.03235389999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 975
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 221
+                     },
+                     "end_location" : {
+                        "lat" : 38.9175992,
+                        "lng" : -77.0319592
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e14th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gknlFthduMk@?cB?Q?qC?uC?sC?sC?sC?eA?mA?Q?{@?eA?wA@{@?oCBQ?}BCuB?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9088354,
+                        "lng" : -77.03194619999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ijnlFdkduM]oAk@?uB?oQ?oQ@aDBsFC"
+         },
+         "summary" : "14th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

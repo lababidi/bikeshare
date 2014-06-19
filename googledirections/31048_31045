@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8057331,
+               "lng" : -77.052908
+            },
+            "southwest" : {
+               "lat" : 38.8049056,
+               "lng" : -77.06075890000001
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 766
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 147
+               },
+               "end_address" : "106 Commerce Street, Alexandria, VA 22314, USA",
+               "end_location" : {
+                  "lat" : 38.8056072,
+                  "lng" : -77.052908
+               },
+               "start_address" : "1850-1864 Diagonal Road, Alexandria, VA 22314, USA",
+               "start_location" : {
+                  "lat" : 38.8057331,
+                  "lng" : -77.06075890000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "220 ft",
+                        "value" : 67
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.8051948,
+                        "lng" : -77.0606112
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yfzkFv|iuMBEHM@AB?@AD?N@LBL@T@@A@?@A@ADI"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8057331,
+                        "lng" : -77.06075890000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "282 ft",
+                        "value" : 86
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 38.805512,
+                        "lng" : -77.0597228
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003ePrince St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mczkFx{iuMWc@EKCK_@_B?C?E@K"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8051948,
+                        "lng" : -77.0606112
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 427
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : 38.8049056,
+                        "lng" : -77.0548565
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003ePrince St\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "mezkFfviuMVgEBg@XyETmD`@_GHsA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.805512,
+                        "lng" : -77.0597228
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 186
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 38.8056072,
+                        "lng" : -77.052908
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCommerce St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "uazkFzwhuMWo@aA_Eq@uC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8049056,
+                        "lng" : -77.0548565
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yfzkFv|iuMRUFA\\Df@@BCDIWc@IW_@cB\\aGzA{UWo@aA_Eq@uC"
+         },
+         "summary" : "Prince St and Commerce St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.942016,
+               "lng" : -77.03272149999999
+            },
+            "southwest" : {
+               "lat" : 38.9302453,
+               "lng" : -77.0388514
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1965
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 440
+               },
+               "end_address" : "3249-3299 17th Street Northwest, Washington, DC 20010, USA",
+               "end_location" : {
+                  "lat" : 38.9318999,
+                  "lng" : -77.0388514
+               },
+               "start_address" : "4201-4273 14th Street Northwest, Washington, DC 20011, USA",
+               "start_location" : {
+                  "lat" : 38.942016,
+                  "lng" : -77.03272419999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1309
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 268
+                     },
+                     "end_location" : {
+                        "lat" : 38.9302453,
+                        "lng" : -77.0327468
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e14th St NW\u003c/b\u003e toward \u003cb\u003eUpshur St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sztlFnmduM\\?rE@rEAtE?zC@x@?hBAzB@f@?F?|B?J?n@AdA?hABxA?r@?t@?T?L?n@@N?xBAbB@T?dAAd@?Z?fB?rA@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.942016,
+                        "lng" : -77.03272419999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 583
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 161
+                     },
+                     "end_location" : {
+                        "lat" : 38.9325429,
+                        "lng" : -77.0387971
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003ePark Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aqrlFtmduMOt@Mb@_ClIGP_ArDENMV_@pAaB~Fg@`Be@nB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9302453,
+                        "lng" : -77.0327468
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "121 ft",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.932219,
+                        "lng" : -77.03880819999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMt Pleasant St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "k_slFnseuMPAPHZE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9325429,
+                        "lng" : -77.0387971
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "118 ft",
+                        "value" : 36
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.9318999,
+                        "lng" : -77.0388514
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e17th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "k}rlFpseuMHDH@L?\\?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.932219,
+                        "lng" : -77.03880819999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sztlFnmduMzS?zL@xD?tBAbDBlC?|G@|CAzD@]xAmEbPMV_@pAiC`Je@nBPAPHZERFj@?"
+         },
+         "summary" : "14th St NW and Park Rd NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

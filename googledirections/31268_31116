@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9182137,
+               "lng" : -77.0296116
+            },
+            "southwest" : {
+               "lat" : 38.9167909,
+               "lng" : -77.0406196
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1124
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 309
+               },
+               "end_address" : "1724 California Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9178205,
+                  "lng" : -77.0406196
+               },
+               "start_address" : "1931 13th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9167909,
+                  "lng" : -77.0296116
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "482 ft",
+                        "value" : 147
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 38.918114,
+                        "lng" : -77.02961999999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e13th St NW\u003c/b\u003e toward \u003cb\u003eU St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}|olF`zcuMM?[AwABmA?A?u@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9167909,
+                        "lng" : -77.0296116
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 868
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 234
+                     },
+                     "end_location" : {
+                        "lat" : 38.9182137,
+                        "lng" : -77.0396078
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eV St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eeplFbzcuM?~B?B?bE?dB?b@?b@?nA?JA`C?bF?\\@~D?z@@dC?D?jB?TA|B?pB?V?xC?LAJ?FAFAHCHABABC@AB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.918114,
+                        "lng" : -77.02961999999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "295 ft",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 38.9177788,
+                        "lng" : -77.04042179999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFlorida Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yeplFpxeuMPbAHb@@DBD@DBBBBXPNL"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9182137,
+                        "lng" : -77.0396078
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 ft",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.9178205,
+                        "lng" : -77.0406196
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCalifornia St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ccplFr}euMCDAFAD?P?@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9177788,
+                        "lng" : -77.04042179999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}|olF`zcuMoE@w@??bC?pJA`MB~KAdG?pHEd@KRABPbAJh@LRh@^ELAX"
+         },
+         "summary" : "V St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

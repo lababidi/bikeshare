@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8576877,
+               "lng" : -77.049249
+            },
+            "southwest" : {
+               "lat" : 38.85361049999999,
+               "lng" : -77.05348619999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 901
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 166
+               },
+               "end_address" : "2250-2298 South Eads Street, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.85361049999999,
+                  "lng" : -77.05348619999999
+               },
+               "start_address" : "1851 Crystal Drive, Crystal City Shops, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.8564049,
+                  "lng" : -77.04933219999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "440 ft",
+                        "value" : 134
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 38.8576068,
+                        "lng" : -77.049249
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eCrystal Dr\u003c/b\u003e toward \u003cb\u003e18th St S\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ocdlFhuguMK?uBE{@Ec@AOA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8564049,
+                        "lng" : -77.04933219999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 334
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 38.8574818,
+                        "lng" : -77.053077
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e18th St S\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "akdlFxtguMAp@?b@A|@ChCCrAATAd@HdA?B@Z@PB\\?B@H?@?BBZPhC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8576068,
+                        "lng" : -77.049249
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 433
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 72
+                     },
+                     "end_location" : {
+                        "lat" : 38.85361049999999,
+                        "lng" : -77.05348619999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Eads St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gjdlFvlhuMV?rBHxERxFPVP\\D|@Dp@B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8574818,
+                        "lng" : -77.053077
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ocdlFhuguMaFMOAAp@A`BKxGJdBJ~APhCV?lI\\xFPVPzAJp@B"
+         },
+         "summary" : "18th St S and S Eads St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

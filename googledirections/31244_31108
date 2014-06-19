@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8841195,
+               "lng" : -77.01754439999999
+            },
+            "southwest" : {
+               "lat" : 38.8767133,
+               "lng" : -77.01774949999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 824
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 151
+               },
+               "end_address" : "1150 4th Street Southwest, Washington, DC 20024, USA",
+               "end_location" : {
+                  "lat" : 38.8767133,
+                  "lng" : -77.0177242
+               },
+               "start_address" : "404-408 4th Street Southwest, Washington, DC 20024, USA",
+               "start_location" : {
+                  "lat" : 38.8841195,
+                  "lng" : -77.0175776
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 824
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 151
+                     },
+                     "end_location" : {
+                        "lat" : 38.8767133,
+                        "lng" : -77.0177242
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e4th St SW\u003c/b\u003e toward \u003cb\u003eSchool St SW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "wpilFznauMf@?hCAlCA@?X?@?@?@?@?H?@?fE?vAAlA?T?tA?`B?VAzADP@f@@p@Bd@BdAFdBHp@DR@LAPCDA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8841195,
+                        "lng" : -77.0175776
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wpilFznauMvPCpGAxBAlBFdEPvCN`@?VE"
+         },
+         "summary" : "4th St SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

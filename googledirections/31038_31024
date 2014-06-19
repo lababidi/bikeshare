@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8839485,
+               "lng" : -77.1030392
+            },
+            "southwest" : {
+               "lat" : 38.8820225,
+               "lng" : -77.11748279999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1589
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 356
+               },
+               "end_address" : "901 North Monroe Street, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.88282239999999,
+                  "lng" : -77.1030392
+               },
+               "start_address" : "1110-1120 North Glebe Road, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8839485,
+                  "lng" : -77.11670219999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "121 ft",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.8836265,
+                        "lng" : -77.1165748
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Glebe Rd\u003c/b\u003e toward \u003cb\u003eN Wakefield St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uoilFjztuM~@Y"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8839485,
+                        "lng" : -77.11670219999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 251
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : 38.8820225,
+                        "lng" : -77.11732909999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Wakefield St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "umilFpytuMFjB?d@@N?@@F?DB@@@D?@?D?L?JARAJ?@?L?NAB?JCFCBAJELCLAT?XAd@?@?j@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8836265,
+                        "lng" : -77.1165748
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1241
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 300
+                     },
+                     "end_location" : {
+                        "lat" : 38.8833242,
+                        "lng" : -77.10330089999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "scilFh~tuMA_@?g@Cm@De@A_@CwABi@?{@CsBEaFAqEAg@Ag@CaBW{FUyEEy@GsACe@Aa@?I?u@@{@FwAFqABk@Am@AYAWGeAEm@Mk@a@eBaA{C{@aD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8820225,
+                        "lng" : -77.11732909999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "197 ft",
+                        "value" : 60
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 38.88282239999999,
+                        "lng" : -77.1030392
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eNorth Monroe Street\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wkilFrfruMbBs@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8833242,
+                        "lng" : -77.10330089999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uoilFjztuM~@YFjB@t@DPN@x@Cb@Ab@OZEn@Af@?j@?A_@CuABeACwABi@CoDGsLCoACaBW{F[sGMeD@qBNiD@yACq@MsBo@qCaA{C{@aDbBs@"
+         },
+         "summary" : "N Fairfax Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

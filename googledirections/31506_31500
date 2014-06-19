@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9194884,
+               "lng" : -77.00055709999999
+            },
+            "southwest" : {
+               "lat" : 38.9155296,
+               "lng" : -77.01229379999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1451
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 322
+               },
+               "end_address" : "2213 4th Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9194884,
+                  "lng" : -77.000575
+               },
+               "start_address" : "84 T Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9155296,
+                  "lng" : -77.01229379999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1015
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 245
+                     },
+                     "end_location" : {
+                        "lat" : 38.9155713,
+                        "lng" : -77.0005694
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eT St NW\u003c/b\u003e toward \u003cb\u003eFirst St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "auolFxm`uM?[?W?e@AKE_@?Y?[?oD@cDAiA?Q?O?A?C@M?A?M?m@As@?sC?[?W?{AAuB?mA?iA?W?wA@mD?kA?g@?S?Y?a@?gB?mB?W?cH"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9155296,
+                        "lng" : -77.01229379999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 436
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 38.9194884,
+                        "lng" : -77.000575
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e4th St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iuolFpd~tMM?}BAoCB_FAuA?_C?}@@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9155713,
+                        "lng" : -77.0005694
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "auolFxm`uMAeBEy@?kE?oG@SAaHAwH@gJ?qL?cHM?}BAoCBuHA}D@"
+         },
+         "summary" : "T St NW and 4th St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

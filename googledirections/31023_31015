@@ -1,0 +1,169 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.89485519999999,
+               "lng" : -77.07223789999999
+            },
+            "southwest" : {
+               "lat" : 38.8856506,
+               "lng" : -77.0977503
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.6 mi",
+                  "value" : 2525
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 490
+               },
+               "end_address" : "1696-1798 North Fort Myer Drive, Arlington, VA 22209, USA",
+               "end_location" : {
+                  "lat" : 38.8946054,
+                  "lng" : -77.07223789999999
+               },
+               "start_address" : "North Fairfax Drive, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8857372,
+                  "lng" : -77.0977503
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "105 ft",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.8856506,
+                        "lng" : -77.0973968
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eN Fairfax Dr\u003c/b\u003e toward \u003cb\u003eWilson Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{zilF|cquM?E@G@KBKH_@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8857372,
+                        "lng" : -77.0977503
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "121 ft",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.8859104,
+                        "lng" : -77.09712800000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWilson Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "izilFvaquMQQGGGIQQ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8856506,
+                        "lng" : -77.0973968
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 mi",
+                        "value" : 2288
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 407
+                     },
+                     "end_location" : {
+                        "lat" : 38.8945134,
+                        "lng" : -77.073804
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eClarendon Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "}{ilF``quM?_A[w@_@}@}@}AwA_DSg@KUi@sAISKWMYg@oAO_@CEM]Ss@EQEMAGGUGS?CEQGOCMEQGYI[G]I]YwAEMI[I]Qa@oAiEcAwDGOeAaDQm@EQi@iBc@uAYu@Q[GKKI_@]UUKQEGIKIKIKEKGOI]G[AWSoDOqFImDCUAUCIAIEOEMO_@IQ]a@SWWWMWi@yA]eAUs@Kc@I_@Go@OwAo@_Fa@eDg@aEc@qDK_@Sc@KSQUQSAAIGGEIEIGEIIO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8859104,
+                        "lng" : -77.09712800000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "459 ft",
+                        "value" : 140
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 38.89485519999999,
+                        "lng" : -77.0722712
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eWilson Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uqklFfnluMMSGOGSEOCMAGAOAYAWEs@Eg@Iu@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8945134,
+                        "lng" : -77.073804
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 38.8946054,
+                        "lng" : -77.07223789999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Fort Myer Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{sklFtdluMp@E"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89485519999999,
+                        "lng" : -77.0722712
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{zilF|cquMFe@H_@QQOQQQ?_A{@uB}@}AwA_D_@}@mAyCiAsCw@{CYiAu@oDOi@[_AsCaKmAqDeB_Gk@qASUu@s@QYc@o@Qm@Is@SoDOqFMcEMy@Um@g@s@k@o@w@qBs@yBUcAiBmOkAsJ_@cA]i@SUe@[e@}@Sy@KuBO}Ap@E"
+         },
+         "summary" : "Clarendon Blvd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

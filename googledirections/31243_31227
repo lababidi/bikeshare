@@ -1,0 +1,194 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9002912,
+               "lng" : -77.01755279999999
+            },
+            "southwest" : {
+               "lat" : 38.887253,
+               "lng" : -77.02978399999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 mi",
+                  "value" : 2300
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 643
+               },
+               "end_address" : "1301 New York Avenue Northwest, Washington, DC 20005, USA",
+               "end_location" : {
+                  "lat" : 38.9002199,
+                  "lng" : -77.02978399999999
+               },
+               "start_address" : "562-598 Maryland Avenue Southwest, Washington, DC 20202, USA",
+               "start_location" : {
+                  "lat" : 38.887253,
+                  "lng" : -77.0188807
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "157 ft",
+                        "value" : 48
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875574,
+                        "lng" : -77.01848439999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eMaryland Ave SW\u003c/b\u003e toward \u003cb\u003eIndependence Ave SW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "idjlF~vauM}@oA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.887253,
+                        "lng" : -77.0188807
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "266 ft",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875575,
+                        "lng" : -77.01755279999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eIndependence Ave SW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "gfjlFntauM?{B?}@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875574,
+                        "lng" : -77.01848439999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 505
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 105
+                     },
+                     "end_location" : {
+                        "lat" : 38.89209779999999,
+                        "lng" : -77.0175569
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e4th St SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gfjlFtnauMuF@WAcBB}@?m@AK@yAA[@gB?mAAY?{A?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875575,
+                        "lng" : -77.01755279999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1109
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 327
+                     },
+                     "end_location" : {
+                        "lat" : 38.8954582,
+                        "lng" : -77.0296127
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eConstitution Ave NW/Pennsylvania Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow Pennsylvania Ave NW\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sbklFvnauMy@lESjAOz@Mv@UhA}@dFUlAEXQ|@i@hCSdASjAABKf@Mz@AJCNUnAcApFSlAYvAEV]zAM|@UlAWrAaAhFS~@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89209779999999,
+                        "lng" : -77.0175569
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 538
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 133
+                     },
+                     "end_location" : {
+                        "lat" : 38.9002912,
+                        "lng" : -77.0295883
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e13th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "swklF`zcuMi@?yA?[?iA@oB@_@@gBAG?qA@sA?yE?c@?[A[G"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8954582,
+                        "lng" : -77.0296127
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 ft",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 38.9002199,
+                        "lng" : -77.02978399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNew York Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yullF|ycuMLd@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9002912,
+                        "lng" : -77.0295883
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "idjlF~vauM}@oA?{B?}@uF@{B@kBAiF@gBA{A?y@lEc@fCc@`CkBjKsA~G_@~BgCfNc@rBc@jCyA|HS~@i@?uB?yDBaF@mJA[GLd@"
+         },
+         "summary" : "Pennsylvania Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,290 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9176115,
+               "lng" : -77.0159227
+            },
+            "southwest" : {
+               "lat" : 38.9064725,
+               "lng" : -77.0387128
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.9 mi",
+                  "value" : 3085
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 734
+               },
+               "end_address" : "239 Elm Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9176115,
+                  "lng" : -77.0159227
+               },
+               "start_address" : "1701-1711 Rhode Island Avenue Northwest, Washington, DC 20036, USA",
+               "start_location" : {
+                  "lat" : 38.9064725,
+                  "lng" : -77.0387128
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 181
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 38.9070612,
+                        "lng" : -77.0367732
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eRhode Island Ave NW\u003c/b\u003e toward \u003cb\u003e17th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "m|mlF|reuMMi@}@gDQo@WaC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9064725,
+                        "lng" : -77.0387128
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "394 ft",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 38.9075291,
+                        "lng" : -77.0357143
+                     },
+                     "html_instructions" : "At \u003cb\u003eScott Cir NW\u003c/b\u003e, take the \u003cb\u003e3rd\u003c/b\u003e exit",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "c`nlFxfeuM@EBI@M@O?MAMAMCEGICEACAAEGCACAAAGCA?A?A@AKAEAEEIGKQWKI"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9070612,
+                        "lng" : -77.0367732
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "358 ft",
+                        "value" : 109
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 38.9079272,
+                        "lng" : -77.03455989999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRhode Island Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "acnlFd`euMS}@{@gD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9075291,
+                        "lng" : -77.0357143
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 686
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 145
+                     },
+                     "end_location" : {
+                        "lat" : 38.9140979,
+                        "lng" : -77.0345396
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e15th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qenlF~xduMeB?s@?q@?m@?}A?qAAaA?qCAuCAmA?u@?M?_A@yC?C?mA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9079272,
+                        "lng" : -77.03455989999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1267
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 339
+                     },
+                     "end_location" : {
+                        "lat" : 38.91409100000001,
+                        "lng" : -77.019898
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "clolFzxduM?Y?eF@sBAS@s@?iA?qM?W?yB?aDAoE@a@AO?qA?a@?k@@iH?gBAiB?iA?[?iE@[?mA?iB?K?{C?Y"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9140979,
+                        "lng" : -77.0345396
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 174
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 38.9156437,
+                        "lng" : -77.02001120000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e6th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "alolFj}auMiG@k@R"
+                     },
+                     "start_location" : {
+                        "lat" : 38.91409100000001,
+                        "lng" : -77.019898
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 234
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 38.91590739999999,
+                        "lng" : -77.01732939999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eT St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wuolF`~auMSuDImBMmCIeB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9156437,
+                        "lng" : -77.02001120000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 162
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : 38.9173513,
+                        "lng" : -77.01756759999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e4th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mwolFhmauMM@c@D{ALYB{ANK@OB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.91590739999999,
+                        "lng" : -77.01732939999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "459 ft",
+                        "value" : 140
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.9175043,
+                        "lng" : -77.0159591
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eElm St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "m`plFxnauMASQcEGoAAY"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9173513,
+                        "lng" : -77.01756759999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "39 ft",
+                        "value" : 12
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.9176115,
+                        "lng" : -77.0159227
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at \u003cb\u003e3rd St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kaplFvdauMOEEA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9175043,
+                        "lng" : -77.0159591
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "m|mlF|reuMkAqEQo@WaCDOB]A[ESOUOMKCGUMUQWKIoAeFyC?oGAwLC}G@qA??_G@eGAya@?yZ@_F?uDiG@k@R]cHWsFgDXgBPOBASYsGAYOEEA"
+         },
+         "summary" : "S St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

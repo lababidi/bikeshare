@@ -1,0 +1,169 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9037416,
+               "lng" : -77.0267336
+            },
+            "southwest" : {
+               "lat" : 38.9019987,
+               "lng" : -77.0336356
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 890
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 316
+               },
+               "end_address" : "1015-1099 K Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9025128,
+                  "lng" : -77.0267336
+               },
+               "start_address" : "954-998 15th Street Northwest, Washington, DC, USA",
+               "start_location" : {
+                  "lat" : 38.9019987,
+                  "lng" : -77.03362969999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "187 ft",
+                        "value" : 57
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 38.9025094,
+                        "lng" : -77.03363259999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e15th St NW\u003c/b\u003e toward \u003cb\u003eK St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "o`mlFdsduMm@?a@?U?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9019987,
+                        "lng" : -77.03362969999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "482 ft",
+                        "value" : 147
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 38.9037385,
+                        "lng" : -77.0330663
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eVermont Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ucmlFdsduMW@YAKCSIQIUOMGmB_A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9025094,
+                        "lng" : -77.03363259999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 521
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 151
+                     },
+                     "end_location" : {
+                        "lat" : 38.9037406,
+                        "lng" : -77.0270479
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eL St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kkmlFtoduM?sB?M?[?w@?cD?iA?cB?y@BkAAmA?w@?u@?]Ay@?a@?oE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9037385,
+                        "lng" : -77.0330663
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "453 ft",
+                        "value" : 138
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : 38.902504,
+                        "lng" : -77.0270441
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e11th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kkmlF`jcuMvFA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9037406,
+                        "lng" : -77.0270479
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "89 ft",
+                        "value" : 27
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 38.9025128,
+                        "lng" : -77.0267336
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eK St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "scmlF~icuMA{@?A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.902504,
+                        "lng" : -77.0270441
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "o`mlFdsduM}B@e@Ee@Sc@WmB_A?sB?i@?{E?mDBeCAyEA{A?oEvFAA}@"
+         },
+         "summary" : "L St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

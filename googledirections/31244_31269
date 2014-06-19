@@ -1,0 +1,145 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8876049,
+               "lng" : -77.0020316
+            },
+            "southwest" : {
+               "lat" : 38.8841195,
+               "lng" : -77.0175904
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1790
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 471
+               },
+               "end_address" : "132 3rd Street Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.88738110000001,
+                  "lng" : -77.0020316
+               },
+               "start_address" : "404-408 4th Street Southwest, Washington, DC 20024, USA",
+               "start_location" : {
+                  "lat" : 38.8841195,
+                  "lng" : -77.0175776
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 382
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875575,
+                        "lng" : -77.01755279999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e4th St SW\u003c/b\u003e toward \u003cb\u003eVirginia Ave SW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wpilFznauMu@?y@AmAB_EC_A?cECm@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8841195,
+                        "lng" : -77.0175776
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1280
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 359
+                     },
+                     "end_location" : {
+                        "lat" : 38.8873021,
+                        "lng" : -77.00285599999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eIndependence Ave SW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gfjlFtnauM?gCAiA?}AAg@?A?]?aA?S@a@?w@?W?s@?sA?m@AcA?wFAaM?qB?{@?uAAyAAoM@wD?iFFU?[BQBINc@V}@BE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875575,
+                        "lng" : -77.01755279999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "266 ft",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 38.8869571,
+                        "lng" : -77.0020335
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003ePennsylvania Ave SE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sdjlFzr~tMX_Ah@eB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8873021,
+                        "lng" : -77.00285599999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "154 ft",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 38.88738110000001,
+                        "lng" : -77.0020316
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e3rd St SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "objlFtm~tMm@@e@A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8869571,
+                        "lng" : -77.0020335
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wpilFznauMoBAmAB_ECcGCm@??gCAgDAi@@uC?wECkXA}I?gS?iFFUBm@Rm@~AiFsA?"
+         },
+         "summary" : "Independence Ave SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

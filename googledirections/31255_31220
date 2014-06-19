@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9066005,
+               "lng" : -77.04664649999999
+            },
+            "southwest" : {
+               "lat" : 38.89491950000001,
+               "lng" : -77.0514086
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1603
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 330
+               },
+               "end_address" : "319-399 21st Street Northwest, Washington, DC 20245, USA",
+               "end_location" : {
+                  "lat" : 38.89491950000001,
+                  "lng" : -77.046671
+               },
+               "start_address" : "1250 24th Street Northwest, Washington, DC 20037, USA",
+               "start_location" : {
+                  "lat" : 38.9066005,
+                  "lng" : -77.05140539999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 400
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : 38.90299940000001,
+                        "lng" : -77.0513922
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e24th St NW\u003c/b\u003e toward \u003cb\u003eM St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "g}mlFhbhuMtAA`A?n@?B?`@?\\@X?B?xBAF?nC?rCA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9066005,
+                        "lng" : -77.05140539999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "256 ft",
+                        "value" : 78
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 38.9025131,
+                        "lng" : -77.0507751
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "wfmlFdbhuMRMBCBG\\}@\\[HE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.90299940000001,
+                        "lng" : -77.0513922
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 414
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 83
+                     },
+                     "end_location" : {
+                        "lat" : 38.9013166,
+                        "lng" : -77.04664699999999
+                     },
+                     "html_instructions" : "At the traffic circle, continue straight to stay on \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "ucmlFj~guMFAFAPCJEHEDGDEDGFKBGBIBKBMBO?Q?QAMCOCMGQCECEGg@?KAS@I@G@KH]Je@Fq@Pk@XeA|@uD\\uA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9025131,
+                        "lng" : -77.0507751
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 711
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 128
+                     },
+                     "end_location" : {
+                        "lat" : 38.89491950000001,
+                        "lng" : -77.046671
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e21st St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "g|llFpdguMhBAR@pA?b@?fB?R?jA?L?x@@@?pA?hA?R?J?d@?Z?T?hG?fA@x@?X?~@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9013166,
+                        "lng" : -77.04664699999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "g}mlFhbhuMjEA|A@dLCVQ`@eA\\[HEFAXETKXa@Nk@Ba@A_@Su@Km@A_@N{@RwAj@qBzAkG|B?pF?tC@|O?zE@"
+         },
+         "summary" : "21st St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

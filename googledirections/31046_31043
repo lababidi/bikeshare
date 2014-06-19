@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8114352,
+               "lng" : -77.04460110000001
+            },
+            "southwest" : {
+               "lat" : 38.8094685,
+               "lng" : -77.0504102
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 772
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 279
+               },
+               "end_address" : "612 North Saint Asaph Street, Alexandria, VA 22314, USA",
+               "end_location" : {
+                  "lat" : 38.8107349,
+                  "lng" : -77.04460110000001
+               },
+               "start_address" : "601-623 U.S. 1, Alexandria, VA 22314, USA",
+               "start_location" : {
+                  "lat" : 38.8114352,
+                  "lng" : -77.0501163
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "469 ft",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 38.8101738,
+                        "lng" : -77.0504102
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Henry St\u003c/b\u003e toward \u003cb\u003ePendleton St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "oj{kFfzguM\\D~Er@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8114352,
+                        "lng" : -77.0501163
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 486
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 231
+                     },
+                     "end_location" : {
+                        "lat" : 38.8094685,
+                        "lng" : -77.04487259999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eOronoco St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qb{kF`|guMZ}EVoE^aFX}E\\eF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8101738,
+                        "lng" : -77.0504102
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "469 ft",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.8107349,
+                        "lng" : -77.04460110000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN St Asaph St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "e~zkFlyfuMaFo@YE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8094685,
+                        "lng" : -77.04487259999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "oj{kFfzguM|Fx@r@mLx@_M\\eFaFo@YE"
+         },
+         "summary" : "N Henry St, Oronoco St and N St Asaph St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

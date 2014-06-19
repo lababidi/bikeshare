@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.901539,
+               "lng" : -77.0466469
+            },
+            "southwest" : {
+               "lat" : 38.8883043,
+               "lng" : -77.0494597
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1658
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 363
+               },
+               "end_address" : "665 Daniel French Drive Southwest, Washington, DC 20245, USA",
+               "end_location" : {
+                  "lat" : 38.8883043,
+                  "lng" : -77.0494597
+               },
+               "start_address" : "974-986 21st Street Northwest, Washington, DC 20006, USA",
+               "start_location" : {
+                  "lat" : 38.901539,
+                  "lng" : -77.0466469
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1071
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 260
+                     },
+                     "end_location" : {
+                        "lat" : 38.8919042,
+                        "lng" : -77.0466636
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e21st St NW\u003c/b\u003e toward \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "s}llFpdguMj@?hBAR@pA?b@?fB?R?jA?L?x@@@?pA?hA?R?J?d@?Z?T?hG?fA@x@?X?lB?tC@tA?`AA~C@v@?f@C"
+                     },
+                     "start_location" : {
+                        "lat" : 38.901539,
+                        "lng" : -77.0466469
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "351 ft",
+                        "value" : 107
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.8918985,
+                        "lng" : -77.04790299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kaklFrdguM?vF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8919042,
+                        "lng" : -77.0466636
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 228
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 38.8901629,
+                        "lng" : -77.04931139999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kaklFjlguMHFtAdAVRl@d@@?dAx@PLzAhA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8918985,
+                        "lng" : -77.04790299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 252
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.8883043,
+                        "lng" : -77.0494597
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ovjlFduguMR[LQJMZU?ABSXAhA@`A?F?F@HBf@b@VZHNHRPZ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8901629,
+                        "lng" : -77.04931139999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "s}llFpdguMrW@zUBnJ?f@C?vF~AlAlCrBlBvA`@m@f@c@BUlD?PDf@b@VZRb@PZ"
+         },
+         "summary" : "21st St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

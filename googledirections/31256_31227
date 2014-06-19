@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9002912,
+               "lng" : -77.0259961
+            },
+            "southwest" : {
+               "lat" : 38.8959146,
+               "lng" : -77.02978399999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 818
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 258
+               },
+               "end_address" : "1301 New York Avenue Northwest, Washington, DC 20005, USA",
+               "end_location" : {
+                  "lat" : 38.9002199,
+                  "lng" : -77.02978399999999
+               },
+               "start_address" : "406 10th Street Northwest, Washington, DC 20004, USA",
+               "start_location" : {
+                  "lat" : 38.8959146,
+                  "lng" : -77.0259961
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "72 ft",
+                        "value" : 22
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 38.8961162,
+                        "lng" : -77.02599909999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e10th St NW\u003c/b\u003e toward \u003cb\u003eE St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "mzklFnccuMi@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8959146,
+                        "lng" : -77.0259961
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 313
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 38.8961209,
+                        "lng" : -77.0296101
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eE St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "w{klFnccuM?zA@tBClB?~A?jB@nB?v@?\\"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8961162,
+                        "lng" : -77.02599909999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 464
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 144
+                     },
+                     "end_location" : {
+                        "lat" : 38.9002912,
+                        "lng" : -77.0295883
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e13th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w{klF`zcuM[?iA@oB@_@@gBAG?qA@sA?yE?c@?[A[G"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8961209,
+                        "lng" : -77.0296101
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 ft",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 38.9002199,
+                        "lng" : -77.02978399999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNew York Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yullF|ycuMLd@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9002912,
+                        "lng" : -77.0295883
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mzklFnccuMi@??zAAbF@rJ?\\[?yDBaF@mJA[GLd@"
+         },
+         "summary" : "E St NW and 13th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

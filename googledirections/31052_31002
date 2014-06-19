@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.856352,
+               "lng" : -77.04932090000001
+            },
+            "southwest" : {
+               "lat" : 38.84403620000001,
+               "lng" : -77.0515008
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1431
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 245
+               },
+               "end_address" : "1967 Crystal Drive, Crystal City Shops, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.856352,
+                  "lng" : -77.0493355
+               },
+               "start_address" : "3501 Potomac Avenue, Arlington, VA 22213, USA",
+               "start_location" : {
+                  "lat" : 38.84403620000001,
+                  "lng" : -77.0504098
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 510
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 38.8483237,
+                        "lng" : -77.0515008
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eS Potomac Ave\u003c/b\u003e toward \u003cb\u003e33rd St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gvalF`|guMk@JyATG@SDyATQI}@JWBUBU@O@Y@U@U@U?s@@k@?k@Cw@E[?I@OBKDKFYTOREHM\\Kf@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.84403620000001,
+                        "lng" : -77.0504098
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 921
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 160
+                     },
+                     "end_location" : {
+                        "lat" : 38.856352,
+                        "lng" : -77.0493355
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCrystal Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_qblFzbhuMy@[eBs@{@]_@O_@S_@OQIECQIA?IEUGaDy@oA[}@UeA[iAS{AUg@Io@Gm@E_AGi@CwACcACcACoAEg@Ai@AIBO?U?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8483237,
+                        "lng" : -77.0515008
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gvalF`|guMaDh@yATQIuANuAHuBDwACsAEYDWLYTORSf@Kf@y@[aDqAqB}@c@SeIsBeA[iAScC_@gEYoHQqACYBU?"
+         },
+         "summary" : "S Potomac Ave and Crystal Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

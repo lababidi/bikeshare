@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8998202,
+               "lng" : -77.0161777
+            },
+            "southwest" : {
+               "lat" : 38.89535130000001,
+               "lng" : -77.02308649999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1089
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 258
+               },
+               "end_address" : "451 4th Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.89535130000001,
+                  "lng" : -77.0161808
+               },
+               "start_address" : "806 H Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.8998136,
+                  "lng" : -77.02308649999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 598
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 182
+                     },
+                     "end_location" : {
+                        "lat" : 38.8997669,
+                        "lng" : -77.01619359999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eH St NW\u003c/b\u003e toward \u003cb\u003e8th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yrllFhqbuM?[?sA?uBA{C?K?Q?c@?m@?E@cCAgB?{A?eA?eA?k@@}@?iGFQ?Q"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8998136,
+                        "lng" : -77.02308649999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 491
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 38.89535130000001,
+                        "lng" : -77.0161808
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e4th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qrllFdfauMtDAn@?x@?~@?|A?f@?|@?|B?v@?z@?x@?b@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8997669,
+                        "lng" : -77.01619359999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yrllFhqbuMAqN?mI@uF?iGFQ?QtDAhB?|C?zG?xC?"
+         },
+         "summary" : "H St NW and 4th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

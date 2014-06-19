@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8623123,
+               "lng" : -77.0600491
+            },
+            "southwest" : {
+               "lat" : 38.8623123,
+               "lng" : -77.0600491
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1250-1360 South Hayes Street, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.8623123,
+                  "lng" : -77.0600491
+               },
+               "start_address" : "1250-1360 South Hayes Street, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.8623123,
+                  "lng" : -77.0600491
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8623123,
+                        "lng" : -77.0600491
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mhelFhxiuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8623123,
+                        "lng" : -77.0600491
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mhelFhxiuM"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

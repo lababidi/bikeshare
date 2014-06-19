@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8972036,
+               "lng" : -77.01990499999999
+            },
+            "southwest" : {
+               "lat" : 38.89457290000001,
+               "lng" : -77.02297489999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 614
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 154
+               },
+               "end_address" : "315-399 6th Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.89457290000001,
+                  "lng" : -77.0199064
+               },
+               "start_address" : "701-799 F Street Northwest, Washington, DC 20004, USA",
+               "start_location" : {
+                  "lat" : 38.8972036,
+                  "lng" : -77.0223218
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "184 ft",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 38.897203,
+                        "lng" : -77.02296320000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eF St NW\u003c/b\u003e toward \u003cb\u003e8th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "obllFnlbuM?~B"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8972036,
+                        "lng" : -77.0223218
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 268
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 38.8947972,
+                        "lng" : -77.0229688
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e8th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "obllFnpbuMtE@pD?@?tA?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.897203,
+                        "lng" : -77.02296320000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 265
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : 38.894794,
+                        "lng" : -77.01990499999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eD St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "osklFppbuM?S?_E?i@@wH?o@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8947972,
+                        "lng" : -77.0229688
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "82 ft",
+                        "value" : 25
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 38.89457290000001,
+                        "lng" : -77.0199064
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e6th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "msklFj}auMj@@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.894794,
+                        "lng" : -77.01990499999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "obllFnlbuM?~BtE@rD?tA??S?iF@gJj@@"
+         },
+         "summary" : "8th St NW and D St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

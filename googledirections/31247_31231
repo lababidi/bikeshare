@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.89462109999999,
+               "lng" : -77.03161559999999
+            },
+            "southwest" : {
+               "lat" : 38.8886017,
+               "lng" : -77.03237589999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 767
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 254
+               },
+               "end_address" : "1350-1398 D Street Northwest, Washington, DC 20004, USA",
+               "end_location" : {
+                  "lat" : 38.8946183,
+                  "lng" : -77.03161559999999
+               },
+               "start_address" : "1401-1449 Jefferson Drive Southwest, Washington, DC 20024, USA",
+               "start_location" : {
+                  "lat" : 38.8886744,
+                  "lng" : -77.03237589999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "177 ft",
+                        "value" : 54
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : 38.8886036,
+                        "lng" : -77.0317601
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eJefferson Dr SW\u003c/b\u003e toward \u003cb\u003e14th St SW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "emjlFjkduMHi@Bm@?c@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8886744,
+                        "lng" : -77.03237589999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 388
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 38.8919595,
+                        "lng" : -77.0319379
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003e14th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wljlFngduMU?eBAuB@aBBW?o@AqBCkCBC?C@@^"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8886036,
+                        "lng" : -77.0317601
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 296
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 131
+                     },
+                     "end_location" : {
+                        "lat" : 38.89462109999999,
+                        "lng" : -77.03195459999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e14th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "waklFrhduMYB}AAkBAoH@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8919595,
+                        "lng" : -77.0319379
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "95 ft",
+                        "value" : 29
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.8946183,
+                        "lng" : -77.03161559999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eD St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "krklFthduM?aA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89462109999999,
+                        "lng" : -77.03195459999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "emjlFjkduMHi@Bm@?c@U?{E?yBBaDEoCBC@@^YB}AA{K??aA"
+         },
+         "summary" : "14th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

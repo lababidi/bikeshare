@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.942016,
+               "lng" : -77.0327217
+            },
+            "southwest" : {
+               "lat" : 38.9375004,
+               "lng" : -77.032726
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 502
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 111
+               },
+               "end_address" : "3707 14th Street Northwest, Washington, DC 20010, USA",
+               "end_location" : {
+                  "lat" : 38.9375004,
+                  "lng" : -77.032726
+               },
+               "start_address" : "4201-4273 14th Street Northwest, Washington, DC 20011, USA",
+               "start_location" : {
+                  "lat" : 38.942016,
+                  "lng" : -77.03272419999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 502
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 111
+                     },
+                     "end_location" : {
+                        "lat" : 38.9375004,
+                        "lng" : -77.032726
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e14th St NW\u003c/b\u003e toward \u003cb\u003eUpshur St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "sztlFnmduM\\?rE@rEAtE?zC@x@?T?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.942016,
+                        "lng" : -77.03272419999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sztlFnmduMzS?jF@"
+         },
+         "summary" : "14th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

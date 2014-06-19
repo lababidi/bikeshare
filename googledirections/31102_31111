@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9294828,
+               "lng" : -77.0259877
+            },
+            "southwest" : {
+               "lat" : 38.9171994,
+               "lng" : -77.0276958
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1461
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 249
+               },
+               "end_address" : "2001-2055 10th Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9171994,
+                  "lng" : -77.0259877
+               },
+               "start_address" : "3133 11th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9294828,
+                  "lng" : -77.0276958
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1228
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 217
+                     },
+                     "end_location" : {
+                        "lat" : 38.9184817,
+                        "lng" : -77.02703939999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e11th St NW\u003c/b\u003e toward \u003cb\u003eIrving St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "glrlFbncuMh@KlAQb@Gt@MrASv@M~@M^Ed@Ir@MH?DAP?j@?v@?v@?R?`B?bB?hD?J?N?x@?xA?d@?b@?l@?lI?zH?jC?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9294828,
+                        "lng" : -77.0276958
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "295 ft",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 38.9184833,
+                        "lng" : -77.0259942
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003e10th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ogplF~icuMAiB@gB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9184817,
+                        "lng" : -77.02703939999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "469 ft",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.9171994,
+                        "lng" : -77.0259877
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e10th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ogplFlccuMP?v@?|C?V?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9184833,
+                        "lng" : -77.0259942
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "glrlFbncuM|LiBhBYlD?rP?dM?fM??qE~F?"
+         },
+         "summary" : "11th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

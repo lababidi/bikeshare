@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.905879,
+               "lng" : -77.032512
+            },
+            "southwest" : {
+               "lat" : 38.905879,
+               "lng" : -77.032512
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1455 Massachusetts Avenue Northwest, Washington, DC 20005, USA",
+               "end_location" : {
+                  "lat" : 38.905879,
+                  "lng" : -77.032512
+               },
+               "start_address" : "1455 Massachusetts Avenue Northwest, Washington, DC 20005, USA",
+               "start_location" : {
+                  "lat" : 38.905879,
+                  "lng" : -77.032512
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.905879,
+                        "lng" : -77.032512
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wxmlFdlduM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.905879,
+                        "lng" : -77.032512
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wxmlFdlduM"
+         },
+         "summary" : "Massachusetts Avenue Northwest",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

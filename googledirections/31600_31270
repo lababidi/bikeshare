@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9030382,
+               "lng" : -77.01891189999999
+            },
+            "southwest" : {
+               "lat" : 38.894794,
+               "lng" : -77.02323930000001
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1288
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 301
+               },
+               "end_address" : "801 D Street Northwest, Washington, DC 20004, USA",
+               "end_location" : {
+                  "lat" : 38.8947951,
+                  "lng" : -77.02323930000001
+               },
+               "start_address" : "1054 5th Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9030382,
+                  "lng" : -77.01894779999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 916
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 170
+                     },
+                     "end_location" : {
+                        "lat" : 38.894802,
+                        "lng" : -77.0189372
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e5th St NW\u003c/b\u003e toward \u003cb\u003eK St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_gmlFlwauMJ?P?N?N?L?J?D?H?hBC|B@F?d@AH?R?V?|B?x@AV@ZAxBAbB@p@?bE@vA?hA@nA?rBAfB@l@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9030382,
+                        "lng" : -77.01894779999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 372
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 131
+                     },
+                     "end_location" : {
+                        "lat" : 38.8947951,
+                        "lng" : -77.02323930000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eD St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "osklFjwauM?t@?hB@^?n@AvH?h@?~D?R?N?d@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.894802,
+                        "lng" : -77.0189372
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_gmlFlwauMfB?fFAl@ArD?fFCpLBtJ@l@??t@@hCApQ?hA"
+         },
+         "summary" : "5th St NW and D St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

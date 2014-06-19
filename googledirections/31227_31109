@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9155818,
+               "lng" : -77.022199
+            },
+            "southwest" : {
+               "lat" : 38.9002199,
+               "lng" : -77.02978399999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.5 mi",
+                  "value" : 2404
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 651
+               },
+               "end_address" : "717 T Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9155733,
+                  "lng" : -77.022199
+               },
+               "start_address" : "1301 New York Avenue Northwest, Washington, DC 20005, USA",
+               "start_location" : {
+                  "lat" : 38.9002199,
+                  "lng" : -77.02978399999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "62 ft",
+                        "value" : 19
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 38.9002912,
+                        "lng" : -77.0295883
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eNew York Ave NW\u003c/b\u003e toward \u003cb\u003e13th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "kullFb{cuMMe@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9002199,
+                        "lng" : -77.02978399999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 990
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 334
+                     },
+                     "end_location" : {
+                        "lat" : 38.9091402,
+                        "lng" : -77.0293528
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e13th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yullF|ycuMaB?kB@eA@iA@iABS?Y?Y?eAAE?E?kB@uECQ?yC@eB?gA?gB?g@?gGAI?GGCACAM?E?C?CAC?CAA?EACACCEAGCCCECACKK"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9002912,
+                        "lng" : -77.0295883
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 753
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 140
+                     },
+                     "end_location" : {
+                        "lat" : 38.9155806,
+                        "lng" : -77.0296209
+                     },
+                     "html_instructions" : "At the traffic circle, continue straight to stay on \u003cb\u003e13th St NW\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "cmnlFlxcuMIMGMACKMOOGGMIOAKAQ?G?UL[NONELA@Q^CHCDABC@CBCBE@IBOF}B@gBAm@?aA?qA?uCAeA@{@?O?O?aAAqA@eA?O?_@?O?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9091402,
+                        "lng" : -77.0293528
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 642
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 160
+                     },
+                     "end_location" : {
+                        "lat" : 38.9155733,
+                        "lng" : -77.022199
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eT St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kuolFbzcuM?Y?]?iB?iB?g@?eB?iB@{B?k@AU?mC@EA_C?uC?]?m@?eB?]?y@@m@?g@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9155806,
+                        "lng" : -77.0296209
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kullFb{cuMMe@aB?qDBaED_MCoL@oHAI?GGGCS?OCOGWMMOQ[e@i@MIOA]AG?UL[NONGNUh@MNc@PuI?}O?eC??kG@iQ?uR"
+         },
+         "summary" : "13th St NW and T St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

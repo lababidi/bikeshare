@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9002229,
+               "lng" : -77.02308649999999
+            },
+            "southwest" : {
+               "lat" : 38.89964030000001,
+               "lng" : -77.0318913
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 841
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 219
+               },
+               "end_address" : "806 H Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.8998136,
+                  "lng" : -77.02308649999999
+               },
+               "start_address" : "724-798 14th Street Northwest, Washington, DC 20005, USA",
+               "start_location" : {
+                  "lat" : 38.89964030000001,
+                  "lng" : -77.0318913
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "213 ft",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.9002229,
+                        "lng" : -77.03188569999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e14th St NW\u003c/b\u003e toward \u003cb\u003eH St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wqllFhhduMsB?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89964030000001,
+                        "lng" : -77.0318913
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 776
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 200
+                     },
+                     "end_location" : {
+                        "lat" : 38.8998136,
+                        "lng" : -77.02308649999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eH St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kullFhhduM?cC@cA?A?[@G?E@G@EBE@EBGBEPYPMBIDG@G@GBK?M@aABgG?s@?iE?m@?s@?C?u@?y@?kK?]?]?}A?["
+                     },
+                     "start_location" : {
+                        "lat" : 38.9002229,
+                        "lng" : -77.03188569999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wqllFhhduMsB??cC@eABq@JYT_@TWLc@@oAB{H?oH?yO?wC"
+         },
+         "summary" : "H St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

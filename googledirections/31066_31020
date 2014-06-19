@@ -1,0 +1,338 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8904263,
+               "lng" : -77.0719359
+            },
+            "southwest" : {
+               "lat" : 38.8642729,
+               "lng" : -77.0905832
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.0 mi",
+                  "value" : 4793
+               },
+               "duration" : {
+                  "text" : "22 mins",
+                  "value" : 1321
+               },
+               "end_address" : "2505 Wilson Boulevard, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.8903594,
+                  "lng" : -77.08887369999999
+               },
+               "start_address" : "832-900 South Orme Street, Arlington, VA 22204, USA",
+               "start_location" : {
+                  "lat" : 38.8672729,
+                  "lng" : -77.07227039999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "318 ft",
+                        "value" : 97
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 38.8664448,
+                        "lng" : -77.0719359
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eS Orme St\u003c/b\u003e toward \u003cb\u003eColumbia Pike\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mgflFtdluMdDaA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8672729,
+                        "lng" : -77.07227039999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 766
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 275
+                     },
+                     "end_location" : {
+                        "lat" : 38.8642729,
+                        "lng" : -77.0803354
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eColumbia Pike\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gbflFrbluMHXRvAHh@^xBH`@BRTnAPjALt@F`@Lt@N|@N`AF^\\rBd@hCTnARpAXfBLt@`@bCN~@^vB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8664448,
+                        "lng" : -77.0719359
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1321
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 354
+                     },
+                     "end_location" : {
+                        "lat" : 38.8754463,
+                        "lng" : -77.0842004
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Courthouse Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "utelFbwmuM{AR}BZcEf@iAPcLrAS?m@BuBVkAN{@HwFp@gDd@c@?ULy@ASDa@T]LMLMHUBGBIDEDGDi@l@MLYNk@Z]Zw@bAk@r@A@CBABIJCBGFABOTCHAL"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8642729,
+                        "lng" : -77.0803354
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "404 ft",
+                        "value" : 123
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : 38.874806,
+                        "lng" : -77.0853034
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qzglFfonuM@@BHJJ^^T^L\\Jd@Jj@HNFB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8754463,
+                        "lng" : -77.0842004
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 799
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 217
+                     },
+                     "end_location" : {
+                        "lat" : 38.8810584,
+                        "lng" : -77.0846712
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eN Pershing Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qvglFbvnuMHM@QAQCUGa@Oe@Wi@S_@W_@IKGE?AGE?AKIIGAACAc@WWKSGSGSEO?KAK?I@QDE?K?I?G?KBkC\\QH_@C[Bg@J{C`@wDb@oAXkAPm@LYL]RQF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.874806,
+                        "lng" : -77.0853034
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 447
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 101
+                     },
+                     "end_location" : {
+                        "lat" : 38.8807829,
+                        "lng" : -77.08972100000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Pershing Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "s}hlFdrnuMDLN\\DNDL@HDPXdBF\\BX?J?B@PAf@CbA?VCbBAz@BPE`DKrF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8810584,
+                        "lng" : -77.0846712
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 667
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 161
+                     },
+                     "end_location" : {
+                        "lat" : 38.8864497,
+                        "lng" : -77.0903275
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Danville St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{{hlFvqouMoC?}GFyHLO?_DBeC@}@@C?C@?@A?A@A@A@?@A@?@A??@?B?D@~@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8807829,
+                        "lng" : -77.08972100000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 242
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 38.8885938,
+                        "lng" : -77.09050879999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eN Danville St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "i_jlFpuouMgADO@UBeCP{CRI@CAA?AACCCCAC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8864497,
+                        "lng" : -77.0903275
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "72 ft",
+                        "value" : 22
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.8887779,
+                        "lng" : -77.0905738
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "uljlFtvouMQHE@C@C?EA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8885938,
+                        "lng" : -77.09050879999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 195
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 38.8895572,
+                        "lng" : -77.0885583
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eClarendon Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{mjlF`wouMoAiEcAwDGO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8887779,
+                        "lng" : -77.0905738
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "318 ft",
+                        "value" : 97
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : 38.8904263,
+                        "lng" : -77.088703
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Barton St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wrjlFnjouMmDZ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8895572,
+                        "lng" : -77.0885583
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "56 ft",
+                        "value" : 17
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 38.8903594,
+                        "lng" : -77.08887369999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWilson Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "exjlFjkouML`@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8904263,
+                        "lng" : -77.088703
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mgflFtdluMdDaAHX\\`CbA~FzBlNhEdWyEn@mGx@cLrAS?cDZgCX_LvAc@?ULy@ASD_Ab@[V]FOJq@r@g@\\k@Z]ZcBvBQTKJQXEVDJj@j@T^L\\VpAHNFBHM@QEg@WgAk@iAa@k@OOWSg@Yk@Sg@M[AU@WDi@BkC\\QH_@C[BcEl@wDb@oAXyB^w@`@QFDLTl@f@nCJfACtCE~CBPE`DKrFoC?wQTsJFOJCD?H@~@gADe@DaHd@M?CAGGACQHIBIAsCaKGOmDZL`@"
+         },
+         "summary" : "S Courthouse Rd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

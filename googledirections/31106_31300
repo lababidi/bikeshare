@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9445999,
+               "lng" : -77.04762409999999
+            },
+            "southwest" : {
+               "lat" : 38.9232904,
+               "lng" : -77.0637577
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 mi",
+                  "value" : 2909
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 707
+               },
+               "end_address" : "4210-4250 Connecticut Avenue Northwest, Washington, DC 20008, USA",
+               "end_location" : {
+                  "lat" : 38.9445999,
+                  "lng" : -77.0637577
+               },
+               "start_address" : "2000-2108 Calvert Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9232904,
+                  "lng" : -77.04762409999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 339
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 137
+                     },
+                     "end_location" : {
+                        "lat" : 38.9235388,
+                        "lng" : -77.051526
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eCalvert St NW\u003c/b\u003e toward \u003cb\u003eWoodley Pl NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qeqlFrjguMANIjCAD?FGfB?@?@?XA?CdA?XChBCh@KzDAT?V"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9232904,
+                        "lng" : -77.04762409999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.6 mi",
+                        "value" : 2570
+                     },
+                     "duration" : {
+                        "text" : "10 mins",
+                        "value" : 570
+                     },
+                     "end_location" : {
+                        "lat" : 38.9445999,
+                        "lng" : -77.0637577
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eConnecticut Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cgqlF`chuMuFlCe@TsBbAeEpB{HvDyDjBiDbByBfAo@X_EjBuDhBsDhBsB`AgHlDsBbAeCjAi@XeFdCy@b@[P}CxAmHnDSJiEtB{ExBMFuE|BcAf@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9235388,
+                        "lng" : -77.051526
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qeqlFrjguM[nKUdJ?VuFlCyCxAeZxN_PvHcU|KoMnG{NfHeLnFcFdCcAf@"
+         },
+         "summary" : "Connecticut Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

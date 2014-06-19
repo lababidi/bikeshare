@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8056386,
+               "lng" : -77.04037029999999
+            },
+            "southwest" : {
+               "lat" : 38.8030857,
+               "lng" : -77.052908
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1229
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 366
+               },
+               "end_address" : "9-99 Prince Street, Alexandria, VA 22314, USA",
+               "end_location" : {
+                  "lat" : 38.8030857,
+                  "lng" : -77.04037029999999
+               },
+               "start_address" : "106 Commerce Street, Alexandria, VA 22314, USA",
+               "start_location" : {
+                  "lat" : 38.8056072,
+                  "lng" : -77.052908
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "125 ft",
+                        "value" : 38
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.8056046,
+                        "lng" : -77.0524805
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eCommerce St\u003c/b\u003e toward \u003cb\u003eS Fayette St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "afzkFtkhuMCKAKF}@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8056072,
+                        "lng" : -77.052908
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "361 ft",
+                        "value" : 110
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.8046316,
+                        "lng" : -77.0526905
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Fayette St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_fzkF~hhuMxBXfAN"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8056046,
+                        "lng" : -77.0524805
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1081
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 340
+                     },
+                     "end_location" : {
+                        "lat" : 38.8030857,
+                        "lng" : -77.04037029999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePrince St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}_zkFhjhuMZyEZwE\\yEZuENiCHiAB]@YF_AN_CXqEZ_FJ}AN_CVqE\\qF@]"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8046316,
+                        "lng" : -77.0526905
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "afzkFtkhuMEWF}@xBXfANZyEx@qLx@gMr@kLnB_\\"
+         },
+         "summary" : "Prince St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8672729,
+               "lng" : -77.0719359
+            },
+            "southwest" : {
+               "lat" : 38.857523,
+               "lng" : -77.08800889999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.3 mi",
+                  "value" : 2151
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 563
+               },
+               "end_address" : "2909 16th Street South, Arlington, VA 22204, USA",
+               "end_location" : {
+                  "lat" : 38.8576923,
+                  "lng" : -77.0866953
+               },
+               "start_address" : "832-900 South Orme Street, Arlington, VA 22204, USA",
+               "start_location" : {
+                  "lat" : 38.8672729,
+                  "lng" : -77.07227039999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "318 ft",
+                        "value" : 97
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 38.8664448,
+                        "lng" : -77.0719359
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eS Orme St\u003c/b\u003e toward \u003cb\u003eColumbia Pike\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mgflFtdluMdDaA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8672729,
+                        "lng" : -77.07227039999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1379
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 392
+                     },
+                     "end_location" : {
+                        "lat" : 38.8625516,
+                        "lng" : -77.08705449999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eColumbia Pike\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gbflFrbluMHXRvAHh@^xBH`@BRTnAPjALt@F`@Lt@N|@N`AF^\\rBd@hCTnARpAXfBLt@`@bCN~@^vBZjBPfAN`ALv@PfA^vBV`BRlARnA\\pBNx@FZ\\xBd@tCXbBDR"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8664448,
+                        "lng" : -77.0719359
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 538
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : 38.8578358,
+                        "lng" : -77.08800889999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Walter Reed Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}ielF`aouMHABABC@AxAE^Cz@CR@Z?DFBB@@B?d@BhAR|Cj@h@LJBdB\\zBj@|Bf@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8625516,
+                        "lng" : -77.08705449999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "449 ft",
+                        "value" : 137
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.8576923,
+                        "lng" : -77.0866953
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e14th St S\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "oldlF`gouMB[@UDGHEJENADCBEBGAG?E_@}C"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8578358,
+                        "lng" : -77.08800889999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mgflFtdluMdDaAHX\\`CbA~FzBlNhEdWhD|SlD~SLCDExBInAAZ?DFDDh@BfF~@t@P`FhA|Bf@B[@UDGTKTEFMAM_@}C"
+         },
+         "summary" : "Columbia Pike",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

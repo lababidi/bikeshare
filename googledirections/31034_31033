@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.883024,
+               "lng" : -77.10371189999999
+            },
+            "southwest" : {
+               "lat" : 38.8815125,
+               "lng" : -77.1094835
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 687
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 172
+               },
+               "end_address" : "3705 Wilson Boulevard, Arlington, VA 22203, USA",
+               "end_location" : {
+                  "lat" : 38.8815125,
+                  "lng" : -77.1040127
+               },
+               "start_address" : "1001 North Randolph Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8826178,
+                  "lng" : -77.1094835
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "95 ft",
+                        "value" : 29
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.88236029999999,
+                        "lng" : -77.10943880000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Randolph St\u003c/b\u003e toward \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kgilFfmsuMZCVC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8826178,
+                        "lng" : -77.1094835
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 479
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 128
+                     },
+                     "end_location" : {
+                        "lat" : 38.883024,
+                        "lng" : -77.1041056
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "weilF~lsuMEy@GsACe@Aa@?I?u@@{@FwAFqABk@Am@AYAWGeAEm@Mk@a@eBaA{C"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88236029999999,
+                        "lng" : -77.10943880000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "299 ft",
+                        "value" : 91
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 38.8822625,
+                        "lng" : -77.10371189999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Nelson St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{iilFtkruMvCoA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.883024,
+                        "lng" : -77.1041056
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "289 ft",
+                        "value" : 88
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 38.8815125,
+                        "lng" : -77.1040127
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e at \u003cb\u003e9th St N\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "ceilFdiruM\\JHDTLRHDBH?JAD?DBXJ@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8822625,
+                        "lng" : -77.10371189999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kgilFfmsuMr@GMmCEgCHsCJ}BMeDSyAa@eBaA{CvCoA\\J^RXLTAJBZJ"
+         },
+         "summary" : "N Fairfax Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

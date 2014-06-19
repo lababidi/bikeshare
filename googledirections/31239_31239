@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9064725,
+               "lng" : -77.0387128
+            },
+            "southwest" : {
+               "lat" : 38.9064725,
+               "lng" : -77.0387128
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1701-1711 Rhode Island Avenue Northwest, Washington, DC 20036, USA",
+               "end_location" : {
+                  "lat" : 38.9064725,
+                  "lng" : -77.0387128
+               },
+               "start_address" : "1701-1711 Rhode Island Avenue Northwest, Washington, DC 20036, USA",
+               "start_location" : {
+                  "lat" : 38.9064725,
+                  "lng" : -77.0387128
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9064725,
+                        "lng" : -77.0387128
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eRhode Island Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "m|mlF|reuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9064725,
+                        "lng" : -77.0387128
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "m|mlF|reuM"
+         },
+         "summary" : "Rhode Island Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

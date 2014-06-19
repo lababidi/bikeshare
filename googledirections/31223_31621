@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9056566,
+               "lng" : -77.01616199999999
+            },
+            "southwest" : {
+               "lat" : 38.89535130000001,
+               "lng" : -77.0222653
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1673
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 426
+               },
+               "end_address" : "451 4th Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.89535130000001,
+                  "lng" : -77.0161808
+               },
+               "start_address" : "801-899 M Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9056395,
+                  "lng" : -77.0222653
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 528
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 170
+                     },
+                     "end_location" : {
+                        "lat" : 38.9056472,
+                        "lng" : -77.01616199999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eM St NW\u003c/b\u003e toward \u003cb\u003e7th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gwmlFdlbuM?eA?iAA}CAkD?wC@i@?k@?o@?qA?s@?W?k@?eB@]?yAAe@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056395,
+                        "lng" : -77.0222653
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1145
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 256
+                     },
+                     "end_location" : {
+                        "lat" : 38.89535130000001,
+                        "lng" : -77.0161808
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e4th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "iwmlF~eauMP?T?b@?H?L@h@@V@V@T?@?V?pCErA@D?^?pA@N?V?P?b@Ad@?f@?j@?b@?X?`@?f@?R?j@?b@?l@?P@t@@PAtDAn@?x@?~@?|A?f@?|@?|B?v@?z@?x@?b@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9056472,
+                        "lng" : -77.01616199999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gwmlFdlbuMCyM@}G?mMtA?fBF`EEjEBzFAvB?nC@fA?dFA~F?lK?"
+         },
+         "summary" : "M St NW and 4th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8873793,
+               "lng" : -77.01383299999999
+            },
+            "southwest" : {
+               "lat" : 38.8873793,
+               "lng" : -77.01383299999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "201-247 Washington Avenue Southwest, Washington, DC 20024, USA",
+               "end_location" : {
+                  "lat" : 38.8873793,
+                  "lng" : -77.01383299999999
+               },
+               "start_address" : "201-247 Washington Avenue Southwest, Washington, DC 20024, USA",
+               "start_location" : {
+                  "lat" : 38.8873793,
+                  "lng" : -77.01383299999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8873793,
+                        "lng" : -77.01383299999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eWashington Ave SW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cejlFlw`uM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8873793,
+                        "lng" : -77.01383299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cejlFlw`uM"
+         },
+         "summary" : "Washington Ave SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

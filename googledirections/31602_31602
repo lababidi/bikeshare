@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9307246,
+               "lng" : -77.03145719999999
+            },
+            "southwest" : {
+               "lat" : 38.9307246,
+               "lng" : -77.03145719999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1339-1345 Park Road Northwest, Washington, DC 20010, USA",
+               "end_location" : {
+                  "lat" : 38.9307246,
+                  "lng" : -77.03145719999999
+               },
+               "start_address" : "1339-1345 Park Road Northwest, Washington, DC 20010, USA",
+               "start_location" : {
+                  "lat" : 38.9307246,
+                  "lng" : -77.03145719999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9307246,
+                        "lng" : -77.03145719999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003ePark Rd NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_trlFreduM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9307246,
+                        "lng" : -77.03145719999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_trlFreduM"
+         },
+         "summary" : "Park Rd NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

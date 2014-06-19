@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9336645,
+               "lng" : -76.97898889999999
+            },
+            "southwest" : {
+               "lat" : 38.9270793,
+               "lng" : -76.99108989999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1786
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 473
+               },
+               "end_address" : "2895 18th Street Northeast, Washington, DC 20018, USA",
+               "end_location" : {
+                  "lat" : 38.9270793,
+                  "lng" : -76.97899049999999
+               },
+               "start_address" : "3601 12th Street Northeast, Washington, DC 20017, USA",
+               "start_location" : {
+                  "lat" : 38.9336645,
+                  "lng" : -76.99108989999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 345
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : 38.9305637,
+                        "lng" : -76.99083539999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e12th St NE\u003c/b\u003e toward \u003cb\u003eNewton St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kfslFhi|tMXAXAd@CvAEl@Cv@Cx@EbAENAdEM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9336645,
+                        "lng" : -76.99108989999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 986
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 200
+                     },
+                     "end_location" : {
+                        "lat" : 38.931136,
+                        "lng" : -76.97946400000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKearny St NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_srlFvg|tMWoMAWC}@AcAE_BAoAGoB?S?SImD?]IaDOuIOuHK{FAe@AU"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9305637,
+                        "lng" : -76.99083539999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 455
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 183
+                     },
+                     "end_location" : {
+                        "lat" : 38.9270793,
+                        "lng" : -76.97899049999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e18th St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "svrlFr`ztMP?fAEF?bBGNAbBKjBILAn@?xAGPAr@ED?b@KRKPIBAB?TAF?X?V?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.931136,
+                        "lng" : -76.97946400000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kfslFhi|tMtKa@tEOYgNMqH{@qc@MaHAUP?nAErBInEU|@AdDOv@WTKz@AV?"
+         },
+         "summary" : "Kearny St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

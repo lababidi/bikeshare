@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9030382,
+               "lng" : -77.01891189999999
+            },
+            "southwest" : {
+               "lat" : 38.897337,
+               "lng" : -77.0193452
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 670
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 130
+               },
+               "end_address" : "501-547 F Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.89734079999999,
+                  "lng" : -77.0193452
+               },
+               "start_address" : "1054 5th Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9030382,
+                  "lng" : -77.01894779999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 634
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 123
+                     },
+                     "end_location" : {
+                        "lat" : 38.897337,
+                        "lng" : -77.01892900000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e5th St NW\u003c/b\u003e toward \u003cb\u003eK St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_gmlFlwauMJ?P?N?N?L?J?D?H?hBC|B@F?d@AH?R?V?|B?x@AV@ZAxBAbB@p@?bE@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9030382,
+                        "lng" : -77.01894779999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "118 ft",
+                        "value" : 36
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.89734079999999,
+                        "lng" : -77.0193452
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eF St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kcllFhwauM?rA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.897337,
+                        "lng" : -77.01892900000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_gmlFlwauMfB?fFAl@ArD?fFCtC@bE@?rA"
+         },
+         "summary" : "5th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

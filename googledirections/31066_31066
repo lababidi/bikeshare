@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8672729,
+               "lng" : -77.07227039999999
+            },
+            "southwest" : {
+               "lat" : 38.8672729,
+               "lng" : -77.07227039999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "832-900 South Orme Street, Arlington, VA 22204, USA",
+               "end_location" : {
+                  "lat" : 38.8672729,
+                  "lng" : -77.07227039999999
+               },
+               "start_address" : "832-900 South Orme Street, Arlington, VA 22204, USA",
+               "start_location" : {
+                  "lat" : 38.8672729,
+                  "lng" : -77.07227039999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8672729,
+                        "lng" : -77.07227039999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eS Orme St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mgflFtdluM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8672729,
+                        "lng" : -77.07227039999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mgflFtdluM"
+         },
+         "summary" : "S Orme St",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

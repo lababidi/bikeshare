@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8980699,
+               "lng" : -77.02817349999999
+            },
+            "southwest" : {
+               "lat" : 38.8872365,
+               "lng" : -77.031964
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1534
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 398
+               },
+               "end_address" : "201-245 12th Street Southwest, Washington, DC 20228, USA",
+               "end_location" : {
+                  "lat" : 38.8872365,
+                  "lng" : -77.02817349999999
+               },
+               "start_address" : "649-699 14th Street Northwest, Washington, DC 20005, USA",
+               "start_location" : {
+                  "lat" : 38.8980699,
+                  "lng" : -77.0319332
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 680
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 162
+                     },
+                     "end_location" : {
+                        "lat" : 38.8919595,
+                        "lng" : -77.0319379
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e14th St NW\u003c/b\u003e toward \u003cb\u003eF St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}gllFphduMt@@xAAlAB@?vB?n@@tBAjB@fAAnHAjB@|A@XC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8980699,
+                        "lng" : -77.0319332
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 388
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 126
+                     },
+                     "end_location" : {
+                        "lat" : 38.8886036,
+                        "lng" : -77.0317601
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eJefferson Dr SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "waklFrhduMA_@BAB?jCCpBBn@@V?`BCtBAdB@T?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8919595,
+                        "lng" : -77.0319379
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 308
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 38.8886581,
+                        "lng" : -77.02819749999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJefferson Dr SW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wljlFngduMG_JCyI?M"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8886036,
+                        "lng" : -77.0317601
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 38.8872365,
+                        "lng" : -77.02817349999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e12th St SW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cmjlFfqcuMxECt@AJ?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8886581,
+                        "lng" : -77.02819749999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}gllFphduM~EBfD@`F?vJChEBXCA_@FAjCCpBBfA@vEEzB@KyT?MxEC`AA"
+         },
+         "summary" : "14th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

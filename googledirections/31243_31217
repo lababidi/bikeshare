@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.88757349999999,
+               "lng" : -77.01848439999999
+            },
+            "southwest" : {
+               "lat" : 38.8872365,
+               "lng" : -77.02817589999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 924
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 249
+               },
+               "end_address" : "201-245 12th Street Southwest, Washington, DC 20228, USA",
+               "end_location" : {
+                  "lat" : 38.8872365,
+                  "lng" : -77.02817349999999
+               },
+               "start_address" : "562-598 Maryland Avenue Southwest, Washington, DC 20202, USA",
+               "start_location" : {
+                  "lat" : 38.887253,
+                  "lng" : -77.0188807
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "157 ft",
+                        "value" : 48
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875574,
+                        "lng" : -77.01848439999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eMaryland Ave SW\u003c/b\u003e toward \u003cb\u003eIndependence Ave SW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "idjlF~vauM}@oA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.887253,
+                        "lng" : -77.0188807
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 839
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 207
+                     },
+                     "end_location" : {
+                        "lat" : 38.8875704,
+                        "lng" : -77.02817589999999
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eIndependence Ave SW\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : {
+                        "points" : "gfjlFntauM?z@AhE?H?J?tG?zB?nE?vD?D?D?j@?P?`I?Z?R?xF?F?Z?j@?h@?R?X"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875574,
+                        "lng" : -77.01848439999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "121 ft",
+                        "value" : 37
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 38.8872365,
+                        "lng" : -77.02817349999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e12th St SW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ifjlFbqcuMt@AJ?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8875704,
+                        "lng" : -77.02817589999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "idjlF~vauM}@oA?z@ArE?lR?~Q?tL`AA"
+         },
+         "summary" : "Independence Ave SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

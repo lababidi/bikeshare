@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9034072,
+               "lng" : -77.043457
+            },
+            "southwest" : {
+               "lat" : 38.9034072,
+               "lng" : -77.043457
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1075-1099 19th Street Northwest, Washington, DC 20036, USA",
+               "end_location" : {
+                  "lat" : 38.9034072,
+                  "lng" : -77.043457
+               },
+               "start_address" : "1075-1099 19th Street Northwest, Washington, DC 20036, USA",
+               "start_location" : {
+                  "lat" : 38.9034072,
+                  "lng" : -77.043457
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9034072,
+                        "lng" : -77.043457
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e19th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iimlFrpfuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9034072,
+                        "lng" : -77.043457
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "iimlFrpfuM"
+         },
+         "summary" : "19th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,170 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9176322,
+               "lng" : -77.01215189999999
+            },
+            "southwest" : {
+               "lat" : 38.9154169,
+               "lng" : -77.0159591
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 584
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 174
+               },
+               "end_address" : "239 Elm Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9176115,
+                  "lng" : -77.0159227
+               },
+               "start_address" : "1832 1st Street Northwest, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9154169,
+                  "lng" : -77.0121532
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 176
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : 38.9169967,
+                        "lng" : -77.01215189999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eFirst St NW\u003c/b\u003e toward \u003cb\u003eT St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ktolF|l`uMU?[@U?]?C?u@?K?M?sAAm@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9154169,
+                        "lng" : -77.0121532
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 203
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 38.9169858,
+                        "lng" : -77.01450269999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eU St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "g~olF|l`uM?jB?~B?h@@jD?R"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9169967,
+                        "lng" : -77.01215189999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "236 ft",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.9176322,
+                        "lng" : -77.01456449999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e2nd St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "e~olFr{`uMsBJK?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9169858,
+                        "lng" : -77.01450269999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "397 ft",
+                        "value" : 121
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : 38.9175043,
+                        "lng" : -77.0159591
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eElm St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ebplF~{`uM@TTlF@R"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9176322,
+                        "lng" : -77.01456449999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "39 ft",
+                        "value" : 12
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.9176115,
+                        "lng" : -77.0159227
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at \u003cb\u003e3rd St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kaplFvdauMOEEA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9175043,
+                        "lng" : -77.0159591
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ktolF|l`uMyD@aCA?jF@tE?RsBJK?@TV`GUG"
+         },
+         "summary" : "First St NW and U St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,168 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8912204,
+               "lng" : -77.077395
+            },
+            "southwest" : {
+               "lat" : 38.8893212,
+               "lng" : -77.08887369999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1111
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 378
+               },
+               "end_address" : "2505 Wilson Boulevard, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.8903594,
+                  "lng" : -77.08887369999999
+               },
+               "start_address" : "Arlington Blvd S R & Queen St, Arlington, VA 22209, USA",
+               "start_location" : {
+                  "lat" : 38.8893212,
+                  "lng" : -77.077395
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 161
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 38.8901072,
+                        "lng" : -77.07893659999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eN Queen St/N Rhodes St\u003c/b\u003e toward \u003cb\u003eArlington Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow N Rhodes St\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "gqjlFvdmuMGBEDCBCBADMXELOb@A@Md@AB?@EL?@EPAB?@Qj@O\\ILU`@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8893212,
+                        "lng" : -77.077395
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 184
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : 38.8903759,
+                        "lng" : -77.08084789999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e14th St N\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "evjlFjnmuMFFDJFPDP@L@J@ZClACTANGXAJSf@o@lA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8901072,
+                        "lng" : -77.07893659999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 409
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 150
+                     },
+                     "end_location" : {
+                        "lat" : 38.8907235,
+                        "lng" : -77.08527309999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e15th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{wjlFhzmuMm@r@MNIHMTEHCFGRCHE`@AFATJpELrDJlCBb@@Z@r@@V"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8903759,
+                        "lng" : -77.08084789999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "249 ft",
+                        "value" : 76
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 38.8912204,
+                        "lng" : -77.08584150000002
+                     },
+                     "html_instructions" : "\u003cb\u003e15th St N\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eN Veitch St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_zjlF|unuMGTCFGJGJGFGFMLi@\\"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8907235,
+                        "lng" : -77.08527309999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 281
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 38.8903594,
+                        "lng" : -77.08887369999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWilson Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "c}jlFnynuMLf@J\\H`@Hd@N`CD`@BL@@H\\dA`EBXL`@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8912204,
+                        "lng" : -77.08584150000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gqjlFvdmuMUPe@pA_@rAQl@Yj@U`@FFL\\F^Bf@GbBIh@Ur@o@lAm@r@WXS^KZIj@C\\XdKR`G@VGTKRe@h@i@\\Lf@T~@Hd@N`CHn@J^dA`EBXL`@"
+         },
+         "summary" : "15th St N and Wilson Blvd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.88122329999999,
+               "lng" : -77.107562
+            },
+            "southwest" : {
+               "lat" : 38.8801544,
+               "lng" : -77.1116447
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 467
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 99
+               },
+               "end_address" : "4299 9th Street North, Arlington, VA 22230, USA",
+               "end_location" : {
+                  "lat" : 38.8810365,
+                  "lng" : -77.1116447
+               },
+               "start_address" : "801 North Quincy Street, Arlington, VA 22203, USA",
+               "start_location" : {
+                  "lat" : 38.8801544,
+                  "lng" : -77.107562
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "390 ft",
+                        "value" : 119
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 38.88122329999999,
+                        "lng" : -77.1076573
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eN Quincy St\u003c/b\u003e toward \u003cb\u003e9th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}whlFfasuM_@@S@m@B}@DC?q@D"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8801544,
+                        "lng" : -77.107562
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 348
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 84
+                     },
+                     "end_location" : {
+                        "lat" : 38.8810365,
+                        "lng" : -77.1116447
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e9th St N\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "s~hlFzasuMAl@@V@NBNBPDNJl@DX@X@\\@h@A|BApBAZ@jE?P"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88122329999999,
+                        "lng" : -77.1076573
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}whlFfasuM_DLu@D?dAN`APfABv@?fDClC@|E"
+         },
+         "summary" : "N Quincy St and 9th St N",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

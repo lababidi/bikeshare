@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9290708,
+               "lng" : -77.023104
+            },
+            "southwest" : {
+               "lat" : 38.9233267,
+               "lng" : -77.0361922
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1861
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 488
+               },
+               "end_address" : "701-781 Columbia Road Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9280883,
+                  "lng" : -77.023427
+               },
+               "start_address" : "2582-2598 15th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9233267,
+                  "lng" : -77.0353181
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 603
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 157
+                     },
+                     "end_location" : {
+                        "lat" : 38.9286647,
+                        "lng" : -77.0361922
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e15th St NW\u003c/b\u003e toward \u003cb\u003eEuclid St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yeqlFv}duMK?K?mGPgBDU@qDDeABkABSDm@RiBj@uC~@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9233267,
+                        "lng" : -77.0353181
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1128
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 278
+                     },
+                     "end_location" : {
+                        "lat" : 38.929041,
+                        "lng" : -77.023229
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eIrving St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cgrlFdceuM?U?SDmB?I?Q?QEqBSuGCoAAKB[Hc@F]DW@Q@yH?U?S?wB?wD?uA?E?E?EAQAQCk@A]Ck@AMC_AAOGoAEeAAUGaASeFKaCAUGaB?K?G@IBM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9286647,
+                        "lng" : -77.0361922
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "335 ft",
+                        "value" : 102
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 41
+                     },
+                     "end_location" : {
+                        "lat" : 38.9281258,
+                        "lng" : -77.023104
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eGeorgia Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "oirlFdrbuMtDY"
+                     },
+                     "start_location" : {
+                        "lat" : 38.929041,
+                        "lng" : -77.023229
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : 38.9280883,
+                        "lng" : -77.023427
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eColumbia Rd NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ycrlFjqbuMF`A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9281258,
+                        "lng" : -77.023104
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yeqlFv}duMmKVyINaAX_GjBDaD?c@YgKE{AL_ALu@BkI?yI?gBImBc@wJi@_NDk@tDYF`A"
+         },
+         "summary" : "15th St NW and Irving St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

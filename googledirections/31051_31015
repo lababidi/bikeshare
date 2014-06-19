@@ -1,0 +1,145 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.89485519999999,
+               "lng" : -77.07223789999999
+            },
+            "southwest" : {
+               "lat" : 38.8893212,
+               "lng" : -77.07982179999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1205
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 287
+               },
+               "end_address" : "1696-1798 North Fort Myer Drive, Arlington, VA 22209, USA",
+               "end_location" : {
+                  "lat" : 38.8946054,
+                  "lng" : -77.07223789999999
+               },
+               "start_address" : "Arlington Blvd S R & Queen St, Arlington, VA 22209, USA",
+               "start_location" : {
+                  "lat" : 38.8893212,
+                  "lng" : -77.077395
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 465
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 143
+                     },
+                     "end_location" : {
+                        "lat" : 38.8926995,
+                        "lng" : -77.07982179999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eN Quinn St/N Rhodes St\u003c/b\u003e toward \u003cb\u003eArlington Blvd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow N Rhodes St\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "gqjlFvdmuMGBEDCBCBADMXELOb@A@Md@AB?@EL?@EPAB?@Qj@O\\ILU`@IFEBMDE?MBE?{@F_@BYBiBLeAJ[Ps@^o@^g@\\"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8893212,
+                        "lng" : -77.077395
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 572
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : 38.8945134,
+                        "lng" : -77.073804
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eClarendon Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kfklFzsmuMUs@Kc@I_@Go@OwAo@_Fa@eDg@aEc@qDK_@Sc@KSQUQSAAIGGEIEIGEIIO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8926995,
+                        "lng" : -77.07982179999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "459 ft",
+                        "value" : 140
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 38.89485519999999,
+                        "lng" : -77.0722712
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eWilson Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uqklFfnluMMSGOGSEOCMAGAOAYAWEs@Eg@Iu@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8945134,
+                        "lng" : -77.073804
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 38.8946054,
+                        "lng" : -77.07223789999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Fort Myer Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{sklFtdluMp@E"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89485519999999,
+                        "lng" : -77.0722712
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gqjlFvdmuMUPe@pA_@rAQl@Yj@_@h@SHuAJiF`@oAp@wA|@a@wAQoAiC_Tc@qDK_@_@w@c@i@KIQKOQWc@Oc@Mu@OmCIu@p@E"
+         },
+         "summary" : "N Rhodes St and Clarendon Blvd",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

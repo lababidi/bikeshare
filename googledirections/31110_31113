@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9205903,
+               "lng" : -77.043436
+            },
+            "southwest" : {
+               "lat" : 38.9153176,
+               "lng" : -77.0447762
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 693
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 254
+               },
+               "end_address" : "1838-1898 Belmont Road Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9205887,
+                  "lng" : -77.04368079999999
+               },
+               "start_address" : "1919-1977 Florida Avenue Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9153176,
+                  "lng" : -77.04452619999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "374 ft",
+                        "value" : 114
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 38.915888,
+                        "lng" : -77.043436
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eFlorida Ave NW\u003c/b\u003e toward \u003cb\u003eT St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wsolFhwfuMEKSi@Se@O]c@cAGMGM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9153176,
+                        "lng" : -77.04452619999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 371
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 173
+                     },
+                     "end_location" : {
+                        "lat" : 38.9190543,
+                        "lng" : -77.0447762
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e19th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iwolFnpfuMG?GBIBQHiDjAmAZ{Ah@aBj@oA^SDOFa@L"
+                     },
+                     "start_location" : {
+                        "lat" : 38.915888,
+                        "lng" : -77.043436
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 185
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 38.9205903,
+                        "lng" : -77.0439444
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eColumbia Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "akplFzxfuM]S}Au@KGSK{@]q@Wi@S"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9190543,
+                        "lng" : -77.0447762
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 ft",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.9205887,
+                        "lng" : -77.04368079999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBelmont Rd NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "utplFrsfuM?s@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9205903,
+                        "lng" : -77.0439444
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wsolFhwfuM}@yBk@qAGMG?QF{DtAiDdAqDjAc@La@L]SiB}@oAi@{Ak@?s@"
+         },
+         "summary" : "19th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

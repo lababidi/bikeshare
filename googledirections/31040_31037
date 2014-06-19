@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8844029,
+               "lng" : -77.1009327
+            },
+            "southwest" : {
+               "lat" : 38.8810274,
+               "lng" : -77.1116447
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1137
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 224
+               },
+               "end_address" : "4299 9th Street North, Arlington, VA 22230, USA",
+               "end_location" : {
+                  "lat" : 38.8810365,
+                  "lng" : -77.1116447
+               },
+               "start_address" : "3401-3439 North Fairfax Drive, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8844029,
+                  "lng" : -77.1009327
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 640
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 111
+                     },
+                     "end_location" : {
+                        "lat" : 38.88255729999999,
+                        "lng" : -77.1077554
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eN Fairfax Dr\u003c/b\u003e toward \u003cb\u003eN Kansas St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "orilFxwquM@FPj@^rAhAvD~@fD`AzCDJDLv@bCJ`@Hb@FVJn@BZD^B^BfAAj@CrBCh@Ev@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8844029,
+                        "lng" : -77.1009327
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "489 ft",
+                        "value" : 149
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.88122329999999,
+                        "lng" : -77.1076573
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Quincy St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_gilFnbsuMTAnAEdDK"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88255729999999,
+                        "lng" : -77.1077554
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 348
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 38.8810365,
+                        "lng" : -77.1116447
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e9th St N\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "s~hlFzasuMAl@@V@NBNBPDNJl@DX@X@\\@h@A|BApBAZ@jE?P"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88122329999999,
+                        "lng" : -77.1076573
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "orilFxwquM|B~H`CbIJXbAdDPz@NjAH~@@rBG|CEv@TAtFQ?dAD^ZhBBv@?fDClC@|E"
+         },
+         "summary" : "N Fairfax Dr and 9th St N",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.918806,
+               "lng" : -77.0345334
+            },
+            "southwest" : {
+               "lat" : 38.9098507,
+               "lng" : -77.0416669
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1611
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 328
+               },
+               "end_address" : "1515 15th Street Northwest, Washington, DC 20005, USA",
+               "end_location" : {
+                  "lat" : 38.9098507,
+                  "lng" : -77.0345555
+               },
+               "start_address" : "2263-2279 18th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.918806,
+                  "lng" : -77.0416669
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 359
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : 38.9155764,
+                        "lng" : -77.0416496
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e18th St NW\u003c/b\u003e toward \u003cb\u003eWyoming Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qiplFlefuMLAz@?`@AT?`@?b@?n@@^AfAA@?L?b@?X?R?t@@lC?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.918806,
+                        "lng" : -77.0416669
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 615
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 157
+                     },
+                     "end_location" : {
+                        "lat" : 38.9155777,
+                        "lng" : -77.034537
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eT St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kuolFhefuM?qB?y@?oB@yIAwB?Y?wB?cC?aC?uA?yB?w@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9155764,
+                        "lng" : -77.0416496
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 637
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 102
+                     },
+                     "end_location" : {
+                        "lat" : 38.9098507,
+                        "lng" : -77.0345555
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e15th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kuolFzxduMP?bC?nB?`@?lA?B?xC?~@AL?t@?lA?tC@pC@`A?h@@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9155777,
+                        "lng" : -77.034537
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qiplFlefuMvGCzBApF@?c_@?iKfH?jHAfH@|FB"
+         },
+         "summary" : "T St NW and 15th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

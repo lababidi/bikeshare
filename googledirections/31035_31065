@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8808079,
+               "lng" : -77.0859521
+            },
+            "southwest" : {
+               "lat" : 38.8762811,
+               "lng" : -77.1077092
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.3 mi",
+                  "value" : 2072
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 407
+               },
+               "end_address" : "2301-2343 North Pershing Drive, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.88066670000001,
+                  "lng" : -77.0859521
+               },
+               "start_address" : "4006 5th Street North, Arlington, VA 22203, USA",
+               "start_location" : {
+                  "lat" : 38.8762811,
+                  "lng" : -77.1077092
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1048
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 175
+                     },
+                     "end_location" : {
+                        "lat" : 38.8790031,
+                        "lng" : -77.09615289999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e5th St N\u003c/b\u003e toward \u003cb\u003eN Pollard St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "w_hlFdbsuMU_DWiDM}BEe@E]C[AIOcAk@eDk@mDq@uDo@uD}@gFs@gEu@gEi@{COm@e@oC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8762811,
+                        "lng" : -77.1077092
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "285 ft",
+                        "value" : 87
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 38.8782548,
+                        "lng" : -77.09584970000002
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Irving St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wphlF|ypuMtC{@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8790031,
+                        "lng" : -77.09615289999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 786
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 192
+                     },
+                     "end_location" : {
+                        "lat" : 38.88068700000001,
+                        "lng" : -77.08768760000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Pershing Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "alhlF`xpuMkCaHeBsEuA}DoAcDe@uAu@}BKW@g@B}AJsFDaD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8782548,
+                        "lng" : -77.09584970000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "495 ft",
+                        "value" : 151
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 38.88066670000001,
+                        "lng" : -77.0859521
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eN Pershing Dr\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "i{hlF`eouMCQ@{@BcB?WBcA@g@AQ?C?KAC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88068700000001,
+                        "lng" : -77.08768760000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "w_hlFdbsuMaAmN[gCkKsm@Om@e@oCtC{@kCaH{DqKuByFaAuCDeCPuKAmAHgFCe@"
+         },
+         "summary" : "5th St N and N Pershing Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

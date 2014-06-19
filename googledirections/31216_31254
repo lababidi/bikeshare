@@ -1,0 +1,122 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9019987,
+               "lng" : -77.0318913
+            },
+            "southwest" : {
+               "lat" : 38.89964030000001,
+               "lng" : -77.0336327
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 412
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 129
+               },
+               "end_address" : "954-998 15th Street Northwest, Washington, DC, USA",
+               "end_location" : {
+                  "lat" : 38.9019987,
+                  "lng" : -77.03362969999999
+               },
+               "start_address" : "724-798 14th Street Northwest, Washington, DC 20005, USA",
+               "start_location" : {
+                  "lat" : 38.89964030000001,
+                  "lng" : -77.0318913
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "413 ft",
+                        "value" : 126
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 38.9007702,
+                        "lng" : -77.0318996
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e14th St NW\u003c/b\u003e toward \u003cb\u003eH St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "wqllFhhduMsB?[?]?s@@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89964030000001,
+                        "lng" : -77.0318913
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "492 ft",
+                        "value" : 150
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 38.9007772,
+                        "lng" : -77.0336327
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eZei Alley NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "yxllFjhduMAxI"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9007702,
+                        "lng" : -77.0318996
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "446 ft",
+                        "value" : 136
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.9019987,
+                        "lng" : -77.03362969999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e15th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{xllFdsduMK?cBAkA@e@?I?G?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9007772,
+                        "lng" : -77.0336327
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wqllFhhduMaF@AxIK?oD?w@?"
+         },
+         "summary" : "14th St NW, Zei Alley NW and 15th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

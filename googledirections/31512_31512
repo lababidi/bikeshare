@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9038081,
+               "lng" : -76.9871572
+            },
+            "southwest" : {
+               "lat" : 38.9038081,
+               "lng" : -76.9871572
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1299 Neal Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9038081,
+                  "lng" : -76.9871572
+               },
+               "start_address" : "1299 Neal Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9038081,
+                  "lng" : -76.9871572
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9038081,
+                        "lng" : -76.9871572
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eNeal St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ykmlFvp{tM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9038081,
+                        "lng" : -76.9871572
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ykmlFvp{tM"
+         },
+         "summary" : "Neal St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9109004,
+               "lng" : -76.99410689999999
+            },
+            "southwest" : {
+               "lat" : 38.9051436,
+               "lng" : -77.0053223
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1327
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 326
+               },
+               "end_address" : "1580 Eckington Place Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9109004,
+                  "lng" : -77.00485309999999
+               },
+               "start_address" : "800 Florida Avenue Northeast, Gallaudet University, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9051436,
+                  "lng" : -76.99410689999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 205
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 38.9058802,
+                        "lng" : -76.996161
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e toward \u003cb\u003eLincoln Cir NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "ctmlFd||tM?@Cn@]~@SXIPKXOd@Kh@Ih@Ad@C`@?N[N"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9051436,
+                        "lng" : -76.99410689999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "184 ft",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 38.9054341,
+                        "lng" : -76.9964715
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLincoln Cir NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wxmlF~h}tM\\Tz@f@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9058802,
+                        "lng" : -76.996161
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 873
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 232
+                     },
+                     "end_location" : {
+                        "lat" : 38.9092025,
+                        "lng" : -77.0053223
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eFlorida Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}umlF|j}tMY|@ABYz@Wv@e@xAm@jB{ArEM\\qAxDKd@EJu@|B_@lASr@Qh@IVITAD_@hAGPK\\M^ERIT]`ACDe@tAGRKXK\\Of@CDOj@Qh@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9054341,
+                        "lng" : -76.9964715
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 193
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 38.9109004,
+                        "lng" : -77.00485309999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eEckington Pl NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "omnlFfb_uMeB[mDo@m@KQE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9092025,
+                        "lng" : -77.0053223
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ctmlFd||tMCp@]~@SXUj@[nAKnACp@[N\\Tz@f@Y|@[~@}@pCiFvOaDhKu@~B{@jCmB`GQh@eB[{E{@QE"
+         },
+         "summary" : "Florida Ave NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

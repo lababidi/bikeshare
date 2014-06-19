@@ -1,0 +1,170 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8578303,
+               "lng" : -77.053077
+            },
+            "southwest" : {
+               "lat" : 38.8563434,
+               "lng" : -77.0595787
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 880
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 158
+               },
+               "end_address" : "602 15th Street South, Arlington, VA 22202, USA",
+               "end_location" : {
+                  "lat" : 38.8578303,
+                  "lng" : -77.0595787
+               },
+               "start_address" : "500-518 18th Street South, Arlington, VA 22202, USA",
+               "start_location" : {
+                  "lat" : 38.8573134,
+                  "lng" : -77.0533338
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "72 ft",
+                        "value" : 22
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.8573619,
+                        "lng" : -77.0530826
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e18th St S\u003c/b\u003e toward \u003cb\u003eS Eads St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eidlFhnhuMCSE]"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8573134,
+                        "lng" : -77.0533338
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 246
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 38.8573781,
+                        "lng" : -77.0557524
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eS Eads St\u003c/b\u003e",
+                     "maneuver" : "uturn-left",
+                     "polyline" : {
+                        "points" : "oidlFvlhuMW?Hz@Bb@Dd@@h@@bABxAAbB?JEvA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8573619,
+                        "lng" : -77.0530826
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "354 ft",
+                        "value" : 108
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : 38.8564113,
+                        "lng" : -77.0556182
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Fern St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sidlFl}huMXAfDW"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8573781,
+                        "lng" : -77.0557524
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 339
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 38.8563434,
+                        "lng" : -77.0595295
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e19th St S\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qcdlFr|huMFpKDzJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8564113,
+                        "lng" : -77.0556182
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 165
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 38.8578303,
+                        "lng" : -77.0595787
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eS Hayes St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ccdlF`uiuM}CBkCD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8563434,
+                        "lng" : -77.0595295
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "eidlFhnhuMIq@W?Hz@HhABlB@|DEbB`EYLlWiHH"
+         },
+         "summary" : "18th St S and 19th St S",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9038081,
+               "lng" : -76.98225029999999
+            },
+            "southwest" : {
+               "lat" : 38.889801,
+               "lng" : -76.9871572
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1877
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 436
+               },
+               "end_address" : "1299 Neal Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9038081,
+                  "lng" : -76.9871572
+               },
+               "start_address" : "1504-1506 East Capitol Street Northeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8898015,
+                  "lng" : -76.98332569999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "92 ft",
+                        "value" : 28
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.889801,
+                        "lng" : -76.983645
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eE Capitol St SE/East Capitol St NE\u003c/b\u003e toward \u003cb\u003e15th St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gtjlFxxztM?|@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8898015,
+                        "lng" : -76.98332569999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1135
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 190
+                     },
+                     "end_location" : {
+                        "lat" : 38.9000053,
+                        "lng" : -76.98363809999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e15th St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gtjlFvzztMY?[@g@?s@?u@?Y?g@?cA?kBAkA@I?Q@_@AqA?oA?W?C?gA?uA?u@?O?aA?y@?mC?e@?iAAO@qA@_@@[?a@?y@A{AA_BAwD?m@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.889801,
+                        "lng" : -76.983645
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 230
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 115
+                     },
+                     "end_location" : {
+                        "lat" : 38.9017136,
+                        "lng" : -76.98225029999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBladensburg Rd NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "atllFvzztMIe@We@aBeASOyAw@mAm@GEKG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9000053,
+                        "lng" : -76.98363809999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 484
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 126
+                     },
+                     "end_location" : {
+                        "lat" : 38.9038081,
+                        "lng" : -76.9871572
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNeal St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u~llF`rztMGReCxHw@bCGP_ApC_@lA]dAGNoAzD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9017136,
+                        "lng" : -76.98225029999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gtjlFxxztM?|@Y?cA@kD?yM?aI?wHA}CDwGEeF?Ie@We@uBuAgDeBSMmClI_DtJuBpG"
+         },
+         "summary" : "15th St NE and Neal St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

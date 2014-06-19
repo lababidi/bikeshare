@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8841195,
+               "lng" : -77.01754439999999
+            },
+            "southwest" : {
+               "lat" : 38.8768127,
+               "lng" : -77.0230504
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1284
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 248
+               },
+               "end_address" : "404-408 4th Street Southwest, Washington, DC 20024, USA",
+               "end_location" : {
+                  "lat" : 38.8841195,
+                  "lng" : -77.0175776
+               },
+               "start_address" : "549-699 Water Street Southwest, Washington, DC 20024, USA",
+               "start_location" : {
+                  "lat" : 38.8768127,
+                  "lng" : -77.02118919999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 230
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.8782873,
+                        "lng" : -77.0230504
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eWater St SW\u003c/b\u003e toward \u003cb\u003e7th St SW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "achlFlebuMo@z@GHMPg@r@u@dAUZmBdC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8768127,
+                        "lng" : -77.02118919999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "400 ft",
+                        "value" : 122
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 38.8790525,
+                        "lng" : -77.02204239999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e7th St SW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ilhlF`qbuMo@aASY_@g@s@eA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8782873,
+                        "lng" : -77.0230504
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 396
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 38.8792973,
+                        "lng" : -77.01754439999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eI St SW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aqhlFvjbuMCIEGCGIOEKCKCOCUGY@qA@e@?sB?y@?oD?]CmG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8790525,
+                        "lng" : -77.02204239999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 536
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 38.8841195,
+                        "lng" : -77.0175776
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e4th St SW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "srhlFrnauMW@aB?uA?U?mA?wA@gE?A?I?A?A?A?A?Y?A?mC@iC@g@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8792973,
+                        "lng" : -77.01754439999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "achlFlebuMmBjCkA`BmBdCo@aAs@aAw@oAYk@SkABeH?mECmGW@wD?cB?_H@O?wHBg@?"
+         },
+         "summary" : "Water St SW and 4th St SW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9565928,
+               "lng" : -77.01927499999999
+            },
+            "southwest" : {
+               "lat" : 38.936017,
+               "lng" : -77.02459139999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.5 mi",
+                  "value" : 2443
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 550
+               },
+               "end_address" : "3670 New Hampshire Avenue Northwest, Washington, DC 20011, USA",
+               "end_location" : {
+                  "lat" : 38.936017,
+                  "lng" : -77.02459139999999
+               },
+               "start_address" : "5500-5548 5th Street Northwest, Washington, DC 20011, USA",
+               "start_location" : {
+                  "lat" : 38.9565928,
+                  "lng" : -77.0198937
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.9 mi",
+                        "value" : 1438
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 340
+                     },
+                     "end_location" : {
+                        "lat" : 38.943675,
+                        "lng" : -77.01927499999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e5th St NW\u003c/b\u003e toward \u003cb\u003eKennedy St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uuwlFh}auMZ?RAvAChBEn@Af@Ar@AhAClACzCGN?tBE|@A@?JAtEGlBCLA\\?j@AN?DAfAEX?h@A`ACFAjAA~@?dBEn@ARA`EIhACp@ARAD?~@?hBGD?^?dAAr@CJ?H?ZC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9565928,
+                        "lng" : -77.0198937
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1005
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 210
+                     },
+                     "end_location" : {
+                        "lat" : 38.936017,
+                        "lng" : -77.02459139999999
+                     },
+                     "html_instructions" : "At the traffic circle, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eNew Hampshire Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "_eulFlyauM@F?F@D?D@F@D@D@FDL@@HNJLJJLFNDLBN?J?LCJCHEJIHGFKFKVNrA~@VPPLhEvCrAz@`An@fAt@bErCPHp@b@~AfAhA|@nEpCd@\\^Tl@b@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.943675,
+                        "lng" : -77.01927499999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uuwlFh}auMfMUpS]dEGvBGhLSpIQtDGdDEd@C@NDXJ\\T\\XR\\HZ?XGTOPSFKVNjBpAzEdD`LtHbAl@hDdCbIhF"
+         },
+         "summary" : "5th St NW and New Hampshire Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

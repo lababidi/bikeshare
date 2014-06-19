@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9004124,
+               "lng" : -76.98763289999999
+            },
+            "southwest" : {
+               "lat" : 38.894778,
+               "lng" : -77.0020495
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1873
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 424
+               },
+               "end_address" : "1313 D Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.894778,
+                  "lng" : -76.98763289999999
+               },
+               "start_address" : "800-898 3rd Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9004124,
+                  "lng" : -77.0020495
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 477
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 126
+                     },
+                     "end_location" : {
+                        "lat" : 38.8961245,
+                        "lng" : -77.0020433
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e3rd St NE\u003c/b\u003e toward \u003cb\u003eH St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qvllFxm~tMF?T?P@Z?|AApBAN?N?hH?zB?h@?|@?@?L?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9004124,
+                        "lng" : -77.0020495
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 508
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 38.8961183,
+                        "lng" : -76.99616899999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eE St NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "w{klFvm~tM?sD?qB?cA?oCAuE@eM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8961245,
+                        "lng" : -77.0020433
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "489 ft",
+                        "value" : 149
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 38.89477979999999,
+                        "lng" : -76.9961663
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e7th St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w{klF`i}tMrA?n@?v@?b@?R?V?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8961183,
+                        "lng" : -76.99616899999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 739
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 149
+                     },
+                     "end_location" : {
+                        "lat" : 38.894778,
+                        "lng" : -76.98763289999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eD St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ksklF`i}tM?U?]?{D?qF?_F?}E@_GAwF?kC?gC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.89477979999999,
+                        "lng" : -76.9961663
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qvllFxm~tMzHAlO?N??eH?oZ~E?j@??s@?kZ?kW"
+         },
+         "summary" : "3rd St NE and D St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

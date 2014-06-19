@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8970133,
+               "lng" : -77.0466679
+            },
+            "southwest" : {
+               "lat" : 38.89491950000001,
+               "lng" : -77.05011469999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 525
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 102
+               },
+               "end_address" : "319-399 21st Street Northwest, Washington, DC 20245, USA",
+               "end_location" : {
+                  "lat" : 38.89491950000001,
+                  "lng" : -77.046671
+               },
+               "start_address" : "2272-2298 E Street Northwest, Washington, DC 20037, USA",
+               "start_location" : {
+                  "lat" : 38.896017,
+                  "lng" : -77.0498824
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "66 ft",
+                        "value" : 20
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.8960176,
+                        "lng" : -77.05011139999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eE St NW\u003c/b\u003e toward \u003cb\u003e23rd St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "c{klFvxguM?l@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.896017,
+                        "lng" : -77.0498824
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "364 ft",
+                        "value" : 111
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 38.8970133,
+                        "lng" : -77.0501146
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e23rd St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "c{klFdzguMsA?qB?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8960176,
+                        "lng" : -77.05011139999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 359
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 38.8952381,
+                        "lng" : -77.0466679
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eVirginia Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "iallFdzguM`BuDHSBOBU`@_AHQd@iAh@mA?A@AN]N]nAuC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8970133,
+                        "lng" : -77.0501146
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "115 ft",
+                        "value" : 35
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.89491950000001,
+                        "lng" : -77.046671
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e21st St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "gvklFtdguM~@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8952381,
+                        "lng" : -77.0466679
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "c{klFvxguM?l@sA?qB?`BuDLc@BU`@_An@{Ah@oA`@}@nAuC~@?"
+         },
+         "summary" : "Virginia Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

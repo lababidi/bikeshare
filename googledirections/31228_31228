@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8997008,
+               "lng" : -77.022947
+            },
+            "southwest" : {
+               "lat" : 38.8997008,
+               "lng" : -77.022947
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "700-798 8th Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.8997008,
+                  "lng" : -77.022947
+               },
+               "start_address" : "700-798 8th Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.8997008,
+                  "lng" : -77.022947
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8997008,
+                        "lng" : -77.022947
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e8th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "crllFlpbuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8997008,
+                        "lng" : -77.022947
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "crllFlpbuM"
+         },
+         "summary" : "8th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

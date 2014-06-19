@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8878522,
+               "lng" : -77.09499459999999
+            },
+            "southwest" : {
+               "lat" : 38.8801544,
+               "lng" : -77.1077554
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 mi",
+                  "value" : 1588
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 389
+               },
+               "end_address" : "801 North Quincy Street, Arlington, VA 22203, USA",
+               "end_location" : {
+                  "lat" : 38.8801544,
+                  "lng" : -77.107562
+               },
+               "start_address" : "1150-1198 North Highland Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8878522,
+                  "lng" : -77.09502830000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "148 ft",
+                        "value" : 45
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 38.8874518,
+                        "lng" : -77.09499459999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Highland St\u003c/b\u003e toward \u003cb\u003eWilson Blvd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ahjlF|rpuMnAG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8878522,
+                        "lng" : -77.09502830000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 289
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 114
+                     },
+                     "end_location" : {
+                        "lat" : 38.8856506,
+                        "lng" : -77.0973968
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eWilson Blvd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qejlFtrpuM\\f@\\h@rArBNVPV^j@LNPX\\b@b@z@PPFHFFPP"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8874518,
+                        "lng" : -77.09499459999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 986
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 188
+                     },
+                     "end_location" : {
+                        "lat" : 38.88255729999999,
+                        "lng" : -77.1077554
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "izilFvaquMI^CJAJAF?F@F@FDNvB`HZx@FPpA|DTt@Pj@^rAhAvD~@fD`AzCDJDLv@bCJ`@Hb@FVJn@BZD^B^BfAAj@CrBCh@Ev@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8856506,
+                        "lng" : -77.0973968
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 268
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 38.8801544,
+                        "lng" : -77.107562
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Quincy St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_gilFnbsuMTAnAEdDKp@EB?|@El@CRA^A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88255729999999,
+                        "lng" : -77.1077554
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ahjlF|rpuMnAG\\f@pB|CnAjBn@|@b@z@PPNPPPI^EVAN`C`IjC~HzD~MdCxHh@lCHz@FfBE~CI`B|HYbCK^A"
+         },
+         "summary" : "N Fairfax Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

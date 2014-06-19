@@ -1,0 +1,98 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8960185,
+               "lng" : -77.04490899999999
+            },
+            "southwest" : {
+               "lat" : 38.894686,
+               "lng" : -77.0498824
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 580
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 200
+               },
+               "end_address" : "2272-2298 E Street Northwest, Washington, DC 20037, USA",
+               "end_location" : {
+                  "lat" : 38.896017,
+                  "lng" : -77.0498824
+               },
+               "start_address" : "20th Street Northwest, Washington, DC 20245, USA",
+               "start_location" : {
+                  "lat" : 38.894686,
+                  "lng" : -77.0450565
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "492 ft",
+                        "value" : 150
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 96
+                     },
+                     "end_location" : {
+                        "lat" : 38.8960134,
+                        "lng" : -77.0449113
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003e20th St NW\u003c/b\u003e toward \u003cb\u003eE St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yrklFrzfuMGGIGKCICKAE?C?]?u@AeBAO?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.894686,
+                        "lng" : -77.0450565
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 430
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 104
+                     },
+                     "end_location" : {
+                        "lat" : 38.896017,
+                        "lng" : -77.0498824
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eE St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a{klFtyfuMAr@?hH?dC?rB?j@?dB@vAAtA?hA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8960134,
+                        "lng" : -77.0449113
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "yrklFrzfuMQOUGs@A{CCO?Ar@?nL?~C?|I"
+         },
+         "summary" : "20th St NW and E St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

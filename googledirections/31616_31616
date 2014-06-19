@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9004124,
+               "lng" : -77.0020495
+            },
+            "southwest" : {
+               "lat" : 38.9004124,
+               "lng" : -77.0020495
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "800-898 3rd Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9004124,
+                  "lng" : -77.0020495
+               },
+               "start_address" : "800-898 3rd Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9004124,
+                  "lng" : -77.0020495
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9004124,
+                        "lng" : -77.0020495
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e3rd St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qvllFxm~tM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9004124,
+                        "lng" : -77.0020495
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qvllFxm~tM"
+         },
+         "summary" : "3rd St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

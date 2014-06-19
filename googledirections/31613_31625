@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8840471,
+               "lng" : -76.99541769999999
+            },
+            "southwest" : {
+               "lat" : 38.8812702,
+               "lng" : -77.0018297
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 mi",
+                  "value" : 856
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 127
+               },
+               "end_address" : "301-315 G Street Southeast, Washington, DC 20003, USA",
+               "end_location" : {
+                  "lat" : 38.88127350000001,
+                  "lng" : -77.0018297
+               },
+               "start_address" : "799 D Street Southeast, Washington, DC 20003, USA",
+               "start_location" : {
+                  "lat" : 38.8839796,
+                  "lng" : -76.99541769999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "39 ft",
+                        "value" : 12
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : 38.8840477,
+                        "lng" : -76.9955284
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{oilFjd}tMMT"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8839796,
+                        "lng" : -76.99541769999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "197 ft",
+                        "value" : 60
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 38.8839198,
+                        "lng" : -76.99617929999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003e7th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ipilF`e}tMJN?BDJ@R?P?FDZ?B?R"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8840477,
+                        "lng" : -76.9955284
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 295
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 38.8812702,
+                        "lng" : -76.9961813
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e7th St SE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ooilFbi}tMP?R?~@?hC?bA?z@?Z?dC?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8839198,
+                        "lng" : -76.99617929999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 489
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 38.88127350000001,
+                        "lng" : -77.0018297
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eG St SE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}~hlFbi}tMCbF@~E?vE?lB?dB?V?N?jA@dC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8812702,
+                        "lng" : -76.9961813
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{oilFjd}tMMTJRF^?XD^?RnF?`H?AbM?dI?xE@dC"
+         },
+         "summary" : "7th St SE and G St SE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

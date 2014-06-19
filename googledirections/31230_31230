@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.898314,
+               "lng" : -77.0278689
+            },
+            "southwest" : {
+               "lat" : 38.898314,
+               "lng" : -77.0278689
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1101-1199 G Street Northwest, Washington, DC 20005, USA",
+               "end_location" : {
+                  "lat" : 38.898314,
+                  "lng" : -77.0278689
+               },
+               "start_address" : "1101-1199 G Street Northwest, Washington, DC 20005, USA",
+               "start_location" : {
+                  "lat" : 38.898314,
+                  "lng" : -77.0278689
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.898314,
+                        "lng" : -77.0278689
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eG St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "millFdocuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.898314,
+                        "lng" : -77.0278689
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "millFdocuM"
+         },
+         "summary" : "G St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

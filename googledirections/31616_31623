@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9004124,
+               "lng" : -77.002038
+            },
+            "southwest" : {
+               "lat" : 38.89695570000001,
+               "lng" : -77.004908
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.4 mi",
+                  "value" : 648
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 144
+               },
+               "end_address" : "Metropolitan Branch Trail, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.89695570000001,
+                  "lng" : -77.004908
+               },
+               "start_address" : "800-898 3rd Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9004124,
+                  "lng" : -77.0020495
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 342
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : 38.897335,
+                        "lng" : -77.002038
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003e3rd St NE\u003c/b\u003e toward \u003cb\u003eH St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qvllFxm~tMF?T?P@Z?|AApBAN?N?hH?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9004124,
+                        "lng" : -77.0020495
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "449 ft",
+                        "value" : 137
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 38.8973394,
+                        "lng" : -77.0036164
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eF St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kcllFvm~tM?|C?hC?R"
+                     },
+                     "start_location" : {
+                        "lat" : 38.897335,
+                        "lng" : -77.002038
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "33 ft",
+                        "value" : 10
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 38.897425,
+                        "lng" : -77.00363109999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMetropolitan Branch Trail\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kcllFrw~tME?E@C?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8973394,
+                        "lng" : -77.0036164
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 159
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.89695570000001,
+                        "lng" : -77.004908
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eMetropolitan Branch Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{cllFtw~tMAxC?B?@AB?@AD?t@?B?B@@@@B@B?^E@?FDXHPD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.897425,
+                        "lng" : -77.00363109999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qvllFxm~tMzHAhH??|C?|CK@C?AxC?DADAbABBF@`@E`@NPD"
+         },
+         "summary" : "3rd St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

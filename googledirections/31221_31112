@@ -1,0 +1,145 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9279619,
+               "lng" : -77.04164159999999
+            },
+            "southwest" : {
+               "lat" : 38.9047418,
+               "lng" : -77.0447246
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 mi",
+                  "value" : 2789
+               },
+               "duration" : {
+                  "text" : "11 mins",
+                  "value" : 675
+               },
+               "end_address" : "1845 Harvard Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9279619,
+                  "lng" : -77.04327549999999
+               },
+               "start_address" : "1123 18th Street Northwest, Washington, DC 20036, USA",
+               "start_location" : {
+                  "lat" : 38.9047418,
+                  "lng" : -77.04169089999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.2 mi",
+                        "value" : 2006
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 541
+                     },
+                     "end_location" : {
+                        "lat" : 38.9226795,
+                        "lng" : -77.0426674
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e18th St NW\u003c/b\u003e toward \u003cb\u003eM St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sqmlFpefuMaB?o@?e@?aDAw@?gAA[?I@G@G@K?gF?wA?Y?kAAQAQ?cCAaA@qA?I?W?k@?eAAKAgC?iC?M?m@?aBAO?gA?{@?uC?mC?u@AS?Y?c@?M?A?gA@_@@o@Ac@?a@?U?a@@{@?yADw@AM?I@I@C?KAqAZyA^}A\\aAX_Dr@WFq@JOBIB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9047418,
+                        "lng" : -77.04169089999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "381 ft",
+                        "value" : 116
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 38.9232496,
+                        "lng" : -77.04361849999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eAdams Mill Rd NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "waqlFtkfuMUDQHSLKJKLGHEJELGXA\\?h@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9226795,
+                        "lng" : -77.0426674
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 588
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 38.9275494,
+                        "lng" : -77.04253299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eAdams Mill Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ieqlFrqfuMa@LSl@Sf@Sj@KVADEHA@EDEDGDGBIBWFG@m@AaAC[IC?q@GMCYCKAMCOEMCOGKEQIQIMG[UsB_CaDgE"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9232496,
+                        "lng" : -77.04361849999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "259 ft",
+                        "value" : 79
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : 38.9279619,
+                        "lng" : -77.04327549999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eHarvard St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "e`rlFxjfuMqAtC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9275494,
+                        "lng" : -77.04253299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sqmlFpefuMyIA_CAe@@OBsF?oECiH?sCAsOCuNAwGBuCDeAASBOAkIrBwDz@aAN_@He@VWXMTMf@AfAa@LSl@g@rAUh@[Ta@Ju@?aAC[Iu@GaAMy@WmAq@sB_CaDgEqAtC"
+         },
+         "summary" : "18th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

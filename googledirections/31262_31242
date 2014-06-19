@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8995543,
+               "lng" : -77.02703459999999
+            },
+            "southwest" : {
+               "lat" : 38.8978575,
+               "lng" : -77.04161210000001
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 mi",
+                  "value" : 1384
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 373
+               },
+               "end_address" : "1776-1798 Pennsylvania Avenue Northwest, Washington, DC 20006, USA",
+               "end_location" : {
+                  "lat" : 38.8995543,
+                  "lng" : -77.04161210000001
+               },
+               "start_address" : "601-699 11th Street Northwest, Washington, DC 20004, USA",
+               "start_location" : {
+                  "lat" : 38.8978575,
+                  "lng" : -77.0270402
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "167 ft",
+                        "value" : 51
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 38.8983147,
+                        "lng" : -77.02703459999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e11th St NW\u003c/b\u003e toward \u003cb\u003eG St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sfllF~icuMyAA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8978575,
+                        "lng" : -77.0270402
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 571
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 153
+                     },
+                     "end_location" : {
+                        "lat" : 38.8982931,
+                        "lng" : -77.0336356
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eG St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "millF|icuM?nEAxH?dA@|CAzD?h@DtI"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8983147,
+                        "lng" : -77.02703459999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "171 ft",
+                        "value" : 52
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 38.8987612,
+                        "lng" : -77.0336375
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e15th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "iillFfsduM}A?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8982931,
+                        "lng" : -77.0336356
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 710
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 172
+                     },
+                     "end_location" : {
+                        "lat" : 38.8995543,
+                        "lng" : -77.04161210000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "glllFfsduMB^?rF?L@nA?\\?|C@n@?pC?tB?pEAh@Ij@Of@e@fBCJaAvD]vA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8987612,
+                        "lng" : -77.0336375
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "sfllF~icuMyAA?nEA~JDxU}A?B^?`GBzHAbOYrAi@rB_BnG"
+         },
+         "summary" : "G St NW and Pennsylvania Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,145 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.936017,
+               "lng" : -77.02459139999999
+            },
+            "southwest" : {
+               "lat" : 38.9260883,
+               "lng" : -77.03647269999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 mi",
+                  "value" : 1946
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 457
+               },
+               "end_address" : "2833 16th Street Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9260883,
+                  "lng" : -77.0364689
+               },
+               "start_address" : "3670 New Hampshire Avenue Northwest, Washington, DC 20011, USA",
+               "start_location" : {
+                  "lat" : 38.936017,
+                  "lng" : -77.02459139999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 418
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 38.9327336,
+                        "lng" : -77.0268883
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eNew Hampshire Ave NW\u003c/b\u003e toward \u003cb\u003eSpring Rd NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cuslFtzbuMtDfClEzC~@n@l@^JFbAt@JFFBDBHBD@B?B@D?V@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.936017,
+                        "lng" : -77.02459139999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 550
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 38.9278252,
+                        "lng" : -77.02611759999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eSherman Ave NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "q`slF`icuMRCr@IH@l@It@Ip@E|CWtD[NAXCxBSn@CbEa@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9327336,
+                        "lng" : -77.0268883
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 926
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 244
+                     },
+                     "end_location" : {
+                        "lat" : 38.9265541,
+                        "lng" : -77.03647269999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eColumbia Rd NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}arlFfdcuMBb@D`ABp@DlA@|A@\\DrDBlA@J@fA?V@v@H|EDjCBhCFhCB~@@VDpBBt@@j@@\\BNBJ@HDJBDDJR^Tb@JTfAbCNb@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9278252,
+                        "lng" : -77.02611759999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "171 ft",
+                        "value" : 52
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 38.9260883,
+                        "lng" : -77.0364689
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e16th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}yqlF|deuMt@?d@?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9265541,
+                        "lng" : -77.03647269999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "cuslFtzbuMpNrJbBhAXHH@j@A|@GbBStK{@fK}@RdFR`PZ|RN~FBhAFZPf@|B|ENb@t@?d@?"
+         },
+         "summary" : "Sherman Ave NW and Columbia Rd NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

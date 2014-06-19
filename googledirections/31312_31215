@@ -1,0 +1,170 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9084604,
+               "lng" : -77.0592149
+            },
+            "southwest" : {
+               "lat" : 38.902235,
+               "lng" : -77.0635846
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.7 mi",
+                  "value" : 1053
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 224
+               },
+               "end_address" : "3030 K Street Northwest, Washington, DC 20007, USA",
+               "end_location" : {
+                  "lat" : 38.902235,
+                  "lng" : -77.0592149
+               },
+               "start_address" : "3149-3199 O Street Northwest, Washington, DC 20007, USA",
+               "start_location" : {
+                  "lat" : 38.9084276,
+                  "lng" : -77.0635846
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 202
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 38.9084604,
+                        "lng" : -77.0612476
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eO St NW\u003c/b\u003e toward \u003cb\u003e31st St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uhnlFjnjuMEqM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9084276,
+                        "lng" : -77.0635846
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 656
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : 38.9025679,
+                        "lng" : -77.0611157
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e31st St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{hnlFx_juMfAAzAAbDAjACV?R?z@Ar@Af@?t@@xAAT?Z?P?REtAA`A?R?rA?h@AP?LAF?F?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9084604,
+                        "lng" : -77.0612476
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "446 ft",
+                        "value" : 136
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 38.9025803,
+                        "lng" : -77.05953959999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eK St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "admlF~~iuM?}BAqA?iA?a@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9025679,
+                        "lng" : -77.0611157
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "105 ft",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 38.9022898,
+                        "lng" : -77.05952359999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "cdmlFbuiuMH?n@C"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9025803,
+                        "lng" : -77.05953959999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "89 ft",
+                        "value" : 27
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.902235,
+                        "lng" : -77.0592149
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ibmlF~tiuM?CJy@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9022898,
+                        "lng" : -77.05952359999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uhnlFjnjuMEqMfAA~FCrDEjFAp@?d@E~FApACF??}BA{C?a@H?n@C?CJy@"
+         },
+         "summary" : "31st St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

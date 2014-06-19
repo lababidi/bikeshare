@@ -1,0 +1,194 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9038081,
+               "lng" : -76.98613779999999
+            },
+            "southwest" : {
+               "lat" : 38.8904621,
+               "lng" : -76.9883117
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1728
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 399
+               },
+               "end_address" : "1299 Neal Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9038081,
+                  "lng" : -76.9871572
+               },
+               "start_address" : "1 13th Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.8904621,
+                  "lng" : -76.9883013
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 188
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : 38.8921405,
+                        "lng" : -76.98823179999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e13th St NE/Lincoln Park Dr NE\u003c/b\u003e toward \u003cb\u003eNorth Carolina Ave NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow 13th St NE\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "kxjlFzw{tMC?Y@}DA{A@WO"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8904621,
+                        "lng" : -76.9883013
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1022
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 201
+                     },
+                     "end_location" : {
+                        "lat" : 38.9013192,
+                        "lng" : -76.98829739999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003e13th St NE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "{bklFlw{tM_@@C@A?IF]?s@B_@?]?uA?G?{B?uB?s@?oA?gC?cA?s@?yBAQ@cC?UAqC?}B?O@qB?W?wA?oBA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8921405,
+                        "lng" : -76.98823179999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "423 ft",
+                        "value" : 129
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 38.9013084,
+                        "lng" : -76.98680779999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eI St NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "g|llFzw{tM?Y@oG"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9013192,
+                        "lng" : -76.98829739999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "197 ft",
+                        "value" : 60
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.9015734,
+                        "lng" : -76.98741099999999
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFlorida Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : {
+                        "points" : "e|llFpn{tMs@vB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9013084,
+                        "lng" : -76.98680779999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 228
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 66
+                     },
+                     "end_location" : {
+                        "lat" : 38.903371,
+                        "lng" : -76.98613779999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTrinidad Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "y}llFhr{tMQKaAo@OKc@Wg@[eC_Bq@a@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9015734,
+                        "lng" : -76.98741099999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "331 ft",
+                        "value" : 101
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : 38.9038081,
+                        "lng" : -76.9871572
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNeal St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "aimlFjj{tMGNoAzD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.903371,
+                        "lng" : -76.98613779999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kxjlFzw{tMwH@WO_@@E@IF]?sABwF?eS?iLAqF@oBA?Y@oGs@vBsA{@s@c@mD{Bq@a@GNoAzD"
+         },
+         "summary" : "13th St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

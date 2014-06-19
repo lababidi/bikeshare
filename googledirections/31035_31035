@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8762811,
+               "lng" : -77.1077092
+            },
+            "southwest" : {
+               "lat" : 38.8762811,
+               "lng" : -77.1077092
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "4006 5th Street North, Arlington, VA 22203, USA",
+               "end_location" : {
+                  "lat" : 38.8762811,
+                  "lng" : -77.1077092
+               },
+               "start_address" : "4006 5th Street North, Arlington, VA 22203, USA",
+               "start_location" : {
+                  "lat" : 38.8762811,
+                  "lng" : -77.1077092
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.8762811,
+                        "lng" : -77.1077092
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003e5th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "w_hlFdbsuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8762811,
+                        "lng" : -77.1077092
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "w_hlFdbsuM"
+         },
+         "summary" : "5th St N",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

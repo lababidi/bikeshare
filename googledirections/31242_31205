@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9010174,
+               "lng" : -77.04161210000001
+            },
+            "southwest" : {
+               "lat" : 38.8995543,
+               "lng" : -77.0469999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.3 mi",
+                  "value" : 521
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 153
+               },
+               "end_address" : "2100-2124 I Street Northwest, The George Washington University, Washington, DC 20037, USA",
+               "end_location" : {
+                  "lat" : 38.9006958,
+                  "lng" : -77.0469999
+               },
+               "start_address" : "1776-1798 Pennsylvania Avenue Northwest, Washington, DC 20006, USA",
+               "start_location" : {
+                  "lat" : 38.8995543,
+                  "lng" : -77.04161210000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 396
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 114
+                     },
+                     "end_location" : {
+                        "lat" : 38.9010174,
+                        "lng" : -77.0457852
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003ePennsylvania Ave NW\u003c/b\u003e toward \u003cb\u003e18th St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eqllF`efuMENENCLADc@dBe@hBUz@Qr@ETq@fCc@hBGTIZs@tC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8995543,
+                        "lng" : -77.04161210000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "276 ft",
+                        "value" : 84
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 38.900786,
+                        "lng" : -77.0466404
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003e21st St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kzllFd_guMXTBD@D@F?DAF?HAF?H?J@PDL@DBH@L?J"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9010174,
+                        "lng" : -77.0457852
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "33 ft",
+                        "value" : 10
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 38.900693,
+                        "lng" : -77.04664649999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e21st St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}xllFndguMR@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.900786,
+                        "lng" : -77.0466404
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "102 ft",
+                        "value" : 31
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 38.9006958,
+                        "lng" : -77.0469999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eI St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ixllFpdguMA|@?F"
+                     },
+                     "start_location" : {
+                        "lat" : 38.900693,
+                        "lng" : -77.04664649999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "eqllF`efuMcCrJcB|G}@pD\\Z@ZAf@F^DN@XR@A|@?F"
+         },
+         "summary" : "Pennsylvania Ave NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

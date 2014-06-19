@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9126162,
+               "lng" : -77.0043793
+            },
+            "southwest" : {
+               "lat" : 38.9099739,
+               "lng" : -77.0444397
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.4 mi",
+                  "value" : 3801
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1036
+               },
+               "end_address" : "1913-1947 Massachusetts Avenue Northwest, Washington, DC 20036, USA",
+               "end_location" : {
+                  "lat" : 38.9100305,
+                  "lng" : -77.0444397
+               },
+               "start_address" : "1580-1598 Eckington Place Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9109529,
+                  "lng" : -77.0048383
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 187
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : 38.91259530000001,
+                        "lng" : -77.0043793
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eEckington Pl NE\u003c/b\u003e toward \u003cb\u003eQ St NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mxnlFf__uM_@IA?sCi@aBYq@M"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9109529,
+                        "lng" : -77.0048383
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.0 mi",
+                        "value" : 3139
+                     },
+                     "duration" : {
+                        "text" : "15 mins",
+                        "value" : 870
+                     },
+                     "end_location" : {
+                        "lat" : 38.9126162,
+                        "lng" : -77.04065829999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR St NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wbolFj|~tM@~@A|A@|D?tAApA@`C?lC?h@Ax@?R?H?\\?^?fA?hA?dD?tF?P?h@?`@?jA?J?x@?pA?tA?b@?xB?l@?N?N?xC?R?nC?~A?V?B?jE?~@?N@bEA~B?@@nAAhA?vB?lE?lEAxJ?X?lE?~C?\\?fI?pM@~B?NApB@`G?jK?fKCtL"
+                     },
+                     "start_location" : {
+                        "lat" : 38.91259530000001,
+                        "lng" : -77.0043793
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 346
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : 38.9101982,
+                        "lng" : -77.0431066
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eNew Hampshire Ave NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{bolFb_fuMzBrBXVdA~@lAjAzCrCFJFFBB@B@BBB@F?F?H"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9126162,
+                        "lng" : -77.04065829999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "423 ft",
+                        "value" : 129
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 45
+                     },
+                     "end_location" : {
+                        "lat" : 38.9100305,
+                        "lng" : -77.0444397
+                     },
+                     "html_instructions" : "At the traffic circle, take the \u003cb\u003e4th\u003c/b\u003e exit onto \u003cb\u003eMassachusetts Avenue Northwest\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "wsnlFlnfuMAHCFAHAHAL?L?L?J@H@HBH?BBF@F@@BHFLBDBFDDBDDBDBAF?HAJ?FCJAFAD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9101982,
+                        "lng" : -77.0431066
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mxnlFf__uMwGmAq@M@~@?zG?vLA`C?fT?xN?bO?~G?bI@pAA`E?zKA`W@fu@C|XtCjCrCjCzCrCFJJJBFD\\Id@At@F`@JZT`@HHDBAFATCRCL"
+         },
+         "summary" : "R St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

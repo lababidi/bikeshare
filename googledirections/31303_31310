@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9550567,
+               "lng" : -77.069425
+            },
+            "southwest" : {
+               "lat" : 38.947575,
+               "lng" : -77.0796836
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1704
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 373
+               },
+               "end_address" : "5000 Connecticut Avenue Northwest, Washington, DC 20008, USA",
+               "end_location" : {
+                  "lat" : 38.9550567,
+                  "lng" : -77.0698404
+               },
+               "start_address" : "4465-4499 Wisconsin Avenue Northwest, Washington, DC 20016, USA",
+               "start_location" : {
+                  "lat" : 38.947575,
+                  "lng" : -77.0794822
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "141 ft",
+                        "value" : 43
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 38.9479287,
+                        "lng" : -77.0796836
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eWisconsin Ave NW\u003c/b\u003e toward \u003cb\u003eAlbemarle St NW\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "k}ulFvqmuM_@Pe@T"
+                     },
+                     "start_location" : {
+                        "lat" : 38.947575,
+                        "lng" : -77.0794822
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 851
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 157
+                     },
+                     "end_location" : {
+                        "lat" : 38.947897,
+                        "lng" : -77.069844
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAlbemarle St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "q_vlF~rmuM@w@@gB?]?i@?U@mB?u@?o@?[?a@?U?kA?qA?]?eB?oD?U@eFAeA?qA?W?sA?_F?sD?K?W"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9479287,
+                        "lng" : -77.0796836
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 722
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 163
+                     },
+                     "end_location" : {
+                        "lat" : 38.954336,
+                        "lng" : -77.069425
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e36th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "k_vlFnukuMO?iA@wAAyA@mA?O?gA?[?U?[?u@AwB?O@e@AcB?sD?s@?G?OEcBc@QEIC_@KCA[Q"
+                     },
+                     "start_location" : {
+                        "lat" : 38.947897,
+                        "lng" : -77.069844
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "289 ft",
+                        "value" : 88
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 42
+                     },
+                     "end_location" : {
+                        "lat" : 38.9550567,
+                        "lng" : -77.0698404
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eConnecticut Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sgwlFzrkuMWN[NQHe@Tc@R"
+                     },
+                     "start_location" : {
+                        "lat" : 38.954336,
+                        "lng" : -77.069425
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "k}ulFvqmuMeAf@B_D@kE?uJ?uW?wLkG@aLAmI?{@?sBi@_AW[QWNm@XiAh@"
+         },
+         "summary" : "Albemarle St NW and 36th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

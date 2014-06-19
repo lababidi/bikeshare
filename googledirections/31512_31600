@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.905583,
+               "lng" : -76.9871572
+            },
+            "southwest" : {
+               "lat" : 38.9025088,
+               "lng" : -77.0189499
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.9 mi",
+                  "value" : 2999
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 611
+               },
+               "end_address" : "1054 5th Street Northwest, Washington, DC 20001, USA",
+               "end_location" : {
+                  "lat" : 38.9030382,
+                  "lng" : -77.01894779999999
+               },
+               "start_address" : "1299 Neal Street Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9038081,
+                  "lng" : -76.9871572
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 410
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 38.905583,
+                        "lng" : -76.991309
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eNeal St NE\u003c/b\u003e toward \u003cb\u003eMontello Ave NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ykmlFvp{tMM^gC~HsAdEcA`Ds@tB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9038081,
+                        "lng" : -76.9871572
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 491
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 149
+                     },
+                     "end_location" : {
+                        "lat" : 38.9025166,
+                        "lng" : -76.99536549999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWest Virginia Ave NE\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "{vmlFtj|tMlAvAHHhApAn@v@h@n@JLr@`Av@nADJV`@LTbBxCf@~@T^`@p@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.905583,
+                        "lng" : -76.991309
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 mi",
+                        "value" : 2041
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 391
+                     },
+                     "end_location" : {
+                        "lat" : 38.9025225,
+                        "lng" : -77.01894779999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eK St NE\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "wcmlF`d}tM@rB?h@?hM?rE?|D?T?pC?p@?`BAlH?N@|A?r@?B?dAAb@?bA?P?nBAZ?pA@nH?hA?dC?X?\\?dB?~G?N@fD?fCApC@\\?lC?L?B?f@?zA?l@?lB?T?V?n@ApF?v@?jC?`A"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9025166,
+                        "lng" : -76.99536549999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "187 ft",
+                        "value" : 57
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : 38.9030382,
+                        "lng" : -77.01894779999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e5th St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wcmlFlwauMI?E?K?M?O?O?Q?K?"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9025225,
+                        "lng" : -77.01894779999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ykmlFvp{tMmHfUs@tBlAvArAzAxAfB~@nAbBrCjCxEv@pA@zXAvX@zEAhF?jW@|f@AdN?`AI?Q?_A?K?"
+         },
+         "summary" : "K St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9109529,
+               "lng" : -77.0048383
+            },
+            "southwest" : {
+               "lat" : 38.9109529,
+               "lng" : -77.0048383
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "1580-1598 Eckington Place Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9109529,
+                  "lng" : -77.0048383
+               },
+               "start_address" : "1580-1598 Eckington Place Northeast, Washington, DC 20002, USA",
+               "start_location" : {
+                  "lat" : 38.9109529,
+                  "lng" : -77.0048383
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.9109529,
+                        "lng" : -77.0048383
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eEckington Pl NE\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "mxnlFf__uM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9109529,
+                        "lng" : -77.0048383
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "mxnlFf__uM"
+         },
+         "summary" : "Eckington Pl NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

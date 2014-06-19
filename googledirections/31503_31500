@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.9194884,
+               "lng" : -77.00054879999999
+            },
+            "southwest" : {
+               "lat" : 38.912592,
+               "lng" : -77.01349999999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1845
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 413
+               },
+               "end_address" : "2213 4th Street Northeast, Washington, DC 20002, USA",
+               "end_location" : {
+                  "lat" : 38.9194884,
+                  "lng" : -77.000575
+               },
+               "start_address" : "131-199 R Street Northwest, Washington, DC 20001, USA",
+               "start_location" : {
+                  "lat" : 38.9126012,
+                  "lng" : -77.01349999999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1067
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 273
+                     },
+                     "end_location" : {
+                        "lat" : 38.9125966,
+                        "lng" : -77.00116319999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eR St NW\u003c/b\u003e toward \u003cb\u003eFlorida Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "wbolFju`uM?m@?y@?K?kA?a@?i@?Q?uF?eD?iA?gA?_@?]?I?S@y@?i@?mCAaC@qA?uAA}D@}AA_A?k@?_C?{BAqD@e@?I?yB"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9126012,
+                        "lng" : -77.01349999999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "440 ft",
+                        "value" : 134
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 38.9137051,
+                        "lng" : -77.0005534
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMetropolitan Branch Trail\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wbolFfh~tMqCoAkAi@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9125966,
+                        "lng" : -77.00116319999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "138 ft",
+                        "value" : 42
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 38.9140822,
+                        "lng" : -77.00057830000002
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMetropolitan Branch Trail Access\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "uiolFld~tMI@s@@K@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9137051,
+                        "lng" : -77.0005534
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 602
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : 38.9194884,
+                        "lng" : -77.000575
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003e4th St NE\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "_lolFrd~tMCCAAA?C?G?iA@w@@K?cB?c@?M?}BAoCB_FAuA?_C?}@@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9140822,
+                        "lng" : -77.00057830000002
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wbolFju`uM?sO@mMA}XAyM@o@?yBqCoAkAi@}@BK@CCCAmCBaD?}BAoCBuHA}D@"
+         },
+         "summary" : "R St NW and 4th St NE",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

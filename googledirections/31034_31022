@@ -1,0 +1,145 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.8878522,
+               "lng" : -77.09460079999999
+            },
+            "southwest" : {
+               "lat" : 38.8823503,
+               "lng" : -77.1094835
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.1 mi",
+                  "value" : 1766
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 539
+               },
+               "end_address" : "1150-1198 North Highland Street, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.8878522,
+                  "lng" : -77.09502830000001
+               },
+               "start_address" : "1001 North Randolph Street, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.8826178,
+                  "lng" : -77.1094835
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "95 ft",
+                        "value" : 29
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 38.88236029999999,
+                        "lng" : -77.10943880000001
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eN Randolph St\u003c/b\u003e toward \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "kgilFfmsuMZCVC"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8826178,
+                        "lng" : -77.1094835
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 909
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 200
+                     },
+                     "end_location" : {
+                        "lat" : 38.884683,
+                        "lng" : -77.0996392
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Fairfax Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "weilF~lsuMEy@GsACe@Aa@?I?u@@{@FwAFqABk@Am@AYAWGeAEm@Mk@a@eBaA{C{@aDiAcDiAyDeAuDQe@Mc@EOCOAKAKCQCs@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88236029999999,
+                        "lng" : -77.10943880000001
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 443
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 126
+                     },
+                     "end_location" : {
+                        "lat" : 38.8844108,
+                        "lng" : -77.094606
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003e10th St N\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gtilFvoquM?W@KBO@MDQDS@CJc@Pq@Ju@BW?W?W?c@EiEEgGAwD"
+                     },
+                     "start_location" : {
+                        "lat" : 38.884683,
+                        "lng" : -77.0996392
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 385
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 208
+                     },
+                     "end_location" : {
+                        "lat" : 38.8878522,
+                        "lng" : -77.09502830000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eN Highland St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qrilFhppuMOAW@_BJS@M@K@Q@OBW@[DoAH}@HYBiAJaBFoAF"
+                     },
+                     "start_location" : {
+                        "lat" : 38.8844108,
+                        "lng" : -77.094606
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kgilFfmsuMr@GMmCEgCHsCJ}BMeDSyAa@eBaA{C{@aDiAcDoCoJ_@iAI_@K}AFaAXmA\\gBBo@KmOAwDOAwBLm@DuALqFb@qDN"
+         },
+         "summary" : "N Fairfax Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

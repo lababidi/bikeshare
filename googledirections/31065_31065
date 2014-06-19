@@ -1,0 +1,74 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.88066670000001,
+               "lng" : -77.0859521
+            },
+            "southwest" : {
+               "lat" : 38.88066670000001,
+               "lng" : -77.0859521
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 ft",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "2301-2343 North Pershing Drive, Arlington, VA 22201, USA",
+               "end_location" : {
+                  "lat" : 38.88066670000001,
+                  "lng" : -77.0859521
+               },
+               "start_address" : "2301-2343 North Pershing Drive, Arlington, VA 22201, USA",
+               "start_location" : {
+                  "lat" : 38.88066670000001,
+                  "lng" : -77.0859521
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 ft",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 38.88066670000001,
+                        "lng" : -77.0859521
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eN Pershing Dr\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "e{hlFdznuM"
+                     },
+                     "start_location" : {
+                        "lat" : 38.88066670000001,
+                        "lng" : -77.0859521
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "e{hlFdznuM"
+         },
+         "summary" : "N Pershing Dr",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

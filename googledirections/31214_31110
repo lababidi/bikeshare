@@ -1,0 +1,146 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 38.915888,
+               "lng" : -77.0384746
+            },
+            "southwest" : {
+               "lat" : 38.9120977,
+               "lng" : -77.04452619999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.6 mi",
+                  "value" : 965
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 273
+               },
+               "end_address" : "1919-1977 Florida Avenue Northwest, Washington, DC 20009, USA",
+               "end_location" : {
+                  "lat" : 38.9153176,
+                  "lng" : -77.04452619999999
+               },
+               "start_address" : "1623-1625 17th Street Northwest, Washington, DC 20009, USA",
+               "start_location" : {
+                  "lat" : 38.9120977,
+                  "lng" : -77.0384815
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "184 ft",
+                        "value" : 56
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 38.9126025,
+                        "lng" : -77.0384746
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003e17th St NW\u003c/b\u003e toward \u003cb\u003eR St NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eWalk your bicycle\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "s_olFnqeuMO?sAA"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9120977,
+                        "lng" : -77.0384815
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 430
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 38.9126015,
+                        "lng" : -77.0434468
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR St NW\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wbolFlqeuMCtL@fE@dJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9126025,
+                        "lng" : -77.0384746
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 365
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 38.915888,
+                        "lng" : -77.043436
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e19th St NW\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wbolFppfuMcAA{@?W?q@?mA?Q?_BAs@?qC?Q?W?K?K@"
+                     },
+                     "start_location" : {
+                        "lat" : 38.9126015,
+                        "lng" : -77.0434468
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "374 ft",
+                        "value" : 114
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 38.9153176,
+                        "lng" : -77.04452619999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFlorida Ave NW\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "iwolFnpfuMFLFLb@bAN\\Rd@Rh@DJ"
+                     },
+                     "start_location" : {
+                        "lat" : 38.915888,
+                        "lng" : -77.043436
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "s_olFnqeuMcBAA|R@dJcAAsA?qFAoF?W@NZzApDDJ"
+         },
+         "summary" : "R St NW and 19th St NW",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
