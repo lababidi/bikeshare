@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+		<meta charset="utf-8">
+		<title>Animating Symbols</title>
+		<style>
+			html, body, #map-canvas {
+			height: 100%;
+			margin: 0px;
+			padding: 0px
+			}
+		</style>
+		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.8/d3.min.js"></script>
+		<script>
+			// This example adds an animated symbol to a polyline.
+
+			var line;
+
+			function initialize() {
+				var mapOptions = {
+					center: new google.maps.LatLng(38.89, -77.03),
+					zoom: 13
+					//mapTypeId: google.maps.MapTypeId.TERRAIN
+				};
+
+				var map = new google.maps.Map(document.getElementById('map-canvas'),
+				mapOptions);
+
+				var lineCoordinates = [
+				new google.maps.LatLng(22.291, 153.027),
+				new google.maps.LatLng(18.291, 153.027)
+				];
+
+				// Define the symbol, using one of the predefined paths ('CIRCLE')
+				// supplied by the Google Maps JavaScript API.
+				var greenCircle = {
+					path: google.maps.SymbolPath.CIRCLE,
+					scale: 3,
+					strokeColor: '#9f6'
+				};
+
+				// Create the polyline and add the symbol to it via the 'icons' property.
+				lines = [];
+				d3.json('a100.json').get(function(err,data){
+					
+				for (var station_code in data){
+					polylinepath = data[station_code];
+					line = new google.maps.Polyline({
+						duration: 3600,
+						timeTraveled:0,
+						strokeOpacity: 1.0 ,
+						strokeWeight: 0,
+						path : google.maps.geometry.encoding.decodePath(polylinepath),
+						icons: [{
+							icon: greenCircle,
+							offset: '100%'
+						}],
+						map: map
+					});
+					lines.push(line);
+					}
+				});
+				animateCircle();
+			}
+
+			// Use the DOM setInterval() function to change the offset of the symbol
+			// at fixed intervals.
+			function animateCircle() {
+				var count = 0;
+				window.setInterval(function() {
+					count = (count + 1) % 200;
+					lines.forEach(function(line){
+						if(line.timeTraveled<line.duration)
+							line.timeTraveled +=10;
+						offset = line.timeTraveled *100.0 / line.duration;
+						var icons = line.get('icons');
+						icons[0].offset = (offset) + '%';
+						line.set('icons', icons);
+					});
+				}, 5);
+			}
+
+			google.maps.event.addDomListener(window, 'load', initialize);
+
+		</script>
+	</head>
+	<body>
+		<div id="map-canvas"></div>
+	</body>
+</html>
